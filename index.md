@@ -1,8 +1,7 @@
 ---
-title: Go AIA Homepage 
+title: 
 permalink: "/"
 Field name:
 layout: index
 ---
 
-...
