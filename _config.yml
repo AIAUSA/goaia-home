@@ -85,3 +85,5 @@ descriptions:
   desc: Just some placeholder posts, lorem ipsum and the rest.
 sass:
   style: compressed
+plugins:
+  - jekyll-redirect-from

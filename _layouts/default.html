@@ -7,21 +7,10 @@
 
     </head>
     <body>
-        <div id="wrapper">
-            {% include base/base-menu.html %}
+        {% include base/base-menu.html %}
 
-            {{ content }}
-
-            {% include base/footer.html %}
-            <script type="text/javascript">
-                $(document).ready(function(){
-                    $('.fullwidth').each(function() {
-                        var img = $(this).html();
-                        document.body.innerHTML = document.body.innerHTML.replace(img, 
-                        '</div></div></div>'+img+'<div class="container"><div class="row"><div class="col-md-12">');
-                    });
-                });
-            </script>
-        </div>
+        {{ content }}
+        {% include base/footer.html %}        
+        <script src="/js/main.js" type="text/javascript"></script>
     </body>
 </html>

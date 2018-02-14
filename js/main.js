@@ -20,7 +20,6 @@
 		  }
 
 		  // Call Boss Functions
-		  console.log("loading Boss");
 		  //this.queryLoad();
 		  this.checkMobile();
 		  this.pageHeaderTitleAlign();
@@ -55,6 +54,7 @@
 		  //this.parallax();
 		  /*this.twitterFeed();*/
 		  this.tabLavaHover();
+		  this.setFullWidth();
 		  this.videoBg();
 
 		  /* Call function if Owl Carousel plugin is included */
@@ -1650,6 +1650,23 @@
 			  });
 		  });
 	  },
+	  setFullWidth: function() {
+		$('.fullwidth').each(function() {
+			var img = $(this).parent().html();
+			document.body.innerHTML = document.body.innerHTML.replace(img, 
+			  '</div></div>'+img+'<div class="max-width"><div class="container">');
+		});
+
+		$('.fullwidth-bottom').each(function() {
+			var img = $(this).parent().html();
+			document.body.innerHTML = document.body.innerHTML.replace(img, 
+			  '</div></div></div>'+img);
+		});
+	
+		if ($('#footer').parentsUntil('.container')) {
+			$('#footer').closest('.container').removeClass('container');
+		}
+	  },
 	  /*countTo: function () {
 		  // CountTo plugin used count animations for homepages
 		  if ($.fn.countTo) {
@@ -1692,7 +1709,6 @@
 	  lightBox: function () {
 		  /* Popup for gallery items and videso and etc.. */
 		  /* magnific-popup.css and jquery.magnific.popup.mi.js files need to be included */
-
 		  /* This is for gallery images */
 		  $('.popup-gallery').magnificPopup({
 			  delegate: '.zoom-item',
@@ -2048,9 +2064,7 @@
 
 	  });
   }
-
-
-	  /*-------Added 2.15/16--------
+/*-------Added 2.15/16--------
 $('body').scrollspy({ target: '#main-navbar-container' })
 ----Added 12.16.15----------------*/
 })(jQuery);

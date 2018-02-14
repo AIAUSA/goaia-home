@@ -1,33 +1,45 @@
----
-layout: default
----
-{% capture sImage %}{{ page.sliderImage }}{% endcapture %}
-{% capture sText %}{{ page.sliderText }}{% endcapture %}
-<div class="halfSlider">
-    {% include plugins/revslider.html src1=sImage text1=sText %}
-</div>
-<div class="max-width">
-    <div class="container mt20">
-        {{ content }}
-    </div>
-</div>
-<script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
-<script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
-<script type="text/javascript">
-    (function () {
-        "use strict";
-        // Slider Revolution
-        $('#revslider').revolution({
-            delay:8000,
-            startwidth:1170,
-            startheight:500,
-            fullWidth:"on",
-            fullScreen:"on",
-    
-            soloArrowLeftHOffset:20,
-            soloArrowRightHOffset:20,
-            dottedOverlay:"threexthree",
-          fullScreenOffsetContainer: "#header, #gheader"
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+        {% include base/head.html %}
+
+    </head>
+    <body>
+        {% include base/base-menu.html %}
+        {% capture sImage %}{{ page.sliderImage }}{% endcapture %}
+        {% capture sText %}{{ page.sliderText }}{% endcapture %}
+        <div class="halfSlider">{% include plugins/revslider.html src1=sImage text1=sText %}</div>
+        <div class="max-width">
+            <div class="container mt20">
+                {{ content }}
+            </div>
+        </div>
+        {% include base/footer.html %}        
+    <script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+    <script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+             (function () {
+                "use strict";
+                // Slider Revolution
+                $('#revslider').revolution({
+                    delay:8000,
+                    startwidth:1170,
+                    startheight:500,
+                    fullWidth:"on",
+                    fullScreen:"on",
+            
+                    soloArrowLeftHOffset:20,
+                    soloArrowRightHOffset:20,
+                    dottedOverlay:"threexthree",
+                fullScreenOffsetContainer: "#header, #gheader"
+                });
+            }());
         });
-    }());
-</script> 
+    </script>
+    <script src="/js/main.js" type="text/javascript"></script>    
+</body>
+    
+</html>
