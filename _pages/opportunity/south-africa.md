@@ -23,8 +23,7 @@ sliderText: South Africa Project
 </div>
 <div class="mb35 mb20-xs"></div>
 <!-- space -->
-{% include plugins/image-callout.html image="/uploads/opportunities/southafrica/SA3.jpg"
-                text="" byLine="" %}
+{% include plugins/image-callout.html image="/uploads/opportunities/southafrica/SA3.jpg" text="" byLine="" %}
 </div></div>
 <div class="row">
 <div class=" span-12 cell" id="dates">

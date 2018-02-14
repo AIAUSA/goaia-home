@@ -21,9 +21,7 @@ sliderText: Boston Project
 <div>
 <div class="mb35 mb20-xs"></div>
 <!-- space -->
-{% include plugins/video-callout.html image="/uploads/opportunities/boston/IMG_6556.jpg"
-                text="What is the Boston Project about?" byLine="Check out this video to learn more about what happens when you invest your summer in Boston."
-                video="https://www.youtube.com/watch?v=OYuddJPAjsk" %}        
+{% include plugins/video-callout.html image="/uploads/opportunities/boston/IMG_6556.jpg" text="What is the Boston Project about?" byLine="Check out this video to learn more about what happens when you invest your summer in Boston." video="https://www.youtube.com/watch?v=OYuddJPAjsk" %}        
 <div class="row">
 <div class=" span-12 cell" id="dates">
 <header class="section-header container text-center">

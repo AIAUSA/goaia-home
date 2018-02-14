@@ -12,9 +12,7 @@ layout: page
 <p><strong>CEI's Strategy:</strong>&nbsp; Partner with nationals, missionaries and churches through 2 - 4 week mission projects</p>
 <p></p>
 </div>
-{% include plugins/video-callout.html image="/uploads/softball/softball-372979_1280.jpg"
-                                    text="Go with CEI!"
-                                    video="https://vimeo.com/83778573" %}
+{% include plugins/video-callout.html image="/uploads/softball/softball-372979_1280.jpg" text="Go with CEI!"  video="https://vimeo.com/83778573" %}
 <div class="row">
 <div class=" span-12 cell">
 <div class="callout no-border larger no-margin"><div class="container">

@@ -35,9 +35,7 @@ sliderText: East Asia Project
 <div>
 <div class="mb35 mb20-xs"></div>
 <!-- space -->
-{% include plugins/video-callout.html image="/uploads/opportunities/eastasia/DSCN1943.jpg"
-                text="What is the East Asia Project about?" byLine="Check out this video to learn more about what happens when you invest your summer on the other side of the globe."
-                video="https://vimeo.com/17709996" %}        
+{% include plugins/video-callout.html image="/uploads/opportunities/eastasia/DSCN1943.jpg" text="What is the East Asia Project about?" byLine="Check out this video to learn more about what happens when you invest your summer on the other side of the globe." video="https://vimeo.com/17709996" %}        
 <div class="row">
 <div class=" span-12 cell" id="dates">
 <header class="section-header container text-center">

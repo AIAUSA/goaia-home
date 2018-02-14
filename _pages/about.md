@@ -13,9 +13,7 @@ layout: page
 <p class="p1">Partnerships with like-minded ministries and individuals are a vital element of our dream of reaching “every.”<span class="s1">&nbsp;</span>Whether it’s at global events like the Olympics or World Cup or in a community competition between local teams, opportunities to work together to impact and equip others are abundant.&nbsp;</p>
 <p class="p1">Athletes in Action is present in more than 90 countries and is a part of&nbsp;<a href="http://www.cru.org/">Cru</a>&nbsp;(formerly called Campus Crusade for Christ). Cru is the name of CCC in the United States.&nbsp;</p>
 </div>
-{% include plugins/video-callout.html image="/uploads/about/IMG_1117.jpg"
-                                    text="Ongoing Impact" byLine="Check out this video recap from an Athletes In Action"
-                                    video="https://www.youtube.com/watch?v=1fAJw9gARmE" %}
+{% include plugins/video-callout.html image="/uploads/about/IMG_1117.jpg" text="Ongoing Impact" byLine="Check out this video recap from an Athletes In Action" video="https://www.youtube.com/watch?v=1fAJw9gARmE" %}
                     
 <div class="container"><div class="mb60"></div>
 <h2 class="title text-center">VISION AND <span class="light first-color">MISSION</span></h2>
