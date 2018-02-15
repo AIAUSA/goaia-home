@@ -1,6 +1,6 @@
 ---
 title: AIA on Campus
-permalink: /campus/index
+permalink: /campus
 redirect_from:
     - /campus
 layout: full-page-slider
