@@ -1,0 +1,3 @@
+s3_id: <%= ENV['AWSKeyID'] %>
+s3_secret: <%= ENV['AWSSecretKey'] %>
+s3_bucket: build.goaia.com

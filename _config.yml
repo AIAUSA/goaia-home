@@ -78,6 +78,7 @@ baseurl:
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 markdown: kramdown
+permalink: pretty
 descriptions:
 - cat: jekyll
   desc: Posts describing Jekyll setup techniques.
