@@ -1,6 +1,6 @@
 ---
 title: Pro Ministries
-permalink: /pro
+permalink: /pro/index
 layout: page
 ---
 <div class="container mt20"><p>&nbsp; <img class="img-responsive pull-left" src="/uploads/pro/pro-main1.jpg"> Athletes in Action regularly partners with like-minded ministries to create outreaches for professional sports teams and athletes.&nbsp;Our intent is to build into the lives of coaches, players and their spouses, while helping them positively impact their communities. We want to help professional athletes and their fans answer questions of faith.&nbsp;</p>
