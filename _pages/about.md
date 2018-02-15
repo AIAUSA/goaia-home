@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about
+permalink: /about/index
 redirect_from:
     - /discover
 layout: page
