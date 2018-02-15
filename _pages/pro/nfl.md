@@ -1,6 +1,8 @@
 ---
 title: Pro NFL Ministries
-permalink: /pro/nfl
+permalink: /pro/nfl/index
+redirect_from:
+    - /pro/nfl
 layout: full-page-slider
 sliderImage: /uploads/pro/pro-header.jpg
 sliderText: Serving Professionals
