@@ -1,8 +1,8 @@
 ---
 title: AIA on Campus
-permalink: /campus
+permalink: /campus/index
 redirect_from:
-    - /discover
+    - /campus
 layout: full-page-slider
 sliderImage: /uploads/Campus/madison-141735_1280.jpg
 sliderText: Campus Ministry

@@ -3,6 +3,7 @@ title: About
 permalink: /about/index
 redirect_from:
     - /discover
+    - /about
 layout: page
 ---
 <div class="container mt20"><h2 class="title text-center"><img width="270" height="337" alt="" src="/uploads/About/Dave-Hannah-Speaking-web.jpg" style="float: right;">EVERY TEAM, EVERY SPORT, <span class="light first-color">EVERY NATION</span></h2>
