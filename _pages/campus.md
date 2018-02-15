@@ -4,7 +4,7 @@ permalink: /campus/index
 redirect_from:
     - /campus
 layout: full-page-slider
-sliderImage: /uploads/Campus/madison-141735_1280.jpg
+sliderImage: /uploads/campus/madison-141735_1280.jpg
 sliderText: Campus Ministry
 ---
 <div class="container">

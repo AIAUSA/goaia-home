@@ -6,7 +6,7 @@ redirect_from:
     - /about
 layout: page
 ---
-<div class="container mt20"><h2 class="title text-center"><img width="270" height="337" alt="" src="/uploads/About/Dave-Hannah-Speaking-web.jpg" style="float: right;">EVERY TEAM, EVERY SPORT, <span class="light first-color">EVERY NATION</span></h2>
+<div class="container mt20"><h2 class="title text-center"><img width="270" height="337" alt="" src="/uploads/about/Dave-Hannah-Speaking-web.jpg" style="float: right;">EVERY TEAM, EVERY SPORT, <span class="light first-color">EVERY NATION</span></h2>
 <p>Since 1966, Athletes in Action has been using sports as a platform to help people answer questions of faith and to point them to Jesus. We believe that sports has the power to open doors and create connections in a way that few other things can, and that’s why we are constantly working to create new ways of reaching out to athletes and sports fans alike. Ultimately, our goal is to see peoples’ lives changed as they discover God’s purpose for their life.&nbsp;</p>
 <p>We dream of a day when there are Christ-followers on every team, in sport, in every nation. We believe this is possible when organizations and individuals -- who want every athlete to know someone who truly follows Jesus -- work together toward the common goal of furthering God’s kingdom.</p>
 <p>Sports is a universal language. Everyone, regardless of race, culture, socio-economic status or religious conviction, understands the thrill of victory and the agony of defeat. &nbsp;</p>
@@ -41,10 +41,10 @@ layout: page
 <h2 class="title text-center">ANNUAL <span class="light first-color">REPORTS</span></h2>
 <div class="row">
 <div class="col-md-6">
-<p><img style="width: 75%;" src="/uploads/About/annual-reports/2017_AR_Cover.jpg" class="img-responsive pull-right"></p>
+<p><img style="width: 75%;" src="/uploads/about/annual-reports/2017_AR_Cover.jpg" class="img-responsive pull-right"></p>
 </div>
 <div class="col-md-3">
-<p><a href="/uploads/about/annual-reports/2010-AIA_AnnualReportWeb.pdf" class="btn btn-custom btn-block">2010</a> <a href="/uploads/about/annual-reports/2011-AIA%20AR.Web.pdf" class="btn btn-custom btn-block">2011</a> <a href="/uploads/about/annual-reports/AIA_Annual-Report-2012.pdf" class="btn btn-custom btn-block">2012</a> <a href="/uploads/about/annual-reports/Annual%20Report%202014.Web.pdf" class="btn btn-custom btn-block">2014</a><a href="/uploads/About/annual-reports/Athletes%20in%20Action%20-%2050th%20Anniversary.pdf" class="btn btn-custom btn-block"> 2017</a></p>
+<p><a href="/uploads/about/annual-reports/2010-AIA_AnnualReportWeb.pdf" class="btn btn-custom btn-block">2010</a> <a href="/uploads/about/annual-reports/2011-AIA%20AR.Web.pdf" class="btn btn-custom btn-block">2011</a> <a href="/uploads/about/annual-reports/AIA_Annual-Report-2012.pdf" class="btn btn-custom btn-block">2012</a> <a href="/uploads/about/annual-reports/Annual%20Report%202014.Web.pdf" class="btn btn-custom btn-block">2014</a><a href="/uploads/about/annual-reports/Athletes%20in%20Action%20-%2050th%20Anniversary.pdf" class="btn btn-custom btn-block"> 2017</a></p>
 </div>
 </div>
 <p></p>

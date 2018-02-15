@@ -208,5 +208,5 @@ $(document).ready(function() {
    });
 // ]]></script>
 <script type="text/javascript" src="https://maps.google.com/maps/api/js?sensor=false&amp;libraries=geometry&amp;v=3.13"></script>
-<script type="text/javascript" src="/uploads/Campus/maplace.min.js?v=0.2.5"></script>
-<script type="text/javascript" src="/uploads/Campus/bootstrap3-typeahead.min.js"></script>
+<script type="text/javascript" src="/uploads/campus/maplace.min.js?v=0.2.5"></script>
+<script type="text/javascript" src="/uploads/campus/bootstrap3-typeahead.min.js"></script>
