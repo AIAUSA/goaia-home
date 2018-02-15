@@ -1,3 +1,6 @@
+PATH
+  remote: .
+
 GEM
   remote: https://rubygems.org/
   specs:
