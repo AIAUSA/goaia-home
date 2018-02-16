@@ -3,7 +3,9 @@ rvm:
   - 2.3.3
 install: gem install jekyll jekyll-redirect-from s3_website
 script: jekyll build
-after_success: s3_website push
+after_success: 
+  - bash postbuild.sh
+  - s3_website push
 notifications:
     slack: aiacc:DQJx1jxSipYMHzXBVtf4kMGH
 env:
