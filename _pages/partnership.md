@@ -1,6 +1,6 @@
 ---
 title: Partnerships
-permalink: /partnerships
+permalink: /partnership
 layout: page
 ---
 <h1 style="text-align: center;margin-top: 20px;text-decoration: underline;">Partnerships</h1>

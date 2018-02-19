@@ -9,7 +9,7 @@ layout: page
 </div>
 <div class="container mt30"><div class="row">
 <div class="col-md-3"><a href="/pro/nfl" class="btn btn-dark col-md-10">NFL</a></div>
-<div class="col-md-3"><a href="/pro/WNBA" class="btn btn-dark  col-md-10">WNBA</a></div>
+<div class="col-md-3"><a href="/pro/wnba" class="btn btn-dark  col-md-10">WNBA</a></div>
 <div class="col-md-3"><a href="/pro/cycling" class="btn btn-dark  col-md-10">Cycling</a></div>
 <div class="col-md-3"><a href="/pro/soccer" class="btn btn-dark  col-md-10">Soccer</a></div>
 </div>
