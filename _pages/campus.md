@@ -4,7 +4,7 @@ permalink: /campus/index
 redirect_from:
     - /campus
 layout: full-page-slider
-sliderImage: /uploads/campus/madison-141735_1280.jpg
+sliderImage: /uploads/Campus/madison-141735_1280.jpg
 sliderText: Campus Ministry
 ---
 <div class="container">
@@ -14,7 +14,7 @@ sliderText: Campus Ministry
 <p>We can help you use your sport to connect with others around the world. This happens primarily through camps and tours. Grab a teammate and head to Colorado (or even Colombia!) and experience a life-changing summer with God.</p>
 <p>What if we’re not at your school? We‘ll help YOU start AIA on your campus and support you along the way.</p>
 </div>
-{% include plugins/video-callout.html image="/uploads/campus/campus-arizona.jpg" text="College is Real Life" byLine="AIA strives to help athletes as they transition. Listen to some stories." video="https://www.youtube.com/watch?v=OwqMPxO-zDg" %}
+{% include plugins/video-callout.html image="/uploads/Campus/campus-arizona.jpg" text="College is Real Life" byLine="AIA strives to help athletes as they transition. Listen to some stories." video="https://www.youtube.com/watch?v=OwqMPxO-zDg" %}
 <div class="container mt20">
     <div class="row">
         <div class="col-md-4">

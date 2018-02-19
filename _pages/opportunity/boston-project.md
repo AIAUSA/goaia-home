@@ -60,7 +60,6 @@ sliderText: Boston Project
 </header>
 </div></div>
 <div class="row">
-<div class=" span-12 cell">
 <div class="container"><p><a href="mailto:tyler.stowell@athletesinaction.org">Tyler Stowell</a>, AIA campus staff member, will be leading the Boston Project.</p>
 </div>
 {% include plugins/aia-social.html %}

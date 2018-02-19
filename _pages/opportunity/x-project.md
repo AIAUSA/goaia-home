@@ -81,6 +81,6 @@ sliderText: X-Project
 <p>“<span>During X Project, I felt fully immersed in an environment that really developed me spiritually and professionally. Staff was so great at empowering me to be a relational, Godly leader. I never felt looked down on or shamed for my past or my struggles. I spent the summer learning to be and love my authentic self. XP was the perfect way to grow closer to Jesus through experiences and other believers.</span>”<strong> –&nbsp;<span>Annie H. (2016)</span></strong></p>
 <p>“<span>God showed me that I need Him in every area of my life. I don't just encounter God in my quiet time. I can and need to have Him involved in my plans for my future and for my work in the present.</span>” –&nbsp;<strong>Andy S. (2016)</strong></p>
 <p>“<span>X Project was the perfect opportunity for me to grow professionally and, more importantly, spiritually. The constant surrounding of community allows for quality relationships to develop and sharpen each other. I also thoroughly enjoyed going through the challenging Principles of AIA, especially 'Victory Beyond Competition.' X Project was a summer full of challenges, fun times, and amazing community, and I would suggest this opportunity to anyone who is looking to grow in their walk with the Lord while gaining valuable internship experience.</span>” – <strong>Kyle H. (2013)</strong></p>
-</div>
+</div></div></div>
 
 {% include plugins/aia-social.html %}

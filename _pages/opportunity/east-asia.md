@@ -33,7 +33,6 @@ sliderText: East Asia Project
 </ul>
 </div>
 <div>
-<div class="mb35 mb20-xs"></div>
 <!-- space -->
 {% include plugins/video-callout.html image="/uploads/opportunities/eastasia/DSCN1943.jpg" text="What is the East Asia Project about?" byLine="Check out this video to learn more about what happens when you invest your summer on the other side of the globe." video="https://vimeo.com/17709996" %}        
 <div class="row">
@@ -61,13 +60,11 @@ The cost is *about* $2,000. Is this the first time you have raised funds for a m
 </div></div></div>
 {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/East-Asia-Project/default.aspx" color="" %}
 <div class="row">
-<div class=" span-12 cell" id="more">
 <header class="section-header container text-center">
 <h2 class="section-title first-color" data-title="More Info">More Info</h2>
 </header>
 </div></div>
 <div class="row">
-<div class=" span-12 cell">
 <div class="container"><p>Contact <a href="mailto:eastasia@athletesinaction.org">eastasia@athletesinaction.org</a>, for more information and the appropriate trip leader will get back with you.</p>
-</div>
+</div></div>
 {% include plugins/aia-social.html %}

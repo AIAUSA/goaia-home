@@ -16,7 +16,7 @@ sliderText: South Africa Project
 <div class="row">
 <div class=" span-12 cell">
 <p><iframe width="560" height="315" style="text-align: center; display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/u8xq7zeVmJI" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-
+</div>
 <hr class="container">
 
 <div class="container"><p><span><img alt="" src="/uploads/opportunities/SouthAfrica/SAP_8.png" class="img-responsive pull-right col-md-4">&nbsp;&nbsp;&nbsp;The South Africa Project Is a two-week international project that will help Athletes in Action to launch and grow existing campus ministries in Cape Town. You will also have the opportunity to grow and launch campus ministry to other student athletes through outreach at the University of Cape Town and Cape Peninsula University of Technology. During your two weeks you will also learn the Biblical principles for athletic competition and be challenged and equipped to grow in your relationship with God while you receive training in how to share Christ with others. This training will provide you with the skills you need to minister cross-culturally and be more effective in reaching your own campus for Christ. If you are ready for a life-changing experience this summer then South Africa is waiting for you!</span></p>

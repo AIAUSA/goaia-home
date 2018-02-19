@@ -11,7 +11,7 @@ layout: page
 <p style="margin: 0px 0px 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;"></p>
 <p class="p1" style="margin: 0px 0px 10px; color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px;">SportLinc is an opportunity for you to be resourced and poured into as a leader to help start an Athletes in Action ministry on your campus. We want to equip you to make an impact within your athletic department.&nbsp;</p>
 </div>
-{% include plugins/video-callout.html image="/uploads/campus/unnamed-2.jpg" text="What is SportLinc?" byLine="Hear from Staff how SportLinc will help you on Campus." video="https://www.youtube.com/watch?v=Yef2X2urZS8" %}
+{% include plugins/video-callout.html image="/uploads/Campus/unnamed-2.jpg" text="What is SportLinc?" byLine="Hear from Staff how SportLinc will help you on Campus." video="https://www.youtube.com/watch?v=Yef2X2urZS8" %}
 <div class="row fullwidth">
 <div class=" span-12 cell">
 <div class="mt20 callout no-border larger no-margin custom">
