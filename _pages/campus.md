@@ -36,7 +36,7 @@ sliderText: Campus Ministry
                     <i class="fa fa-building"></i>
                 </span>
                 <div class="service-content">
-                    <h3 class="service-title title-underblock dark text-uppercase text-center"><a href="/campus/sportLinc">SportLinc</a></h3>
+                    <h3 class="service-title title-underblock dark text-uppercase text-center"><a href="/campus/sportlinc">SportLinc</a></h3>
                     <p><span>Start a ministry on your campus.</span></p>
                 </div>
             </div>
