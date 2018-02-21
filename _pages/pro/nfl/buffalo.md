@@ -79,7 +79,7 @@ sliderText: AIA Buffalo
 <h3 class="title text-center mt40">Previous <span class="light first-color">Winners<span></span></span></h3>
 <div class="col-md-4">
 <ul>
-<li><strong>Lorenzo Alexander </strong>(2018)</li>
+<li><strong>Lorenzo Alexander </strong>(2017)</li>
 <li><strong>Kyle Williams </strong>(2016)</li>
 <li><strong>Scott Chandler </strong>(2015)</li>
 <li><strong>Thomas Davis</strong> (2014)<strong></strong></li>
