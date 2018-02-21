@@ -189,7 +189,7 @@ span.megamenu-title:hover {
 
 /******404*******/
 .background-photo  {
-  background-image:url("/Media/Default/General/404.jpg");
+  background-image:url("/uploads/404.jpg");
   background-attachment: fixed;
   background-position: right bottom;
 }
