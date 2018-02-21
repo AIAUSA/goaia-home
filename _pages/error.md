@@ -1,7 +1,7 @@
 ---
 title: Airball
 permalink: /error
-layout: page
+layout: default
 ---
 <div class="background-photo">
 
