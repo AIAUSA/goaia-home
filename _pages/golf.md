@@ -1,8 +1,8 @@
 ---
 title: AIA Golf
-permalink: /golf
+permalink: "/golf"
 layout: full-page-slider
-sliderImage: /uploads/golf/golf-ball.jpg
+sliderImage: "/uploads/golf/golf-ball.jpg"
 sliderText: Go with Golf
 ---
 

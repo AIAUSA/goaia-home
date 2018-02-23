@@ -1,8 +1,9 @@
 ---
 title: Pro Ministries
-permalink: /pro/index
+permalink: "/pro/index"
 layout: page
 ---
+
 <div class="container mt20"><p>&nbsp; <img class="img-responsive pull-left" src="/uploads/pro/pro-main1.jpg"> Athletes in Action regularly partners with like-minded ministries to create outreaches for professional sports teams and athletes.&nbsp;Our intent is to build into the lives of coaches, players and their spouses, while helping them positively impact their communities. We want to help professional athletes and their fans answer questions of faith.&nbsp;</p>
 <p class="p1">Whether they’re competing for a spot in the starting line-up, dealing with an unexpected trade and move, or balancing a busy practice and travel schedule, professional athletes and their families face tremendous pressure and stress. Our goal is to help balance these demands by giving athletes a new framework for competition: honoring God by competing to the best of their ability and leaving the outcome in His hands. &nbsp;</p>
 <!---<p class="p1"><img class="img-responsive pull-right" src="/uploads/pro/pro-main-2.jpg" />&nbsp;</p>-->

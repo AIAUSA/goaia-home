@@ -1,12 +1,13 @@
 ---
 title: X-Project
-permalink: /opportunity/x-project
+permalink: "/opportunity/x-project"
 redirect_from:
-    - /xproject
+- "/xproject"
 layout: half-page-slider
-sliderImage: /uploads/opportunities/xproject/xproject.jpg
+sliderImage: "/uploads/opportunities/xproject/xproject.jpg"
 sliderText: X-Project
 ---
+
 <div class="row">
 <div class=" span-12 cell" id="about">
 <section class="section" id="about"><header class="section-header container text-center">

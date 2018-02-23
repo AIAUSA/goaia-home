@@ -1,12 +1,13 @@
 ---
 title: AIA on Campus
-permalink: /campus/index
+permalink: "/campus/index"
 redirect_from:
-    - /campus
+- "/campus"
 layout: full-page-slider
-sliderImage: /uploads/Campus/madison-141735_1280.jpg
+sliderImage: "/uploads/Campus/madison-141735_1280.jpg"
 sliderText: Campus Ministry
 ---
+
 <div class="container">
 <h2 class="title text-center">AIA <span class="light first-color">On Campus</span></h2>
 <h4 class="title text-center first-color">YOU WANT TO CHANGE THE WORLD. WE WANT TO HELP.</h4>

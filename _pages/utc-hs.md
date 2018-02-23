@@ -1,6 +1,7 @@
 ---
 title: AIA UTC High School
-permalink: /utc-hs
+permalink: "/utc-hs"
 redirect_to:
-    - http://www.ultimatetrainingcamp.com/utc-info/utc-high-school
+- http://www.ultimatetrainingcamp.com/utc-info/utc-high-school
 ---
+

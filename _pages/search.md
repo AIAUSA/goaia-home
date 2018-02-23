@@ -1,8 +1,9 @@
 ---
 title: Search
-permalink: /search
+permalink: "/search"
 layout: page
 ---
+
 <script>// <![CDATA[
 (function() {
     var cx = '010104553429836303424:xerecc7jvjc';

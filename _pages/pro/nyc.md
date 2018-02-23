@@ -1,12 +1,13 @@
 ---
 title: NY/NJ Youth Leadership Sports Academy
-permalink: /pro/nyc
+permalink: "/pro/nyc"
 redirect_from:
-    - /nyc
+- "/nyc"
 layout: full-page-slider
-sliderImage: /uploads/pro/youth/IMG_7868_c.jpg
+sliderImage: "/uploads/pro/youth/IMG_7868_c.jpg"
 sliderText: AIA - Sports Leadership <br /> Outreach Program
 ---
+
 <div class="table">
 
 <div class="row">

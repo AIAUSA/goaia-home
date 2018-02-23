@@ -1,8 +1,9 @@
 ---
 title: Pro Soccer Ministries
-permalink: /pro/soccer
+permalink: "/pro/soccer"
 layout: page
 ---
+
 <div class="container mt20"><h3 class="p1">Serving Major League Soccer</h3>
 <p class="p1">&nbsp; <img class="img-responsive pull-right" src="/uploads/pro/MLS-page-web.jpg"> In partnership with the MLS, Athletes in Action chaplains provide services for athletes with busy travel and game schedules that often prevent them from being regularly involved in a local church. Through pre-game chapels, group prayer and regular Bible studies, chaplains are present to serve and encourage players as they answer questions of faith.&nbsp;</p>
 <p class="p2">AIA’s relationship with the MLS dates back to the beginning of the league, when founding owners requested that AIA provide pre-game chapels for each club. Currently, AIA staff members and volunteers serve athletes and teams throughout the MLS and NASL. In recent years, we’ve provided chaplains and pre-game chapels at the World Cup for the men’s U.S. national team and partnered with other international ministries to place chaplains with teams from Africa and South America at international competitions.&nbsp;</p>

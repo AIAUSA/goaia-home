@@ -1,8 +1,9 @@
 ---
 title: Start AIA on Campus
-permalink: /campus/sportlinc
+permalink: "/campus/sportlinc"
 layout: page
 ---
+
 <div class="container">
 <h2 class="title text-center">SportLinc <span class="light first-color">Reaching Your School Together</span></h2>
 <img src="http://goaia.org/Media/Default/Campus/sportlinc-logo.png" alt="" class="img-responsive pull-right col-sm-4" style="padding-right: 10px;">

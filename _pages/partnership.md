@@ -1,8 +1,9 @@
 ---
 title: Partnerships
-permalink: /partnership
+permalink: "/partnership"
 layout: page
 ---
+
 <h1 style="text-align: center;margin-top: 20px;text-decoration: underline;">Partnerships</h1>
 
 <p class="container" style="text-align: center;font-weight: bold;padding-left: 10px;padding-right: 10px;">God has called us to "go out and make disciples of ALL nations." AIA USA has partnered with AIA South Africa, AIA East Asia, and AIA Puerto Rico to launch AIA campus movements and strategic partnerships to reach each of these locations. The goal to spread the word of God across each continent, and across the world, we believe can be achieved starting with these partnerships.</p>

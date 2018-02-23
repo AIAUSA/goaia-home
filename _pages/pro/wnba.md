@@ -1,8 +1,9 @@
 ---
 title: WNBA Ministries
-permalink: /pro/wnba
+permalink: "/pro/wnba"
 layout: page
 ---
+
 <div class="container mt20"><h3 class="p1">Reaching Out On And Off The Court</h3>
 <p class="p1">&nbsp; <img class="img-responsive pull-right" alt="" src="/uploads/pro/ruth-riley-web.jpg" height="50%"> We dream of seeing female athletes built up into strong, authentic role models that positively affect the women’s sports world both on and off the court.&nbsp;</p>
 <p class="p1">Through pre-game chapels, weekly Bible studies, off-season mentoring and player retreats and gatherings, our goal is to encourage WNBA athletes in their faith and see them influence their fans and teammates with the hope of the gospel.&nbsp;</p>

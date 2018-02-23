@@ -3,6 +3,7 @@ title: Logo & Branding
 permalink: "/about/branding"
 layout: page
 ---
+
 <p>Below are download links for the new Athletes in Action logos and branding guide. Please follow the branding guide whenever using the logo. If you have questions, please contact&nbsp;Communications@athletesinaction.org.</p>
 <p>Right Click and Save-As on link to download</p>
 <div class="row">

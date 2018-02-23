@@ -3,6 +3,7 @@ title: Board of Trustees
 permalink: "/about/board"
 layout: page
 ---
+
 <div class=" span-12 cell">
 <div class="container"><div class="mb50"></div>
 <!-- space -->

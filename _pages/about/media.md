@@ -3,6 +3,7 @@ title: Global Media
 permalink: "/about/media"
 layout: page
 ---
+
 <div class="container mt20"><p>AIA Media exists to capitalize on unprecedented opportunities to reach the world with the gospel. The language of sports spoken on every continent, combined with worldwide advances in technology, means that the gospel message is easily shared with a large, diverse audience at any time, anywhere in the world.&nbsp;</p>
 <p>&nbsp; <img class="img-responsive pull-right" src="/uploads/About/Media/media-home-web.jpg"> Our mission is to create sports-themed films featuring the faith stories of well-known athletes that can be shown around the world in concert with global sporting events like the Olympics and World Cup. A single DVD of one of our films, containing more than 30 language translations, can be used to share the gospel with people of multiple nationalities.&nbsp;</p>
 <p>As effective as the films are, their impact is multiplied exponentially through partnerships with ministries and international broadcasters that allow the stories to be distributed throughout the world. From viewing parties with national-level teams to broadcasts on national television stations, the films are being used to share the message of hope and ultimate victory worldwide.&nbsp;</p>

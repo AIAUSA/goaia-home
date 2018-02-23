@@ -1,6 +1,6 @@
 ---
 title: Opportunity FAQ
-permalink: /opportunities/FAQ
+permalink: "/opportunities/FAQ"
 layout: page
 ---
 

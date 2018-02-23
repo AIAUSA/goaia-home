@@ -1,12 +1,13 @@
 ---
 title: Boston Project
-permalink: /opportunity/boston-project
+permalink: "/opportunity/boston-project"
 redirect_from:
-    - /boston-project
+- "/boston-project"
 layout: half-page-slider
-sliderImage: /uploads/opportunities/boston/Map_of_Boston_and_Cambridge-1.jpg
+sliderImage: "/uploads/opportunities/boston/Map_of_Boston_and_Cambridge-1.jpg"
 sliderText: Boston Project
 ---
+
 <div class="row">
 <div class=" span-12 cell" id="about">
 <section class="section" id="about"><header class="section-header container text-center">

@@ -1,10 +1,11 @@
 ---
 title: Pro Buffalo
-permalink: /pro/nfl/buffalo
+permalink: "/pro/nfl/buffalo"
 layout: full-page-slider
-sliderImage: /uploads/pro/4K5A5617.jpg
+sliderImage: "/uploads/pro/4K5A5617.jpg"
 sliderText: AIA Buffalo
 ---
+
 <div class="row">
 <div class=" span-12 cell">
 <div class="container"><section class="section" id="about"><header class="section-header container text-center">

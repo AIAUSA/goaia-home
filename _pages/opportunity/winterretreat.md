@@ -1,6 +1,7 @@
 ---
 title: AIA Winter Retreat
-permalink: /opportunity/winterretreat
+permalink: "/opportunity/winterretreat"
 redirect_to:
-    - https://aiawinterretreat.com
+- https://aiawinterretreat.com
 ---
+

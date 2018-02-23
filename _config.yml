@@ -2,23 +2,23 @@
 title: GoAIA
 timezone: UTC
 collections:
+  camps:
+    title: Camps
+    output: false
+  events:
+    title: Events
+    output: true
   media:
     title: Media
     output: true
   posts:
     title: Posts
     output: true
-  uploads:
-    title: Uploads
-    output: true
-  camps:
-    title: Camps
-    output: false
   teams:
     title: Teams
     output: false
-  events:
-    title: Events
+  uploads:
+    title: Uploads
     output: true
 defaults:
 - scope:
@@ -32,35 +32,36 @@ defaults:
     type: camps
   values:
     location: 
-    start_date:
-    end_date:
-    event_id:
+    start_date: 
+    end_date: 
+    event_id: 
     layout: page
     address: 
-    type:
+    type: 
 - scope:
     path: ''
     type: teams
   values:
     level: 
-    director:
-    director_email:
-    dates:
-    type:
+    director: 
+    director_email: 
+    dates: 
+    type: 
     layout: page
 - scope:
     path: ''
     type: events
   values:
     location: 
-    image:
-    start_date:
-    end_date:
+    image: 
+    start_date: 
+    end_date: 
     layout: page
     alt_url: 
-    short_description:
-    final_four:
-include: ["_pages"]
+    short_description: 
+    final_four: 
+include:
+- _pages
 exclude:
 - "/vendor/"
 - Gemfile
@@ -87,4 +88,4 @@ descriptions:
 sass:
   style: compressed
 plugins:
-  - jekyll-redirect-from
+- jekyll-redirect-from

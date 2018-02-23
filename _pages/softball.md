@@ -1,8 +1,9 @@
 ---
 title: Softball
-permalink: /softball
+permalink: "/softball"
 layout: page
 ---
+
 <div class="container"><h2>AIA Softball through Competitive Edge International</h2>
 <p>Sports can open doors in a way that few other things can. Could your love of softball be<img class="pull-right img-responsive" src="/uploads/Softball/Softball1.jpg" width="416" height="307" style="float: right;"> the ticket to your next adventure?</p>
 <p>Did you know, softball is being used to reach out to people across the nations!</p>

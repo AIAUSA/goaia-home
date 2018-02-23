@@ -3,6 +3,7 @@ title: Statement of Faith
 permalink: "/about/beliefs"
 layout: page
 ---
+
 <p class="p1"><i>As a <a href="http://www.cru.org/">Cru</a> ministry (formerly called Campus Crusade for Christ), Athletes in Action holds to the Cru statement of faith, which is posted below.&nbsp;</i></p>
 <p class="p1">The sole basis of our beliefs is the Bible, God's infallible written Word, the 66 books of the Old and New Testaments. We believe that it was uniquely, verbally and fully inspired by the Holy Spirit and that it was written without error (inerrant) in the original manuscripts. It is the supreme and final authority in all matters on which it speaks.</p>
 <p class="p1">We accept those areas of doctrinal teaching on which, historically, there has been general agreement among all true Christians. Because of the specialized calling of our movement, we desire to allow for freedom of conviction on other doctrinal matters, provided that any interpretation is based upon the Bible alone, and that no such interpretation shall become an issue which hinders the ministry to which God has called us.</p>
