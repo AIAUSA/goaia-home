@@ -1,8 +1,9 @@
 ---
 title: Airball
-permalink: /error
+permalink: "/error"
 layout: default
 ---
+
 <div class="background-photo">
 
   

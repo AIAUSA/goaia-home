@@ -1,6 +1,7 @@
 ---
 title: Jobs
-permalink: /jobs
+permalink: "/jobs"
 redirect_to:
-    - /careers/jobs
+- "/careers/jobs"
 ---
+

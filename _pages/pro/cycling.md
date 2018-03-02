@@ -1,10 +1,11 @@
 ---
 title: Pro Cycling
-permalink: /pro/cycling
+permalink: "/pro/cycling"
 layout: full-page-slider
-sliderImage: /uploads/pro/clycling-go.jpg
+sliderImage: "/uploads/pro/clycling-go.jpg"
 sliderText: Serving Pro Cycling
 ---
+
 <div class="row">
 <div class=" span-12 cell">
 <div class="container mt20"><p class="p1">&nbsp; <img class="img-responsive pull-right col-md-5" src="/uploads/Pro/Cycling/cycling1.jpg"> Sport is facing a crossroads with headlines not about highlights and accomplishments, but rather scandal and corruption on a regular basis and cycling is no different. There needs to be a cultural shift, a new generation of athletes who are committed to living with integrity.</p>

@@ -1,8 +1,9 @@
 ---
 title: Contact
-permalink: /contact
+permalink: "/contact"
 layout: page
 ---
+
 <div class="container pt20"><div style="text-align: center;">
 <h1>Contact Us</h1>
 <h3>Athletes in Action</h3>

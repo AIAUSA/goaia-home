@@ -1,12 +1,13 @@
 ---
 title: Pro NFL Ministries
-permalink: /pro/nfl/index
+permalink: "/pro/nfl/index"
 redirect_from:
-    - /pro/nfl
+- "/pro/nfl"
 layout: full-page-slider
-sliderImage: /uploads/pro/pro-header.jpg
+sliderImage: "/uploads/pro/pro-header.jpg"
 sliderText: Serving Professionals
 ---
+
 <div class="row">
 <div class=" span-12 cell">
 <div class="container mt20"><h2 class="title text-center">HELPING HEROES <span class="light first-color">CHANGE THE WORLD</span></h2>

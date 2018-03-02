@@ -1,11 +1,12 @@
 ---
 title: About
-permalink: /about/index
+permalink: "/about/index"
 redirect_from:
-    - /discover
-    - /about
+- "/discover"
+- "/about"
 layout: page
 ---
+
 <div class="container mt20"><h2 class="title text-center"><img width="270" height="337" alt="" src="/uploads/About/Dave-Hannah-Speaking-web.jpg" style="float: right;">EVERY TEAM, EVERY SPORT, <span class="light first-color">EVERY NATION</span></h2>
 <p>Since 1966, Athletes in Action has been using sports as a platform to help people answer questions of faith and to point them to Jesus. We believe that sports has the power to open doors and create connections in a way that few other things can, and that’s why we are constantly working to create new ways of reaching out to athletes and sports fans alike. Ultimately, our goal is to see peoples’ lives changed as they discover God’s purpose for their life.&nbsp;</p>
 <p>We dream of a day when there are Christ-followers on every team, in sport, in every nation. We believe this is possible when organizations and individuals -- who want every athlete to know someone who truly follows Jesus -- work together toward the common goal of furthering God’s kingdom.</p>

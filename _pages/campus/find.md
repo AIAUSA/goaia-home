@@ -1,8 +1,9 @@
 ---
 title: Find AIA on Campus
-permalink: /campus/find
+permalink: "/campus/find"
 layout: page
 ---
+
 <div class="container col-md-10 col-md-offset-1">
 <h2 class="title text-center">Find AIA <span class="first-color light">On Your Campus</span></h2>
 <p>Athletes In Action has a presence on over 200 campuses across the country. Search for your school (below) to find out how you can get connected on or nearby your campus.</p>

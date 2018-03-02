@@ -1,6 +1,7 @@
 ---
 title: Legends
-permalink: /events/legends
+permalink: "/events/legends"
 redirect_to:
-    - http://legendsbreakfast.net
+- http://legendsbreakfast.net
 ---
+

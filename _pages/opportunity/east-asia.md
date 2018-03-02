@@ -1,12 +1,13 @@
 ---
 title: East Asia Project
-permalink: /opportunity/east-asia-project
+permalink: "/opportunity/east-asia-project"
 redirect_from:
-    - /east-asia-project
+- "/east-asia-project"
 layout: half-page-slider
-sliderImage: /uploads/opportunities/eastasia/DSCN2269.jpg
+sliderImage: "/uploads/opportunities/eastasia/DSCN2269.jpg"
 sliderText: East Asia Project
 ---
+
 <div class="row">
 <div class=" span-12 cell" id="about">
 <section class="section" id="about"><header class="section-header container text-center">

@@ -1,8 +1,8 @@
 ---
 title: Spring Break Trips
-permalink: /opportunity/springbreak
+permalink: "/opportunity/springbreak"
 layout: half-page-slider
-sliderImage: /uploads/opportunities/springbreak/springbreak.jpg
+sliderImage: "/uploads/opportunities/springbreak/springbreak.jpg"
 sliderText: Go for Spring Break
 ---
 

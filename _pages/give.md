@@ -1,8 +1,9 @@
 ---
 title: Give
-permalink: /give
+permalink: "/give"
 layout: page
 ---
+
 <div class="container mt30 mb30"><h2 class="title text-center">Give <span class="light first-color">to AIA</span></h2>
 <p>Last year&nbsp;alone, partners like you helped expose 325 million people to the gospel!</p>
 <p>Because Athletes in Action is a donor-supported ministry, everything that we do to encourage and equip athletes is a result of financial gifts from friends and partners like you.</p>

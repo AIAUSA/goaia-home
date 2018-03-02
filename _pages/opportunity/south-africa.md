@@ -1,12 +1,13 @@
 ---
 title: South Africa Project
-permalink: /opportunity/south-africa-project
+permalink: "/opportunity/south-africa-project"
 redirect_from:
-    - /south-africa-project
+- "/south-africa-project"
 layout: half-page-slider
-sliderImage: /uploads/opportunities/southafrica/south-africa-1112782_1920.jpg
+sliderImage: "/uploads/opportunities/southafrica/south-africa-1112782_1920.jpg"
 sliderText: South Africa Project
 ---
+
 <div class="row">
 <div class=" span-12 cell" id="about">
 <section class="section" id="about"><header class="section-header container text-center">

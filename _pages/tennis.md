@@ -1,10 +1,11 @@
 ---
 title: AIA Tennis
-permalink: /tennis
+permalink: "/tennis"
 layout: full-page-slider
-sliderImage: /uploads/tennis/dynamics-245212_1280.jpg
+sliderImage: "/uploads/tennis/dynamics-245212_1280.jpg"
 sliderText: Go with Tennis
 ---
+
 <div class="row">
 <div class="container"><section class="section" id="about"><header class="section-header container text-center">
 <h2 class="section-title first-color" data-title="About">About</h2>
