@@ -65,7 +65,7 @@ sliderText: AIA Buffalo
 <p>&nbsp; <br>&nbsp; <img class="img-responsive col-md-6 pull-right" alt="" src="/uploads/pro/CallToCourage-Postcard2018-Front-Web.jpg"> The Call to Courage Award is given to an athlete who displays exemplary character through adversity and triumph. At the heart of his character is a commitment to Jesus Christ that is reflected in every aspect of his life. On and off the field, the award recipient is an impact player who brings out the best in those around him. This athlete’s pursuit of excellence in every area of his life is inspiring. He does not view his achievements as a platform for personal gain; rather, out of humility he sees them as an opportunity to serve the community and the world to the glory of God.</p>
 </div>
 <div class="col-md-6">
-<h5><img class="img-responsive pull-left col-md-12" alt="" src="/uploads/pro/CallToCourage-Postcard2018-Back-Web.jpg"></h5>
+<h5><img class="img-responsive pull-left col-md-12" alt="" src="/uploads/pro/DemarioDavis.jpg"><br />This year's winner is Demario Davis of the NY Jets.</h5>
 </div>
 <div class="col-md-6">
 <h4>Tickets for the Call to Courage Breakfast are available:</h4>
@@ -79,6 +79,7 @@ sliderText: AIA Buffalo
 <h3 class="title text-center mt40">Previous <span class="light first-color">Winners<span></span></span></h3>
 <div class="col-md-4">
 <ul>
+<li><strong>Demario Davis </strong>(2018)</li>
 <li><strong>Lorenzo Alexander </strong>(2017)</li>
 <li><strong>Kyle Williams </strong>(2016)</li>
 <li><strong>Scott Chandler </strong>(2015)</li>
