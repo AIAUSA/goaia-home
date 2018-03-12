@@ -1,0 +1,7 @@
+---
+title: Careers - Positions
+permalink: "/careers/positions/"
+layout: careers
+---
+
+<p></p><p class="MsoNoSpacing">There are so many ways for you to serve at Athletes in Action! Whether you&rsquo;re a recent college graduate or have years of experience in the working world, we have a place for you. Our desire is to match your gifts, skills and abilities with the area or ministry of AIA that will be most effective in helping people to know the hope of Jesus.</p><p class="MsoNoSpacing"></p><p class="MsoNoSpacing">There are four areas where we especially need you: on <a href="positions/college-campus">college campuses</a>, in our <a href="positions/global-sports">global sports department</a>, at the <a href="positions/headquarters">AIA <span style="color: windowtext; text-decoration: none; text-underline: none;">headquarters</span></a>, and on our <a href="positions/global">global team</a>. &nbsp;Here is an outline of <a href="/careers/qualifications">qualifications</a>&nbsp;for these positions.</p><p></p><p><span>For more general information about positions within AIA&nbsp;please contact<span>&nbsp;</span></span><a href="mailto:ed.gersch@athletesinaction.org">Ed Gersch</a><span>.</span></p><p class="MsoNoSpacing">&nbsp;</p><p></p>

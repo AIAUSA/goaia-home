@@ -54,7 +54,8 @@
             
             <div class="max-width">
                     <div class="container mt20">
-                            {% for post in site.teams %}
+                        {% assign sorted = (site.teams | where: "sport","volleyball") %}
+                        {% for post in sorted %}
                             <div class=" col-md-6">
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                                     <div class="panel panel-default">

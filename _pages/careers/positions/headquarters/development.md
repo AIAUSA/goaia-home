@@ -1,0 +1,7 @@
+---
+title: Careers - Development Positions
+permalink: "/careers/positions/headquarters/development"
+layout: careers
+---
+
+<h1 class="p1">Development Positions</h1><p></p><p class="p2">It would be nearly impossible to work toward changing the world without the resources that make our unique trips, mission projects, Bible study resources and events possible. As a part of the development team, you&rsquo;ll ensure that more people have more opportunities to know Christ in a real and personal way.</p><p class="p3"></p><h2 class="p4"><span class="s1">Development Professional&nbsp;</span></h2><p class="p4">You will work with AIA&rsquo;s leadership team to create strategies for attracting ministry partners in an effort to develop funding for key ministry priorities. Your role will include developing communication techniques that raise awareness of partnership opportunities while inspiring others to join with us through key capital campaigns and general operational funding.</p><p class="p3"></p><p class="p5">Because AIA is a faith-based organization, potential staff members must meet unique qualifications. Learn more <a href="/careers/qualifications"><span class="s3">here</span></a>.&nbsp;</p><p class="p6"></p><p class="p2"><a href="mailto:recruiting@athletesinaction.org">Contact us</a> for more information about positions within the development department.</p><p class="p3"></p><p class="p4">&nbsp;</p>
