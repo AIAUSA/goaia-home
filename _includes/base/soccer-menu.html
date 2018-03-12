@@ -1,0 +1,55 @@
+<div id="wrapper">
+    <header id="header" role="banner">
+        <div class="collapse navbar-white special-for-mobile" id="header-search-form">
+            <div class="container">
+                <div class="container">
+                    <form class="navbar-form animated fadeInDown" action="/search" role="search">
+                        <input type="search" id="q" name="q" class="form-control" placeholder="Search in here...">
+                        <button type="submit" class="btn-circle" title="Search"><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div><!-- End #header-search-form -->
+        <nav class="navbar navbar-white {{ include.color }} animated-dropdown ttb-dropdown sticky-menu" role="navigation">
+            {% include base/top-nav.html %}
+            <div class="navbar-inner">
+                <div class="container">
+                    <div class="navbar-header">
+
+                        <button type="button" class="navbar-toggle btn-circle pull-right collapsed" data-toggle="collapse" data-target="#main-navbar-container">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                        <a class="navbar-brand text-uppercase" href="/" title="Athletes In Action"> 
+                            {% if include.color == 'navbar-inverse' %}
+                                <img class="img-responsive" src="/images/athletesinaction-home.svg" alt="AIA"  width="180px" height="68px" />
+                            {% else %}
+                                <img class="img-responsive" src="/images/athletesinaction.svg" alt="AIA"  width="180px" height="68px" />
+                            {% endif %}
+                        </a>
+
+
+
+                        <button type="button" class="navbar-btn btn-icon btn-circle pull-right last visible-sm visible-xs" data-toggle="collapse" data-target="#header-search-form"><i class="fa fa-search"></i></button>
+                    
+                </div><!-- End .navbar-header -->
+
+                <div class="collapse navbar-collapse" id="main-navbar-container">
+                    <ul class="nav navbar-nav">
+                        <li class=""><a href="#">Home</a></li>
+                        <li class=""><a href="#about">About</a></li>
+                        <li class=""><a href="#tours">Tours</a></li>
+                        <li class=""><a href="#opportunities">Opportunities</a></li>
+                        <li class=""><a href="#apply">Apply</a></li>
+                        <li class=""><a href="http://give.cru.org/0666340">Give</a></li>
+                    </ul>
+                    
+                    <button type="button" class="navbar-btn btn-icon btn-circle navbar-right last  hidden-sm hidden-xs" data-toggle="collapse" data-target="#header-search-form"><i class="fa fa-search"></i></button>
+                    
+                    
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container -->
+            </div><!-- End .navbar-inner -->
+        </nav>
+    </header><!-- End #header -->

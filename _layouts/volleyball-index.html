@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+        {% include base/head.html %}
+
+    </head>
+    <body>
+        <div id="wrapper">
+            {% include base/volleyball-menu.html %}
+
+            {% include plugins/revslider.html src1="/uploads/volleyball/IMG_1381.jpg" text1="Go With Volleyball" %}
+      
+            <div class="row">
+                <div id="About">
+                    <section class="section" id="About">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="About">About</h2>
+                        </header>
+                    </section>
+                </div>
+            </div>
+            <div class="max-width">
+                <div class="container">
+                    <p>Athletes in Action Volleyball was started in 1982 by Barb Bernlohr and Bobby Herron. The first women's team was sent out that same year, traveling to Japan. Our focus has been to send our teams internationally, which has led us all over the globe to countries&nbsp;in Latin America, Africa, Europe and Asia. We understand the hunger athletes have to learn and to go out and see&nbsp;the world. From this hunger, tours and projects were born to challenge and provide space for those athletes to learn, grow and go. AIA Volleyball is committed to seeking God's leading, looking to maximize the impact in the countries we travel to, and investing wholly into the participants on our tours.</p>
+                    <h2><span>Looking for a challenge?</span></h2>
+                    <p><span>AIA Volleyball is always looking for players and coaches who want to take the challenge of going beyond the court, while still using their skills and passion for volleyball to make a difference in the world.&nbsp;<span>Sport is one of the few languages that can cross cultural and spoken language barriers.&nbsp;<span>Sport gives us the opportunity to use volleyball all over the world to open doors, build bridges and change lives. </span>It's impact goes well beyond the scoreboard<span>. </span></span></span></p>
+                    <h3><img class="col-md-4" alt="" src="/uploads/volleyball/19030669_2008754496019164_6282196589548461395_n.jpg" style="float: right;">Through our tours you will:</h3>
+                    <ul class="list-style list-disc">
+                    <li>Compete Internationally</li>
+                    <li>Learn ministry skills</li>
+                    <li>Grow in your relationship with Christ</li>
+                    <li>Impact the world through sport</li>
+                    <li>Make lifelong relationships</li>
+                    <li>Learn to combine your faith with volleyball</li>
+                    <li>Experience real&nbsp;life change</li>
+                    </ul>
+                    <p></p>
+                    <p>Get a glimpse of a volleyball tour through the&nbsp;<a href="http://teamblogs.athletesinaction.org/section/global-sports/volleyball">AIA Volleyball Team Blog</a></p>
+                    </div>
+            </div>
+            {% include plugins/image-callout.html image="/uploads/volleyball/summer2010.jpg" text="Looking for a Challenge?" byLine="Check out our tours below." %}
+            
+                 <div class="row">
+                        <div id="opportunities">
+                            <section class="section" id="opportunities">
+                                <header class="section-header container text-center">
+                                    <h2 class="section-title first-color" data-title="Opportunities">Opportunities</h2>
+                                </header>
+                            </section>
+                        </div>
+                    </div>
+            
+            <div class="max-width">
+                    <div class="container mt20">
+                            {% for post in site.teams %}
+                            <div class=" col-md-6">
+                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
+                                            <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pb{{forloop.index}}" aria-expanded="false" aria-controls="c1pb{{forloop.index}}" class="collapsed"> {{ post.title }} <span class="panel-icon"></span> </a></h4>
+                                        </div>
+                                        <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel" aria-labelledby="c1ph{{forloop.index}}">
+                                            <div class="panel-body">
+                                                <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
+                                                <strong>Dates:</strong>{{ post.dates }} <br>
+                                                <strong>About:</strong>{{ post.content }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                    </div>
+            </div>
+            <div id="apply"></div>
+            {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/Volleyball/default.aspx" color="dark" %}
+            <div class="max-width">
+                <div class="container mt50">
+                    <div class="row">
+                        <h2 class="title text-center mb30">Alumni <span class="light first-color">Endorsements</span></h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                        <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                        <figure></figure>
+                        <div class="testimonial-content">
+                        <p>“God completely rocked my world through this whole experience....God wanted to grow me in ways I could have never imagined. He wanted me to take a step of faith, trusting only in Him. I am so glad that I decided to take that step of faith....I am completely in awe. God returned me to Himself through this trip......This experience is something that came at the right time for me, right after graduating. It has shaped my thoughts going forward with my life and career. I am forever grateful for this opportunity."</p>
+                        <h5>Ashley Lea - <a href="#" title="Tuff Camp">Thailand.</a></h5>
+                        </div>
+                        <!-- End .testimonial-content --></div>
+                        <!-- End .testimonial --></div>
+                        <!-- End .col-md-6 -->
+                        <div class="col-md-6">
+                                <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                                <figure></figure>
+                                <div class="testimonial-content">
+                                <p>“During the first week of training camp I was looking forward to playing a lot of volleyball with talented athletes. What I didn’t realize was that I would eventually turn my focus from playing volleyball to learning how to share my faith with others. I didn’t know how to share my faith before my AIA trip, but I was taught how to organize and present my testimony. I was excited about this because it gave me the confidence to talk to anyone about my faith. <br>I loved the fact that we trained in our sport, but more importantly in our faith. Making athletics part of my spiritual life was a concept that really altered my faith. I learned that I could use my love of playing volleyball to show others my love for God and everything He has done for me. It was truly an amazing experience – being able to pray with someone who I’d never met before and to grow in my relationship with God.”</p>
+                                <h5>Jimmy Lundgren - <a href="#" title="Russia and Brazil">Russia and Brazil</a></h5>
+                                </div>
+                                <!-- End .testimonial-content --></div>
+                                <!-- End .testimonial --></div>
+                    </div>
+                    <div class="row">
+                            <div class="col-md-6">
+                            <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                            <figure></figure>
+                            <div class="testimonial-content">
+                            <p>“The tools I've acquired with Athletes in Action still bleed into my life on a daily basis. AIA has so much to do with winning hearts for Jesus. God is so much bigger than our fears, weaknesses and less-than-ideal situations. There are lives at stake, and eternity is not a game. We need to GO and MAKE disciples with the same sense of urgency that we have in earning points in a match.”</p>
+                            <h5>Sarah Amidon - <a href="#" title="Caribbean, East Africa, Moldova">Caribbean, East Africa, Moldova.</a></h5>
+                            </div>
+                            <!-- End .testimonial-content --></div>
+                            <!-- End .testimonial --></div>
+                            <!-- End .col-md-6 -->
+                            <div class="col-md-6">
+                            <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                            <figure></figure>
+                            <div class="testimonial-content">
+                            <p>“When I was in Israel, this is what Jesus taught me: every pass, every set, every move is centered around worshiping Jesus. I got to play volleyball with my best friend, Jesus.</p>
+                            <h5>Sara Ramirez - <a href="#" title="Israel and Colombia">Israel and Colombia</a></h5>
+                            </div>
+                            <!-- End .testimonial-content --></div>
+                            <!-- End .testimonial --></div>
+                            <!-- End .col-md-6 --></div>
+                        
+                    </div>
+                </div>
+            {% include plugins/volleyball-social.html %}
+            {% include plugins/teamblogs.html %}
+            {% include base/footer.html %}
+            <script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+            <script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                (function () {
+                    "use strict";
+                    // Slider Revolution
+                    $('#revslider').revolution({
+                        delay:8000,
+                        startwidth:1170,
+                        startheight:500,
+                        fullWidth:"on",
+                        fullScreen:"on",
+                
+                        soloArrowLeftHOffset:20,
+                        soloArrowRightHOffset:20,
+                        dottedOverlay:"threexthree",
+                      fullScreenOffsetContainer: "#header, #gheader"
+                    });
+                }());
+            </script>
+        </div>
+    </body>
+</html>

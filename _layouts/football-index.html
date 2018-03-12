@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+        {% include base/head.html %}
+
+    </head>
+    <body>
+        <div id="wrapper">
+            {% include base/football-menu.html %}
+
+            {% include plugins/revslider.html src1="/uploads/football/HazakJumping.1.jpg" text1="Go With Football" src2="/uploads/football/HazakCloseUP.1.jpg" text2="Go With Football" %}
+      
+            <div class="row">
+                <div id="About">
+                    <section class="section" id="About">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="About">About</h2>
+                        </header>
+                    </section>
+                </div>
+            </div>
+            <div class="max-width">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p><img class="col-md-4 pull-right" src="/uploads/football/46takesKnee.jpg" />Since 2012, AIA Football has been using sports as a platform to develop players physically and spiritually. Whether we’re hosting pre-game chapels, taking teams around the world and providing instruction at skill-building camps, we’re committed to training players to integrate their faith into the way they play the game. As athletes around the country have their lives impacted by the gospel, we’re intent on helping them to catch a vision for the world. The International Federation of American Football is made up of 63 nations all over the globe. Our dream is to partner with athletes from these countries and others to develop the sport internationally. Ultimately, we long to see these relationships result in lives transformed by knowing Christ. </p>
+                            <p>Athletes and coaches have the potential to influence billions of people. Sports dominates global entertainment, making it one of the most powerful communication platforms in the world. Two-thirds of Americans believe that athletes are more influential in American society than spiritual leaders. Additionally, American football is the most popular sport in the U.S., and at the same time is exploding in popularity around the world!</p>
+                            <p class="bolder">But, who is influencing these athletes? What attitudes and actions will be emulated by those who look up to them? </p>   
+                            <p>At AIA Football, we're striving to cultivate an environment ideal for athletic and personal growth that exposes players and coaches to a new way of living by applying biblical principles to their life and sport. Our international competing teams, elite position camps, coaching clinics and youth camps are equipping leaders on and off the field.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div id="tours">
+                    <section class="section" id="tours">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="tours">Tours</h2>
+                        </header>
+                    </section>
+                </div>
+            </div>
+            
+            <div class="max-width">
+                    <div class="container mt20">
+                            {% for post in site.teams %}
+                            <div class=" col-md-6">
+                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
+                                            <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pb{{forloop.index}}" aria-expanded="false" aria-controls="c1pb{{forloop.index}}" class="collapsed"> {{ post.title }} <span class="panel-icon"></span> </a></h4>
+                                        </div>
+                                        <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel" aria-labelledby="c1ph{{forloop.index}}">
+                                            <div class="panel-body">
+                                                <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
+                                                <strong>Dates:</strong>{{ post.dates }} <br>
+                                                <strong>About:</strong>{{ post.content }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                    </div>
+            </div>
+            <div id="apply"></div>
+            {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/Football/default.aspx" color="dark" %}
+            <div class="row">
+                <div id="opportunities">
+                    <section class="section" id="opportunities">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="Opportunities">Opportunities</h2>
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/xx1Shh5nMhg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                            <hr class="container">
+                        </header>
+                    </section>
+                </div>
+            </div>
+            <div class="max-width">
+                <div class="container mt20">
+                    {% for post in site.events %}
+                        <article class="col-sm-6 col-xs-12 event">
+                            <h2 class="entry-title">
+                                {% if post.alt_url %}
+                                    <a href="{{post.alt_url}}">{{ post.title }}</a>
+                                {% else %}
+                                    <a href="{{post.url}}">{{ post.title }}</a>
+                                {% endif %}
+                            </h2>
+                            <div class="entry-media">
+                            <figure>
+                                {% if post.alt_url %}
+                                    <a href="{{post.alt_url}}">
+                                {% else %}
+                                    <a href="{{post.url}}">
+                                {% endif %}
+                                    <img src="{{ post.image }}" alt="event"> </a></figure>
+                            </div>
+                            <!-- End .entry-media -->
+                            <div class="event-meta">
+                            <div class="event-place event-meta-box"><span class="event-label"><i class="fa fa-map-marker fa-fw"></i>Venue:</span>{{ post.location }}</div>
+                            <!-- End .event-date -->
+                            <div class="event-date event-meta-box"><span class="event-label"><i class="fa fa-calendar fa-fw"></i>Date:</span>{{ post.start_date }} {% if post.end_date %}- {{ post.end_date }}{% endif %}</div>
+                            <!-- End .event-date --> <!-- end .event-meta -->
+                            <p><span>{{ post.short_description }}</span></p>
+                            {% if post.alt_url %}
+                                <a href="{{ post.alt_url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
+                            {% else %}
+                                <a href="{{ post.url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
+                            {% endif %}
+                            <footer class="entry-footer clearfix"></footer></div>
+                        </article>
+                    {% endfor %}
+                </div>
+            </div>
+                <div class="container mt50"><div class="row">
+                    <h2 class="title text-center mb30">Alumni <span class="light first-color">Endorsements</span></h2>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6">
+                        <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                        <figure></figure>
+                        <div class="testimonial-content">
+                        <p><span>“The ministry of Athletes in Action literally changed my life during my freshman year at the University of Michigan. That’s why it is such a privilege to be partnered with AIA for some of our camps.”</span></p>
+                        <h5>Brandon Kornblue - <a href="http://www.kornbluekicking.com" title="Kornblue">Kornblue Kicking</a></h5>
+                        </div>
+                        <!-- End .testimonial-content --></div>
+                        <!-- End .testimonial --></div>
+                        <!-- End .col-md-6 -->
+                        <div class="col-md-6">
+                        <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                        <figure></figure>
+                        <div class="testimonial-content">
+                        <p><span>"The combination of high quality kicking mechanics training with spiritual leadership training is unmatched. I very much enjoyed my time at camp and came away with some great knowledge and perspective."</span></p>
+                        <h5>Matt Davis - <a href="#" title="Matt">Fred Mitchell Award Winner</a></h5>
+                        </div>
+                        </div>
+                        </div>
+                        </div>
+                    </div>
+
+            {% include plugins/football-social.html %}
+            {% include plugins/teamblogs.html %}
+            {% include base/footer.html %}
+            <script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+            <script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                (function () {
+                    "use strict";
+                    // Slider Revolution
+                    $('#revslider').revolution({
+                        delay:8000,
+                        startwidth:1170,
+                        startheight:500,
+                        fullWidth:"on",
+                        fullScreen:"on",
+                
+                        soloArrowLeftHOffset:20,
+                        soloArrowRightHOffset:20,
+                        dottedOverlay:"threexthree",
+                      fullScreenOffsetContainer: "#header, #gheader"
+                    });
+                }());
+            </script>
+        </div>
+    </body>
+</html>

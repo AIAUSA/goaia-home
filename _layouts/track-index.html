@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+        {% include base/head.html %}
+
+    </head>
+    <body>
+        <div id="wrapper">
+            {% include base/track-menu.html %}
+
+            {% include plugins/revslider.html src1="/uploads/track/homepage-slider.jpg" text1="Go With Track & Field" %}
+      
+            <div class="row">
+                <div id="About">
+                    <section class="section" id="About">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="About">About</h2>
+                        </header>
+                    </section>
+                </div>
+            </div>
+            <div class="max-width">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p><img class="col-md-4 pull-right" src="/uploads/track/track-web.jpg" />AIA Track & Field has been sending competitive teams throughout the world since the 1980s. Our experienced coaches and clinicians will provide training to push you to your best in three areas: physical, mental and spiritual.</p>
+                            <p>We believe that involvement with AIA Track & Field is the best investment of your time and talents! Whether you want to travel internationally, serve as a summer staff member or attend a camp, we’re confident that this will be a life-changing experience!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/Track-amp-Field/default.aspx" color="dark" %}
+            <div class="row">
+                <div id="tours">
+                    <section class="section" id="tours">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="tours">Tours</h2>
+                        </header>
+                    </section>
+                </div>
+            </div>
+            
+            <div class="max-width">
+                    <div class="container mt20">
+                            {% for post in site.teams %}
+                            <div class=" col-md-6">
+                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
+                                            <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pb{{forloop.index}}" aria-expanded="false" aria-controls="c1pb{{forloop.index}}" class="collapsed"> {{ post.title }} <span class="panel-icon"></span> </a></h4>
+                                        </div>
+                                        <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel" aria-labelledby="c1ph{{forloop.index}}">
+                                            <div class="panel-body">
+                                                <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
+                                                <strong>Dates:</strong>{{ post.dates }} <br>
+                                                <strong>About:</strong>{{ post.content }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                    </div>
+            </div>
+            {% include plugins/video-callout.html image="/uploads/track/track-video.jpg" text="Go with AIA Track & Field " byLine="Check out highlights from recent tours." video="https://www.youtube.com/watch?v=Tb63HOgfEtc" %}
+            
+            <div class="row">
+                <div id="opportunities">
+                    <section class="section" id="opportunities">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="Opportunities">Opportunities</h2>
+                        </header>
+                    </section>
+                </div>
+            </div>
+            <div class="max-width">
+                <div class="container mt20">
+                    {% for post in site.events %}
+                        <article class="col-sm-6 col-xs-12 event">
+                            <h2 class="entry-title">
+                                {% if post.alt_url %}
+                                    <a href="{{post.alt_url}}">{{ post.title }}</a>
+                                {% else %}
+                                    <a href="{{post.url}}">{{ post.title }}</a>
+                                {% endif %}
+                            </h2>
+                            <div class="entry-media">
+                            <figure>
+                                {% if post.alt_url %}
+                                    <a href="{{post.alt_url}}">
+                                {% else %}
+                                    <a href="{{post.url}}">
+                                {% endif %}
+                                    <img src="{{ post.image }}" alt="event"> </a></figure>
+                            </div>
+                            <!-- End .entry-media -->
+                            <div class="event-meta">
+                            <div class="event-place event-meta-box"><span class="event-label"><i class="fa fa-map-marker fa-fw"></i>Venue:</span>{{ post.location }}</div>
+                            <!-- End .event-date -->
+                            <div class="event-date event-meta-box"><span class="event-label"><i class="fa fa-calendar fa-fw"></i>Date:</span>{{ post.start_date }} {% if post.end_date %}- {{ post.end_date }}{% endif %}</div>
+                            <!-- End .event-date --> <!-- end .event-meta -->
+                            <p><span>{{ post.short_description }}</span></p>
+                            {% if post.alt_url %}
+                                <a href="{{ post.alt_url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
+                            {% else %}
+                                <a href="{{ post.url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
+                            {% endif %}
+                            <footer class="entry-footer clearfix"></footer></div>
+                        </article>
+                    {% endfor %}
+                </div>
+            </div>
+            <div id="apply"></div>
+                {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/Track-amp-Field/default.aspx" color="" %}
+
+                <div class="container mt50"><div class="row">
+                    <h2 class="title text-center mb30">Alumni <span class="light first-color">Endorsements</span></h2>
+                    </div>
+                    <div class="row">
+                    <div class="col-md-6">
+                    <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                    <figure></figure>
+                    <div class="testimonial-content">
+                    <p>“Tuff Camp deepened my understanding of the Gospel and renewed my love for the sport of running as a way to honor God!”</p>
+                    <h5>Emily - <a href="#" title="Tuff Camp">Tuff Camp.</a></h5>
+                    </div>
+                    <!-- End .testimonial-content --></div>
+                    <!-- End .testimonial --></div>
+                    <!-- End .col-md-6 -->
+                    <div class="col-md-6">
+                    <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                    <figure></figure>
+                    <div class="testimonial-content">
+                    <p>”The project fostered substantial growth in my own faith as I improved on sharing how God has worked in my life and given meaning to my training. "</p>
+                    <h5>Thomas - <a href="#" title="Switzerland">Switzerland</a></h5>
+                    </div>
+                    <!-- End .testimonial-content --></div>
+                    <!-- End .testimonial --></div>
+                    <!-- End .col-md-6 --></div>
+                    <!-- End .row -->
+                    <div class="row">
+                    <div class="col-md-6">
+                    <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                    <figure></figure>
+                    <div class="testimonial-content">
+                    <p>“The strong relationships with my teammates and the Canary locals will continue to impact me far beyond our time in the islands. ”</p>
+                    <h5>Allison - <a href="#" title="Canary Islands">Canary Islands</a></h5>
+                    </div>
+                    <!-- End .testimonial-content --></div>
+                    <!-- End .testimonial --></div>
+                    <!-- End .col-md-6 -->
+                    <div class="col-md-6">
+                    <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                    <figure></figure>
+                    <div class="testimonial-content">
+                    <p>“Being able to communicate God's love through sport only goes to show that He uses gifts He's given us to spread His word.”</p>
+                    <h5>Amy - <a href="#" title="Tuff Camp">Tuff Camp</a></h5>
+                    </div>
+                    <!-- End .testimonial-content --></div>
+                    <!-- End .testimonial --></div>
+                    <!-- End .col-md-6 --></div>
+                    <!-- End .row -->
+                    <div class="row">
+                    <div class="col-md-6">
+                    <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                    <figure></figure>
+                    <div class="testimonial-content">
+                    <p>“The biggest thing I learned was that I should praise God in the good times and the bad times in regards to track...God made me realize that even the bad times are part of His perfect plan.”</p>
+                    <h5>Joe - <a href="#" title="South Africa">South Africa</a></h5>
+                    </div>
+                    <!-- End .testimonial-content --></div>
+                    <!-- End .testimonial --></div>
+                    <!-- End .col-md-6 -->
+                    <div class="col-md-6">
+                    <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                    <figure></figure>
+                    <div class="testimonial-content">
+                    <p>“South Africa was a great wake-up call for what God wants me to do in my life: to share the gospel, and love on people. ”</p>
+                    <h5>Andre - <a href="#" title="South Africa">South Africa</a></h5>
+                    </div>
+                    <!-- End .testimonial-content --></div>
+                    <!-- End .testimonial --></div>
+                    <!-- End .col-md-6 --></div>
+                    <!-- End .row -->
+                    </div>
+
+            {% include plugins/track-social.html %}
+            {% include plugins/teamblogs.html %}
+            {% include base/footer.html %}
+            <script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+            <script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                (function () {
+                    "use strict";
+                    // Slider Revolution
+                    $('#revslider').revolution({
+                        delay:8000,
+                        startwidth:1170,
+                        startheight:500,
+                        fullWidth:"on",
+                        fullScreen:"on",
+                
+                        soloArrowLeftHOffset:20,
+                        soloArrowRightHOffset:20,
+                        dottedOverlay:"threexthree",
+                      fullScreenOffsetContainer: "#header, #gheader"
+                    });
+                }());
+            </script>
+        </div>
+    </body>
+</html>

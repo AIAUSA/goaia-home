@@ -2,5 +2,6 @@ s3_id: <%= ENV['AWSKeyID'] %>
 s3_secret: <%= ENV['AWSSecretKey'] %>
 s3_bucket: build.goaia.org
 ignore_on_server: _DELETE_NOTHING_ON_THE_S3_BUCKET_
+cache_control: public, no-transform, max-age=1200, s-maxage=1200
 exclude_from_upload:
   - postbuild.sh

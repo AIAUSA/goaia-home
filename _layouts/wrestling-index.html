@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+        {% include base/head.html %}
+
+    </head>
+    <body>
+        <div id="wrapper">
+            {% include base/wrestling-menu.html %}
+
+            {% include plugins/revslider.html src1="/uploads/wrestling/wrestlers-646521_1280.jpg" text1="Go With Wrestling" %}
+      
+            <div class="row">
+                <div id="About">
+                    <section class="section" id="About">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="About">About</h2>
+                        </header>
+                    </section>
+                </div>
+            </div>
+            <div class="max-width">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <p><img class="col-md-4 pull-right" src="/uploads/wrestling/wrestling-clip-art.gif" />AIA's very first sports team was a wrestling team that traveled to Japan in the summer of 1967. The following summer, our full-time wrestling team was formed to compete against college teams in the U.S. and around the world in order to tell opponents and their audiences about Jesus. For the next several years, AIA wrestling attracted world-class athletes who competed against all the top collegiate programs, conducted high school assemblies and summer camps, and produced two Olympians in John Peterson (1972 silver, 1976 gold) and Gene Davis (1976 bronze). </p>
+                            <p>Although there is no longer a full-time competing team, AIA wrestling continues to have a far-reaching impact on young men (and women) in the sport of wrestling through summer international teams, summer camps and full-time staff members ministering in areas of the world where wrestling is the favorite sport.</p>
+                            <h4>THE IMPACT</h4>
+                            <p>AIA Wrestling seeks to equip young men to be leaders in their families, churches, communities, and schools. The dynamics of summer tours set the stage for wrestlers to grow in their faith and improve their skills as an athlete and competitor. Tours teach servant leadership, expand world perspectives, give vision and purpose, facilitate growth in wrestling knowledge and abilities, as well as provide an opportunity to experience the power of Christ and the word of our testimonies.</p>
+                            <p>These experiences are not only for the one who goes, they also impact families, campuses, churches, and communities as the experiences are brought back home.</p>
+                            <h4>THE LEGACY</h4>
+                            <p>AIA Wrestling started sending teams to wrestle and do mission work in the late 1960s. At one time, AIA Wrestling was one of the few ways for a wrestler to attain international wrestling experience. Two of our senior staff members won medals at the Olympics. John Peterson (left) won the Gold Medal at the 1976 Olympic games and the Silver Medal in 1972. Gene Davis (right) won the Bronze Medal at the 1972 Olympics. </p>
+                            <p class="p1" style="text-align: center;"><img width="260" height="195" alt="" src="/uploads/Wrestling/john-peterson-olympics.jpg">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="260" height="195" alt="" src="/uploads/Wrestling/Gene-Davis-Olympics.jpg"></p>
+                            <p>In the summer of 1981 AIA Wrestling started sending out international teams and they continue to do so today.  Many well known and accomplished wrestlers have competed on AIA summer teams since then. Although there is no longer a full-time competing team, AIA wrestling continues to have a far-reaching impact on young men (and women) in the sport of wrestling through summer international teams, camps and full-time staff members ministering in areas of the world where wrestling is the favorite sport.  God has used AIAWrestling to help reach over 30 countries in the last 45 years and He continues to give AIA Wrestling opportunities to impact the world.</p>
+                            <h4>UNCOMMON OPPORTUNITIES</h4>
+                            <p><img class="col-md-4 pull-right" src="/uploads/wrestling/guatemala-prayer.jpg" />As an AIA wrestler, you will have the chance to compete in international tournaments against teams from around the globe, train alongside members of these teams, and be sharpened by your teammates - many are from different regions in the USA. On a summer tour you will live within another culture and have many opportunities to share your faith in a variety of ways. AIA ministers within the culture through speaking opportunities, distribution of humanitarian supplies, and sharing Bibles, Gospel literature, and evangelistic films. AIA has often been given open doors to share at prisons, schools, wrestling clubs, churches, and practices. Wrestlers will also have the chance to be a part of small group Bible studies within the culture allowing relationships to be formed with those they are ministering.</p>
+                            <p>One of the trademarks of an AIA tour is the excellent training, coaching and competitive wrestling opportunities for high school, college, and post-collegiate wrestlers. One value of AIA is to build into those being sent. We do this though:</p>
+                            <ul class="list-style list-disc">
+                                <li>Personal discipleship</li>
+                                <li>Bible studies</li>
+                                <li>Team building exercises</li>    
+                                <li>Evangelistic training and opportunities</li>
+                                <li>Cultural education and ministry exposure</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% include plugins/video-callout.html image="/uploads/wrestling/CZG7NOHWIAE_U5N.jpg" text="Improve as a wrestler and grow in your faith " byLine="Check out this video of a match at the Pat Shaw Tournament in Guatemala last year. <br /> Come and join us this summer!" video="https://www.youtube.com/watch?v=9UutOZTga4w" %}
+            <div class="row">
+                <div id="tours">
+                    <section class="section" id="tours">
+                        <header class="section-header container text-center">
+                            <h2 class="section-title first-color" data-title="tours">Tours</h2>
+                        </header>
+                    </section>
+                </div>
+            </div>
+            
+            <div class="max-width">
+                    <div class="container mt20">
+                            {% for post in site.teams %}
+                            <div class=" col-md-6">
+                                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                                    <div class="panel panel-default">
+                                        <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
+                                            <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pb{{forloop.index}}" aria-expanded="false" aria-controls="c1pb{{forloop.index}}" class="collapsed"> {{ post.title }} <span class="panel-icon"></span> </a></h4>
+                                        </div>
+                                        <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel" aria-labelledby="c1ph{{forloop.index}}">
+                                            <div class="panel-body">
+                                                <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
+                                                <strong>Dates:</strong>{{ post.dates }} <br>
+                                                <strong>About:</strong>{{ post.content }}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            {% endfor %}
+                    </div>
+            </div>
+            <div id="apply"></div>
+                {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/Wrestling/default.aspx" color="" %}
+            
+            <div class="max-width">
+                <div class="container mt30">
+                    <h2 class="title text-center mb30">Alumni <span class="light first-color">Information</span></h2>
+                    <p >AIA Wrestling has been equiping young men to be leaders for over 45 years. &nbsp;Not only leaders in the sport of wrestling, but in their families, churches, schools, work places and communities. Real leadership is born from real world experiences guided by men of integrity and character, who understand the link between our lives, our sport and our faith. &nbsp; These real experiences are the molds used to prepare young men for a lifetime of making a difference regardless of the path life takes them. &nbsp;</p>
+                    <p style="text-align: center;"><a href="http://teamblogs.athletesinaction.org/section/global-sports/wrestling" class="btn btn-dark no-radius min-width">Current Team Blogs</a><button class="btn btn-dark no-radius min-width" data-toggle="modal" data-target="#modal-text"> Notable Alumni <small></small> </button></p>
+                    <h4 style="text-align: left;">&nbsp;Ethan Ramos on AIA Wrestling</h4>
+                    <p ><img width="176" height="235" alt="" src="/uploads/Wrestling/Ethan-Ramos.JPG" style="float: right;"> "AIA has taught me how to compete with the mindset of putting God first, freeing me to compete at a higher potential without the added stress that I had before. It has helped me with keeping my anger in check if I lose a match. AIA has encouraged me to dive into the Bible and get involved in community. I see how important both is for growth in your faith. In life, the things I've learned from AIA help me to get through tough situations with minimal stress and remind me that God can be given glory in everything I do. AIA has provided a great community and challenged me to reach out to others. It also has presented me with opportunities to grow, like the Mongolia trip, which otherwise I wouldn't have had. Most importantly it showed me my need for Christ in my everyday life and the saving power of His death and resurrection. Before my AIA trip I was a devoted Christian and wrestler but saw the two as separate. My trip to Mongolia in 2015 left me with numerous lifelong memories, unforgettable experiences, and a network of other great Christian wrestlers. More importantly I was able to see how my relationship with God and wrestling went hand in hand and that by strengthening one I was also strengthening the other."</p>
+                    <p ><strong>Ethan Ramos</strong><br>University of North Carolina - All American</p>
+                    </div>
+            </div>        
+
+            {% include plugins/wrestling-social.html %}
+            {% include base/footer.html %}
+            <script src="/js/jquery.themepunch.tools.min.js" type="text/javascript"></script>
+            <script src="/js/jquery.themepunch.revolution.min.js" type="text/javascript"></script>
+            <script type="text/javascript">
+                (function () {
+                    "use strict";
+                    // Slider Revolution
+                    $('#revslider').revolution({
+                        delay:8000,
+                        startwidth:1170,
+                        startheight:500,
+                        fullWidth:"on",
+                        fullScreen:"on",
+                
+                        soloArrowLeftHOffset:20,
+                        soloArrowRightHOffset:20,
+                        dottedOverlay:"threexthree",
+                      fullScreenOffsetContainer: "#header, #gheader"
+                    });
+                }());
+            </script>
+        </div>
+    </body>
+</html>

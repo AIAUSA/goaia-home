@@ -1,8 +1,9 @@
 #Travis - 2/16/18
 language: ruby
 rvm:
-  - 2.3.3
-install: gem install jekyll jekyll-redirect-from s3_website
+  - 2.1
+cache: bundler
+install: gem install ruby_dep -v 1.3.1 && gem install listen -v 3.0.8 && gem install jekyll -v 3.3.0 && gem install jekyll-redirect-from && gem install s3_website
 script: jekyll build
 after_success: 
   - bash postbuild.sh
