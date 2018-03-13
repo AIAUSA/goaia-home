@@ -1,0 +1,123 @@
+---
+pages:
+- _pages/opportunity/x-project.md
+- _pages/careers/positions/headquarters/wtrc.md
+- _pages/pro/wnba.md
+- _pages/opportunity/winterretreat.md
+- _pages/utc-hs.md
+- _pages/tennis.md
+- _pages/basketball/teams.md
+- _pages/careers/stint.md
+- _pages/opportunity/spring-break.md
+- _pages/campus/sportlin.md
+- _pages/opportunity/south-africa.md
+- _pages/softball.md
+- _pages/pro/soccer.md
+- _pages/search.md
+- _pages/careers/positions/headquarters/retreat-center-sports-complex.md
+- _pages/careers/qualifications.md
+- _pages/pro.md
+- _pages/careers/president.md
+- _pages/careers/positions.md
+- _pages/partnership.md
+- _pages/careers/part-time-field-staff.md
+- _pages/pro/nyc.md
+- _pages/pro/nfl.md
+- _pages/about/media.md
+- _pages/careers/married-individual-applicants.md
+- _pages/events/legends.md
+- _pages/careers/jobs.md
+- _pages/jobs.md
+- _pages/careers/intern.md
+- index.md
+- _pages/basketball/events/captains/index.md
+- _pages/basketball/index.md
+- _pages/football/index.md
+- _pages/basketball/events/index.md
+- _pages/wrestling/index.md
+- _pages/soccer/index.md
+- _pages/volleyball/index.md
+- _pages/track/index.md
+- _pages/careers/positions/index.md
+- _pages/careers/positions/headquarters/hq-ldhr.md
+- _pages/careers/positions/headquarters.md
+- _pages/golf.md
+- _pages/careers/gods-will.md
+- _pages/careers/positions/global.md
+- _pages/careers/positions/global-sports.md
+- _pages/give.md
+- _pages/careers/full-time.md
+- _pages/campus/find.md
+- _pages/basketball/events.md
+- _pages/error.md
+- _pages/careers/employement.md
+- _pages/opportunity/east-asia.md
+- _pages/careers/positions/headquarters/development.md
+- _pages/careers/debt.md
+- _pages/pro/cycling.md
+- _pages/careers/positions/headquarters/creative-connections.md
+- _pages/contact.md
+- _pages/careers/compensation.md
+- _pages/careers/positions/college.md
+- _pages/basketball/coaches.md
+- _pages/careers.md
+- _pages/basketball/careers.md
+- _pages/campus.md
+- _pages/basketball/camps.md
+- _pages/pro/nfl/buffalo.md
+- _pages/about/branding.md
+- _pages/opportunity/boston-project.md
+- _pages/about/board.md
+- _pages/about/beliefs.md
+- _pages/careers/apply.md
+- _pages/careers/aiainstitute.md
+- _pages/about.md
+- _pages/basketball/about.md
+- _pages/opportunity/FAQ.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: redirect_from
+  label: Redirect from
+  type: list
+  hidden: false
+  default: ''
+- name: sliderImage
+  label: Sliderimage
+  type: text
+  hidden: false
+  default: ''
+- name: sliderText
+  label: Slidertext
+  type: text
+  hidden: false
+  default: ''
+- name: redirect_to
+  label: Redirect to
+  type: list
+  hidden: false
+  default: ''
+- name: byLine
+  label: Byline
+  type: text
+  hidden: false
+  default: ''

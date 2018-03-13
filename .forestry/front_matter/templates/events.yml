@@ -1,0 +1,79 @@
+---
+pages:
+- _events/youth.md
+- _events/womens-captains.md
+- _events/tuff.md
+- _events/mens-captains.md
+- _events/legends.md
+- _events/high-school.md
+- _events/hbcu.md
+- _events/gathering.md
+- _events/forum.md
+- _events/final-four.md
+- _events/college.md
+- _events/coaches-academy.md
+- _events/altitude.md
+- _events/all-star.md
+- _events/Captains.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: location
+  label: Location
+  type: text
+  hidden: false
+  default: 
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: 
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: start_date
+  label: Start date
+  type: text
+  hidden: false
+  default: 
+- name: end_date
+  label: End date
+  type: text
+  hidden: false
+  default: 
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: alt_url
+  label: Alt url
+  type: text
+  hidden: false
+  default: 
+- name: short_description
+  label: Short description
+  type: textarea
+  hidden: false
+  default: 
+- name: sport
+  label: Sport
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: final_four
+  label: Final four
+  type: text
+  hidden: false
+  default: 
