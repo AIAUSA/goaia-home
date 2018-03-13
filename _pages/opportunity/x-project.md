@@ -69,7 +69,24 @@ sliderText: X-Project
 <div class=" span-12 cell">
 <div class="container mb30"><p><span>Interns stay in host homes that will provide a comfortable place to sleep, good food, and an “adoptive family” for the summer.</span></p>
 </div></div></div>
-{% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/X-Project-Internship/default.aspx" color="" %}<div class="row">
+<div class="row fullwidth">
+    <div class="max-width mt20">
+        <div class="mt20 callout no-border larger no-margin {{ include.color | default: light }}">
+            <div class="container">
+                <div class="callout-wrapper">
+                    <div class="callout-left">
+                        <h2 class="callout-title">Ready to join us for a life-changing summer internship?</h2>
+                    </div>
+                <!-- End .callout-left -->
+                    <div class="callout-right">
+                        <a href="https://my.athletesinaction.org/Applications/Tour/X-Project-Internship/default.aspx" class="btn btn-custom no-radius min-width">Apply Now!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
 <div class=" span-12 cell" id="more">
 <header class="section-header container text-center">
 <h2 class="section-title first-color" data-title="More Info">More Info</h2>
