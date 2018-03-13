@@ -46,7 +46,7 @@
             
             <div class="max-width">
                     <div class="container mt20">
-                        {% assign sorted = (site.teams | where: "sport","soccer") %}
+                        {% assign sorted = site.teams | where: "sport","soccer" %}
                         {% for post in sorted %}
                             <div class=" col-md-6">
                                 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
@@ -80,7 +80,7 @@
             </div>
             <div class="max-width">
                 <div class="container mt20">
-                    {% assign sortedevents = (site.events | where: "sport","soccer") %}
+                    {% assign sortedevents = site.events | where: "sport","soccer" %}
                         {% for post in sortedevents %}
                         <article class="col-sm-12 col-xs-12 event">
                             <h2 class="entry-title">

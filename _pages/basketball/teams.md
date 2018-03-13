@@ -32,7 +32,7 @@ layout: page
 <div class="col-md-4">
     <h2>Men's Tours</h2>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-        {% assign sorted = (site.teams | where: "type","Men") %}
+        {% assign sorted = site.teams | where: "type","Men" %}
         {% for post in sorted %}
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
@@ -53,7 +53,7 @@ layout: page
 <div class="col-md-4">
     <h2>Women's Tours</h2>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-        {% assign sorted1 = (site.teams | where: "type","Women") %}
+        {% assign sorted1 = site.teams | where: "type","Women" %}
         {% for post in sorted1 %}
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="c2ph{{forloop.index}}">
@@ -75,7 +75,7 @@ layout: page
     <h2>Coaches's Tours</h2>
     <p>We are seeking to send coaches to host one week Coaching Clinics to accelerate the local AIA ministry in:</p>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-        {% assign sorted2 = (site.teams | where: "type","Coach") %}
+        {% assign sorted2 = site.teams | where: "type","Coach" %}
         {% for post in sorted2 %}
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="c3ph{{forloop.index}}">

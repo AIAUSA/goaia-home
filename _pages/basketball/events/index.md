@@ -6,7 +6,7 @@ layout: page
 ---
 
 <div class="container mt20">
-    {% assign sortedevents = (site.events | where: "sport","basketball") %}
+    {% assign sortedevents = site.events | where: "sport","basketball" %}
         {% for post in sortedevents %}
             <article class="col-sm-6 col-xs-12 event">
                 <h2 class="entry-title">

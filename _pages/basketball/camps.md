@@ -23,7 +23,7 @@ AIA’s youth basketball camps provide a great introduction to the game of baske
 <div class="col-md-6">
     <h2>Little Dribblers Camps (Grades 1-4)</h2>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-        {% assign sorted = (site.camps | where: "type","Little Dribbler") %}
+        {% assign sorted = site.camps | where: "type","Little Dribbler" %}
         {% for post in sorted %}
             <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
@@ -43,7 +43,7 @@ AIA’s youth basketball camps provide a great introduction to the game of baske
 <div class="col-md-6">
     <h2>High Performance Camps (Grades 4-9)</h2>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-        {% assign sorted1 = (site.camps | where: "type","High Performance") %}
+        {% assign sorted1 = site.camps | where: "type","High Performance" %}
         {% for post in sorted1 %}
                        <div class="panel panel-default">
                 <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
