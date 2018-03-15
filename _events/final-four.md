@@ -2,7 +2,7 @@
 title: Final Four Events
 location: Phoenix, AZ
 image: /uploads/basketball/finalfourEvents.png
-permalink: /basketball/events/finalfour.html
+permalink: /basketball/events/finalfour
 start_date: March 29th
 end_date: April 2nd, 2017
 layout: no-title
