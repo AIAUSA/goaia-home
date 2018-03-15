@@ -1,0 +1,73 @@
+---
+pages:
+- _teams/tuff.md
+- _teams/togo.md
+- _teams/switizerland.md
+- _teams/spain.md
+- _teams/portugal.md
+- _teams/polan.md
+- _teams/new-zealand.md
+- _teams/mongolia.md
+- _teams/mongolia bb.md
+- _teams/mexico-city.md
+- _teams/kenya.md
+- _teams/italy.md
+- _teams/hondours.md
+- _teams/georgia.md
+- _teams/ethopia.md
+- _teams/east-asia.md
+- _teams/czech-spain.md
+- _teams/canary.md
+- _teams/brazil-women.md
+- _teams/brazil-men.md
+- _teams/ProCamp.md
+- _teams/Nigeria.md
+- _teams/Central-Asia.md
+- _teams/Brazil.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: director
+  label: Director
+  type: text
+  hidden: false
+  default: 
+- name: director_email
+  label: Director email
+  type: text
+  hidden: false
+  default: 
+- name: dates
+  label: Dates
+  type: text
+  hidden: false
+  default: 
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
+- name: sport
+  label: Sport
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: level
+  label: Level
+  type: text
+  hidden: false
+  default: 
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: 
