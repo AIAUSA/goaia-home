@@ -1,10 +1,10 @@
 ---
 title: Final Four Events
-location: Phoenix, AZ
+location: San Antonio, TX & Columbus, OH
 image: /uploads/basketball/finalfourEvents.png
 permalink: /basketball/events/finalfour
 start_date: March 29th
-end_date: April 2nd, 2017
+end_date: April 1st, 2018
 layout: no-title
 alt_url: 
 short_description: AIA Basketball has various events, highlighted by the Legends of the Hardwood Breakfast at the Men's Final Four. Check out our events by going to the Final Four Events Page below.
