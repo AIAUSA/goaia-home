@@ -44,7 +44,7 @@ layout: page
 </div>
 <!-- End .panel-heading -->
 <div id="c1pb2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c1ph2" aria-expanded="false" style="height: 0px;">
-<div class="panel-body"><span>Athletes in Action Basketball wants to invest in your team's leaders! &nbsp;Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court.</span><br><a href="/basketball/event/captains">Captains Academy Event Page</a></div>
+<div class="panel-body"><span>Athletes in Action Basketball wants to invest in your team's leaders! &nbsp;Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court.</span><br><a href="/basketball/events/captains">Captains Academy Event Page</a></div>
 <!-- End .panel-body --></div>
 <!-- End .panel-collapse --></div>
 <!-- End .panel -->
@@ -54,7 +54,7 @@ layout: page
 </div>
 <!-- End .panel-heading -->
 <div id="c1pb3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c1ph3" aria-expanded="false">
-<div class="panel-body"><span>The&nbsp;purpose of the HBCU Coaches Retreat is to create an environment for personal, professional and spiritual growth to help you thrive in your present role in an HBCU institution and have the kind of impact you desire with your staff and players.</span><br><a href="/basketball/event/hbcu">HBCU Coaches Retreat Event Page</a></div>
+<div class="panel-body"><span>The&nbsp;purpose of the HBCU Coaches Retreat is to create an environment for personal, professional and spiritual growth to help you thrive in your present role in an HBCU institution and have the kind of impact you desire with your staff and players.</span><br><a href="/basketball/events/hbcu">HBCU Coaches Retreat Event Page</a></div>
 <!-- End .panel-body --></div>
 <!-- End .panel-collapse --></div>
 <!-- End .panel -->
@@ -64,7 +64,7 @@ layout: page
 </div>
 <!-- End .panel-heading -->
 <div id="c1pb4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c1ph4" aria-expanded="false" style="height: 0px;">
-<div class="panel-body"><span>The AIA Coaches Academy is an </span><em>invite only</em><span> two-week academy&nbsp;blending coaching instruction, leadership development and cultural experience. Coaches from around the world, converge at AIA's World Training and Resource Center in Xenia, Ohio, with a goal of leaving able to better&nbsp;<span>lead and guide their athletes not only on the court, but in their homes and communities, too.</span></span><br><a href="/basketball/event/coachesacademy">International Coaches Academy Event Page</a>&nbsp;</div>
+<div class="panel-body"><span>The AIA Coaches Academy is an </span><em>invite only</em><span> two-week academy&nbsp;blending coaching instruction, leadership development and cultural experience. Coaches from around the world, converge at AIA's World Training and Resource Center in Xenia, Ohio, with a goal of leaving able to better&nbsp;<span>lead and guide their athletes not only on the court, but in their homes and communities, too.</span></span><br><a href="/basketball/events/coachesacademy">International Coaches Academy Event Page</a>&nbsp;</div>
 </div>
 </div>
 </div>

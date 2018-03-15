@@ -1,15 +1,18 @@
 ---
 title: HBCU Coaches Retreat
+permalink: "/basketball/events/hbcu"
 location: AIA World Headquarters, Xenia, OH
-image: /uploads/basketball/hbcuEvent.png
-permalink: /basketball/events/hbcu
-start_date: June 1
-end_date: 3, 2018
+image: "/uploads/basketball/hbcuEvent.png"
+start_date: 2001-06-01 00:00:00 Z
+end_date: 0003-01-01 00:00:00 Z
+short_description: The purpose of the HBCU Coaches Retreat is to create an environment
+  for personal, professional and spiritual growth to help you thrive in your present
+  role in an HBCU institution and have the kind of impact you desire with your staff
+  and players.
+final_four: 0
 layout: page
-alt_url: 
-short_description: 'The purpose of the HBCU Coaches Retreat is to create an environment for personal, professional and spiritual growth to help you thrive in your present role in an HBCU institution and have the kind of impact you desire with your staff and players.'
-sport: basketball
 ---
+
 <div class="row">
 <div class="max-width">
 <div class="container">
@@ -56,14 +59,15 @@ sport: basketball
 <div class="pricing-table flat"><header>
 <div class="price"><span>Friday</span></div>
 </header>
-<h3>June 2nd<span class="label label-custom"></span></h3>
+<h3>June 1st<span class="label label-custom"></span></h3>
 <p class="pricing-desc">Theme: Registration and Introductions</p>
 <ul class="pricing-list">
 <li><i class="icon-pin"></i>4pm-6pm: Check in</li>
-<li><i class="icon-pin"></i>6:30pm: Welcome and Dinner</li>
-<li><i class="icon-pin"></i>7:30pm: Session I - Your journey to pupose in coaching&nbsp;</li>
-<li><i class="icon-pin"></i>8:15pm: Breakout Groups</li>
-<li><i class="icon-pin"></i>9:15pm: Reception and Chalk Talk</li>
+<li><i class="icon-pin"></i>6:30pm: Welcome</li>
+<li><i class="icon-pin"></i>6:45pm: Dinner</li>
+<li><i class="icon-pin"></i>7:35pm: Speaker TBA</li>
+<li><i class="icon-pin"></i>8:00pm: Breakout Groups</li>
+<li><i class="icon-pin"></i>9:00pm: Reception</li>
 </ul>
 </div>
 <!-- End .pricing-table --></div>
@@ -72,16 +76,24 @@ sport: basketball
 <div class="pricing-table flat"><header>
 <div class="price"><span>Saturday</span></div>
 </header>
-<h3>June 3rd</h3>
+<h3>June 2nd</h3>
 <p class="pricing-desc">Theme: Personal Growth and Creating Culture.</p>
 <ul class="pricing-list">
 <li><i class="icon-pin"></i>7:30am: Breakfast</li>
-<li><i class="icon-pin"></i>8:30am: Session II - Vision - what, why, how</li>
+<li><i class="icon-pin"></i>8:30am: Speaker TBA</li>
+<li><i class="icon-pin"></i>9:00am: Breakout Groups</li>
+<li><i class="icon-pin"></i>10:00am: Break</li>
+<li><i class="icon-pin"></i>10:20am: Speaker TBA</li>
+<li><i class="icon-pin"></i>11:50am: Growing opportunities for you and spouse</li>
 <li><i class="icon-pin"></i>12:00pm:&nbsp;Lunch</li>
-<li><i class="icon-pin"></i>1:00pm: Optional Activities (Golf, Chalk Talk, etc.)</li>
-<li><i class="icon-pin"></i>6:30pm: Dinner &amp; Panel Discussion</li>
-<li><i class="icon-pin"></i>7:45pm: Session III - Moving from challenges to purpose &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</li>
-<li><i class="icon-pin"></i>8:45pm: Breakout Groups&nbsp;</li>
+<li><i class="icon-pin"></i>1:00pm: Optional Activities</li>
+<li>* Golf at Country Club of the North – Leave at 12:45 p.m.</li>
+<li>* Chalk Talk SDR - 2:30 p.m.</li>
+<li><i class="icon-pin"></i>6:00pm: Appetizers / Picture</li>
+<li><i class="icon-pin"></i>6:30pm: Dinner</li>
+<li><i class="icon-pin"></i>7:25pm: Panel Discussion led by Tim Carter</li>
+<li><i class="icon-pin"></i>8:15pm: Breakout Groups</li>
+<li><i class="icon-pin"></i>9:30pm: Reception and Hang time</li>
 </ul>
 </div>
 <!-- End .pricing-table --></div>
@@ -90,12 +102,14 @@ sport: basketball
 <div class="pricing-table flat"><header>
 <div class="price"><span>Sunday</span></div>
 </header>
-<h3>June 4th<span class="label label-popular"></span></h3>
+<h3>June 3rd<span class="label label-popular"></span></h3>
 <p class="pricing-desc">Theme: Having Impact and Debrief the Weekend.</p>
 <ul class="pricing-list">
-<li><i class="icon-pin"></i>8:00am: Breakfast</li>
-<li><i class="icon-pin"></i>8:30am: Session IV - Making changes that last&nbsp;</li>
-<li><i class="icon-pin"></i>10:00am: Closing</li>
+<li><i class="icon-pin"></i>8:00am: Breakfast Group Debrief – What are your Take-Aways?</li>
+<li><i class="icon-pin"></i>9:00am: Speaker TBA</li>
+<li><i class="icon-pin"></i>9:30am: Break</li>
+<li><i class="icon-pin"></i>9:45am: Wrap Up and Open Share</li>
+<li><i class="icon-pin"></i>10:45am: Closing</li>
 </ul>
 </div>
 <!-- End .pricing-table --></div>
