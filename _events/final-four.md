@@ -17,7 +17,7 @@ sport: basketball
         <div class="row">
             <div class="col-md-8 col-md-push-2" style="text-align: center;">
                 <h2 class="title text-center mb30">Final Four <span class="light first-color">Events</span></h2>
-                <a href="/uploads/basketball/2017%20NABC%20Ministry%20Events%20Schedule.Final%20(1).pdf" class="btn btn-dark no-radius min-width">NABC Ministry Events Guide</a>
+                <a href="http://nabcministryevents.org/" class="btn btn-dark no-radius min-width">NABC Ministry Events Guide</a>
                 <div class="mb20"></div>
             </div>
         </div>
