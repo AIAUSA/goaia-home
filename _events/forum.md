@@ -3,7 +3,7 @@ title: Coaches Forum
 location: San Antonio, TX
 image: /uploads/basketball/coachesforumEvent.png
 permalink: /basketball/events/forum
-start_date: March 30st, 2018 - 2:30pm
+start_date: March 30th, 2018 - 2:30pm
 end_date: 
 layout: page
 alt_url: 'https://www.facebook.com/events/272336043177664/'

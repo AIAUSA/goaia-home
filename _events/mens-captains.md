@@ -3,8 +3,8 @@ title: Men's Captain Academy
 location: AIA World Headquarters, Xenia, OH
 image: /uploads/basketball/captainsacademy1.png
 permalink: /basketball/events/captains/men
-start_date: May 18-22, 2017
-end_date:  August 9-13, 2017
+start_date: May 17th, 2018
+end_date:  May 21st, 2018
 layout: page
 alt_url: 
 short_description: "Athletes in Action Basketball wants to invest in your team's leaders! Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court."

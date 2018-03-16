@@ -1,9 +1,9 @@
 ---
 title: All Star Breakfast
-location: Toronto
+location: Los Angeles, CA
 image: /uploads/basketball/allstarbreakfastEvent.png
 permalink: /basketball/events/all-star
-start_date: February 18, 2017
+start_date: February 18, 2018
 end_date: 
 layout: page
 alt_url: 'https://allstarbreakfast.net'

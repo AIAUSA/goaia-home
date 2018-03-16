@@ -3,8 +3,8 @@ title: HBCU Coaches Retreat
 permalink: "/basketball/events/hbcu"
 location: AIA World Headquarters, Xenia, OH
 image: "/uploads/basketball/hbcuEvent.png"
-start_date: 2001-06-01 00:00:00 Z
-end_date: 0003-01-01 00:00:00 Z
+start_date: June 1st, 2018
+end_date: June 3rd, 2018
 short_description: The purpose of the HBCU Coaches Retreat is to create an environment
   for personal, professional and spiritual growth to help you thrive in your present
   role in an HBCU institution and have the kind of impact you desire with your staff

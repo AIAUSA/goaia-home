@@ -3,7 +3,7 @@ title: Womens Captains Academy
 location: AIA World Headquarters, Xenia, OH
 image: /uploads/basketball/womensbballretreat.png
 permalink: /basketball/events/captains/womens
-start_date: August 9
+start_date: August 2018
 end_date: 12, 2018
 layout: page
 alt_url: 

@@ -2,7 +2,7 @@
 title: Brazil
 director: Amber Moore and Ashley Warner
 director_email: volleyball@athletesinaction.org
-dates: July 14th - 28th, 2018
+dates: July 14th - 30th, 2018
 layout: page
 sport: volleyball
 ---

@@ -3,7 +3,7 @@ title: New Zealand
 level:  Collegiate
 director: Jason Stankus
 director_email: jason.stankus@athletesinaction.org
-dates: August 2018
+dates: July 23rd - August 11th, 2018
 type: Men
 layout: page
 sport: basketball

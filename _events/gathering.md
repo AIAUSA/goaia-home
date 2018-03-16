@@ -3,7 +3,7 @@ title: The Gathering
 location: San Antonio, TX
 image: /uploads/basketball/thegatheringEvents.png
 permalink: /basketball/events/gathering
-start_date: March 30st, 2018 - 9:00am
+start_date: March 30th, 2018 - 9:00am
 end_date: 
 layout: page
 alt_url: http://www.thegathering4coacheswives.com/

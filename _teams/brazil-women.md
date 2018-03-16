@@ -3,7 +3,7 @@ title: Brazil FISU Games
 level:  Collegiate
 director: Craig Sladek/Eric Nelson
 director_email: craig.sladek@athletesinaction.org
-dates: July 15th - 29th, 2018
+dates: July 14th - 30th, 2018
 type: Women
 layout: page
 sport: basketball
