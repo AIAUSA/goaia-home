@@ -16,10 +16,10 @@ sliderText: AIA Buffalo
 <div class=" span-12 cell">
 <div class="container"><div class="row">
 <div class="col-md-12">
-<p>&nbsp; <img class="img-responsive pull-right col-md-5" src="/uploads/pro/12-05-BUF-086-web-big.jpg"> Athletes in Action in Buffalo exists to build into the lives of the players, coaches and families of the Buffalo Bills by helping them use their unique platform to share the life-changing message of the gospel of Jesus Christ.</p>
+<p>Athletes in Action in Buffalo exists to build into the lives of the players, coaches and families of the Buffalo Bills by helping them use their unique platform to share the life-changing message of the gospel of Jesus Christ.</p>
 </div>
 </div>
-<div class="row">
+<!--<div class="row">
 <div class="col-md-6">
 <p><strong>Ministry TO athletes through: </strong></p>
 <ul>
@@ -43,7 +43,7 @@ sliderText: AIA Buffalo
 <li>Corporate Outreaches</li>
 </ul>
 </div>
-</div>
+</div> -->
 </div></div></div>
 <div class="row">
 <div class=" span-12 cell">
