@@ -67,6 +67,7 @@ sliderText: AIA Buffalo
 </div>
 <div class="col-md-6">
 <h5><img class="img-responsive pull-left col-md-12" alt="" src="/uploads/pro/DemarioDavis.jpg"><br />This year's winner is Demario Davis of the NY Jets.</h5>
+<p>Read the <a href="/uploads/pro/Call-to-Courage-Awards-Breakfast-News-Release-2018.pdf">2018 Press Release</a>.</p>
 </div>
 <div class="col-md-6">
 <h4>Tickets for the Call to Courage Breakfast are available:</h4>
