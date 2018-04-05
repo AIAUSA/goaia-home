@@ -1,5 +1,5 @@
 ---
-title: Men's Captain Academy
+title: Men's Captains Academy
 location: AIA World Headquarters, Xenia, OH
 image: /uploads/basketball/captainsacademy1.png
 permalink: /basketball/events/captains/men
