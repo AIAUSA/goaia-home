@@ -16,10 +16,10 @@ sliderText: AIA Buffalo
 <div class=" span-12 cell">
 <div class="container"><div class="row">
 <div class="col-md-12">
-<p>&nbsp; <img class="img-responsive pull-right col-md-5" src="/uploads/pro/12-05-BUF-086-web-big.jpg"> Athletes in Action in Buffalo exists to build into the lives of the players, coaches and families of the Buffalo Bills by helping them use their unique platform to share the life-changing message of the gospel of Jesus Christ.</p>
+<p>Athletes in Action in Buffalo exists to build into the lives of the players, coaches and families of the Buffalo Bills by helping them use their unique platform to share the life-changing message of the gospel of Jesus Christ.</p>
 </div>
 </div>
-<div class="row">
+<!--<div class="row">
 <div class="col-md-6">
 <p><strong>Ministry TO athletes through: </strong></p>
 <ul>
@@ -43,7 +43,7 @@ sliderText: AIA Buffalo
 <li>Corporate Outreaches</li>
 </ul>
 </div>
-</div>
+</div> -->
 </div></div></div>
 <div class="row">
 <div class=" span-12 cell">
@@ -67,6 +67,7 @@ sliderText: AIA Buffalo
 </div>
 <div class="col-md-6">
 <h5><img class="img-responsive pull-left col-md-12" alt="" src="/uploads/pro/DemarioDavis.jpg"><br />This year's winner is Demario Davis of the NY Jets.</h5>
+<p>Read the <a href="/uploads/pro/Call-to-Courage-Awards-Breakfast-News-Release-2018.pdf">2018 Press Release</a>.</p>
 </div>
 <div class="col-md-6">
 <h4>Tickets for the Call to Courage Breakfast are available:</h4>

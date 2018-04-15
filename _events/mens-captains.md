@@ -1,5 +1,5 @@
 ---
-title: Men's Captain Academy
+title: Men's Captains Academy
 location: AIA World Headquarters, Xenia, OH
 image: /uploads/basketball/captainsacademy1.png
 permalink: /basketball/events/captains/men
@@ -81,7 +81,7 @@ sport: basketball
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<h3 style="text-align: center;">May 18th - 22nd, 2017<br />Athletes in Action Total Athlete Complex</h3>
+<h3 style="text-align: center;">May 17th - 21st, 2018<br />Athletes in Action Total Athlete Complex</h3>
 <h3 style="text-align: center;"><strong>Schedule Includes:</strong></h3>
 <center>
 <table>
