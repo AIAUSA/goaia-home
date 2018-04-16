@@ -221,7 +221,7 @@ sport: basketball
 <p><strong><span style="text-decoration: underline;"></span></strong></p>
 <p><strong>HQ Location:<span style="text-decoration: underline;"><span> 651 Taylor Drive, Xenia OH 45385</span></span></strong></p>
 <p><strong><span style="text-decoration: underline;"></span></strong></p>
-<p><strong><span style="text-decoration: underline;">Cost</span>: $595/person + travel arrangements &nbsp; &nbsp;&nbsp;<span style="text-decoration: underline;">Contact:</span>&nbsp;<a href="mailto:morris.michalski@athletesinaction.org">Morris Michalski</a></strong></p>
+<p><strong><span style="text-decoration: underline;">Cost</span>: $625/person + travel arrangements &nbsp; &nbsp;&nbsp;<span style="text-decoration: underline;">Contact:</span>&nbsp;<a href="mailto:morris.michalski@athletesinaction.org">Morris Michalski</a></strong></p>
 <p></p>
 </div></div></div>
 <div class="row">
