@@ -178,10 +178,10 @@ $(document).ready(function() {
 
 		function checkSchoolType (StaffType)
 		{
-			 if(StaffType == 'Staffed') {return 'https://goaia.org/Themes/AIA/Content/aiastaffpin.png';}
-			 else if (StaffType == 'SportLinc') {return 'https://goaia.org/Themes/AIA/Content/aia-sportlinc-pin.png';}
-			 else if (StaffType == 'USCM Connect') {return 'https://goaia.org/Themes/AIA/Content/crupin.png';}
-			 else {return 'http://goaia.org/Themes/AIA/Content/no-presence.png';}
+			 if(StaffType == 'Staffed') {return 'https://goaia.org/uploads/Campus/aiastaffpin.png';}
+			 else if (StaffType == 'SportLinc') {return 'https://goaia.org/uploads/Campus/aia-sportlinc-pin.png';}
+			 else if (StaffType == 'USCM Connect') {return 'https://goaia.org/uploads/Campus/crupin.png';}
+			 else {return 'https://goaia.org/uploads/Campus/no-presence.png';}
 
 		}
 		var map = new Maplace({
