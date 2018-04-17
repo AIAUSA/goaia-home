@@ -67,7 +67,7 @@ sliderText: X-Project
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container mb30"><p><span>Interns stay in host homes that will provide a comfortable place to sleep, good food, and an “adoptive family” for the summer.</span></p>
+<div class="container mb30"><p><span>Interns stay with other interns in host homes that will provide a comfortable place to sleep, good food, and an “adoptive family” for the summer.</span></p>
 </div></div></div>
 <div class="row fullwidth">
     <div class="max-width mt20">
