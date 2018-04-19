@@ -2,20 +2,20 @@
 pages:
 - _events/youth.md
 - _events/womens-captains.md
-- _events/tuff.md
+- _events/final-four.md
 - _events/mens-captains.md
 - _events/legends.md
-- _events/high-school.md
-- _events/hbcu.md
-- _events/gathering.md
-- _events/forum.md
-- _events/final-four.md
 - _events/college.md
 - _events/coaches-academy.md
 - _events/altitude.md
+- _events/high-school.md
+- _events/gathering.md
+- _events/tuff.md
+- _events/hbcu.md
+- _events/forum.md
 - _events/all-star.md
-- _events/Captains.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
