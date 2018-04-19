@@ -3,6 +3,7 @@ title: Basketball Competeing Teams
 permalink: "/basketball/teams"
 type: page
 layout: page
+menu: basketball
 ---
 <div class="row">
 <div class="span-12 cell"><div class="container">

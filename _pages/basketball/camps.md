@@ -3,6 +3,7 @@ title: Basketball Camps
 permalink: "/basketball/camps"
 type: page
 layout: page
+menu: basketball
 ---
 <div class="container">
 <h2 class="title text mb30">Summer <span class="light first-color">Youth Camps</span></h2>

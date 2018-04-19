@@ -3,6 +3,7 @@ title: Basketball Coaches
 permalink: "/basketball/coaches"
 type: page
 layout: page
+menu: basketball
 ---
 <div class="container">
 <h2 class="title text mb30">Coach <span class="light first-color">With AIA</span></h2>

@@ -3,6 +3,7 @@ title: About Basketball
 permalink: "/basketball/about"
 type: page
 layout: page
+menu: basketball
 ---
 <div class="container">
 <div class="row">

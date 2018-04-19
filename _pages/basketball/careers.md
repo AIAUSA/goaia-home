@@ -3,6 +3,7 @@ title: Basketball Careers
 permalink: "/basketball/careers"
 type: page
 layout: page
+menu: basketball
 ---
 <div class="row">
 <div class="max-width">

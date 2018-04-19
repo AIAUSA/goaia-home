@@ -7,7 +7,11 @@
 
     </head>
     <body>
-        {% include base/base-menu.html %}
+        {% if page.menu == 'basketball' %}
+            {% include base/basketball-menu.html %}
+        {% else %}
+            {% include base/base-menu.html %}
+        {% endif %}
 
         {{ content }}
         {% include base/footer.html %}        

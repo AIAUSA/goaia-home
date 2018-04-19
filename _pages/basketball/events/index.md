@@ -3,6 +3,7 @@ title: Events
 permalink: "/basketball/events/"
 type: page
 layout: page
+menu: basketball
 ---
 
 <div class="container mt20">
