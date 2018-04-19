@@ -20,6 +20,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  track-pages:
+    title: Track
+    output: true
 defaults:
 - scope:
     path: ''
