@@ -1,10 +1,10 @@
 ---
 pages:
+- _pages/about/branding.md
 - _pages/opportunity/x-project.md
 - _pages/careers/positions/headquarters/wtrc.md
 - _pages/pro/wnba.md
 - _pages/opportunity/winterretreat.md
-- _pages/utc-hs.md
 - _pages/tennis.md
 - _pages/basketball/teams.md
 - _pages/careers/stint.md
@@ -37,7 +37,6 @@ pages:
 - _pages/wrestling/index.md
 - _pages/soccer/index.md
 - _pages/volleyball/index.md
-- _pages/track/index.md
 - _pages/careers/positions/index.md
 - _pages/careers/positions/headquarters/hq-ldhr.md
 - _pages/careers/positions/headquarters.md
@@ -65,7 +64,6 @@ pages:
 - _pages/campus.md
 - _pages/basketball/camps.md
 - _pages/pro/nfl/buffalo.md
-- _pages/about/branding.md
 - _pages/opportunity/boston-project.md
 - _pages/about/board.md
 - _pages/about/beliefs.md
@@ -75,6 +73,7 @@ pages:
 - _pages/basketball/about.md
 - _pages/opportunity/FAQ.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
