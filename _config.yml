@@ -20,8 +20,20 @@ collections:
   uploads:
     title: Uploads
     output: true
-  track-pages:
+  track:
     title: Track
+    output: true
+  soccer:
+    title: Soccer
+    output: true
+  volleyball:
+    title: Volleyball
+    output: true
+  football:
+    title: Football
+    output: true
+  wrestling:
+    title: Wrestling
     output: true
 defaults:
 - scope:
