@@ -19,11 +19,11 @@ sliderText: X-Project
 <div class="container"><div class="callout bordered custom">
 <div class="callout-wrapper">
 <div class="callout-left">
-<h2 class="callout-title">Read our 2017 Team Blog</h2>
+<h2 class="callout-title">Read our 2018 Team Blog</h2>
 <p class="callout-desc"></p>
 </div>
 <!-- End .callout-left -->
-<div class="callout-right"><a href="http://teamblogs.athletesinaction.org/x-project-ohio" class="btn btn-gray btn-border no-radius min-width">Read</a></div>
+<div class="callout-right"><a href="https://goaia.org/opportunity/blog/x-project/" class="btn btn-gray btn-border no-radius min-width">Read</a></div>
 <!-- End .callout-right --></div>
 <!-- End .callout-wrapper --></div>
 </div>
@@ -76,6 +76,7 @@ sliderText: X-Project
                 <div class="callout-wrapper">
                     <div class="callout-left">
                         <h2 class="callout-title">Ready to join us for a life-changing summer internship?</h2>
+                        <p> Application Deadline: May 1st (After May 1st, please contact the project director at 937-903-8324)</p>
                     </div>
                 <!-- End .callout-left -->
                     <div class="callout-right">
