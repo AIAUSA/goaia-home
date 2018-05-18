@@ -11,7 +11,7 @@ layout: page
 <div class="container mt30"><div class="row">
 <div class="col-md-3"><a href="/pro/nfl" class="btn btn-dark col-md-10">NFL</a></div>
 <div class="col-md-3"><a href="/pro/wnba" class="btn btn-dark  col-md-10">WNBA</a></div>
-<div class="col-md-3"><a href="/pro/cycling" class="btn btn-dark  col-md-10">Cycling</a></div>
+<div class="col-md-3"><a href="http://aiacycling.org" class="btn btn-dark  col-md-10">Cycling</a></div>
 <div class="col-md-3"><a href="/pro/soccer" class="btn btn-dark  col-md-10">Soccer</a></div>
 </div>
 </div>
@@ -45,7 +45,7 @@ layout: page
 <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
 <figure></figure>
 <div class="testimonial-content">
-<h3><a href="/pro/cycling">Cycling</a></h3>
+<h3><a href="http://aiacycling.com">Cycling</a></h3>
 <p>"Cycling at the top level is very isolated and demanding. It is a challenging environment to be racing around the world immersed in a secular and self-serving culture ten months of the year. AIA has begun connecting me with other Christians in the sport offering Biblical encouragement and accountability.”</p>
 <h5>Ben King - <a href="#" title="Garmin-Sharp Pro Cycling Team"> Garmin-Sharp Pro Cycling Team</a></h5>
 </div>
