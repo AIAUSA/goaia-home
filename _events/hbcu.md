@@ -20,20 +20,24 @@ layout: page
 </div></div></div>
 <div class="row">
 <div class="max-width">
-<div class="container"><p><span>Join Clark Kellogg and other distinguished coaches in pursuit of personal and professional growth, leadership development, and spiritual encouragement.</span></p>
-<p><span><strong>Purpose:</strong><span>&nbsp; &nbsp;Our Purpose is to Create an environment for personal, professional and spiritual growth to help you thrive in your present role in an HBCU institution and have the kind of impact you desire with your staff and players.</span></span></p>
+<div class="container">
+<p><span><strong>Fourth Annnual HBCU Coaches Retreat</strong></span></p>
+<p><span>Join Clark Kellogg and other distinguished coaches in pursuit of personal and professional growth, leadership development, and spiritual encouragement.</span></p>
+<p><span><strong>Purpose:</strong><span>&nbsp; &nbsp;To encourage, enrich and build strong relationships to support you as the leader.</span></span></p>
+<p><span><strong>Theme:</strong><span>Leadership starts with you!</span></span></p>
 <p><strong>Presenters will be:</strong></p>
 <ul>
 <li>Clark Kellogg - CBS College Basketball Analyst</li>
-<li>Avery Johnson - University of Alabama&nbsp;</li>
-<li>Mike Jarvis - Basketball Coach most recently at Florida Atlantic University&nbsp;<br /><br /></li>
+<li>Lionel Hollins - Former NBA Great </li>
+<li>Archie Griffin - 2 time Heisman Winner<br /><br /></li>
 </ul>
-<p><strong>Our time will include:</strong></p>
+<p><strong>Our topics will include:</strong></p>
 <ul>
-<li>Discussion on navigating and building a culture that works</li>
-<li>Discussion on leading yourself well and leading others</li>
-<li>Group breakouts, panel discussions and presentations</li>
-<li>Optional activities: golf, hoops, assistant coach breakouts and time for chalk talks</li>
+<li>Why you coach</li>
+<li>Strategies for resource development</li>
+<li>Bearing fruit amidst challenges</li>
+<li>Building staff culture</li>
+<li>X's and O's</li>
 </ul>
 <p><em><br /><strong>All to help you have the impact you desire!</strong></em></p>
 </div>
@@ -82,16 +86,15 @@ layout: page
 <li><i class="icon-pin"></i>7:30am: Breakfast</li>
 <li><i class="icon-pin"></i>8:30am: Speaker TBA</li>
 <li><i class="icon-pin"></i>9:00am: Breakout Groups</li>
-<li><i class="icon-pin"></i>10:00am: Break</li>
-<li><i class="icon-pin"></i>10:20am: Speaker TBA</li>
-<li><i class="icon-pin"></i>11:50am: Growing opportunities for you and spouse</li>
+<li><i class="icon-pin"></i>10:00am: Hot Topics and Discussion</li>
 <li><i class="icon-pin"></i>12:00pm:&nbsp;Lunch</li>
-<li><i class="icon-pin"></i>1:00pm: Optional Activities</li>
+<li><i class="icon-pin"></i>1:00pm: Pick your own afternoon</li>
 <li>* Golf at Country Club of the North – Leave at 12:45 p.m.</li>
 <li>* Chalk Talk SDR - 2:30 p.m.</li>
+<li>* Assistant Coach Breakout</li>
 <li><i class="icon-pin"></i>6:00pm: Appetizers / Picture</li>
 <li><i class="icon-pin"></i>6:30pm: Dinner</li>
-<li><i class="icon-pin"></i>7:25pm: Panel Discussion led by Tim Carter</li>
+<li><i class="icon-pin"></i>7:25pm: Panel Discussion including Archie Griffin and others</li>
 <li><i class="icon-pin"></i>8:15pm: Breakout Groups</li>
 <li><i class="icon-pin"></i>9:30pm: Reception and Hang time</li>
 </ul>
