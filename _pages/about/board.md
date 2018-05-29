@@ -106,14 +106,6 @@ layout: page
 <!-- End .member-container -->
 <div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/schindler.jpg" alt="" class="img-responsive img-circle"></figure>
-<h3>Bud Schindler</h3>
-<p class="member-desc">Emeritus President of Legacy Ministries International (LMI)</p>
-<!-- End .social-icons --></div>
-<!-- End .team-member --></div>
-<!-- End .member-container -->
-<div class="col-md-3 col-xs-6 team-member-container">
-<div class="team-member text-center">
 <figure><img src="/uploads/About/BoardofTrustees/doug-skidmore.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Doug Skidmore</h3>
 <p class="member-desc">President and CEO of Skidmore Sales &amp; Distributing Co.</p>
