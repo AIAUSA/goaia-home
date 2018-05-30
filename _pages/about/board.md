@@ -42,9 +42,9 @@ layout: page
 <!-- End .member-container -->
 <div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/internal/browne.jpg" alt="" class="img-responsive img-circle"></figure>
+<figure><img src="/uploads/About/BoardofTrustees/Internal/browne.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Dave Browne</h3>
-<p class="member-desc">Executive Director AIA Business Services</p>
+<p class="member-desc">Former CEO Lense Crafters & Family Christian Bookstore.</p>
 <!-- End .social-icons --></div>
 <!-- End .team-member --></div>
 <!-- End .member-container -->
@@ -123,14 +123,14 @@ layout: page
 <div class="row board">
 <div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/internal/anthony.jpg" alt="" class="img-responsive img-circle"></figure>
+<figure><img src="/uploads/About/BoardofTrustees/Internal/anthony.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Corwin Anthony</h3>
-<p class="member-desc">National Directory of Pro Ministry</p>
+<p class="member-desc">Executive Director, Pro Ministries (serving the NFL)</p>
 <!-- End .social-icons --></div>
 <!-- End .team-member --></div>
 <div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/internal/dendinger.jpg" alt="" class="img-responsive img-circle"></figure>
+<figure><img src="/uploads/About/BoardofTrustees/Internal/dendinger.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Jerry Dendinger</h3>
 <p class="member-desc">Vice President of Ministry Operations</p>
 <!-- End .social-icons --></div>
@@ -138,17 +138,17 @@ layout: page
 <!-- End .member-container -->
 <div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/internal/McDowell.jpg" alt="" class="img-responsive img-circle"></figure>
+<figure><img src="/uploads/About/BoardofTrustees/Internal/McDowell.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Dave McDowell</h3>
-<p class="member-desc">Vice President of Global Initiatives</p>
+<p class="member-desc">Executive Director, Development</p>
 <!-- End .social-icons --></div>
 <!-- End .team-member --></div>
 <!-- End .member-container -->
 <div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/internal/Eric-Nelson-BOT-web-2.jpg" alt="" class="img-responsive img-circle"></figure>
+<figure><img src="/uploads/About/BoardofTrustees/Internal/Eric-Nelson-BOT-web-2.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Eric Nelson</h3>
-<p class="member-desc">Director, Global Sports and Sports Complex Recreation Center</p>
+<p class="member-desc">Executive Director, Sports TEAM/Basketball</p>
 <!-- End .social-icons --></div>
 <!-- End .team-member --></div>
 <!-- End .member-container --></div>
