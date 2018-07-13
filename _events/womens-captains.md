@@ -4,7 +4,7 @@ location: AIA World Headquarters, Xenia, OH
 image: /uploads/basketball/womensbballretreat.png
 permalink: /basketball/events/captains/womens
 start_date: August 2018
-end_date: 12, 2018
+end_date: 13, 2018
 layout: page
 alt_url: 
 short_description: "Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court."
@@ -17,7 +17,7 @@ sport: basketball
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><h4 style="text-align: center;">AIA Women's Basketball&nbsp;Captains Academy<br />August 9th - 12th, 2018</h4>
+<div class="container"><h4 style="text-align: center;">AIA Women's Basketball&nbsp;Captains Academy<br />August 9th - 13th, 2018</h4>
 <p>Athletes in Action Basketball wants to invest in your team's leaders! &nbsp;Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court. This Division I Women's Basketball Captain's Academy will be held at Athletes in Action's Total Athlete Complex in Xenia, OH.</p>
 <p><strong></strong>The schedule for the week includes:</p>
 <ul class="list-style list-disc">
@@ -73,7 +73,13 @@ sport: basketball
 <h3>Stephanie Zonars</h3>
 <p class="member-desc">Leadership and team culture consultant, Author</p>
 </div>
-<!-- End .team-member --> <!-- End .owl-carousel --></div>
+<!-- End .team-member -->
+<div class="team-member team-animate-social">
+<figure><img src="/uploads/basketball/stephaniezonars1.png" alt="Zonars" class="img-responsive" /> <figcaption> </figcaption></figure>
+<h3>Kim Anthony</h3>
+<p class="member-desc">Author, Motivational Speaker</p>
+</div>
+<!-- End .team-memeber --> <!-- End .owl-carousel --></div>
 </div>
 </div>
 <div class="mb60"></div>
