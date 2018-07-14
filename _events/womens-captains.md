@@ -75,7 +75,7 @@ sport: basketball
 </div>
 <!-- End .team-member -->
 <div class="team-member team-animate-social">
-<figure><img src="/uploads/basketball/stephaniezonars1.png" alt="Zonars" class="img-responsive" /> <figcaption> </figcaption></figure>
+<figure><img src="/uploads/basketball/kimanthony1.png" alt="Anthony" class="img-responsive" /> <figcaption> </figcaption></figure>
 <h3>Kim Anthony</h3>
 <p class="member-desc">Author, Motivational Speaker</p>
 </div>
