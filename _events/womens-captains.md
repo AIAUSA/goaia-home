@@ -51,11 +51,11 @@ sport: basketball
 <h3>Sue Ramsey</h3>
 <p class="member-desc">Retired Ashland University Head Coach, 2013 National Champion</p>
 </div>
-<!-- End .team-member --> <!----<div class="team-member team-animate-social">
+<!-- End .team-member --> <!--<div class="team-member team-animate-social">
 <figure><img src="/uploads/basketball/lachinarobinson.png" alt="Robinson" class="img-responsive" /> <figcaption> </figcaption></figure>
 <h3>LaChina Robinson</h3>
 <p class="member-desc">ESPN Basketball Analyst</p>
-</div>----> <!-- End .team-member -->
+</div>--> <!-- End .team-member -->
 <div class="team-member team-animate-social">
 <figure><img src="/uploads/basketball/terri%20mitchell.png" alt="Rochester" class="img-responsive" /> <figcaption> </figcaption></figure>
 <h3>Terri Mitchell</h3>
