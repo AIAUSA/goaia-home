@@ -35,10 +35,10 @@ sport: basketball
 {% include plugins/video-callout.html image="/uploads/basketball/academypractice.jpg" text="Add to your coaching pedigree!" byLine="Check out this video recap of Coaches Academy's from the past." video="https://vimeo.com/192685757" %}
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><h2 style="text-align: center;"><strong> 2017 Presenters: </strong></h2>
+<!--<div class="container"><h2 style="text-align: center;"><strong> 2017 Presenters: </strong></h2>
 <p style="text-align: center;"><img src="/uploads/basketball/dell-harris.png" /></p>
 <h3 style="text-align: center;">Del Harris</h3>
-</div>
+</div>-->
 <h2 class="title text-center mb30">Academy <span class="light first-color">Endorsements</span></h2>
 <div class="row">
 <div class="col-md-6">
@@ -71,7 +71,7 @@ sport: basketball
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><h2 style="text-align: center;">November 5th -17th , 2017</h2>
+<div class="container"><h2 style="text-align: center;">November 5th -16th , 2018</h2>
 <h4 style="text-align: center;">Athletes in Action World Headquarters</h4>
 <h4 style="text-align: center;">651 Taylor Drive, Xenia, OH 45385</h4>
 </div>
