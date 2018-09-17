@@ -4,7 +4,7 @@ location: AIA World Headquarters, Xenia, OH
 image: /uploads/basketball/coachesacademyEvents.png
 permalink: /basketball/events/coachesacademy
 start_date: November 5th
-end_date:  18, 2017
+end_date:  16, 2018
 layout: page
 alt_url: 
 short_description: 'The AIA Coaches Academy is an invite only two-week academy blending coaching instruction, leadership development and cultural experience. Coaches from around the world travel to Xenia, OH with the goal of leaving able to better lead and guide their athletes in every area of life.'
@@ -17,7 +17,7 @@ sport: basketball
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><p><span>The Athletes in Action (AIA) Coaches Academy is an </span><em>invite only</em><span> two-week journey blending coaching instruction, leadership development and cultural experience. Coaches from around the world, converge at the AIA's World Training and Resource Center in Xenia, Ohio, to add to their coaching pedigree.</span><br /><br /><span>They dep<img width="306" height="203" alt="" src="/uploads/basketball/coachesacademylogo.png" style="float: right;" />art as coaches with a focused mission &ndash; to lead and guide their athletes not only on the court, but in their homes and communities, too. </span></p>
+<div class="container"><p><span>The Athletes in Action (AIA) Coaches Academy is an </span><em>invite only</em><span> two-week journey blending coaching instruction, leadership development and cultural experience. Coaches from around the world, converge at the AIA's World Training and Resource Center in Xenia, Ohio, to add to their coaching pedigree.</span><br /><br /><span>They dep<img class="col-sm-4" alt="" src="/uploads/basketball/coachesacademylogo.png" style="float: right;" />art as coaches with a focused mission &ndash; to lead and guide their athletes not only on the court, but in their homes and communities, too. </span></p>
 <h4>THE ACADEMY INCLUDES&hellip;</h4>
 <ul>
 <li>Visits to secondary, collegiate and/or professional-level&nbsp;practices and games</li>
