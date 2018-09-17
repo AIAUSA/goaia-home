@@ -17,7 +17,7 @@ sport: basketball
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><p><img class="col-sm-4" alt="" src="/uploads/basketball/coachesacademylogo.png" style="float: right;" /><span>The Athletes in Action (AIA) Coaches Academy is an </span><em>invite only</em><span> two-week journey blending coaching instruction, leadership development and cultural experience. Coaches from around the world, converge at the AIA's World Training and Resource Center in Xenia, Ohio, to add to their coaching pedigree.</span><br /><br /><span>They depart as coaches with a focused mission &ndash; to lead and guide their athletes not only on the court, but in their homes and communities, too. </span></p>
+<div class="container"><p><img class="col-sm-4 img-responsive" alt="" src="/uploads/basketball/coachesacademylogo.png" style="float: right;" /><span>The Athletes in Action (AIA) Coaches Academy is an </span><em>invite only</em><span> two-week journey blending coaching instruction, leadership development and cultural experience. Coaches from around the world, converge at the AIA's World Training and Resource Center in Xenia, Ohio, to add to their coaching pedigree.</span><br /><br /><span>They depart as coaches with a focused mission &ndash; to lead and guide their athletes not only on the court, but in their homes and communities, too. </span></p>
 <h4>THE ACADEMY INCLUDES&hellip;</h4>
 <ul>
 <li>Visits to secondary, collegiate and/or professional-level&nbsp;practices and games</li>
