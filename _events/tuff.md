@@ -8,6 +8,7 @@ end_date:
 layout: page
 alt_url: 
 short_description: 'Training in 3-D is what TUFF Camps are all about. TUFF Camp staff and trainers are committed to helping each participant grow in all three aspects of their performance: physical, mental and spiritual.'
+video_url: https://youtu.be/lXY799Zx4aU
 sport: track
 ---
 <div class="row">
@@ -24,7 +25,7 @@ sport: track
 <div class=" span-12 cell">
 <div class="mb20"><div>
 <div class="mb35 mb20-xs"></div>
-{% include plugins/video-callout.html image="/uploads/track/tuff2.jpg" text="Training U Farther &amp; Faster" byLine="Take a look at what TUFF CAMP is about!" video="https://www.youtube.com/watch?v=xw4nStPkO4o" %}
+{% include plugins/video-callout.html image="/uploads/track/tuff2.jpg" text="Training U Farther &amp; Faster" byLine="Take a look at what TUFF CAMP is about!" video="https://www.youtube.com/watch?v=lXY799Zx4aU" %}
 <!-- space -->
 </div></div></div>
 <div class="row">
