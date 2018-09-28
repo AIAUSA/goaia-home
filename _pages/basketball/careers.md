@@ -2,66 +2,61 @@
 title: Basketball Careers
 permalink: "/basketball/careers"
 type: page
-layout: page
+layout: basketball-page
 menu: basketball
 ---
-<div class="row">
-<div class="max-width">
-<div class="container">
+### Athletes in Action Basketball is growing.
+
+Come join our team of 20 staff who are seeking to impact the game of basketball for the good of the game, the growth of its people, to the glory of God. 
+
+<img class="col-md-6 pull-right" src="/uploads/basketball/IMG_5212.jpeg" />
+
+*In 2017-18 Athletes in Action Basketball:*
+
+* Visited 250 collegiate basketball programs to disciple, minister and recruit
+* Sent 9 competing teams of 149 athletes and coaches to 9 countries.
+* Visited 250 collegiate basketball programs to disciple, minister and recruit
+* Sent coaches to 4 countries for camps and clinics. 
+* Visited 250 collegiate basketball programs to disciple, minister and recruit
+* Hosted 20 international coaches for a 2-week basketball academy. 
+* Visited 250 collegiate basketball programs to disciple, minister and recruit
+* Developed 21 DI Captains and emerging leaders at the Captains Academy
+* Visited 250 collegiate basketball programs to disciple, minister and recruit
+* Invested into 27 coaches at the HBCU Coaches retreat
+* Visited 250 collegiate basketball programs to disciple, minister and recruit
+* Refreshed hundreds of coaches through Final Four ministry events
 
 
-<h2 class="title text-center mb30">&nbsp; <br>AIA <span class="light first-color">Institute</span></h2>
 
-<h3> What is the AIA Institute?</h3>
-<p>The AIA Institute is a one year internship located at the AIA National Office for Sports TEAMs interns that runs from September through August.</p>
+The opportunities that basketball is creating around the world are endless.  As a ministry we are in the process of preparing to host more athletes, teams and events at our world headquarters as we are soon to break ground on the $18M Wooden Family Fieldhouse.  
 
-<p>Our <b>Mission</b> is: “To be a premier sports ministry institute that will develop and equip lifelong laborers and leaders.”</p>
-<p>Our <b>Vision</b> is to: “See generations of Christ-centered pioneering leaders everywhere!”</p>
+We need people who value the game of basketball and want to see its people grow for the glory of God.  
 
-<p>Our Values are:</p>
-<ul>
-<li> Personal and professional <b>“Growth”</b></li>
-<li> Working and relaxing together in Christ centered <b>“Community”</b></li>
-<li> Doing all we do with <b>“Excellence”</b></li>
-</ul>
+We dream of a day when there is a Christ-follower on every team, in every nation.  
 
-<p>Experience <b>“Growth”</b> personally and professionally similar to this:</p>
-<p><i>“My favorite part of the academy is when we can exchange thoughts with people from different parts of the world, with different cultures and different languages. The academy is very interesting in the opportunity that it gives me for personal and professional growth." – Victor, International Coaches Academy hosted at our National Office.</i></p>
+Here are some immediate needs we have as a team: 
 
-<p>Develop <b>“Community”</b> as you work and play:</p>
-<p><i>“I have been here for less than two months, but it’s hard for me to imagine leaving here and all of the important people that have taken such a special place in my heart…The tiny town of Xenia, Ohio has become another home to me thanks to all the people that God has placed in my life.” – Marykate, X-Project Intern at our National Office.</i></p>
+**AIA Basketball Tour and Project Directors/Recruiters**
 
-<p>Attempt <b>“Excellence”</b> as you are developed and equipped:</p>
-<p><i>“God has challenged me to pursue excellence in so many areas of my life this summer…This has encouraged me as I prepare to move back home and I look forward to see how God applies and continues to challenge me with these lessons in the future.” – Ben, X-Project Intern at our National Office.</i></p>
+Use your knowledge of basketball to impact the world by engaging collegiate athletes and coaches in international outreach tours. Your responsibilities would include setting up and directing an overseas tour each year. This includes working with U.S. and overseas staff to plan outreaches and competition schedules. Other duties include making travel arrangements, coaching participants through the support-raising process, and other administrative duties. You’ll also spend time building relationships with team members as they prepare for a tour. Additionally, you’ll be involved in the ongoing recruitment of athletes and staff for Sports T.E.A.M tours. This means attending college games throughout the season and attending conference tournaments, as well as NAIA, NCCAA, and NCAA DI, II, and III tournaments.
 
-<h3> International Opportunity</h3>
-<p>Your internship experience includes a Sports Team Competing Tour and/or Steps of Jesus Israel Tour.</p>
+**The Wooden Family Fieldhouse Basketball Coordinator**
 
-<h3>Application Information</h3>
-<p>Are you the kind of person who is serious about your spiritual, personal, and professional growth? Do you want to refine or develop skills that will equip you to be a lifelong laborer and leader for Christ? Then now is the time to take the next step in your life’s journey.</p>
+Accelerate Athletes in Action’s overall mission of building spiritual movements everywhere through leveraging our facilities and position in the sports world for Christ. The primary role of the WFF Basketball Coordinator is to assist their Sports Department in accomplishing the spiritual, relational and financial goals established for them in the Wooden Fieldhouse operational Pro-Forma.
+Here is a link for the design plans of the [Wooden Family Fieldhouse](http://www.woodenfamilyfieldhouse.com/).
 
-<p>Please return to the [Intern Applicants](http://goaia.org/careers/intern) page for information and instructions about how to apply.</p>
-<p><b>NOTE:</b> Application process can take 4-5 weeks to complete and must be completed by March 1st so start early! Once you start the online application on page one select the following in the initial 3 drop down menus: 1. US Intern, 2. Athletes in Action, 3. National Office.</p>
 
-<h3> Additional Information</h3>
-<p>We provide fund development training at our Kingdom Called Intern Training weekend in April.</p>
+**AIA Basketball Internship (12-15 months)**
 
-<p>Please contact [Ed Gersch](mailto:ed.gersch@athletesinaction.org) or call 937-352-1072 for more information. </p>
-</div></div></div>
-<div class="row fullwidth">
-<div class="max-width mt20">
-<div class="no-border" style="margin-bottom: -63px;"><div class="callout custom no-border">
-<div class="mb5"></div>
-<!-- space -->
-<div class="container">
-<div class="callout-wrapper">
-<div class="callout-left">
-<h2 class="callout-title">Learn more about starting a career with Athletes in Action!</h2>
-<p class="callout-desc">For more information about a career at AIA, check out our careers page!</p>
-</div>
-<!-- End .callout-left -->
-<div class="callout-right"><a href="http://goaia.org/careers" class="btn btn-white v2 btn-border  min-width">AIA Careers</a></div>
-<!-- End .callout-right --></div>
-<!-- End .callout-wrapper --></div>
-<!-- End .container --> <!-- End .callout --></div>
-</div></div></div>
+During your AIA basketball internship you will have opportunities for personal, professional, and spiritual growth.  This will be accomplished through hands-on ministry experience in college & international basketball, growing together in quality Christian community, and intentional discipleship and mentoring from our AIA Basketball staff.  Unique opportunities include: competing on an international basketball tour, the International Basketball Coaches Academy,  Residential Academy, Final Four ministry, HBCU Coaches Retreat, Captains Academies, and more.
+
+Do any of these positions fit with the dreams that God has already begun working in your heart?  Let’s start the conversation to imagine what it could look like to serve as a basketball missionary with Athletes in Action Basketball.
+
+If you are interested in being a basketball missionary and one of these roles doesn’t seem to be an exact fit, please contact us anyway, as finding the right people is our greatest need.
+
+For questions about Staff or Intern positions with AIA Basketball please contact: [Jonathan Peaslee](mailto:jonathan.peaslee@athletesinaction.org)
+
+Please go here to visit the [Careers page of Athletes in Action.](https://goaia.org/careers) 
+
+Athletes in Action is the sport ministry of Cru. 
+

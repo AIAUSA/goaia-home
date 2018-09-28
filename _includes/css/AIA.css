@@ -274,3 +274,11 @@ span.megamenu-title:hover {
 }
 
 /******Captains*****/@media (min-width: 992px) { .team-member figure { max-height: 244px !important; overflow: hidden; }}
+
+
+.lists ul {
+  list-style: disc;
+}
+.lists ul li {
+  margin-left: 20px
+}
