@@ -15,15 +15,10 @@ Come join our team of 20 staff who are seeking to impact the game of basketball 
 
 * Visited 250 collegiate basketball programs to disciple, minister and recruit
 * Sent 9 competing teams of 149 athletes and coaches to 9 countries.
-* Visited 250 collegiate basketball programs to disciple, minister and recruit
 * Sent coaches to 4 countries for camps and clinics. 
-* Visited 250 collegiate basketball programs to disciple, minister and recruit
 * Hosted 20 international coaches for a 2-week basketball academy. 
-* Visited 250 collegiate basketball programs to disciple, minister and recruit
 * Developed 21 DI Captains and emerging leaders at the Captains Academy
-* Visited 250 collegiate basketball programs to disciple, minister and recruit
 * Invested into 27 coaches at the HBCU Coaches retreat
-* Visited 250 collegiate basketball programs to disciple, minister and recruit
 * Refreshed hundreds of coaches through Final Four ministry events
 
 
