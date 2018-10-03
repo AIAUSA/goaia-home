@@ -66,14 +66,6 @@ layout: page
 <!-- End .member-container -->
 <div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/ellison.jpg" alt="" class="img-responsive img-circle"></figure>
-<h3>Mike Ellison</h3>
-<p class="member-desc">Owner and President of Ellision Surface Technologies</p>
-<!-- End .social-icons --></div>
-<!-- End .team-member --></div>
-<!-- End .member-container -->
-<div class="col-md-3 col-xs-6 team-member-container">
-<div class="team-member text-center">
 <figure><img src="/uploads/About/BoardofTrustees/jackson.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Kenya Jackson</h3>
 <p class="p1">Corporate VP Pharmacy &amp; Retail Operations, Walgreens</p>
