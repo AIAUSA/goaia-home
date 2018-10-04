@@ -77,7 +77,6 @@ sliderText: Serving Professionals
 <ul class="list-group">
 <li class="list-group-item"><span style="font-weight: bold;">Minnesota Vikings</span> - Tom &amp; Jeannie Lamphere</li>
 <li class="list-group-item"><a href="http://athletesinactionnyc.org/">New York Giants</a>&nbsp;- Gian Paul and Elizabeth Gonzales</li>
-<li class="list-group-item"><span style="font-weight: bold;">Pittsburgh Steelers</span> - Chad Johnson</li>
 <li class="list-group-item"><span style="font-weight: bold;">Tampa Bay Buccaneers</span> - Doug &amp; Stephanie Gilcrease</li>
 </ul>
 </div>
