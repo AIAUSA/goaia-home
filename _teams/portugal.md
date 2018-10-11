@@ -2,7 +2,7 @@
 title: Western Europe Men's Tour
 director: Zach Blaine
 director_email: zach.blaine@athletesinaction.org
-dates: May 2018
+dates: May 2019
 layout: page
 sport: soccer
 ---
