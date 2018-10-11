@@ -1,6 +1,6 @@
 ---
 title: Careers - Headquarters
-permalink: "/careers/positions/headquarters"
+permalink: "/careers/positions/headquarters/index"
 layout: careers
 ---
 

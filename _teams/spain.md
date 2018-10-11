@@ -1,8 +1,8 @@
 ---
-title: Spain Women's Tour
+title: Western Europe Women's Tour
 director: Amanda Smith
 director_email: amanda.smith@athletesinaction.org
-dates: May 2018
+dates: May 2019
 layout: page
 sport: soccer
 ---

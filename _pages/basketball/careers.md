@@ -2,7 +2,7 @@
 title: Basketball Careers
 permalink: "/basketball/careers"
 type: page
-layout: basketball-page
+layout: basketball-careers-page
 menu: basketball
 ---
 ### Athletes in Action Basketball is growing.
@@ -51,7 +51,7 @@ If you are interested in being a basketball missionary and one of these roles do
 
 For questions about Staff or Intern positions with AIA Basketball please contact: [Jonathan Peaslee](mailto:jonathan.peaslee@athletesinaction.org)
 
-Please go here to visit the [Careers page of Athletes in Action.](https://goaia.org/careers) 
+To apply and learn more, please go to the [Careers page of Athletes in Action.](https://goaia.org/careers) 
 
 Athletes in Action is the sport ministry of Cru. 
 
