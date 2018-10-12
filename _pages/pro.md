@@ -9,10 +9,11 @@ layout: page
 <!---<p class="p1"><img class="img-responsive pull-right" src="/uploads/pro/pro-main-2.jpg" />&nbsp;</p>-->
 </div>
 <div class="container mt30"><div class="row">
-<div class="col-md-3"><a href="/pro/nfl" class="btn btn-dark col-md-10">NFL</a></div>
-<div class="col-md-3"><a href="/pro/wnba" class="btn btn-dark  col-md-10">WNBA</a></div>
-<div class="col-md-3"><a href="http://aiacycling.org" class="btn btn-dark  col-md-10">Cycling</a></div>
-<div class="col-md-3"><a href="/pro/soccer" class="btn btn-dark  col-md-10">Soccer</a></div>
+<div class="col-md-2 offset-md-1"><a href="/pro/nfl" class="btn btn-dark col-md-10">NFL</a></div>
+<div class="col-md-2"><a href="/pro/wnba" class="btn btn-dark  col-md-10">WNBA</a></div>
+<div class="col-md-2"><a href="http://aiacycling.org" class="btn btn-dark  col-md-10">Cycling</a></div>
+<div class="col-md-2"><a href="/pro/soccer" class="btn btn-dark  col-md-10">Soccer</a></div>
+<div class="col-md-2"><a href="/volleyball/" class="btn btn-dark  col-md-10">Volleyball</a></div>
 </div>
 </div>
 <div class="container mt50"><h2 class="title text-center mb20">Professionals <span class="light first-color">We Serve</span></h2>
