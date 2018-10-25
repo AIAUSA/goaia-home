@@ -2,8 +2,8 @@
 title: Switzerland
 director: Tim Ellis
 director_email: tim.ellis@athletesinaction.org
-dates: July 15th - 29th, 2018
+dates: July 14th - 28th, 2019
 layout: page
 sport: track
 ---
-The town of St. Moritz hosted the Winter Olympics in 1928 & 1948 and sits at 6000' elevation. It is a preferred training destination for elite athletes from around Europe. AIA Switzerland hosts an athlete resource center providing physical therapy and massage therapy services. Our team's focus will be building relationships as we train alongside the athletes in St. Moritz. There will be 1 or 2 opportunities to compete during the project, but our primary emphasis will be on training.
+St. Moritz (altitude 6000’) hosted the 1928 and 1948 Winter Olympics and currently is a training destination for many of the world’s elite athletes.  Over the past 5-6 summers AIA Switzerland has served these men and women by providing physiotherapy and massage therapy services. This team’s focus will be building relationships through training and social events. Athletes from the 800m and up are welcome to apply. We will require athletes who compete at the D1 Regional level and above in the middle and distance running events.   

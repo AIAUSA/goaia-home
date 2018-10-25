@@ -3,7 +3,7 @@ title: Tuff Camp
 location: Hope College (Holland, MI)
 image: /uploads/track/tuffcampevent.png
 permalink: /track/event/tuff
-start_date: July 8th - 13th, 2018
+start_date: July 7th - 12th, 2019
 end_date: 
 layout: page
 alt_url: 
