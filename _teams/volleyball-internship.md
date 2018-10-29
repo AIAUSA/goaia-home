@@ -2,7 +2,7 @@
 title: Volleyball Institute Internship
 director: Ashley Warner
 director_email: ashley.warner@athletesinaction.org
-dates: September 2018 - August 2019
+dates: September 2019 - August 2020
 layout: page
 sport: volleyball
 ---
