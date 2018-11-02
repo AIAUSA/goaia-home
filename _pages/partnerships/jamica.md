@@ -2,6 +2,7 @@
 title: Jamica Partnership
 permalink: "/partnerships/jamica"
 layout: page
+social_image: /uploads/opportunities/partnerships/jamaica_temp.png
 ---
 
 <h2 class="title text-center mb30">Jamica <span class="light first-color">Partnerships</span></h2>

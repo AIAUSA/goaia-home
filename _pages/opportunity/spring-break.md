@@ -37,7 +37,7 @@ sliderText: Go for Spring Break
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<h2 class="title text-center mb30"><span class="light first-color">Trips</span> 2018</h2>
+<h2 class="title text-center mb30"><span class="light first-color">Trips</span> 2019</h2>
 
 <div class="container"><header class="title-block text-center mb50">
 <h2 class="title-border custom text-uppercase text-center mb20">Where Do You Want to Go?</h2>
@@ -47,16 +47,18 @@ sliderText: Go for Spring Break
 <div class="pricing-table flat"><header>
 <div class="price">Puerto Rico&nbsp;</div>
 </header>
-<h3>March 3rd - 24th, 2018</h3>
+<h3>March 9th - 30th, 2019</h3>
 <h5></h5>
 <p class="pricing-desc">In Puerto Rico, you never know what each new day may bring: new friends, new foods, new adventures and scenery … and a new ministry being established on the many campuses of this beautiful island. Join us for a week you will never forget, and let God use you and grow you as we take the gospel to the college athletes of Puerto Rico.</p>
 <ul class="pricing-list">
 <li><i class="icon-check"></i>Airfare included</li>
 <li>There are three trips leaving throughout the above dates:
 <ul>
-<li><strong>Mar. 3rd - 10th&nbsp;</strong></li>
-<li><strong>Mar. 10th - 17th</strong></li>
-<li><strong>Mar. 17th - 24th&nbsp;</strong></li>
+<li>March 9-16, San Juan - <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
+<li>March 9-16, Mayaguez - <a href="mailto:jamie.vandenberg@athletesinaction.org">Jamie Vanderberg</a></li>
+<li>March 9-16, Salinas - <a href="mailto:ryan.mathews@athletesinaction.org">Ryan Mathews</a></li>
+<li>March 16-23, Salinas & Gurabo - <a href="mailto:nick.castelluccio@athletesinaction.org">Nick Castelluccio</a></li>
+<li>March 23-30, San Juan - <a href="mailto:joseph.kleibscheidel@athletesinaction.org">Joe Kleibscheidel</a></li>
 </ul>
 </li>
 <li>&nbsp;Click <a href="http://goaia.org/partnership">here </a> to read more about all three</li>
@@ -69,18 +71,16 @@ sliderText: Go for Spring Break
 <div class="pricing-table flat"><header>
 <div class="price">South Africa&nbsp;</div>
 </header>
-<h3>February 23rd - March 31st, 2018</h3>
+<h3>March 1st - 24th, 2019</h3>
 <h5><em> </em></h5>
 <p class="pricing-desc">Experience Capetown!</p>
 <ul class="pricing-list">
 <li><i class="icon-check"></i>Cost is $3500 and a Passport is required</li>
 <li>There are five trips leaving throughout the above dates:
 <ul>
-<li><strong>Feb. 23rd - March 3rd</strong></li>
-<li><strong>Mar. 1st - 11th</strong></li>
-<li><strong>Mar. 10th -18th</strong></li>
-<li><strong>Mar. 16th - 25th</strong></li>
-<li><strong>Mar. 23rd - 31st</strong></li>
+<li>March 1-10, Cape Town - Campus - <a href="mailto:darin.mcfarland@athletesinaction.org">Darin McFarland</a></li>
+<li>March 1-10, Cape Town - Sports Performance - <a href="mailto:jamie.vanderberg@athletesinaction.org">Jamie Vanderberg</a></li>
+<li>March 15-24, Cape Town - Campus - <a href="mailto:john.vampatella@athletesinaction.org">John Vampatella</a></li>
 </ul>
 </li>
 <li>Click <a href="http://goaia.org/partnership">here </a> for more information&nbsp;</li>
@@ -90,14 +90,14 @@ sliderText: Go for Spring Break
 <!-- End .col-md-4 -->
 <div class="col-sm-4">
 <div class="pricing-table flat"><header>
-<div class="price">East Asia&nbsp;</div>
+<div class="price">Jamica&nbsp;</div>
 </header>
-<h3>March 23rd - 30th, 2018</h3>
-<p class="pricing-desc">Two-thirds of the world's population lives in Asia, including 40 of the world's largest cities that have not been reached with the gospel. There are 26 unreached people groups alone living in and around the city where we'll be going, meaning nearly all have never heard the gospel. <br> Invest your spring break or summer in something that will last forever as you allow God to use you to impact the world.</p>
+<h3>TBD</h3>
+<p class="pricing-desc"></p>
 <ul class="pricing-list">
 <li>There is one trip leaving throughout the above dates:
 <ul>
-<li><strong>Mar. 23th - 30th</strong></li>
+
 </ul>
 </li>
 </ul>

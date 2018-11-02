@@ -16,7 +16,7 @@ layout: page
 <div class="col-md-3"><a href="/partnerships/southafrica"><img class="img-responsive" src="/uploads/opportunities/partnerships/Postcards%20V3.jpg"></a></div>
 <div class="col-md-3"><a href="/opportunity/east-asia-project"><img class="img-responsive" src="/uploads/opportunities/partnerships/Postcards%20V35.jpg"></a></div>
 <div class="col-md-3"><a href="/partnerships/puertorico"><img class="img-responsive" src="/uploads/opportunities/partnerships/Postcards%20V33.jpg"></a></div>
-<div class="col-md-3"><a href="/partnerships/jamica">Jamica</a></div>
+<div class="col-md-3"><a href="/partnerships/jamica"><img class="img-responsive" src="/uploads/opportunities/partnerships/jamaica_temp.png"></a></div>
 </div>
 
 <h2 class="title text-center mb30 mt20">Partnership <span class="light first-color">Opportunities</span></h2>

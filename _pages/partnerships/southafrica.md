@@ -2,6 +2,7 @@
 title: South Africa Partnership
 permalink: "/partnerships/southafrica"
 layout: page
+social_image: /uploads/opportunities/partnerships/Postcards%20V3.jpg
 ---
 
 <h2 class="title text-center mb30">South Afria <span class="light first-color">Partnerships</span></h2>

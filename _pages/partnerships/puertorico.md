@@ -2,6 +2,7 @@
 title: Puerto Rico Partnership
 permalink: "/partnerships/puertorico"
 layout: page
+social_image: /uploads/opportunities/partnerships/Postcards%20V33.jpg
 ---
 
 <h2 class="title text-center mb30">Puerto Rico <span class="light first-color">Partnerships</span></h2>

@@ -9,7 +9,7 @@ menu: basketball
 <div class="span-12 cell"><div class="container">
 <h2 class="title text mb30">International <span class="light first-color">Tours</span></h2>
 <div class="row col-sm-12">
-
+</div>
 <div class="row col-sm-12">
 <b>For over 25 years, we’ve sent teams around the world to share the message of Jesus Christ through basketball.</b>
 
