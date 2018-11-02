@@ -8,8 +8,14 @@ menu: basketball
 <div class="row">
 <div class="span-12 cell"><div class="container">
 <h2 class="title text mb30">International <span class="light first-color">Tours</span></h2>
-<iframe style="position: relative; top: 0; left: 0; height:400px;" class="col-sm-12 pull-right" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/aiateams/sets/72157701504176661&sort=0&by=album&theme=default&scale=fill&speed=3000&limit=10&skin=default&autoplay=true" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><p>Trading in <a rel="nofollow" href="http://www.sellcompare.co.uk">old iphones</a> here</p><small>Powered by <a href="https://flickrembed.com">flickr embed</a>.</small></iframe><script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script>
-
+<div class="row col-sm-12">
+<div style="float: none; clear: both; width: 100%; position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 25px;
+    height: 0;">
+<iframe style="position: relative; top: 0; left: 0; width: 100%; height: 100%" src="https://flickrembed.com/cms_embed.php?source=flickr&layout=responsive&input=www.flickr.com/photos/aiateams/sets/72157701504176661&sort=0&by=album&theme=default&scale=fill&speed=3000&limit=10&skin=default&autoplay=true" scrolling="no" frameborder="0" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"><p>Trading in <a rel="nofollow" href="http://www.sellcompare.co.uk">old iphones</a> here</p><small>Powered by <a href="https://flickrembed.com">flickr embed</a>.</small></iframe><script type="text/javascript">function showpics(){var a=$("#box").val();$.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?tags="+a+"&tagmode=any&format=json&jsoncallback=?",function(a){$("#images").hide().html(a).fadeIn("fast"),$.each(a.items,function(a,e){$("<img/>").attr("src",e.media.m).appendTo("#images")})})}</script>
+</div>
+<div class="row col-sm-12">
 <b>For over 25 years, we’ve sent teams around the world to share the message of Jesus Christ through basketball.</b>
 
 <p>Traveling on a tour will transform your life as you:</p>
@@ -25,6 +31,7 @@ menu: basketball
 <p>Each summer athletes, coaches, athletic trainers and team administrators build their skills and experience through a tour. In 2016, our teams were making a difference in 12 countries, competing against National, University, and club teams. Check below for a list of our available opportunities</p>
 
 <p>Get a glimpse of our tours at <a href="http://teamblogs.athletesinaction.org/section/global-sports/basketball">AIA Basketball's Teams Blog</a></p>
+</div>
 </div>
 </div></div>
 {% include plugins/image-callout.html image="/uploads/basketball/mo-coaching.jpg" text="What's a AIA Basketball Tour Like?" byLine="Check out this video recap from an AIA Basketball tour to the Philippines. <br />Want to join us this summer?" url="https://www.youtube.com/watch?v=evqlr_0AIzc" linkText="Watch Now" %}
