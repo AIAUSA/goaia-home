@@ -9,6 +9,11 @@
                 <header class="title-block text-center mb50">
                     <h2 class="text-white text-center mb20">{{ include.text }}</h2>
                     <p class="text-white">{{ include.byLine }}</p>
+                    {% if include.url != nil %}
+                    <div class="callout-action">
+                        <a href="{{include.url}}" class="btn btn-custom radius-lger min-width">{{include.linkText}}</a>
+                    </div>
+                    {% endif %}
                 </header>
             </div><!-- End .iframe-btn-container -->
         </div><!-- End .container -->
