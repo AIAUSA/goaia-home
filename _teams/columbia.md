@@ -1,6 +1,6 @@
 ---
-title: Columbia
-level:  Division 1
+title: Colombia
+level:  Collegiate
 director: James Bolin
 director_email: james.bolin@athletesinaction.org
 dates: June 11 - 22

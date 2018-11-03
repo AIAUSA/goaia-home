@@ -1,6 +1,6 @@
 ---
 title: East Asia
-level:  Collegiate
+level:  Division I & II
 director: Kelly Combs
 director_email: Kelly.Combs@athletesinaction.org
 dates: August 2019

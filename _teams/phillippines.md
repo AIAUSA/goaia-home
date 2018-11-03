@@ -3,7 +3,7 @@ title: The Philippines
 level:  Division 1
 director: Morris Michalski
 director_email: morris.michalski@athletesinaction.org
-dates: May 28 - 31
+dates: May 28 - June 8
 type: Men
 layout: page
 sport: basketball
