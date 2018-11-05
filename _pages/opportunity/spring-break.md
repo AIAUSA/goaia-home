@@ -79,7 +79,7 @@ sliderText: Go for Spring Break
 <li>There are five trips leaving throughout the above dates:
 <ul>
 <li>March 1-10, Cape Town - Campus - <a href="mailto:darin.mcfarland@athletesinaction.org">Darin McFarland</a></li>
-<li>March 1-10, Cape Town - Sports Performance - <a href="mailto:jamie.vanderberg@athletesinaction.org">Jamie Vanderberg</a></li>
+<li>March 1-10, Cape Town - Sports Performance - <a href="mailto:Lisa.Martin@athletesinaction.org">Lisa Martin</a></li>
 <li>March 15-24, Cape Town - Campus - <a href="mailto:john.vampatella@athletesinaction.org">John Vampatella</a></li>
 </ul>
 </li>
@@ -90,7 +90,7 @@ sliderText: Go for Spring Break
 <!-- End .col-md-4 -->
 <div class="col-sm-4">
 <div class="pricing-table flat"><header>
-<div class="price">Jamica&nbsp;</div>
+<div class="price">Jamaica&nbsp;</div>
 </header>
 <h3>TBD</h3>
 <p class="pricing-desc"></p>

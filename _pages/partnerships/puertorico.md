@@ -58,7 +58,7 @@ social_image: /uploads/opportunities/partnerships/Postcards%20V33.jpg
 </div>
 <div id="c1pbs2" class="panel-collapse in" role="tabpanel" aria-labelledby="c1phs2">
 <div class="panel-body">
-<p>To find out more about the Extreme Challenge Puerto Rico, visit their <a href="http://www.puertoricoproject.com/">website</a>.</p>
+<p>To find out more about the Extreme Challenge Puerto Rico, visit their <a href="http://www.extremechallengepuertorico.com">website</a>.</p>
 </div>
 </div>
 </div>

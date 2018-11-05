@@ -34,7 +34,7 @@ sliderText: South Africa Project
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><p>July 12th - 29th, 2018&nbsp;</p>
+<div class="container"><p>July 11th - 29th, 2019&nbsp;</p>
 <p><em><strong>Please note that all of your application materials must be submitted by March 15.**</strong></em></p>
 <p><em><strong><span>**However, we will consider accepting qualified applicants earlier than March 15th.</span></strong></em></p>
 </div>

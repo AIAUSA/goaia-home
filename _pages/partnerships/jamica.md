@@ -54,7 +54,7 @@ social_image: /uploads/opportunities/partnerships/jamaica_temp.png
 </div>
 <div id="c1pbs2" class="panel-collapse in" role="tabpanel" aria-labelledby="c1phs2">
 <div class="panel-body">
-<p>Coming Soon.</p>
+<p>Details for the Extreme Challenge Jamaice are Coming Soon.</p>
 </div>
 </div>
 </div>
