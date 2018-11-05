@@ -16,7 +16,7 @@ sliderText: South Africa Project
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<p><iframe width="560" height="315" style="text-align: center; display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/u8xq7zeVmJI" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="315" style="text-align: center; display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/H_N0A67hI60" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 </div>
 <hr class="container">
 
@@ -35,8 +35,7 @@ sliderText: South Africa Project
 <div class="row">
 <div class=" span-12 cell">
 <div class="container"><p>July 11th - 29th, 2019&nbsp;</p>
-<p><em><strong>Please note that all of your application materials must be submitted by March 15.**</strong></em></p>
-<p><em><strong><span>**However, we will consider accepting qualified applicants earlier than March 15th.</span></strong></em></p>
+<p><em><strong>Please note that all of your application materials must be submitted by March 15.</strong></em></p>
 </div>
 
 {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/South-Africa-Project/default.aspx" color="" %}
