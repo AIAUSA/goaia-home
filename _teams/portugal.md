@@ -1,5 +1,5 @@
 ---
-title: Western Europe Men's Tour
+title: Portugal Men's Tour
 director: Zach Blaine
 director_email: zach.blaine@athletesinaction.org
 dates: May 2019

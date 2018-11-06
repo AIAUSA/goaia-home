@@ -74,8 +74,8 @@ sliderText: Go for Spring Break
 <li><i class="icon-check"></i>Cost is $3500 and a Passport is required</li>
 <li>There are three trips leaving throughout the above dates:
 <ul>
+<li>February 28 - March 10, Cape Town - Sports Performance - <a href="mailto:Lisa.Martin@athletesinaction.org">Lisa Martin</a></li>
 <li>March 1-10, Cape Town - Campus - <a href="mailto:phil.gillespie@athletesinaction.org">Phil Gillespie</a></li>
-<li>March 1-10, Cape Town - Sports Performance - <a href="mailto:Lisa.Martin@athletesinaction.org">Lisa Martin</a></li>
 <li>March 15-24, Cape Town - Campus - <a href="mailto:john.vampatella@athletesinaction.org">John Vampatella</a></li>
 </ul>
 </li>

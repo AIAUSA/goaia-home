@@ -29,8 +29,8 @@ social_image: /uploads/opportunities/partnerships/Postcards%20V3.jpg
 <p>&nbsp;</p>
 <h5>Dates:</h5>
 <ul>
+<li>February 28 - March 10, Cape Town - Sports Performance - <a href="mailto:Lisa.Martin@athletesinaction.org">Lisa Martin</a></li>
 <li>March 1-10, Cape Town - Campus - <a href="mailto:phil.gillespie@athletesinaction.org">Phil Gillespie</a></li>
-<li>March 1-10, Cape Town - Sports Performance - <a href="mailto:Lisa.Martin@athletesinaction.org">Lisa Martin</a></li>
 <li>March 15-24, Cape Town - Campus - <a href="mailto:john.vampatella@athletesinaction.org">John Vampatella</a></li>
 </ul>
 </div>

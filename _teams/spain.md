@@ -1,5 +1,5 @@
 ---
-title: Western Europe Women's Tour
+title: Portugal Women's Tour
 director: Amanda Smith
 director_email: amanda.smith@athletesinaction.org
 dates: May 2019
