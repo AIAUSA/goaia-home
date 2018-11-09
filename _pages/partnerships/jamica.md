@@ -29,14 +29,14 @@ social_image: /uploads/opportunities/partnerships/jamaica_temp.png
 <p>&nbsp;</p>
 <h5>Dates:</h5>
 <ul>
-<li>TBD, Kingston</li>
+<li>March 16-23, Kingston</li>
 </ul>
 </div>
 <div class="col-sm-6">
 <h5>Logistics</h5>
 <ul>
-<li>Cost $2100, includes airfare</li>
-<li>No passport required</li>
+<li>Cost $1800, includes airfare</li>
+<li>Passport required</li>
 <li>Click “Register Now” link to register by January 1st</li>
 </ul>
 <a class="btn btn-custom mt20" href="https://my.athletesinaction.org/public/forms/spring-break.aspx">Register Now</a>

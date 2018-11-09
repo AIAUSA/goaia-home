@@ -48,9 +48,9 @@ sliderText: Go for Spring Break
 <h3>March 9th - 30th, 2019</h3>
 <h5></h5>
 <ul class="pricing-list">
-<li><i class="icon-check"></i>Cost $1800, Passport Required</li>
+<li><i class="icon-check"></i>Cost $1800, No Passport Required</li>
 <li><i class="icon-check"></i>Airfare included</li>
-<li>There are three trips leaving throughout the above dates:
+<li>There are trips leaving throughout these dates:
 <ul>
 <li>March 9-16, San Juan - <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
 <li>March 9-16, Mayaguez - <a href="mailto:jamie.vandenberg@athletesinaction.org">Jamie Vanderberg</a></li>
@@ -90,9 +90,11 @@ sliderText: Go for Spring Break
 <h3>TBD</h3>
 <p class="pricing-desc"></p>
 <ul class="pricing-list">
-<li>There is one trip leaving throughout the above dates:
+<li><i class="icon-check"></i>Cost $1800, Passport Required</li>
+<li><i class="icon-check"></i>Airfare included</li>
+<li>There are trips leaving throughout these dates:
 <ul>
-
+<li>March 16-23, Kingston</li>
 </ul>
 </li>
 </ul>
