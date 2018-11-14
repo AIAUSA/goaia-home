@@ -5,7 +5,7 @@ layout: page
 social_image: /uploads/opportunities/partnerships/Postcards%20V33.jpg
 ---
 
-<h2 class="title text-center mb30">Puerto Rico <span class="light first-color">Partnerships</span></h2>
+<h2 class="title text-center mb30">Puerto Rico <span class="light first-color">Opportunities</span></h2>
 
 <div class="row">
 <div class="col-sm-12">
@@ -30,7 +30,7 @@ social_image: /uploads/opportunities/partnerships/Postcards%20V33.jpg
 <h5>Dates:</h5>
 <ul>
 <li>March 9-16, San Juan - <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
-<li>March 9-16, Mayaguez - <a href="mailto:jamie.vandenberg@athletesinaction.org">Jamie Vanderberg</a></li>
+<li>March 9-16, Mayaguez - <a href="mailto:jamie.vandenberg@athletesinaction.org">Jamie Vandenberg</a></li>
 <li>March 9-16, Salinas - <a href="mailto:ryan.mathews@athletesinaction.org">Ryan Mathews</a></li>
 <li>March 16-23, Salinas & Gurabo - <a href="mailto:nick.castelluccio@athletesinaction.org">Nick Castelluccio</a></li>
 <li>March 23-30, San Juan - <a href="mailto:joseph.kleibscheidel@athletesinaction.org">Joe Kleibscheidel</a></li>
@@ -50,6 +50,7 @@ social_image: /uploads/opportunities/partnerships/Postcards%20V33.jpg
 </div>
 </div>
 </div>
+<div class="row">
 <div class="col-sm-12">
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 <div class="panel panel-default">

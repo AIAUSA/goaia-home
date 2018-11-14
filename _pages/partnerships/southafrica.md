@@ -5,7 +5,7 @@ layout: page
 social_image: /uploads/opportunities/partnerships/Postcards%20V3.jpg
 ---
 
-<h2 class="title text-center mb30">South Afria <span class="light first-color">Partnerships</span></h2>
+<h2 class="title text-center mb30">South Africa <span class="light first-color">Opportunities</span></h2>
 
 <div class="row">
 <div class="col-sm-12">
@@ -48,6 +48,7 @@ social_image: /uploads/opportunities/partnerships/Postcards%20V3.jpg
 </div>
 </div>
 </div>
+<div class="row">
 <div class="col-sm-12">
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 <div class="panel panel-default">

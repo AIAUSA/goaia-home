@@ -103,4 +103,4 @@ sliderText: Go for Spring Break
 <!-- End .col-md-4 --></div>
 </div></div></div>
 
-{% include plugins/registration-callout.html iFrameURL="https://my.athletesinaction.org/public/forms/spring-break.aspx" color="" %}
+{% include plugins/registration-callout.html iFrameURL="https://my.athletesinaction.org/public/forms/spring-break.aspx" color="dark" %}
