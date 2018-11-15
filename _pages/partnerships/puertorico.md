@@ -32,7 +32,7 @@ social_image: /uploads/opportunities/partnerships/Postcards%20V33.jpg
 <li>March 9-16, San Juan - <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
 <li>March 9-16, Mayaguez - <a href="mailto:jamie.vandenberg@athletesinaction.org">Jamie Vandenberg</a></li>
 <li>March 9-16, Salinas - <a href="mailto:ryan.mathews@athletesinaction.org">Ryan Mathews</a></li>
-<li>March 16-23, Salinas & Gurabo - <a href="mailto:nick.castelluccio@athletesinaction.org">Nick Castelluccio</a></li>
+<li>March 22-30, Salinas & Gurabo - <a href="mailto:nick.castelluccio@athletesinaction.org">Nick Castelluccio</a></li>
 <li>March 23-30, San Juan - <a href="mailto:joseph.kleibscheidel@athletesinaction.org">Joe Kleibscheidel</a></li>
 </ul>
 </div>

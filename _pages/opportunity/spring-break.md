@@ -55,7 +55,7 @@ sliderText: Go for Spring Break
 <li>March 9-16, San Juan - <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
 <li>March 9-16, Mayaguez - <a href="mailto:jamie.vandenberg@athletesinaction.org">Jamie Vanderberg</a></li>
 <li>March 9-16, Salinas - <a href="mailto:ryan.mathews@athletesinaction.org">Ryan Mathews</a></li>
-<li>March 16-23, Salinas & Gurabo - <a href="mailto:nick.castelluccio@athletesinaction.org">Nick Castelluccio</a></li>
+<li>March 22-30, Salinas & Gurabo - <a href="mailto:nick.castelluccio@athletesinaction.org">Nick Castelluccio</a></li>
 <li>March 23-30, San Juan - <a href="mailto:joseph.kleibscheidel@athletesinaction.org">Joe Kleibscheidel</a></li>
 </ul>
 </li>
@@ -94,7 +94,9 @@ sliderText: Go for Spring Break
 <li><i class="icon-check"></i>Airfare included</li>
 <li>There are trips leaving throughout these dates:
 <ul>
-<li>March 16-23, Kingston</li>
+<li>March 16-23, Kingston - <a href="mailto:jacob.douglas@athletesinaction.org">Jacob Douglas</a></li>
+<li>March 23-30, Kingston - <a href="mailto:peter.gonzalez@athletesinaction.org">Peter Gonzalez</a></li>
+<li>March 23-30, Kingston - <a href="mailto:nathan.buxman@athletesinaction.org">Nathan Buxman</a></li>
 </ul>
 </li>
 </ul>
