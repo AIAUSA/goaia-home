@@ -1,5 +1,5 @@
 ---
-title: Beach Volleyball Stateside Tour
+title: Women's Beach Volleyball Stateside Tour
 director: Amber Moore
 director_email: amber.moore@athletesinaction.org
 dates: June 3rd - 24th, 2019
