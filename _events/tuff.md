@@ -50,7 +50,7 @@ sport: track
 <div class="row">
 <div class=" span-12 cell">
 <div class="container mb20"><p class="p1"><b>&nbsp; <img class="img-responsive pull-right" width="40%" src="/uploads/track/tuff1.jpg">Location:</b> Hope College (Holland, MI)&nbsp;</p>
-<p class="p1"><b>Dates:</b>&nbsp;July 8th - 13th, 2018</p>
+<p class="p1"><b>Dates:</b>&nbsp;July 7th - 12th, 2019</p>
 <p class="p1"><b>Events:</b> Co-ed High School Cross Country</p>
 <p class="p1"><b>Fees:</b> $495 before June 8th, or $550 there after June 8th</p>
 <p class="p1"><b>Team Rate:</b> $475 if five or more teammates register together</p>
