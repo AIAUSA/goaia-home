@@ -37,7 +37,7 @@ sliderText: X-Project
 </div>
 <div class="mt20 mb30"><div class="mb mb-xs"></div>
 <!-- space -->
-{% include plugins/video-callout.html image="/uploads/opportunities/xproject/internship_group.jpeg" text="An Experience of a Lifetime" byLine="See More" video="https://www.facebook.com/aiaxp/videos/765347800293213/?hc_ref=ARSPJXuVDDGNP9E-Mv-orKl1FuFcs3Q4Fw6TH0DmuM8W5yOIGlVVqAFjz0HLl2xxEtk" %} 
+{% include plugins/video-callout.html image="/uploads/opportunities/xproject/internship_group.jpeg" text="An Experience of a Lifetime" byLine="See More" video="https://www.youtube.com/watch?v=uF4CFPGsGiI&feature=youtu.be" %} 
 <div class="row">
 <div class=" span-12 cell" id="dates">
 <header class="section-header container text-center">
