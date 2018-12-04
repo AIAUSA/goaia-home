@@ -33,7 +33,7 @@ sliderText: X-Project
 </header>
 <p class="p1">In addition to 30-35 hours on the job per week (260 total hours minimum), you come together with interns from other departments for Bible study, personal &amp; professional development, and training in evangelism &amp; leadership.</p>
 <p class="p1">Interns have the opportunity to get experience in: Sports/Event Management, Facility Management, Challenge Course Facilitating, Business Operations, Graphic Design, Video Production, Social Media, Management &amp; Communication, Website Design and Management, Written Communication, Athletic Training and Sports Performance for a Non-Profit Organization.&nbsp;</p>
-<p class="p2"><a target="_blank" href="https://docs.google.com/a/cru.org/document/d/1iu3hq_276Kushqnd4RKd5MqO0VbEZn44dkhfPWH0030/edit?usp=drive_web"><strong>X Project internship positions</strong></a></p>
+<p class="p2"><a target="_blank" href="https://docs.google.com/document/d/1tvRgbHa4e2aB9dO4TsBMwTZkQMo0qKq30eY08uMsZ1w/edit"><strong>More details about internship and available positions</strong></a></p>
 </div>
 <div class="mt20 mb30"><div class="mb mb-xs"></div>
 <!-- space -->
@@ -46,8 +46,8 @@ sliderText: X-Project
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><p><span>Arrive on&nbsp;</span><b>May 25, 2018</b></p>
-<p><span>Depart on&nbsp;</span><b>July 28, 2018</b></p>
+<div class="container"><p><span>Arrive on&nbsp;</span><b>May 27, 2019</b></p>
+<p><span>Depart on&nbsp;</span><b>July 27, 2019</b></p>
 </div></div></div>
 <div class="row">
 <div class=" span-12 cell" id="cost">
