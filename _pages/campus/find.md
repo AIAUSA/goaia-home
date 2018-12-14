@@ -112,20 +112,21 @@ $.ajax({
                         url: apiURL + "campus?filtertype=name&filter="+ escape(query),
                         contentType: "application/json; charset=utf-8", // content type sent to server
                         dataType: "json", //Expected data format from server
-                        success: function (result) {//On Successfull service call$.each(result, function(i, school) {
-mapper[school.SchoolName] = school;
-schools.push(school.SchoolName + " (" + school.SchoolCity + ", " + school.SchoolState + ")");
-})
-process(schools);
-},
-error: function (request, status, errorThrown) {
-  
- alert(request + " " + status + " " + errorThrown);
-} // When Service call fails
+                        success: function (result) {
+							//On Successfull service call
+							$.each(result, function(i, school) {
+								mapper[school.SchoolName] = school;
+								schools.push(school.SchoolName + " (" + school.SchoolCity + ", " + school.SchoolState + ")");
+							});
+							process(schools);
+						},
+						error: function (request, status, errorThrown) {
+							alert(request + " " + status + " " + errorThrown);
+						} // When Service call fails
 });
 },
 updater: function(item) {
-\$.ajax({
+$.ajax({
 type: "GET",
 url: apiURL + "CampusLocator?SchoolName=" + escape(item) + "&Radius=20",
 contentType: "application/json; charset=utf-8", // content type sent to server
