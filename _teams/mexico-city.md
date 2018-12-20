@@ -1,9 +1,9 @@
 ---
-title: Mexico City Tour
+title: Middle East Tour
 director: Tyler Warner
 director_email: tyler.warner@athletesinaction.org
-dates: June 2018
+dates: March 15th - 23rd, 2019
 layout: page
 sport: football
 ---
-This tour is geared towards current/former Football Coaches willing to serve and teach American Football & share their faith with Coaches all over the country of Mexico. You will be asked to speak about your specific skill-set, values, and life experiences during the National Convention. You also will have the opportunity to serve local youth football, high school & collegiate teams.
+Help train and coach athletes on our Middle East Tour, Spring 2019. Steward your gifts as an American Football influencer and impact the lives of many through one of the fastest growing sports in the world.
