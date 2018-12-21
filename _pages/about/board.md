@@ -103,6 +103,14 @@ layout: page
 <p class="member-desc">President and CEO of Skidmore Sales &amp; Distributing Co.</p>
 <!-- End .social-icons --></div>
 <!-- End .team-member --></div>
+<!-- End .member-container -->
+<div class="col-md-3 col-xs-6 team-member-container">
+<div class="team-member text-center">
+<figure><img src="/uploads/About/BoardofTrustees/williamson.jpg" alt="" class="img-responsive img-circle"></figure>
+<h3>James Williamson</h3>
+<p class="member-desc">President, Shelter Home Mortgage</p>
+<!-- End .social-icons --></div>
+<!-- End .team-member --></div>
 <!-- End .member-container --></div>
 </div>
 </div>

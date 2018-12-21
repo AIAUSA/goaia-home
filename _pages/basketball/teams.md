@@ -11,6 +11,7 @@ menu: basketball
 <div class="row col-sm-12">
 </div>
 <div class="row col-sm-12">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/aiateams/albums/72157701504176661" title="AIA Basketball Tour Favorites"><img src="https://farm2.staticflickr.com/1776/44013816972_2e3e87dbe5_b.jpg" class="pull-right col-md-6" alt="AIA Basketball Tour Favorites"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <b>For over 25 years, we’ve sent teams around the world to share the message of Jesus Christ through basketball.</b>
 
 <p>Traveling on a tour will transform your life as you:</p>
