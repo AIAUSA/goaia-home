@@ -3,7 +3,7 @@ language: ruby
 rvm:
   - 2.1
 cache: bundler
-install: gem install rb-inotify -v 0.9.10 && gem install ruby_dep -v 1.3.1 && gem install listen -v 3.0.8 && gem install jekyll-watch -v 2.0.0 && gem install jekyll -v 3.7.3 && gem install jekyll-redirect-from -v 0.13.0 && gem install jekyll-paginate-v2 -v 1.9.4 && gem install s3_website
+install: gem install rb-inotify -v 0.9.10 && gem install ruby_dep -v 1.3.1 && gem install listen -v 3.0.8 && gem install jekyll-watch -v 2.0.0 && gem install jekyll -v 3.7.3 && gem install jekyll-redirect-from -v 0.13.0 && gem install jekyll-paginate-v2 -v 1.9.4 && gem install s3_website && gem install bundler
 script: jekyll build
 after_success: 
   - bash postbuild.sh
