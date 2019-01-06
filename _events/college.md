@@ -3,7 +3,7 @@ title: College Specialist Camp
 location: AIA World Headquarters, Xenia, OH
 image: /uploads/football/Kornblue Logo March 2016.JPG
 permalink: /football/event/college
-start_date: May 26-28, 2017
+start_date: July 26-28, 2019
 end_date: 
 layout: page
 alt_url: 'http://www.kornbluekicking.com/?p=4429'

@@ -3,7 +3,7 @@ title: High School Specialist Camp
 location: AIA World Headquarters, Xenia, OH
 image: /uploads/football/kornblue Kicking CampFAB50.png
 permalink: /football/event/highschool
-start_date: May 28, 2017
+start_date: July 28, 2019
 end_date: 
 layout: page
 alt_url: 'http://www.kornbluekicking.com/?p=2413'
