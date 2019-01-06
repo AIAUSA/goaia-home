@@ -14,6 +14,7 @@ Gem::Specification.new do |spec|
   
     spec.add_development_dependency "jekyll", "~> 3.2"
     spec.add_development_dependency "jekyll-redirect-from", "~> 0.13.0"
+    spec.add_development_dependency "jekyll-paginate-v2", "~> 1.9.4"
     spec.add_development_dependency "bundler", "~> 1.12"
     spec.add_development_dependency "rake", "~> 10.0"
   end
