@@ -9,7 +9,7 @@ sliderText: X-Project
 ---
 <div class="container"><p>&nbsp; <img class="img-responsive pull-right" alt="" src="/uploads/opportunities/xproject/XProjectlogo-webb.jpg">X Project is a nine-week summer internship at the world headquarters of Athletes in Action in Xenia, OH. </p>
 <p>The internship includes not only professional development, but also ministry skills training, personal spiritual coaching and opportunities to engage in authentic Christian community.</p>
-<p>Come explore how your area of study can further missions around the world through the platform of sport. </p>
+<p style="font-weight:bolder;">Come explore how your area of study can further missions around the world through the platform of sport. </p>
 </div>
 <div class="mt20 mb30"><div class="mb mb-xs"></div>
 <!-- space -->
@@ -43,7 +43,7 @@ sliderText: X-Project
 <div class="row">
 <div class=" span-12 cell">
 <div class="container">
-<p>Arrive on May 26, 2019 / Depart on July 27, 2019</p>
+<p style="font-weight:bolder;">Arrive on May 26, 2019 / Depart on July 27, 2019</p>
 <p>Each intern is expected to raise $2500 to help with the total cost of X Project. Although you are not paid hourly, you will receive a weekly stipend towards gas and other expenses. Housing and most meals are provided. </p>
 <p>Just like other AIA mission projects, we will equip you to invite others to invest in you as you embrace this opportunity to grow professionally, spiritually and personally. Upon being selected for the project, we will provide a support-raising coach.</p>
 <p>Pairs of interns stay with host families who will provide a comfortable place to sleep, good food, and a “home away from home” for the summer.</p>
@@ -52,12 +52,13 @@ sliderText: X-Project
 <div class="row">
 <div class=" span-12 cell" id="dates">
 <header class="section-header container text-center">
-<h2 class="section-title first-color" data-title="Dates">Responsibilities</h2><h3> What would I do?</h3>
+<h2 class="section-title first-color" data-title="Dates">Responsibilities</h2>
 </header>
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
 <div class="container">
+<h3> What would I do?</h3>
 <p>In addition to 30-35 hours on the job per week (280 total hours minimum), you come together with interns from other departments for personal & professional development, training in evangelism & leadership, bible study and discipleship. Additionally, most interns will have the opportunity to provide leadership for an athletic youth camp.</p>
 
 <p>Non-office hours include opportunities to experience authentic community including project dinners, social and evangelistic outings and other intentional, dynamic fellowship.</p>
