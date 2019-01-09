@@ -22,7 +22,11 @@ sliderText: X-Project
                 <div class="callout-wrapper">
                     <div class="callout-left">
                         <h2 class="callout-title">Ready to join us for a life-changing summer internship?</h2>
-                        <p> Application Deadline: May 1st (After May 1st, please contact the project director at 937-903-8324)</p>
+                        <p>Applications for 2019 are being received NOW. Interviews have begun!</p>
+                        <br />
+                        <p>Deadline for Athletic Training and Sports Performance applications: February 1, 2019</p>
+                        <p>Deadline for ALL other applications: April 1, 2019</p>
+                        <p>(If after April 1st, contact project director at #937-903-8324.)</p>
                     </div>
                 <!-- End .callout-left -->
                     <div class="callout-right">
@@ -37,7 +41,7 @@ sliderText: X-Project
 <div class="row">
 <div class=" span-12 cell" id="dates">
 <header class="section-header container text-center">
-<h2 class="section-title first-color" data-title="Dates">Dates / Expenses / Accomodatations</h2>
+<h2 class="section-title first-color" data-title="Dates">Dates / Expenses / Accommodations</h2>
 </header>
 </div></div>
 <div class="row">
@@ -59,7 +63,7 @@ sliderText: X-Project
 <div class=" span-12 cell">
 <div class="container">
 <h3> What would I do?</h3>
-<p>In addition to 30-35 hours on the job per week (280 total hours minimum), you come together with interns from other departments for personal & professional development, training in evangelism & leadership, bible study and discipleship. Additionally, most interns will have the opportunity to provide leadership for an athletic youth camp.</p>
+<p>In addition to 30-35 hours on the job per week (280 total hours minimum), you come together with interns from other departments for personal and professional development, training in evangelism and leadership, bible study and discipleship. Additionally, most interns will have the opportunity to provide leadership for an athletic youth camp.</p>
 
 <p>Non-office hours include opportunities to experience authentic community including project dinners, social and evangelistic outings and other intentional, dynamic fellowship.</p>
 
@@ -87,18 +91,8 @@ sliderText: X-Project
 </div>
 <div class="container">
 <div class="text-center mt20 mb20">
-<a href="https://docs.google.com/document/d/1tvRgbHa4e2aB9dO4TsBMwTZkQMo0qKq30eY08uMsZ1w/edit" class="btn btn-custom no-radius min-width">More details about internships and available positions </a>
+<a href="https://docs.google.com/document/d/1tvRgbHa4e2aB9dO4TsBMwTZkQMo0qKq30eY08uMsZ1w/edit" class="btn btn-custom no-radius min-width">More details about internship and available positions </a>
 </div>
-</div>
-<div class="container">
-<p style="font-weight:bolder;">Ready to join us for a life-changing internship?</p>
-<p>Applications for 2019 are being received NOW. Interviews have begun!</p>
-<br />
-<p>Deadline for Athletic Training and Sports Performance applications: February 1, 2019</p>
-<p>Deadline for ALL other applications: April 1, 2019</p>
-
-<p>(If after April 1st, contact project director at #937-903-8324.)</p>
-
 </div>
 <div class="container">
 <div class="text-center mt20 mb20">
@@ -119,7 +113,7 @@ sliderText: X-Project
 <!-- End .callout-right --></div>
 <!-- End .callout-wrapper --></div>
 </div>
-<div class="container"><p class="p1">What X Project alumns are saying:</p>
+<div class="container"><p style="font-weight:bolder;">What X Project alumns are saying:</p>
 <p>"<span>I can't begin to imagine what my life would look like unless [X Project interns and staff] entered it this summer. I will be forever grateful for this experience and the people I have met because of it. I have truly been changed for the better because I met you all.</span>” <strong>–&nbsp;<span>Brittni H. </span></strong></p>
 <p>“<span>During X Project, I felt fully immersed in an environment that really developed me spiritually and professionally. Staff was so great at empowering me to be a relational, Godly leader. I never felt looked down on or shamed for my past or my struggles. I spent the summer learning to be and love my authentic self. XP was the perfect way to grow closer to Jesus through experiences and other believers.</span>”<strong> –&nbsp;<span>Annie H. </span></strong></p>
 <p>“<span>God showed me that I need Him in every area of my life. I don't just encounter God in my quiet time. I can and need to have Him involved in my plans for my future and for my work in the present.</span>” –&nbsp;<strong>Andy S. </strong></p>
