@@ -4,7 +4,8 @@ director: Amber Moore
 director_email: amber.moore@athletesinaction.org
 dates: December 12-16, 2018
 layout: page
-sport: volleyball
+sport: 
+published: false
 ---
 We will be at Booth #942 (right next to the FCA booth) during the AVCA Marketplace. We would love to connect with you at the Marketplace, during our events below and anytime during the week!
 
