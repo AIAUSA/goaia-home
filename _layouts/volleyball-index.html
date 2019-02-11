@@ -43,7 +43,8 @@
                 <section class="section" id="opportunities">
                     <header class="section-header container text-center">
                         <h2 class="section-title first-color" data-title="Opportunities">Opportunities</h2>
-                        <h6>For more information about any of these opportunities, please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link">short
+                        <h6>For more information about any of these opportunities, please fill out our <a
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link">short
                                 interest survey</a>.</h6>
                     </header>
                 </section>
@@ -52,21 +53,27 @@
 
         <div class="max-width">
             <div class="container mt20">
-                {% assign sorted = site.teams | where: "sport","volleyball" | reverse %}
+                {% assign sorted = site.teams | where: "sport","volleyball" | sort: "order" %}
                 {% for post in sorted %}
                 <div class=" col-md-6">
                     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
-                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pb{{forloop.index}}"
-                                        aria-expanded="false" aria-controls="c1pb{{forloop.index}}" class="collapsed">
+                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion"
+                                        href="#c1pb{{forloop.index}}" aria-expanded="false"
+                                        aria-controls="c1pb{{forloop.index}}" class="collapsed">
                                         {{ post.title }} <span class="panel-icon"></span> </a></h4>
                             </div>
-                            <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel" aria-labelledby="c1ph{{forloop.index}}">
+                            <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel"
+                                aria-labelledby="c1ph{{forloop.index}}">
                                 <div class="panel-body">
-                                    <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{
+                                    <strong>Director:</strong><a href="mailto:{{ post.director_email }}"
+                                        target="_blank">{{
                                         post.director }}</a> <br>
                                     <strong>Dates:</strong> {{ post.dates }} <br>
+                                    {%if post.location %}
+                                    <strong>Location:</strong> {{ post.location }}<br />
+                                    {% endif %}
                                     <strong>About:</strong> {{ post.content }}
                                 </div>
                             </div>
@@ -86,7 +93,8 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="testimonial  wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                        <div class="testimonial  wow zoomIn animated animated" data-wow-delay="0.2s"
+                            style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                             <figure></figure>
                             <div class="testimonial-content">
                                 <p>“My experience on tour with AIA impacted me in a major, positive way. I saw God
@@ -103,7 +111,8 @@
                         <!-- End .testimonial -->
                     </div>
                     <div class="col-md-6">
-                        <div class="testimonial reverse wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                        <div class="testimonial reverse wow zoomIn animated animated"
+                            style="visibility: visible; animation-name: zoomIn;">
                             <figure></figure>
                             <div class="testimonial-content">
                                 <p>“What I learned on tour is that I need to lean into Jesus when I am on the court and
@@ -124,7 +133,8 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                        <div class="testimonial wow zoomIn animated animated"
+                            style="visibility: visible; animation-name: zoomIn;">
                             <figure></figure>
                             <div class="testimonial-content">
                                 <p>“AIA is a ministry that has impacted my life in so many ways. I attended AIA
@@ -151,7 +161,8 @@
                     <!-- End .col-md-6 -->
 
                     <div class="col-md-6">
-                        <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                        <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s"
+                            style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                             <figure></figure>
                             <div class="testimonial-content">
                                 <p>“During the first week of training camp I was looking forward to playing a lot of
@@ -176,7 +187,8 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6">
-                        <div class="testimonial wow zoomIn animated animated" style="visibility: visible; animation-name: zoomIn;">
+                        <div class="testimonial wow zoomIn animated animated"
+                            style="visibility: visible; animation-name: zoomIn;">
                             <figure></figure>
                             <div class="testimonial-content">
                                 <p>“The tools I've acquired with Athletes in Action still bleed into my life on a daily
@@ -184,7 +196,8 @@
                                     than our fears, weaknesses and less-than-ideal situations. There are lives at
                                     stake, and eternity is not a game. We need to GO and MAKE disciples with the same
                                     sense of urgency that we have in earning points in a match.”</p>
-                                <h5>Sarah Amidon (Indiana State U.) - <a href="#" title="Caribbean, East Africa, Moldova">Moldova
+                                <h5>Sarah Amidon (Indiana State U.) - <a href="#"
+                                        title="Caribbean, East Africa, Moldova">Moldova
                                         (2005), Caribbean (2009), East Africa (2010).</a></h5>
                             </div>
                             <!-- End .testimonial-content -->
@@ -193,7 +206,8 @@
                     </div>
                     <!-- End .col-md-6 -->
                     <div class="col-md-6">
-                        <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                        <div class="testimonial reverse wow zoomIn animated animated" data-wow-delay="0.2s"
+                            style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
                             <figure></figure>
                             <div class="testimonial-content">
                                 <p>“When I was in Israel, this is what Jesus taught me: every pass, every set, every
@@ -216,9 +230,11 @@
         <div class="container mt50">
             <div class="row" id="staff">
                 <h2 class="title text-center mb30">Meet the <span class="light first-color">Team</span></h2>
-                <p>Interested in joining our team? We have <a href="https://goaia.org/careers/aiainstitute">internship</a>
+                <p>Interested in joining our team? We have <a
+                        href="https://goaia.org/careers/aiainstitute">internship</a>
                     and <a href="https://goaia.org/careers/full-time">full time</a> positions open! Click here to fill
-                    out an <a href="https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link">interest
+                    out an <a
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link">interest
                         survey</a> and one of us will follow up with you!</p>
             </div>
             <div class="row">
@@ -226,13 +242,15 @@
                     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="c1phs1">
-                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pbs1"
-                                        aria-expanded="false" aria-controls="c1pbs1" class="collapsed">Amber Moore,
+                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion"
+                                        href="#c1pbs1" aria-expanded="false" aria-controls="c1pbs1"
+                                        class="collapsed">Amber Moore,
                                         Director <span class="panel-icon"></span> </a></h4>
                             </div>
                             <div id="c1pbs1" class="panel-collapse in" role="tabpanel" aria-labelledby="c1phs1">
                                 <div class="panel-body">
-                                    <strong>Email:</strong><a href="mailto:amber.moore@athletesinaction.org">amber.moore@athletesinaction.org</a>
+                                    <strong>Email:</strong><a
+                                        href="mailto:amber.moore@athletesinaction.org">amber.moore@athletesinaction.org</a>
                                     <br>
                                     <strong>Phone:</strong>(713) 628-8645 <br><br />
                                     <p><img class="img-responsive col-sm-8" src="/uploads/volleyball/1.png" />Amber has
@@ -259,17 +277,20 @@
                     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                         <div class="panel panel-default">
                             <div class="panel-heading" role="tab" id="c1phs2">
-                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pbs1"
-                                        aria-expanded="false" aria-controls="c1pbs2" class="collapsed">Ashley Warner,
+                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion"
+                                        href="#c1pbs1" aria-expanded="false" aria-controls="c1pbs2"
+                                        class="collapsed">Ashley Warner,
                                         Pro Ministry and Marketing <span class="panel-icon"></span> </a></h4>
                             </div>
                             <div id="c1pbs2" class="panel-collapse in" role="tabpanel" aria-labelledby="c1phs2">
                                 <div class="panel-body">
-                                    <strong>Email:</strong><a href="mailto:ashley.warner@athletesinaction.org">ashley.warner@athletesinaction.org</a>
+                                    <strong>Email:</strong><a
+                                        href="mailto:ashley.warner@athletesinaction.org">ashley.warner@athletesinaction.org</a>
                                     <br>
                                     <strong>Phone:</strong>(248) 721-2024 <br /><br />
                                     <p>
-                                        <p><img class="img-responsive col-sm-8" src="/uploads/volleyball/42553491_10213504202419958_4765493440156794880_o.jpeg" />Ashley
+                                        <p><img class="img-responsive col-sm-8"
+                                                src="/uploads/volleyball/42553491_10213504202419958_4765493440156794880_o.jpeg" />Ashley
                                             has been on staff with Athletes in Action since 2012. Originally from
                                             Michigan, she played middle for Concordia University Ann Arbor. Ashley was
                                             heavily involved in the AIA on her campus after she said yes to Jesus
