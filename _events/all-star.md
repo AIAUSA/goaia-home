@@ -4,6 +4,7 @@ location: Los Angeles, CA
 image: /uploads/basketball/allstarbreakfastEvent.png
 permalink: /basketball/events/all-star
 start_date: February 18, 2018
+date: '2019-04-04'
 end_date: 
 layout: page
 alt_url: 'https://www.allstarbreakfast.net'

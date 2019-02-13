@@ -9,6 +9,7 @@ layout: page
 alt_url: 
 short_description: "Athletes in Action Basketball wants to invest in your team's leaders! Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court."
 sport: basketball
+date: '2019-04-04'
 ---
 
 <div class="row">
