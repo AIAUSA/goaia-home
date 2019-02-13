@@ -1,11 +1,11 @@
 ---
 title: Georgia Azerbaijan
-director: Rob Bronson
-director_email: rob.bronson@athletesinaction.org
+director: " Rob Bronson"
+director_email: " rob.bronson@athletesinaction.org"
 dates: July 1st - 14th, 2019
 layout: page
 sport: wrestling
-date: '2019-07-01'
+date: 2019-07-01 00:00:00 +0000
 level: ''
 type: ''
 published: false
