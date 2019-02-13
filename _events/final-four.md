@@ -12,7 +12,6 @@ short_description: AIA Basketball has various events, highlighted by the Legends
   the Hardwood Breakfast at the Men's Final Four. Check out our events by going to
   the Final Four Events Page below.
 sport: basketball
-date: ''
 final_four: ''
 
 ---
