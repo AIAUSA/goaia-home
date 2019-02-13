@@ -3,7 +3,7 @@ title: The Gathering
 location: Minneapolis, MN
 image: "/uploads/basketball/thegatheringEvents.png"
 permalink: "/basketball/events/gathering"
-start_date: Friday, April 5th, 2019, 1pm
+start_date: Friday, April 5th, 2019, 9am
 end_date: ''
 layout: page
 alt_url: http://www.thegathering4coacheswives.com/
