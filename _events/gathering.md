@@ -1,6 +1,6 @@
 ---
 title: The Gathering
-location: San Antonio, TX
+location: Minneapolis, MN
 image: "/uploads/basketball/thegatheringEvents.png"
 permalink: "/basketball/events/gathering"
 start_date: Friday, April 5th, 2019, 1pm
@@ -12,7 +12,7 @@ short_description: The Gathering is a welcoming place for coaches' wives attendi
   experience, use their resources to help others, and be encouraged, inspired and
   challenged by hope found in Jesus Christ.
 sport: final four
-date: 2019-04-04 00:00:00 +0000
+date: 2019-04-04 04:00:00 +0000
 final_four: ''
 
 ---
