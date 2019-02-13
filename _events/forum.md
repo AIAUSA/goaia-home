@@ -1,13 +1,17 @@
 ---
 title: Coaches Forum
-location: San Antonio, TX
-image: /uploads/basketball/coachesforumEvent.png
-permalink: /basketball/events/forum
-start_date: March 30th, 2018 - 2:30pm
-end_date: 
+location: Minneapolis, MN
+image: "/uploads/basketball/coachesforumEvent.png"
+permalink: "/basketball/events/forum"
+start_date: April 5th, 2019 1pm
+end_date: ''
 layout: page
-alt_url: 'https://www.facebook.com/events/272336043177664/'
-short_description: 'The Athletes in Action Basketball Coaches Forum is held annually and features a forum of current and former coaches who have made themselves available for questions, comments, and to share on various issues relating to basketball, life, and the Gospel.'
+alt_url: https://www.facebook.com/events/272336043177664/
+short_description: The Coaches Forum is held annually and features a panel of current
+  and former coaches who have made themselves available for questions, comments, and
+  to share on various issues relating to basketball, life, and faith.
 sport: final four
-date: '2019-04-04'
+date: 2019-04-04 00:00:00 +0000
+final_four: ''
+
 ---
