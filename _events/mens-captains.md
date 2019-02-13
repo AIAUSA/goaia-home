@@ -2,7 +2,7 @@
 title: Men's Captains Academy
 location: AIA World Headquarters, Xenia, OH
 image: "/uploads/basketball/captainsacademy1.png"
-permalink: "/basketball/events/captains/men"
+permalink: https://goaia.org/basketball/events/captains/men
 start_date: May 9, 2019
 end_date: May 13, 2019
 layout: page
