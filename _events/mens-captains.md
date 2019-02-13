@@ -12,7 +12,7 @@ short_description: Athletes in Action Basketball wants to invest in your team's 
   your team's influencers to affect change in your locker room and produce results
   on the court.
 sport: basketball
-date: 2019-04-04 00:00:00 +0000
+date: 2018-04-04 00:00:00 +0000
 final_four: ''
 
 ---
@@ -86,7 +86,7 @@ final_four: ''
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<h3 style="text-align: center;">May 17th - 21st, 2018<br />Athletes in Action Total Athlete Complex</h3>
+<h3 style="text-align: center;">May 9th - 13th, 2019<br />Athletes in Action Total Athlete Complex</h3>
 <h3 style="text-align: center;"><strong>Schedule Includes:</strong></h3>
 <center>
 <table>

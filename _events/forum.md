@@ -11,7 +11,7 @@ short_description: The Coaches Forum is held annually and features a panel of cu
   and former coaches who have made themselves available for questions, comments, and
   to share on various issues relating to basketball, life, and faith.
 sport: final four
-date: 2019-04-04 00:00:00 +0000
+date: 2018-04-04 00:00:00 +0000
 final_four: ''
 
 ---

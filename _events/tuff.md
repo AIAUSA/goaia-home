@@ -10,7 +10,7 @@ alt_url:
 short_description: 'Training in 3-D is what TUFF Camps are all about. TUFF Camp staff and trainers are committed to helping each participant grow in all three aspects of their performance: physical, mental and spiritual.'
 video_url: https://youtu.be/lXY799Zx4aU
 sport: track
-date: '2019-04-04'
+date: '2018-04-04'
 ---
 <div class="row">
 <div class=" span-12 cell" id="about">

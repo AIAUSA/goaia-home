@@ -5,9 +5,9 @@ image: /uploads/basketball/coachesacademyEvents.png
 permalink: /basketball/events/coachesacademy
 start_date: November 5th
 end_date:  16, 2018
-date: '2019-04-04'
+date: '2018-04-04'
 layout: page
-alt_url: 
+alt_url: ''
 short_description: 'The AIA Coaches Academy is an invite only two-week academy blending coaching instruction, leadership development and cultural experience. Coaches from around the world travel to Xenia, OH with the goal of leaving able to better lead and guide their athletes in every area of life.'
 final_four: 0
 sport: basketball

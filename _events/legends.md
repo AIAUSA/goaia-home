@@ -12,7 +12,7 @@ short_description: Each year Athletes in Action hosts the Legends of the Hardwoo
   community who exemplify character, integrity, and leadership with the Coach John
   Wooden "Keys to Life" Award.
 sport: final four
-date: 2019-04-04 00:00:00 +0000
+date: 2018-04-04 00:00:00 +0000
 final_four: ''
 
 ---

@@ -11,7 +11,7 @@ short_description: Our experienced staff and scheduled speakers will spend a ful
   weekend working with your team's influencers to affect change in your locker room
   and produce results on the court.
 sport: basketball
-date: 2019-04-04 00:00:00 +0000
+date: 2018-04-04 00:00:00 +0000
 final_four: ''
 
 ---
@@ -22,7 +22,7 @@ final_four: ''
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><h4 style="text-align: center;">AIA Women's Basketball&nbsp;Captains Academy<br />August 9th - 13th, 2018</h4>
+<div class="container"><h4 style="text-align: center;">AIA Women's Basketball&nbsp;Captains Academy<br />May 9th - 13th, 2019</h4>
 <p>Athletes in Action Basketball wants to invest in your team's leaders! &nbsp;Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court. This Division I Women's Basketball Captain's Academy will be held at Athletes in Action's Total Athlete Complex in Xenia, OH.</p>
 <p><strong></strong>The schedule for the week includes:</p>
 <ul class="list-style list-disc">
