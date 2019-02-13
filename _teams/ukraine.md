@@ -5,7 +5,7 @@ director_email: rob.bronson@athletesinaction.org
 dates: June 16th - 30th, 2019
 layout: page
 sport: wrestling
-date: ''
+date: '2019-06-16'
 level: ''
 type: ''
 
