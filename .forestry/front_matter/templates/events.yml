@@ -1,19 +1,5 @@
 ---
-pages:
-- _events/youth.md
-- _events/womens-captains.md
-- _events/final-four.md
-- _events/mens-captains.md
-- _events/legends.md
-- _events/college.md
-- _events/coaches-academy.md
-- _events/altitude.md
-- _events/high-school.md
-- _events/gathering.md
-- _events/tuff.md
-- _events/hbcu.md
-- _events/forum.md
-- _events/all-star.md
+label: events
 hide_body: false
 is_partial: false
 fields:
@@ -77,3 +63,18 @@ fields:
   type: text
   hidden: false
   default: 
+pages:
+- _events/gathering.md
+- _events/hbcu.md
+- _events/coaches-academy.md
+- _events/forum.md
+- _events/college.md
+- _events/legends.md
+- _events/womens-captains.md
+- _events/final-four.md
+- _events/mens-captains.md
+- _events/all-star.md
+- _events/youth.md
+- _events/tuff.md
+- _events/altitude.md
+- _events/high-school.md
