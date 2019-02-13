@@ -1,6 +1,6 @@
 ---
 title: Legends Breakfast
-location: San Antonio, TX
+location: Minneapolis, MN
 image: "/uploads/basketball/legendsbreakfastEvent.png"
 permalink: "/basketball/events/legends"
 start_date: April 6th, 2019, 8:30am
