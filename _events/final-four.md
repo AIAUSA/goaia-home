@@ -3,7 +3,7 @@ title: Final Four Events
 location: Minneapolis, MN & Tampa, FL
 image: "/uploads/basketball/finalfourEvents.png"
 permalink: "/basketball/events/finalfour"
-date: 2019-04-04
+date: '2019-04-04'
 start_date: 'April 4th, 2019 '
 end_date: April 7th, 2019
 layout: no-title
