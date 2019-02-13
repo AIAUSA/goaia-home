@@ -1,7 +1,7 @@
 ---
 title: All-Star Breakfast
 location: Charlotte, NC
-image: "/uploads/basketball/allstarbreakfastEvent.png"
+image: all-star-2019.png
 permalink: https://goaia.org/basketball/events/
 start_date: February 16, 2019
 end_date: ''
@@ -12,7 +12,7 @@ short_description: 'The All-Star Breakfast celebrates character, leadership and 
   the NBA Retired Players Association and features the  presentation of the Jerry
   Colangelo and Bobby Jones Awards. '
 sport: basketball
-date: '2019-04-04'
+date: 2019-04-04 00:00:00 +0000
 final_four: ''
 
 ---
