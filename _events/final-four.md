@@ -1,14 +1,19 @@
 ---
 title: Final Four Events
-location: San Antonio, TX & Columbus, OH
-image: /uploads/basketball/finalfourEvents.png
-permalink: /basketball/events/finalfour
-start_date: March 29th
-end_date: April 1st, 2018
+location: Minneapolis, MN & Tampa, FL
+image: "/uploads/basketball/finalfourEvents.png"
+permalink: "/basketball/events/finalfour"
+start_date: 'April 4th, 2019 '
+end_date: April 7th, 2019
 layout: no-title
-alt_url: 
-short_description: AIA Basketball has various events, highlighted by the Legends of the Hardwood Breakfast at the Men's Final Four. Check out our events by going to the Final Four Events Page below.
+alt_url: ''
+short_description: AIA Basketball has various events, highlighted by the Legends of
+  the Hardwood Breakfast at the Men's Final Four. Check out our events by going to
+  the Final Four Events Page below.
 sport: basketball
+date: ''
+final_four: ''
+
 ---
 <div class="bg-image pt40 pb40 pb60-xs overlay-container fullwidth" data-bgattach="/uploads/basketball/basketballsonrack.jpg" style="background-image: url('/uploads/basketball/basketballsonrack.jpg');">
     <div class="overlay"></div>
