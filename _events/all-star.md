@@ -1,7 +1,7 @@
 ---
 title: All-Star Breakfast
 location: Charlotte, NC
-image: all-star-2019.png
+image: https://files.slack.com/files-pri/T02C0B2C4-FG5TE07MJ/all-star-2019.png
 permalink: https://goaia.org/basketball/events/
 start_date: February 16, 2019
 end_date: ''
