@@ -7,12 +7,11 @@ social_image: /uploads/opportunities/partnerships/Postcards%20V3.jpg
 
 <h2 class="title text-center mb30">Let God Use You to Make a Powerful Difference in the World</h2>
 
-<div class="container">
-    <div class="row">
-        <div class="col-sm-12 mb30">
-            <div class="videowrapper">
-                <iframe style="text-align: center; display: block; margin-left: auto; margin-right: auto; width: 100%;" src="https://www.youtube.com/embed/H_N0A67hI60" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-            </div>
+
+<div class="row">
+    <div class="col-sm-12 mb30">
+        <div class="videowrapper">
+            <iframe style="text-align: center; display: block; margin-left: auto; margin-right: auto; width: 100%;" src="https://www.youtube.com/embed/H_N0A67hI60" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
         </div>
     </div>
 </div>

@@ -6,7 +6,7 @@ permalink: "/basketball/events/legends"
 start_date: April 6th, 2019, 8:30am
 end_date: ''
 layout: page
-alt_url: https://legendsbreakfast.net
+alt_url: http://legendsbreakfast.net
 short_description: Each year Athletes in Action hosts the Legends of the Hardwood
   Breakfast at the Mens Final Four. The breakfast honors members of the basketball
   community who exemplify character, integrity, and leadership with the Coach John

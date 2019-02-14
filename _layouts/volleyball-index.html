@@ -67,14 +67,14 @@
                             <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel"
                                 aria-labelledby="c1ph{{forloop.index}}">
                                 <div class="panel-body">
-                                    <strong>Director:</strong><a href="mailto:{{ post.director_email }}"
+                                    <strong>Director: </strong><a href="mailto:{{ post.director_email }}"
                                         target="_blank">{{
                                         post.director }}</a> <br>
                                     <strong>Dates:</strong> {{ post.dates }} <br>
                                     {%if post.location %}
                                     <strong>Location:</strong> {{ post.location }}<br />
                                     {% endif %}
-                                    <strong>About:</strong> {{ post.content }}
+                                    <strong>About: </strong> {{ post.content }}
                                 </div>
                             </div>
                         </div>
