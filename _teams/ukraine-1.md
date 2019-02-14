@@ -1,6 +1,6 @@
 ---
 title: Georgia Azerbaijan
-director: " Rob Bronson"
+director: Rob Bronson
 director_email: " rob.bronson@athletesinaction.org"
 dates: July 1st - 14th, 2019
 layout: page
