@@ -8,7 +8,7 @@ fields:
   type: text
   hidden: false
   default: ''
-  config: 
+  config:
     required: true
 - name: location
   label: Location
@@ -20,7 +20,7 @@ fields:
   type: file
   hidden: false
   default: 
-  config: 
+  config:
     required: true
 - name: start_date
   label: Start date
@@ -41,7 +41,7 @@ fields:
   label: External URL
   type: text
   hidden: false
-  description: 'Link to External Website'
+  description: Link to External Website
   default: 
   config:
     required: true
