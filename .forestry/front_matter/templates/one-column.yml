@@ -1,0 +1,13 @@
+---
+label: One Column
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: block
+  label: block
+  hidden: true
+  default: one
+- type: blocks
+  name: one
+  label: Blocks
