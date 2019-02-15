@@ -27,3 +27,5 @@ fields:
 - type: blocks
   name: page_sections
   label: Blocks
+  template_types:
+  - one-column
