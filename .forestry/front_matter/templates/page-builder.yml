@@ -1,0 +1,29 @@
+---
+label: Page Builder
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: permalink
+  label: URL
+  config:
+    required: true
+- type: file
+  name: social_image
+  label: Social Image
+  description: Image to appear when shared (1200 X 768)
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  config:
+    required: true
+  default: page-blocks
+- type: blocks
+  name: page_sections
+  label: Blocks
