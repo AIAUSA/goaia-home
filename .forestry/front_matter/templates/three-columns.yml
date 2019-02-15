@@ -2,8 +2,11 @@
 label: Three Columns
 hide_body: true
 is_partial: true
-display_field: one
+display_field: section_title
 fields:
+- type: text
+  name: section_title
+  label: Section Title
 - type: text
   name: block
   label: block
@@ -11,7 +14,7 @@ fields:
   default: three-columns
 - type: blocks
   name: one
-  label: Blocks
+  label: Column One
   template_types:
   - text
   - title
@@ -19,7 +22,7 @@ fields:
   - video
 - type: blocks
   name: two
-  label: Blocks
+  label: Column 2
   template_types:
   - text
   - title
@@ -27,7 +30,7 @@ fields:
   - video
 - type: blocks
   name: three
-  label: Blocks
+  label: Column 3
   template_types:
   - text
   - title
