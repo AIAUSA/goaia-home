@@ -1,15 +1,15 @@
 ---
-title: "Global Missions: South Africa"
+title: 'Global Missions: South Africa'
 permalink: "/partnerships/southafrica"
 layout: page-blocks
-social_image: /uploads/opportunities/partnerships/Postcards%20V3.jpg
+social_image: "/uploads/opportunities/partnerships/Postcards%20V3.jpg"
 page_sections:
 - template: one-column
   block: one-column
   one:
   - template: title
     block: title
-    Title: "Let God Use You to Make a Powerful Difference in the World"
+    Title: Let God Use You to Make a Powerful Difference in the World
 - template: video
   block: video
   link: https://www.youtube.com/watch/H_N0A67hI60
@@ -18,26 +18,29 @@ page_sections:
   one:
   - template: text
     block: text
-    content: <h4>How to Participate</h4>
+    content: "#### How to Participate"
 - template: three-columns
   block: three-columns
   one:
   - template: panel
     block: panel
     title: Spring Break
-    text: Use your spring break to change lives in Cape Town, South Africa. Immerse yourself for one full week to become equipped as a stronger spiritual leader.
+    text: Use your spring break to change lives in Cape Town, South Africa. Immerse
+      yourself for one full week to become equipped as a stronger spiritual leader.
   two:
   - template: panel
     block: panel
     title: Summer Project
-    text: Spend two weeks in Cape Town helping Athletes in Action grow existing campus ministries in South Africa.
+    text: Spend two weeks in Cape Town helping Athletes in Action grow existing campus
+      ministries in South Africa.
   three:
   - template: panel
     block: panel
     title: STINT
-    text: Experience a Short-term International Assignment (STINT) for a year of expanding God’s Kingdom with athletes in South Africa.
----
+    text: Experience a Short-term International Assignment (STINT) for a year of expanding
+      God’s Kingdom with athletes in South Africa.
 
+---
 <div class="row">
     <div class="col-sm-4">
         <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
