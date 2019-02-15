@@ -20,6 +20,7 @@ page_sections:
   - template: text
     block: text
     content: "#### How to Participate"
+  section_title: How to Participate
 - template: three-columns
   block: three-columns
   one:
