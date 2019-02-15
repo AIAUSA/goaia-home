@@ -1,0 +1,33 @@
+---
+label: Panel
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: block
+  name: block
+  hidden: true
+  config:
+    required: true
+  default: panel
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+- type: text
+  name: text
+  label: Body Content
+  config:
+    required: true
+- type: text
+  name: learnmore
+  label: Link to Learn More
+  description: "Adds link to Learn More Above the Button"
+- type: text
+  name: ctalink
+  label: Call-to-Action Link
+- type: text
+  name: ctatext
+  label: Call-to-Action Text
+    

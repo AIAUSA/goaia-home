@@ -82,7 +82,7 @@ span.megamenu-title:hover {
 }
 @media (min-width: 992px) {
  
-  .max-width .container { width: 900px; }
+  /*.max-width .container { width: 900px; }*/
   
 }
 @media (min-width: 48em) and (max-width: 61em) { 
@@ -300,3 +300,14 @@ span.megamenu-title:hover {
   width: 100%;
   height: 100%;
 }
+
+.equal {  
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-align-content: flex-end;
+  align-content: flex-end;
+}
+
+.equal .col-md-4 .panel-group, .equal .col-md-4 .panel-group .panel { height : 100%; }

@@ -1,5 +1,5 @@
 ---
-label: One Column
+label: Three Columns
 hide_body: true
 is_partial: true
 display_field: one
@@ -8,7 +8,7 @@ fields:
   name: block
   label: block
   hidden: true
-  default: one-column
+  default: three-columns
 - type: blocks
   name: one
   label: Blocks

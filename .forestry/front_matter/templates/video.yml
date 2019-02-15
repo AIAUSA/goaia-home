@@ -1,0 +1,18 @@
+---
+label: Video
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: block
+  name: block
+  hidden: true
+  config:
+    required: true
+  default: video
+- type: text
+  name: link
+  label: YouTube URL
+  description: We will convert it to an embed
+  config:
+    required: true

@@ -1,0 +1,22 @@
+---
+label: Title
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: block
+  name: block
+  hidden: true
+  config:
+    required: true
+  default: title
+- type: text
+  name: Title
+  label: Main Title
+  description: H2 Tag
+  config:
+    required: true
+- type: text
+  name: Subtitle
+  label: Subtitle
+  description: H4 Tag
