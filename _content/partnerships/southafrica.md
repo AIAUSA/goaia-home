@@ -27,19 +27,27 @@ page_sections:
     title: Spring Break
     text: Use your spring break to change lives in Cape Town, South Africa. Immerse
       yourself for one full week to become equipped as a stronger spiritual leader.
+    learnmore: /oppotunity/springbreak
+    ctalink: https://my.athletesinaction.org/public/forms/spring-break.aspx
+    ctatext: Register Today
   two:
   - template: panel
     block: panel
     title: Summer Project
     text: Spend two weeks in Cape Town helping Athletes in Action grow existing campus
       ministries in South Africa.
+    learnmore: /opportunity/south-africa-project
+    ctalink: https://my.athletesinaction.org/Applications/Tour/South-Africa-Project/default.aspx
+    ctatext: Apply Today
   three:
   - template: panel
     block: panel
     title: STINT
     text: Experience a Short-term International Assignment (STINT) for a year of expanding
       God’s Kingdom with athletes in South Africa.
-
+    learnmore: /careers/stint
+    ctalink: https://apply.cru.org/sessions/new#_=_
+    ctatext: Apply Today
 ---
 <div class="row">
     <div class="col-sm-4">

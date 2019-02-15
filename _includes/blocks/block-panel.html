@@ -1,17 +1,22 @@
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
     <div class="panel panel-default">
         <div class="panel-heading" role="tab" id="c1phs1">
-            <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pbs1" aria-expanded="false" aria-controls="c1pbs1" class="collapsed">{{section.title}}</a></h4>
+            <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#c1pbs1"
+                    aria-expanded="false" aria-controls="c1pbs1" class="collapsed">{{section.title}}</a></h4>
         </div>
         <div id="c1pbs1" class="panel-collapse in" role="tabpanel" aria-labelledby="c1phs1">
             <div class="panel-body">
                 {{section.text}}
+                {% if section.learnmore %}
                 <br />
                 <span class="text-center col-md-12" style="width: 100%">
-                    <a href="/opportunity/springbreak">Learn More</a>
+                    <a href="{{ section.learnmore }}">Learn More</a>
                 </span>
+                {%- endif %}
+                {% if section.ctalink %}
                 <br /><br />
-                <a href="https://my.athletesinaction.org/public/forms/spring-break.aspx" class="btn btn-custom col-md-12">Register Today</a>
+                <a href="{{ section.ctalink }}" class="btn btn-custom col-md-12">{{ section.ctatext }}</a>
+                {%- endif %}
             </div>
         </div>
     </div>
