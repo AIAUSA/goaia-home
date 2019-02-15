@@ -14,11 +14,17 @@ sections:
   - events
 - type: directory
   path: _teams
-  label: Teams
+  label: Tours/Projects
   create: all
   match: "**/*"
   templates:
   - teams
+- type: directory
+  path: _content
+  label: Content
+  create: all
+  match: "**/*"
+  templates:
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''

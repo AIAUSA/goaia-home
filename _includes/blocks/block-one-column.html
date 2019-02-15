@@ -1,0 +1,7 @@
+<div class="container">
+    <div class="row">
+        {% for section in section.one %}
+        {% include blocks/block-{{ section.block }}.html %}
+        {% endfor %}
+    </div>
+</div>

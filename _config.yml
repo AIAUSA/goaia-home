@@ -35,6 +35,9 @@ collections:
   wrestling:
     title: Wrestling
     output: true
+  content:
+    title: Content
+    output: true
 defaults:
 - scope:
     path: ''
@@ -42,6 +45,12 @@ defaults:
   values:
     byLine: ''
     layout: page
+- scope:
+    path: ''
+    type: content
+  values:
+    byLine: ''
+    layout: page-blocks
 - scope:
     path: ''
     type: camps
