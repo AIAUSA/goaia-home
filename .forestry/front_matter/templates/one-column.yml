@@ -12,3 +12,5 @@ fields:
 - type: blocks
   name: one
   label: Blocks
+  template_types:
+  - text
