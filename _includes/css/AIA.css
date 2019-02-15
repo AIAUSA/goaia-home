@@ -311,3 +311,4 @@ span.megamenu-title:hover {
 }
 
 .equal .col-md-4 .panel-group, .equal .col-md-4 .panel-group .panel { height : 100%; }
+.panel-heading { display: block; padding: 15px 20px; }
