@@ -1,7 +1,8 @@
 ---
 label: One Column
 hide_body: true
-is_partial: false
+is_partial: true
+display_field: one
 fields:
 - type: text
   name: block
