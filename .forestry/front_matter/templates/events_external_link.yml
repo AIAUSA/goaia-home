@@ -1,6 +1,6 @@
 ---
-label: events
-hide_body: false
+label: Events with External URL
+hide_body: true
 is_partial: false
 fields:
 - name: title
@@ -20,14 +20,6 @@ fields:
   type: file
   hidden: false
   default: 
-  config: 
-    required: true
-- name: permalink
-  label: URL
-  type: text
-  hidden: false
-  default: ''
-  description: 'Path to the event page, relative to section'
   config: 
     required: true
 - name: start_date
@@ -51,6 +43,8 @@ fields:
   hidden: false
   description: 'Link to External Website'
   default: 
+  config:
+    required: true
 - name: short_description
   label: Description
   type: textarea
@@ -79,11 +73,9 @@ fields:
   config:
     required: true
 pages:
-- _events/hbcu.md
-- _events/coaches-academy.md
-- _events/college.md
-- _events/womens-captains.md
-- _events/mens-captains.md
-- _events/youth.md
-- _events/tuff.md
-- _events/high-school.md
+- _events/gathering.md
+- _events/forum.md
+- _events/final-four.md
+- _events/all-star.md
+- _events/legends.md
+- _events/altitude.md
