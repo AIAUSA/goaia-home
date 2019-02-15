@@ -17,3 +17,19 @@ fields:
   - title
   - panel
   - video
+- type: blocks
+  name: two
+  label: Blocks
+  template_types:
+  - text
+  - title
+  - panel
+  - video
+- type: blocks
+  name: three
+  label: Blocks
+  template_types:
+  - text
+  - title
+  - panel
+  - video
