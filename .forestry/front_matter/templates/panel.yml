@@ -23,11 +23,10 @@ fields:
 - type: text
   name: learnmore
   label: Link to Learn More
-  description: "Adds link to Learn More Above the Button"
+  description: Adds link to Learn More Above the Button
 - type: text
   name: ctalink
   label: Call-to-Action Link
 - type: text
   name: ctatext
   label: Call-to-Action Text
-    
