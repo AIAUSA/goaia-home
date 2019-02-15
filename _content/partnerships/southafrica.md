@@ -49,5 +49,6 @@ page_sections:
     learnmore: "/careers/stint"
     ctalink: https://apply.cru.org/sessions/new#_=_
     ctatext: Apply Today
+  section_title: Options
 
 ---
