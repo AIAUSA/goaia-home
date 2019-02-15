@@ -9,6 +9,9 @@ sections:
   label: Events
   create: all
   match: "**/*"
+  templates:
+  - events_external_link
+  - events
 - type: directory
   path: _teams
   label: Teams
