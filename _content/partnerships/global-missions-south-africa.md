@@ -2,7 +2,7 @@
 title: 'Global Missions: Jamaica'
 permalink: "/partnerships/jamaica"
 layout: page-blocks
-social_image: "/uploads/opportunities/partnerships/Postcards%20V3.jpg"
+social_image: "/uploads/opportunities/partnerships/jamaica_temp.png"
 page_sections:
 - template: one-column
   block: one-column
@@ -14,9 +14,9 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text
-    block: text
-    content: "![](/uploads/2019/02/19/rawpixel-741662-unsplash.jpg)"
+  - template: image
+    block: image
+    image: "/uploads/2019/02/19/rawpixel-741662-unsplash.jpg"
   section_title: Image
 - template: one-column
   block: one-column
@@ -55,6 +55,5 @@ page_sections:
     ctalink: https://apply.cru.org/sessions/new#_=_
     ctatext: Apply Today
   section_title: Options
-published: false
-
+published: true
 ---

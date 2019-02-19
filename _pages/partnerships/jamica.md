@@ -3,6 +3,7 @@ title: Jamaica Partnership
 permalink: "/partnerships/jamaica"
 layout: page
 social_image: /uploads/opportunities/partnerships/jamaica_temp.png
+published: false
 ---
 
 <h2 class="title text-center mb30">Jamaica <span class="light first-color">Opportunities</span></h2>

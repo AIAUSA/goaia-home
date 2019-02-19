@@ -1,0 +1,17 @@
+---
+label: Image
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: image
+  name: image
+  hidden: true
+  config:
+    required: true
+  default: video
+- type: file
+  name: image
+  label: Image
+  config:
+    required: true

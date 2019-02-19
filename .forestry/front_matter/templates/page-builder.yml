@@ -29,6 +29,9 @@ fields:
   label: Blocks
   template_types:
   - one-column
+  - two-colum
+  - three-column
+  - four-column
 pages:
 - _content/partnerships/southafrica.md
 - _content/partnerships/global-missions-south-africa.md
