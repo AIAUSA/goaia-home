@@ -28,6 +28,7 @@ fields:
   name: page_sections
   label: Blocks
   template_types:
+  - three-columns
   - one-column
 pages:
 - _content/partnerships/southafrica.md
