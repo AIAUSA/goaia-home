@@ -7,7 +7,7 @@ fields:
 - type: text
   name: section_title
   label: Section Title
-  description: "This doesn't display on page, just for Forestry.IO"
+  description: This doesn't display on page, just for Forestry.IO
 - type: text
   name: block
   label: block
