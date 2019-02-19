@@ -42,7 +42,7 @@ page_sections:
     title: Summer Project
     text: Spend two weeks in Kingston helping Athletes in Action grow existing campus
       ministries in Jamaica.
-    learnmore: ''
+    learnmore:
     ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Jamaica/default.aspx
     ctatext: Apply Today
   three:
