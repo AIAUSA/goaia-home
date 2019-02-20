@@ -1,0 +1,20 @@
+---
+label: Call-to-Action Button
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: block
+  name: block
+  hidden: true
+  config:
+    required: true
+  default: cta
+- type: text
+  name: text
+  label: Primary CTA
+  config:
+    required: true
+- type: text
+  name: subtext
+  label: extra description

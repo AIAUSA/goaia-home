@@ -22,6 +22,7 @@ fields:
   - panel
   - video
   - image
+  - cta
 - type: blocks
   name: right
   label: Column 2
@@ -31,3 +32,4 @@ fields:
   - panel
   - video
   - image
+  - cta
