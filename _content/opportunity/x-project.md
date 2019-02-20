@@ -9,63 +9,64 @@ page_sections:
   link: https://www.youtube.com/watch?v=uF4CFPGsGiI
 - template: two-columns
   block: two-columns
-  section_title:  Buttons
+  section_title: Buttons
   left:
   - template: cta
     block: cta
-    link: #
-    text: "Apply Now"
+    link: 
+    text: Apply Now
   right:
   - template: cta
     block: cta
-    link: #
-    text: "More Info"
+    link: 
+    text: More Info
 - template: one-column
   block: one-column
   one:
   - template: text
     block: text
     content: |-
-        ### Personal and Professional Development
-        
-        ### Authentic Relationships and Community
-        
-        ### Spiritual Coaching and Ministry Training
-        
-        ### Impact Lives through Skills and Passions
+      ### Personal and Professional Development
+
+      ### Authentic Relationships and Community
+
+      ### Spiritual Coaching and Ministry Training
+
+      ### Impact Lives through Skills and Passions
   section_title: Benefit Phrases
 - template: two-columns
   block: two-columns
-  section_title:  Details
+  section_title: Details
   left:
   - template: text
     block: text
     content: |-
-        #### Internship Details
-        * Dates: May 25 - July 28
-        * Cost: Fundraise $2500
-        * Location: Xenia, OH
-        * Application Deadline: February 1
+      #### Internship Details
+      * Dates: May 25 - July 28
+      * Cost: Fundraise $2500
+      * Location: Xenia, OH
+      * Application Deadline: February 1
   right:
   - template: cta
     block: cta
-    link: #
-    text: "Apply Now"
+    link: 
+    text: Apply Now
   - template: cta
     block: cta
-    link: #
-    text: "More Info"
+    link: 
+    text: More Info
 - template: one-column
   block: one-column
   one:
   - template: cta
     block: cta
-    link: #
-    text: "About Athletes In Action"
+    link: 
+    text: About Athletes In Action
 - template: one-column
   block: one-column
   one:
   - template: text
     block: text
     content: "#### More Info"
+
 ---
