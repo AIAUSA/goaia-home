@@ -73,6 +73,7 @@ fields:
   default: 
   description: Basketball-Only (Men, Women, Coaches)
 pages:
+- _teams/volleyball-tour-internship.md
 - _teams/beach-volleyball-internship.md
 - _teams/ukraine-1.md
 - _teams/switizerland.md
