@@ -1,0 +1,16 @@
+---
+label: Custom Heading
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: custom-heading
+- type: text
+  name: black
+  label: Black Text
+- type: text
+  name: red
+  label: Red Text

@@ -33,6 +33,11 @@ fields:
   - two-colum
   - three-column
   - four-column
+  - application-call-to-action
+  - custom-heading
+  - image-callout
+  - project-details
+  - video-callout
 pages:
 - _content/partnerships/southafrica.md
 - _content/partnerships/global-missions-south-africa.md

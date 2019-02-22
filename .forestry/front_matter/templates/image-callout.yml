@@ -1,0 +1,26 @@
+---
+label: Image Callout
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: image-callout
+- type: text
+  name: text
+  label: Main Text
+- type: text
+  name: byLine
+  label: Subtext
+- type: file
+  name: image
+  label: Image
+  description: photo to appear behind the text
+- type: text
+  name: url
+  label: Link URL
+- type: text
+  name: linkText
+  label: Button Text

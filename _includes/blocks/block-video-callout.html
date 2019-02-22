@@ -1,0 +1,19 @@
+<div class="no-border no-margin">
+    <div class="mb mb-xs"></div>
+    <!-- space -->
+    <div class="bg-image overlay-container" data-bgattach="{{ section.image }}" style="background-image: url('{{ section.image }}');">
+        <div class="overlay dark"></div>
+        <!-- End .overlay -->
+        <div class="container">
+            <div class="iframe-btn-container">
+                <header class="title-block text-center mb50">
+                    <h2 class="text-white text-center mb20">{{ section.text }}</h2>
+                    <p class="text-white">{{ section.byLine }}</p>
+                </header>
+                <a href="{{ section.video }}" class="popup-iframe iframe-btn" title="Our Video">
+                    <i class="icon-control-play"></i>
+                </a>
+            </div><!-- End .iframe-btn-container -->
+        </div><!-- End .container -->
+    </div><!-- End .bg-image -->
+</div>

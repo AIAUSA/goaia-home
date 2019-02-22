@@ -1,0 +1,21 @@
+<div class="no-border no-margin">
+    <div class="mb mb-xs"></div>
+    <!-- space -->
+    <div class="bg-image overlay-container" data-bgattach="{{ section.image }}" style="background-image: url('{{ section.image }}');">
+        <div class="overlay dark"></div>
+        <!-- End .overlay -->
+        <div class="container">
+            <div class="iframe-btn-container">
+                <header class="title-block text-center mb50">
+                    <h2 class="text-white text-center mb20">{{ section.text }}</h2>
+                    <p class="text-white">{{ section.byLine }}</p>
+                    {% if section.url != nil %}
+                    <div class="callout-action">
+                        <a href="{{section.url}}" class="btn btn-custom radius-lger min-width">{{section.linkText}}</a>
+                    </div>
+                    {% endif %}
+                </header>
+            </div><!-- End .iframe-btn-container -->
+        </div><!-- End .container -->
+    </div><!-- End .bg-image -->
+</div>

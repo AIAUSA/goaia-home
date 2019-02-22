@@ -1,0 +1,19 @@
+---
+label: Application Call To Action
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: application-callout
+- type: select
+  name: color
+  config:
+    source:
+      type: simple
+    options:
+    - light
+    - dark
+  label: Color
