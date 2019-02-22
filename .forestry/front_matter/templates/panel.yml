@@ -15,11 +15,13 @@ fields:
   label: Title
   config:
     required: true
-- type: text
+- type: textarea
   name: text
   label: Body Content
   config:
-    required: true
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: learnmore
   label: Link to Learn More
