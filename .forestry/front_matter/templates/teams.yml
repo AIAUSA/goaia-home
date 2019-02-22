@@ -25,7 +25,7 @@ fields:
   type: text
   hidden: false
   default: 
-  description: These are the dates that the Tour is happening
+  description: These are the dates that the Tour is happening or Application Deadline
   config:
     required: true
 - name: layout
@@ -43,8 +43,8 @@ fields:
     - soccer
     - wrestling
     - volleyball
+    - volleyball-career
     - track
-    - volleyball-careers
     required: true
   label: Sport
 - name: date
@@ -55,12 +55,17 @@ fields:
   description: Typically can be today's date
   config:
     required: true
+- name: location
+  label: Location
+  type: text
+  hidden: false
+  default: ''
 - name: level
   label: Level
   type: text
   hidden: false
   default: 
-  description: Badketball-Only (D1, D2, D3, etc)
+  description: Basketball-Only (D1, D2, D3, etc)
 - name: type
   label: Type
   type: text

@@ -16,7 +16,7 @@
         <div class="container mt30">
             <div class="row">
                 <div class="col-md-4"><a href="#about" class="btn btn-custom col-md-12">About AIA Volleyball</a></div>
-                <div class="col-md-4"><a href="#opportunities" class="btn btn-custom  col-md-12">About Staff and
+                <div class="col-md-4"><a href="#careers" class="btn btn-custom  col-md-12">About Staff and
                         Internships</a></div>
                 <div class="col-md-4"><a href="#opportunities" class="btn btn-custom col-md-12">About Tours</a></div>
             </div>
@@ -37,6 +37,52 @@
         </div>
         {% include plugins/image-callout.html image="/uploads/volleyball/callout.jpg" text="Looking for a Challenge?"
         byLine="Check out our tours below." %}
+
+        <div class="row">
+            <div id="careers">
+                <section class="section" id="careers">
+                    <header class="section-header container text-center">
+                        <h2 class="section-title first-color" data-title="Opportunities">Career Opportunities</h2>
+                        <h6>For more information about any of these opportunities, please fill out our <a
+                                href="https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link">short
+                                interest survey</a>.</h6>
+                    </header>
+                </section>
+            </div>
+        </div>
+
+        <div class="max-width">
+            <div class="container mt20">
+                {% assign sorted = site.teams | where: "sport","volleyball-career" | sort: "order" %}
+                {% for post in sorted %}
+                <div class=" col-md-6">
+                    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                        <div class="panel panel-default">
+                            <div class="panel-heading" role="tab" id="c1ph{{forloop.index}}">
+                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion"
+                                        href="#c1pb{{forloop.index}}" aria-expanded="false"
+                                        aria-controls="c1pb{{forloop.index}}" class="collapsed">
+                                        {{ post.title }} <span class="panel-icon"></span> </a></h4>
+                            </div>
+                            <div id="c1pb{{forloop.index}}" class="panel-collapse in" role="tabpanel"
+                                aria-labelledby="c1ph{{forloop.index}}">
+                                <div class="panel-body">
+                                    <strong>Director: </strong><a href="mailto:{{ post.director_email }}"
+                                        target="_blank">{{
+                                        post.director }}</a> <br>
+                                    <strong>Application Deadline:</strong> {{ post.dates }} <br>
+                                    {%if post.location %}
+                                    <strong>Location:</strong> {{ post.location }}<br />
+                                    {% endif %}
+                                    <strong>About: </strong> {{ post.content }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
 
         <div class="row">
             <div id="opportunities">
