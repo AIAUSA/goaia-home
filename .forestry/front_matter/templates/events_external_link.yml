@@ -73,9 +73,9 @@ fields:
   config:
     required: true
 pages:
-- _events/gathering.md
-- _events/forum.md
-- _events/final-four.md
-- _events/all-star.md
-- _events/legends.md
 - _events/altitude.md
+- _events/legends.md
+- _events/all-star.md
+- _events/final-four.md
+- _events/forum.md
+- _events/gathering.md

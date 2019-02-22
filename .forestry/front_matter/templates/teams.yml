@@ -68,13 +68,13 @@ fields:
   default: 
   description: Basketball-Only (Men, Women, Coaches)
 pages:
-- _teams/east-asia.md
-- _teams/switizerland.md
-- _teams/italy.md
-- _teams/tuff.md
-- _teams/ukraine.md
-- _teams/polan.md
 - _teams/ukraine-1.md
-- _teams/spain.md
-- _teams/ethopia.md
+- _teams/switizerland.md
+- _teams/tuff.md
 - _teams/mexico-city.md
+- _teams/polan.md
+- _teams/italy.md
+- _teams/east-asia.md
+- _teams/ethopia.md
+- _teams/spain.md
+- _teams/ukraine.md
