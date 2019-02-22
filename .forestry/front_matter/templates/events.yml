@@ -80,11 +80,11 @@ fields:
   config:
     required: true
 pages:
-- _events/hbcu.md
-- _events/coaches-academy.md
-- _events/college.md
 - _events/womens-captains.md
-- _events/mens-captains.md
+- _events/coaches-academy.md
+- _events/hbcu.md
 - _events/youth.md
-- _events/tuff.md
+- _events/mens-captains.md
 - _events/high-school.md
+- _events/college.md
+- _events/tuff.md
