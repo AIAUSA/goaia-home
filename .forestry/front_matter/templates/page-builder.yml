@@ -9,6 +9,10 @@ fields:
   config:
     required: true
 - type: text
+  label: Description
+  name: description
+  description: This will appear as the subtitle of the page
+- type: text
   name: permalink
   label: URL
   config:
@@ -30,9 +34,9 @@ fields:
   template_types:
   - three-columns
   - one-column
-  - two-colum
-  - three-column
-  - four-column
+  - two-columns
+  - three-columns
+  - four-columns
   - application-call-to-action
   - custom-heading
   - image-callout
