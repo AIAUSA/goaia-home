@@ -5,7 +5,7 @@ permalink: "/volleyball"
 social_image: ''
 page_sections:
 - template: four-columns
-  block: three-columns
+  block: four-columns
   four:
   - template: cta
     block: cta
@@ -63,7 +63,7 @@ page_sections:
 - template: one-column
   block: one-column
 - template: two-columns
-  block: three-columns
+  block: two-columns
   left:
   - template: panel
     block: panel

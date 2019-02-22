@@ -19,11 +19,8 @@ layout: default
             </div>
         </div>
     </div>
-    <div class="max-width">
-        <div class="container mt20">
-            {% for section in page.page_sections %}
-            {% include blocks/block-{{ section.block }}.html %}
-            {% endfor %}
-        </div>
-    </div>
 </div>
+{% for section in page.page_sections %}
+{% include blocks/block-{{ section.block }}.html %}
+{% endfor %}
+        

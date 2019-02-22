@@ -12,7 +12,7 @@ fields:
   name: block
   label: block
   hidden: true
-  default: three-columns
+  default: two-columns
 - type: blocks
   name: left
   label: Column One
