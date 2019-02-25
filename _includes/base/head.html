@@ -11,8 +11,10 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
     <link href="/images/faviconaia.png" rel="shortcut icon" type="image/x-icon" />
     <meta property="og:title" content="{{page.title}}">
-    {% if page.social_image %}
+    {% if page.social_image and page.social != nil and page.social != '' %}
     <meta property="og:image" content="https://goaia.org{{page.social_image}}">
+    {% else %}
+    <meta property="og:image" content="https://ik.imagekit.io/athletesinaction/images/Others/tr:ot-{{page.title | replace: " ", "%20" }},ots-60,oy-325,ott-b,ox-500,otc-FFFFFF/goaia-social.jpg">
     {% endif %}
     <!-- Google Analytics -->
     <script>
