@@ -79,8 +79,16 @@ page_sections:
   type: volleyball
 - template: application-call-to-action
   block: application-callout
+  color: dark
+  appLink: https://my.athletesinaction.org/Applications/Tour/Volleyball/default.aspx
 - template: custom-heading
   block: custom-heading
+  black: Alumni
+  red: Endorsements
+- template: custom-heading
+  block: custom-heading
+  black: Meet the 
+  red: Team
 - template: one-column
   block: one-column
 - template: two-columns
@@ -125,6 +133,6 @@ page_sections:
     title: Ashley Warner, Pro Ministry and Marketing
 date: 2019-02-22 15:18:55 +0000
 description: ''
-published: true
+published: false
 
 ---

@@ -10,21 +10,18 @@ fields:
   hidden: true
   default: project-details
 - type: select
-  name: audience
+  name: type
+  label: Project Type
   config:
     source:
       type: simple
     options:
-    - student
-    - professional
-    - staff
-    required: true
-  label: Audience
-  default: student
-- type: text
-  name: type
-  label: Project Type
-  config:
+    - basketball
+    - soccer
+    - wrestling
+    - volleyball
+    - volleyball-career
+    - track
     required: true
 - type: text
   name: order

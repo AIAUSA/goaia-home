@@ -17,3 +17,9 @@ fields:
     - light
     - dark
   label: Color
+- type: text
+  name: appLink
+  label: Link
+  description: Link to the application
+  config:
+    required: true

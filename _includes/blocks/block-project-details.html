@@ -1,4 +1,4 @@
-{% assign opps = site.teams | where: "sport", section.type %}
+{% assign opps = site.teams | where: "sport", section.type | sort: "order" %}
 <div class="max-width">
     <div class="container mt20">
         {% for opp in opps %}

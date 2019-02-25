@@ -14,3 +14,6 @@ fields:
 - type: text
   name: red
   label: Red Text
+- type: textarea
+  label: Subtext
+  name: byLine
