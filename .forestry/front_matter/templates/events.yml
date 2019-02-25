@@ -56,6 +56,10 @@ fields:
   type: textarea
   hidden: false
   default: 
+- type: file
+  name: social_image
+  label: Social Image
+  description: Image to appear when shared (1080 X 516)
 - type: select
   name: sport
   config:

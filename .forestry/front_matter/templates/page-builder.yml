@@ -20,7 +20,7 @@ fields:
 - type: file
   name: social_image
   label: Social Image
-  description: Image to appear when shared (1200 X 768)
+  description: Image to appear when shared (1080 X 516)
 - type: text
   name: layout
   label: Layout

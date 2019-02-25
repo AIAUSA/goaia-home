@@ -4,9 +4,17 @@ title: AIA Volleyball
 permalink: "/volleyball"
 social_image: ''
 page_sections:
-- template: four-columns
-  block: four-columns
-  four:
+- template: three-columns
+  block: three-columns
+  one:
+  - template: cta
+    block: cta
+    text: About AIA Volleyball
+  two:
+  - template: cta
+    block: cta
+    text: About Staff and Internships
+  three:
   - template: cta
     block: cta
     text: About Tours
@@ -18,23 +26,22 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text
-    block: text
-    content: |-
+  - template: text-with-right-image
+    block: text-with-right-image
+    text: |-
       Athletes in Action Volleyball was started in 1982 by Barb Bernlohr and Bobby Herron. The first women’s team was sent out that same year, traveling to Japan. Up until the last few years, the focus of AIA Volleyball has been to send our teams internationally, which has led us all over the globe to countries in Latin America, Africa, Europe and Asia. We understand the hunger athletes have to learn and to go out and see the world. From this hunger, tours and projects were born to challenge and provide space for those athletes to learn, grow and go.
 
       Sport is one of the few languages that can cross cultural and spoken language barriers. This common language of volleyball gives us the ability to open doors, build bridges and change lives all over the country and the world. It’s impact goes well beyond the scoreboard. AIA Volleyball is committed to seeking God’s leading, looking to maximize the impact in the locations we travel to, and investing wholly into the participants on our tours.
-  - template: text
-    block: text
-    content: |-
-      Looking for a challenge?
+    
+      ##### Looking for a challenge?
 
       We now offer opportunities ranging from international indoor tours, to beach tours, to pro communities and retreats. Within all of our opportunities two things remain very important to us: To offer quality volleyball training from highly qualified coaches and trainers who will invest in you on the court. And to see you as the _Total Athlete/Coach_ (physical, mental and spiritual) that you are, therefore, offering high quality training to you off the court in ministry skills and in your walk with Christ.
 
       We are all about _Victory Beyond Competition_ and to play for an _Audience of One!!!_
-  - template: text
-    block: text
-    content: |-
+    image: "/uploads/volleyball/about.jpg"
+  - template: text-with-right-image
+    block: text-with-right-image
+    text: |-
       Through our tours you will:
 
       * Compete/Train
@@ -46,15 +53,29 @@ page_sections:
       * Experience real life change
 
       Get a glimpse of a volleyball tour through the [AIA Volleyball Team Blog](http://teamblogs.athletesinaction.org/section/global-sports/volleyball)
-- template: video-callout
-  block: video-callout
+    image: "/uploads/volleyball/tours.jpg"
+- template: image-callout
+  block: image-callout
+  text: Looking for a Challenge?
+  byLine: Check out our Opportunities Below
+  image: "/uploads/volleyball/callout.jpg"
 - template: custom-heading
   block: custom-heading
-- template: one-column
-  block: one-column
+  black: Career
+  red: Opportunities
+  byLine: |-
+      For more information about any of these opportunities, please fill out our [short interest survey](https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link).
 - template: project-details
   block: project-details
-  audience: professional
+  type: volleyball-career
+- template: custom-heading
+  block: custom-heading
+  black: Competitive
+  red: Opportunities
+  byLine: |-
+      For more information about any of these opportunities, please fill out our [short interest survey](https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link).
+- template: project-details
+  block: project-details
   type: volleyball
 - template: application-call-to-action
   block: application-callout
@@ -104,6 +125,6 @@ page_sections:
     title: Ashley Warner, Pro Ministry and Marketing
 date: 2019-02-22 15:18:55 +0000
 description: ''
-published: false
+published: true
 
 ---

@@ -1,11 +1,10 @@
-{% assign opps = site.events | where: section.audience, "true" %}
+{% assign opps = site.teams | where: "sport", section.type %}
 <div class="max-width">
     <div class="container mt20">
-        <div class="col-md-12">
-        <h2 class="title-underblock custom mb30">{{section.type}}</h2>
-        <div class="panel-group" role="tablist" aria-multiselectable="true">
-        {% assign subopps = opps | where: "type", section.type %}
-        {% for opp in subopps %}
+        {% for opp in opps %}
+        <div class="col-md-6">
+        <div class="panel-group" role="accordian" aria-multiselectable="true">
+        
         <div class="panel panel-default">
         <div class="panel-heading" role="tab" id="heading{{section.order}}{{forloop.index}}">
         <h4 class="panel-title">
@@ -15,15 +14,15 @@
         </a>
         </h4>
         </div><!-- End .panel-heading -->
-        <div id="collapse{{section.order}}{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{section.order}}{{forloop.index}}">
+        <div id="collapse{{section.order}}{{forloop.index}}" class="panel-collapse" role="tabpanel" aria-labelledby="heading{{section.order}}{{forloop.index}}">
         <div class="panel-body">
-        <img class="col-md-4 img-responsive pull-right" src="{{opp.featured_image}}" /> {{opp.description | markdownify }}
+        {{ opp.content }}
         </div><!-- End .panel-body -->
         </div><!-- End .panel-collapse -->
         </div><!-- End .panel -->
-        {% endfor %}
+        
         </div><!-- End .panel-group -->
-
         </div>
+        {% endfor %}
     </div>
 </div>

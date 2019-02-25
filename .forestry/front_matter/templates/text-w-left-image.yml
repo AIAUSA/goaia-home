@@ -1,0 +1,20 @@
+---
+label: Text w/Left Image
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  hidden: true
+  default: text-with-left-image
+- type: file
+  name: image
+  label: Image
+- type: textarea
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: text
+  name: text
