@@ -32,7 +32,7 @@ page_sections:
       Athletes in Action Volleyball was started in 1982 by Barb Bernlohr and Bobby Herron. The first women’s team was sent out that same year, traveling to Japan. Up until the last few years, the focus of AIA Volleyball has been to send our teams internationally, which has led us all over the globe to countries in Latin America, Africa, Europe and Asia. We understand the hunger athletes have to learn and to go out and see the world. From this hunger, tours and projects were born to challenge and provide space for those athletes to learn, grow and go.
 
       Sport is one of the few languages that can cross cultural and spoken language barriers. This common language of volleyball gives us the ability to open doors, build bridges and change lives all over the country and the world. It’s impact goes well beyond the scoreboard. AIA Volleyball is committed to seeking God’s leading, looking to maximize the impact in the locations we travel to, and investing wholly into the participants on our tours.
-    
+
       ##### Looking for a challenge?
 
       We now offer opportunities ranging from international indoor tours, to beach tours, to pro communities and retreats. Within all of our opportunities two things remain very important to us: To offer quality volleyball training from highly qualified coaches and trainers who will invest in you on the court. And to see you as the _Total Athlete/Coach_ (physical, mental and spiritual) that you are, therefore, offering high quality training to you off the court in ministry skills and in your walk with Christ.
@@ -63,8 +63,8 @@ page_sections:
   block: custom-heading
   black: Career
   red: Opportunities
-  byLine: |-
-      For more information about any of these opportunities, please fill out our [short interest survey](https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link).
+  byLine: For more information about any of these opportunities, please fill out our
+    [short interest survey](https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link).
 - template: project-details
   block: project-details
   type: volleyball-career
@@ -72,8 +72,8 @@ page_sections:
   block: custom-heading
   black: Competitive
   red: Opportunities
-  byLine: |-
-      For more information about any of these opportunities, please fill out our [short interest survey](https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link).
+  byLine: For more information about any of these opportunities, please fill out our
+    [short interest survey](https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link).
 - template: project-details
   block: project-details
   type: volleyball
@@ -87,7 +87,7 @@ page_sections:
   red: Endorsements
 - template: custom-heading
   block: custom-heading
-  black: Meet the 
+  black: Meet the
   red: Team
 - template: one-column
   block: one-column
@@ -97,7 +97,8 @@ page_sections:
   - template: panel
     block: panel
     title: Amber Moore, Director
-    text: 'Email:amber.moore@athletesinaction.org  Phone:(713) 628-8645   Amber has
+    text: "**Email:** [amber.moore@athletesinaction.org  ](mailto:amber.moore@athletesinaction.org)
+      \ \n**Phone:** (713) 628-8645   \n\n![](/uploads/volleyball/1.png)Amber has
       been on staff with Athletes in Action since 2015. Originally from Houston, she
       played middle for Texas State University. Amber was involved in FCA and after
       catching the vision for how sports and ministry can be combined to make a huge
@@ -110,11 +111,12 @@ page_sections:
       has a heart to dive into the beach world and to provide opportunities for beach
       players to grow and make an impact.  Amber is married to Leif, who is also on
       staff working on local college campuses in Ohio. They have one beautiful daughter,
-      named Abra!'
+      named Abra!"
   right:
   - template: panel
     block: panel
-    text: Email:ashley.warner@athletesinaction.org  Phone:(248) 721-2024   Ashley
+    text: "**Email:** [ashley.warner@athletesinaction.org  ](mailto:ashley.warner@athletesinaction.org
+      \ )  \n**Phone:** (248) 721-2024   \n\n![](/uploads/volleyball/42553491_10213504202419958_4765493440156794880_o.jpeg)Ashley
       has been on staff with Athletes in Action since 2012. Originally from Michigan,
       she played middle for Concordia University Ann Arbor. Ashley was heavily involved
       in the AIA on her campus after she said yes to Jesus during her second year.
@@ -129,7 +131,7 @@ page_sections:
       as missionaries that God has strategically placed, and she loves to be a part
       of facilitating a community, training them in ministry skills and encouraging
       them as they are abroad!  Ashley is married to Tyler, who is also on staff in
-      the football department. They have one son, named Ben!
+      the football department. They have one son, named Ben!"
     title: Ashley Warner, Pro Ministry and Marketing
 date: 2019-02-22 15:18:55 +0000
 description: ''
