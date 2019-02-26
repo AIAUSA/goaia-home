@@ -15,5 +15,16 @@
 
         {{ content }}
         {% include base/footer.html %}        
+        <script type="text/javascript">
+            if ($("#testimonial-slider").length) {
+                    console.log("TEST");
+                    $("#testimonial-slider").owlCarousel({
+                        paginationSpeed: 1000,
+                        items: 1,
+                        autoplay: true,
+                        autoplayTimeout: 5000,
+                    });
+                }
+        </script>
     </body>
 </html>

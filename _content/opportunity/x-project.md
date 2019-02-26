@@ -13,12 +13,12 @@ page_sections:
   left:
   - template: cta
     block: cta
-    link: 
+    link: https://my.athletesinaction.org/Applications/Tour/X-Project-Internship/default.aspx
     text: Apply Now
   right:
   - template: cta
     block: cta
-    link: 
+    link: "#more"
     text: More Info
 - template: one-column
   block: one-column
@@ -78,18 +78,18 @@ page_sections:
   right:
   - template: cta
     block: cta
-    link: 
+    link: https://my.athletesinaction.org/Applications/Tour/X-Project-Internship/default.aspx
     text: Apply Now
   - template: cta
     block: cta
-    link: 
+    link: "#more"
     text: More Info
 - template: one-column
   block: one-column
   one:
   - template: cta
     block: cta
-    link: 
+    link: /about/
     text: About Athletes In Action
   section_title: About AIA
 - template: one-column
