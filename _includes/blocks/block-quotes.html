@@ -1,0 +1,27 @@
+<div class="no-border no-margin fullwidth">
+    <div class="mb mb-xs"></div>
+    <!-- space -->
+    <div style="background-color: #990000;">
+        <div class="container pt30">
+            <header class="title-block text-center mb50">
+                <h2 class="text-white text-center mb20">What others are saying</h2>
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <div class="testimonial-carousel">
+                            <div id="testimonial-slider" class="owl-carousel">
+                                {% for post in section.quotes limit: 5 %}
+                                <div style="color: white;">
+                                    <p>{{ post.quote }}</p>
+                                    <div class="user">
+                                        <p>{{ post.name }} - {{ post.experience }}</p>
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </header>
+        </div><!-- End .container -->
+    </div><!-- End .bg-image -->
+</div>

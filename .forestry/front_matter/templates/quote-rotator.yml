@@ -1,0 +1,15 @@
+---
+label: Fullwidth Quote Rotator
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: block
+  label: block
+  hidden: true
+  default: quotes
+- type: blocks
+  name: quotes
+  label: Quotes
+  template_types:
+  - alumni-quote

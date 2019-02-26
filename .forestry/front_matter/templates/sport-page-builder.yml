@@ -64,5 +64,6 @@ fields:
   - project-details
   - video-callout
   - alumni
+  - quote-rotator
 pages:
 - _content/aia-volleyball.md
