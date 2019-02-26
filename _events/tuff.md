@@ -53,11 +53,12 @@ date: '2018-04-04'
 <div class="container mb20"><p class="p1"><b>&nbsp; <img class="img-responsive pull-right" width="40%" src="/uploads/track/tuff1.jpg">Location:</b> Hope College (Holland, MI)&nbsp;</p>
 <p class="p1"><b>Dates:</b>&nbsp;July 7th - 12th, 2019</p>
 <p class="p1"><b>Events:</b> Co-ed High School Cross Country</p>
-<p class="p1"><b>Fees:</b> $495 before June 8th, or $550 there after June 8th</p>
+<p class="p1"><b>Fees:</b> $495 before June 15th, or $550 there after June 15th</p>
 <p class="p1"><b>Team Rate:</b> $475 if five or more teammates register together</p>
 <p class="p1"><b>Deposit:</b> A $50 non-refundable deposit must accompany registration. &nbsp;The deposit will be applied to your camp fee. &nbsp; The remaining balance is due on or prior to the first day of camp.</p>
 <p class="p2"></p>
 <p class="p1"><b>Camp Fees Include:</b>&nbsp;Housing in college dorm, all meals, biomechanical analysis, personalized training, t-shirt, notebook, Christian atmosphere, goal-setting, teamwork, and much more!</p>
+<p>For More Information, <a href="/uploads/track/TUFFbrochure2019.pdf">download our brochure</a>. </p>
 </div></div></div>
 <div class="row">
 <div class=" span-12 cell" id="register">
