@@ -2,7 +2,7 @@
 title: 'Global Missions: Puerto Rico'
 permalink: "/partnerships/puertorico"
 layout: page-blocks
-social_image: /uploads/opportunities/partnerships/Postcards%20V33.jpg
+social_image: "/uploads/opportunities/partnerships/Postcards%20V33.jpg"
 page_sections:
 - template: one-column
   block: one-column
@@ -40,8 +40,11 @@ page_sections:
   - template: panel
     block: panel
     title: Summer Project
-    text: Spend two weeks in Puerto Rico helping Athletes in Action grow the existing sport ministry presence.
-    learnmore: 'http://www.extremechallengepuertorico.com/'
+    text: |-
+      Spend two weeks in Puerto Rico helping Athletes in Action grow the existing sport ministry presence.
+
+      **Dates:** May 22 - June 6, 2019
+    learnmore: http://www.extremechallengepuertorico.com/
     ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Puerto-Rico/default.aspx
     ctatext: Apply Today
   three:
@@ -54,5 +57,7 @@ page_sections:
     ctalink: https://apply.cru.org/sessions/new#_=_
     ctatext: Apply Today
   section_title: Options
-published: true
+description: ''
+menu: ''
+
 ---
