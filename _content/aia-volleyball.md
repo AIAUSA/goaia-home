@@ -96,6 +96,26 @@ page_sections:
     name: Johnny Milabu (Greenville College)
     experience: FISU American Games Brazil (2018)
     quote: “My experience on tour with AIA impacted me in a major, positive way. I saw God unite people from various sports, nations, and cultures, despite language barriers or the fact that they are competing against each other, just to speak about Jesus....AIA has inspired me to bring the knowledge and ideals we implemented on our tour team to my team on campus. I'm going to try to teach my teammates how to play for Christ, and how to inspire others around us to do the same. ”
+  - template: alumni-quote
+    name: Alex Treser (Marymount U.)
+    experience: FISU American Games Brazil (2018)
+    quote: “What I learned on tour is that I need to lean into Jesus when I am on the court and ask that his grace, love, and strength rush to my heart when I am playing volleyball. He gets all the glory and is my Audience of 1 when I am on and off the court. Volleyball is no longer just a game, it is one of the many ways in which I can show thanks and worship my God who has so much love for me whether I am winning or losing."
+  - template: alumni-quote
+    name: Morgan Bergren (U. of Kentucky) 
+    experience: Thailand (2017), Pro Player Small Groups (2017, 2018)
+    quote: “AIA is a ministry that has impacted my life in so many ways. I attended AIA meetings in college, but was never very serious about them. It wasn't until right after my collegiate career, and the beginning of my pro career, that I became passionate about learning what it looked like to invite God onto the volleyball court with me, and to glorify Him through my sport. On tour, God was a work on my heart, and I was able to learn so much from the amazing staff, our coaches, and my teammates. To be able to come alongside other Christian volleyball players, surrender control, and just play in freedom for God and God alone, was one of the best experiences of my life. Now I get to continue living out those principles alongside other pro volleyball Christians through a Bible study that the staff at AIA have been so amazing to organize. Being so far from home is extremely hard, especially not being surrounded by community. Having this small group is a highlight of my week, and a way to be encouraged and feel connected to other like-minded people playing volleyball abroad. "
+  - template: alumni-quote
+    name: Jimmy Lundgren (Azusa Pacific U.)
+    experience: Russia (2009), Brazil (2010)
+    quote: “During the first week of training camp I was looking forward to playing a lot of volleyball with talented athletes. What I didn’t realize was that I would eventually turn my focus from playing volleyball to learning how to share my faith with others. I didn’t know how to share my faith before my AIA trip, but I was taught how to organize and present my testimony. I was excited about this because it gave me the confidence to talk to anyone about my faith. I loved the fact that we trained in our sport, but more importantly in our faith. Making athletics part of my spiritual life was a concept that really altered my faith. I learned that I could use my love of playing volleyball to show others my love for God and everything He has done for me. It was truly an amazing experience – being able to pray with someone who I’d never met before and to grow in my relationship with God.”
+  - template: alumni-quote
+    name: Sarah Amidon (Indiana State U.)
+    experience: Moldova (2005), Caribbean (2009), East Africa (2010).
+    quote: “The tools I've acquired with Athletes in Action still bleed into my life on a daily basis. AIA has so much to do with winning hearts for Jesus. God is so much bigger than our fears, weaknesses and less-than-ideal situations. There are lives at stake, and eternity is not a game. We need to GO and MAKE disciples with the same sense of urgency that we have in earning points in a match.”
+  - template: alumni-quote
+    name: Sara Ramirez (ASU) 
+    experience: Israel (2008), Columbia (2010)
+    quote: "When I was in Israel, this is what Jesus taught me: every pass, every set, every move is centered around worshiping Jesus. I got to play volleyball with my best friend, Jesus."
 
 - template: one-column
   block: one-column
