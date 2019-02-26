@@ -18,7 +18,7 @@ page_sections:
   right:
   - template: cta
     block: cta
-    link: "#more"
+    link: "#more+information"
     text: More Info
 - template: one-column
   block: one-column
@@ -82,7 +82,7 @@ page_sections:
     text: Apply Now
   - template: cta
     block: cta
-    link: "#more"
+    link: "#more+information"
     text: More Info
 - template: one-column
   block: one-column
