@@ -23,3 +23,6 @@ fields:
   - video
   - image
   - cta
+  - text-w-right-image
+  - text-w-left-image
+

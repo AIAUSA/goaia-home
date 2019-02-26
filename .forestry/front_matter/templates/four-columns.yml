@@ -23,6 +23,8 @@ fields:
   - video
   - image
   - cta
+  - text-w-right-image
+  - text-w-left-image
 - type: blocks
   name: two
   label: Column 2
@@ -33,6 +35,8 @@ fields:
   - video
   - image
   - cta
+  - text-w-right-image
+  - text-w-left-image
 - type: blocks
   name: three
   label: Column 3
@@ -43,6 +47,8 @@ fields:
   - video
   - image
   - cta
+  - text-w-right-image
+  - text-w-left-image
 - type: blocks
   name: four
   label: Column 4
@@ -53,3 +59,5 @@ fields:
   - video
   - image
   - cta
+  - text-w-right-image
+  - text-w-left-image
