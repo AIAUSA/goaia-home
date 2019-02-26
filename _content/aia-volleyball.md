@@ -1,8 +1,12 @@
 ---
-layout: page-blocks
+layout: sport-page-blocks
 title: AIA Volleyball
-permalink: "/volleyball"
+permalink: "/volleyball1"
 social_image: ''
+menu: 'volleyball'
+sliderText: Go with Volleyball
+sliderImages:
+  - "/uploads/volleyball/go.jpg"
 page_sections:
 - template: three-columns
   block: three-columns
@@ -85,12 +89,21 @@ page_sections:
   block: custom-heading
   black: Alumni
   red: Endorsements
+- template: alumni
+  block: alumni
+  quotes:
+  - template: alumni-quote
+    name: Johnny Milabu (Greenville College)
+    experience: FISU American Games Brazil (2018)
+    quote: “My experience on tour with AIA impacted me in a major, positive way. I saw God unite people from various sports, nations, and cultures, despite language barriers or the fact that they are competing against each other, just to speak about Jesus....AIA has inspired me to bring the knowledge and ideals we implemented on our tour team to my team on campus. I'm going to try to teach my teammates how to play for Christ, and how to inspire others around us to do the same. ”
+
+- template: one-column
+  block: one-column
 - template: custom-heading
   block: custom-heading
   black: Meet the
   red: Team
-- template: one-column
-  block: one-column
+  byLine: Interested in joining our team? We have internship and full time positions open! Click here to fill out an [short interest survey](https://docs.google.com/forms/d/e/1FAIpQLSf9CpmElnyDOlKG7lwJ3tG2_fI9YaaqkLKyCw2FlmQoxOZGng/viewform?usp=sf_link) and one of us will follow up with you!
 - template: two-columns
   block: two-columns
   left:
@@ -135,6 +148,6 @@ page_sections:
     title: Ashley Warner, Pro Ministry and Marketing
 date: 2019-02-22 15:18:55 +0000
 description: ''
-published: false
+published: true
 
 ---

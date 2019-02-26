@@ -7,8 +7,8 @@
 
     </head>
     <body>
-        {% if page.menu == 'basketball' %}
-            {% include base/basketball-menu.html %}
+        {% if page.menu != nil and page.menu != '' %}
+            {% include base/{{page.menu}}-menu.html %}
         {% else %}
             {% include base/base-menu.html %}
         {% endif %}

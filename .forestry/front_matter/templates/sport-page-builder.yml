@@ -39,7 +39,16 @@ fields:
   hidden: true
   config:
     required: true
-  default: page-blocks
+  default: sport-page-blocks
+- type: text
+  name: sliderText
+  label: Slider Text
+  config:
+    required: true
+- type: image_gallery
+  name: sliderImages
+  label: Images
+  description: Max 4
 - type: blocks
   name: page_sections
   label: Blocks
@@ -56,7 +65,4 @@ fields:
   - video-callout
   - alumni
 pages:
-- _content/opportunity/x-project.md
-- _content/partnerships/puerto-rico.md
-- _content/partnerships/global-missions-south-africa.md
-- _content/partnerships/southafrica.md
+- _content/aia-volleyball.md

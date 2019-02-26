@@ -4,8 +4,8 @@
             <h4 class="panel-title">{{section.title}}</h4>
         </div>
         <div id="c1pbs1" class="panel-collapse in" role="tabpanel" aria-labelledby="c1phs1">
-            <div class="panel-body">
-                {{section.text}}
+            <div class="panel-body panel-forestry">
+                {{section.text | markdownify }}
                 {% if section.learnmore %}
                 <br />
                 <span class="text-center col-md-12" style="width: 100%">

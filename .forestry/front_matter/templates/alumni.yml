@@ -1,0 +1,15 @@
+---
+label: Alumni Section
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: alumni
+- type: blocks
+  name: quotes
+  label: Quotes
+  template_types:
+  - alumni-quote

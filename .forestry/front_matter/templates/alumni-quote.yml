@@ -1,0 +1,22 @@
+---
+label: Alumni Quote
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  label: name
+  name: name
+  config:
+    required: true
+- type: text
+  name: experience
+  label: Experience
+  config:
+    required: true
+- type: textarea
+  name: quote
+  label: Quote
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
