@@ -36,8 +36,10 @@ page_sections:
   - template: panel
     block: panel
     title: Summer Project
-    text: Spend two weeks in Cape Town helping Athletes in Action grow existing campus
-      ministries in South Africa.
+    text: |-
+      Spend two weeks in Cape Town helping Athletes in Action grow existing campus ministries in South Africa.
+
+      **Dates:** July 11th - 29th, 2019
     learnmore: "/opportunity/south-africa-project"
     ctalink: https://my.athletesinaction.org/Applications/Tour/South-Africa-Project/default.aspx
     ctatext: Apply Today
@@ -51,5 +53,7 @@ page_sections:
     ctalink: https://apply.cru.org/sessions/new#_=_
     ctatext: Apply Today
   section_title: Options
+description: ''
+menu: ''
 
 ---

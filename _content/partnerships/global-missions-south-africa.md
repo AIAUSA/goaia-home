@@ -40,9 +40,11 @@ page_sections:
   - template: panel
     block: panel
     title: Summer Project
-    text: Spend two weeks in Kingston helping Athletes in Action grow existing campus
-      ministries in Jamaica.
-    learnmore:
+    text: |-
+      Spend two weeks in Kingston helping Athletes in Action grow existing campus ministries in Jamaica.
+
+      **Dates:** May 16-29, 2019
+    learnmore: 
     ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Jamaica/default.aspx
     ctatext: Apply Today
   three:
@@ -55,5 +57,7 @@ page_sections:
     ctalink: https://apply.cru.org/sessions/new#_=_
     ctatext: Apply Today
   section_title: Options
-published: true
+description: ''
+menu: ''
+
 ---

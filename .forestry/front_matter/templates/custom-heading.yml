@@ -17,7 +17,7 @@ fields:
 - type: textarea
   label: Subtext
   name: byLine
-  config: 
+  config:
     wysiwyg: true
     schema:
       format: markdown
