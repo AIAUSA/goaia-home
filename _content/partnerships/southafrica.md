@@ -29,7 +29,7 @@ page_sections:
     title: Spring Break
     text: Use your spring break to change lives in Cape Town, South Africa. Immerse
       yourself for one full week to become equipped as a stronger spiritual leader.
-    learnmore: "/oppotunity/springbreak"
+    learnmore: "/opportunity/springbreak"
     ctalink: https://my.athletesinaction.org/public/forms/spring-break.aspx
     ctatext: Register Today
   two:
