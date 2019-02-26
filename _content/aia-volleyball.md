@@ -14,14 +14,17 @@ page_sections:
   - template: cta
     block: cta
     text: About AIA Volleyball
+    link: "#about"
   two:
   - template: cta
     block: cta
     text: About Staff and Internships
+    link: "#career"
   three:
   - template: cta
     block: cta
     text: About Tours
+    link: "#competitive"
   section_title: Top Buttons
 - template: custom-heading
   block: custom-heading

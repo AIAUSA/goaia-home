@@ -1,7 +1,7 @@
 <div class="max-width">
     <div class="container mt20">
         <div class="row">
-                <h2 class="title text-center mb30">{{section.black}} <span class="light first-color">{{section.red}}</span></h2>
+                <h2 class="title text-center mb30" id="{{section.black | downcase | url_encode}}">{{section.black}} <span class="light first-color">{{section.red}}</span></h2>
                 {% if section.byLine != nil %}
                 <div style="font-weight:bold;" class="title text-center">{{ section.byLine | markdownify }}</div>
                 {% endif %}
