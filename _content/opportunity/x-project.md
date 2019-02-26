@@ -89,16 +89,19 @@ page_sections:
   one:
   - template: cta
     block: cta
-    link: /about/
+    link: "/about/"
     text: About Athletes In Action
   section_title: About AIA
 - template: one-column
   block: one-column
   one:
+  - template: title
+    block: title
+    Title: More Information
   - template: text
     block: text
     content: |-
-      #### More Info
+      #### About
 
       X Project is a nine-week summer internship at the world headquarters of Athletes in Action in Xenia, OH.
 
@@ -134,8 +137,6 @@ page_sections:
       * Video Production
       * Challenge Course Facilitating
       * Writing
-
-
       * Social Media Marketing
       * Business Operations
       * Management & Communication
