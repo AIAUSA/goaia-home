@@ -2,7 +2,7 @@
 title: 'X-Project: A Life-Changing Summer Internship'
 permalink: "/opportunity/x-project1"
 layout: page-blocks
-social_image: "/uploads/opportunities/partnerships/Postcards%20V3.jpg"
+social_image: ''
 page_sections:
 - template: video
   block: video
@@ -34,6 +34,35 @@ page_sections:
 
       ### Impact Lives through Skills and Passions
   section_title: Benefit Phrases
+- template: quote-rotator
+  block: quotes
+  quotes:
+  - template: alumni-quote
+    name: Kyle H
+    experience: '2012'
+    quote: "“X Project was the perfect opportunity for me to grow professionally and,
+      more importantly, spiritually. The constant surrounding of community allows
+      for quality relationships to develop and sharpen each other. I also thoroughly
+      enjoyed going through the challenging Principles of AIA, especially 'Victory
+      Beyond Competition.' X Project was a summer full of challenges, fun times, and
+      amazing community, and I would suggest this opportunity to anyone who is looking
+      to grow in their walk with the Lord while gaining valuable internship experience.”"
+  - template: alumni-quote
+    name: Annie H
+    experience: '2013'
+    quote: "“During X Project, I felt fully immersed in an environment that really
+      developed me spiritually and professionally. Staff was so great at empowering
+      me to be a relational, Godly leader. I never felt looked down on or shamed for
+      my past or my struggles. I spent the summer learning to be and love my authentic
+      self. XP was the perfect way to grow closer to Jesus through experiences and
+      other believers.”"
+  - template: alumni-quote
+    name: Brittni H
+    experience: '2015'
+    quote: "\"I can't begin to imagine what my life would look like unless \\[X Project
+      interns and staff\\] entered it this summer. I will be forever grateful for
+      this experience and the people I have met because of it. I have truly been changed
+      for the better because I met you all.”"
 - template: two-columns
   block: two-columns
   section_title: Details
@@ -118,5 +147,7 @@ page_sections:
 
       [Apply Now](https://my.athletesinaction.org/Applications/Tour/X-Project-Internship/default.aspx)
   section_title: More Details
+description: ''
+menu: ''
 
 ---
