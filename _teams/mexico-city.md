@@ -1,6 +1,6 @@
 ---
 title: Middle East Tour
-director: Tyler Warner
+director: Tyler
 director_email: tyler.warner@athletesinaction.org
 dates: March 15th - 23rd, 2019
 layout: page
