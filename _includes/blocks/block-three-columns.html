@@ -1,16 +1,16 @@
 <div class="container mb20">
     <div class="row equal">
-        <div class="col-md-4 col-sm-4 align-center" style="margin-top: 15px;">
+        <div class="col-md-4 col-sm-6 col-xs-12 align-center" style="margin-top: 15px;">
             {% for section in section.one %}
             {% include blocks/block-{{ section.block }}.html %}
             {% endfor %}
         </div>
-        <div class="col-md-4 col-sm-4 align-center" style="margin-top: 15px;">
+        <div class="col-md-4 col-sm-6 col-xs-12 align-center" style="margin-top: 15px;">
             {% for section in section.two %}
             {% include blocks/block-{{ section.block }}.html %}
             {% endfor %}
         </div>
-        <div class="col-md-4 col-sm-4 align-center" style="margin-top: 15px;">
+        <div class="col-md-4 col-sm-6 col-xs-12 align-center" style="margin-top: 15px;">
             {% for section in section.three %}
             {% include blocks/block-{{ section.block }}.html %}
             {% endfor %}

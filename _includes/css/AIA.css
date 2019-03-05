@@ -1,3 +1,5 @@
+p, li { font-size: 16px !important; }
+.navbar-top-nav li { font-size: 12px !important; }
 /*******ORCHARD*****/
 .name { display: none !important; }
 /*******NAV*****/
@@ -313,3 +315,15 @@ span.megamenu-title:hover {
 .equal .col-md-4 .panel-group, .equal .col-md-4 .panel-group .panel { height : 100%; }
 .panel-heading { display: block; padding: 15px 20px; }
 .panel-forestry img { float: right;}
+
+@media (max-width: 48em) { 
+  .container.full {
+    padding: 0px;
+    margin: 0px !important;
+  }
+  .container.full .row {
+    margin: 0 -15px;
+  }
+
+  .row { margin: 0px; }
+}
