@@ -9,6 +9,14 @@ fields:
   default: ''
   config:
     required: true
+- name: permalink
+  label: URL
+  type: text
+  hidden: false
+  default: ''
+  description: Path to the event page, relative to section
+  config:
+    required: true
 - name: location
   label: Location
   type: text
@@ -35,7 +43,7 @@ fields:
   label: Layout
   type: text
   hidden: true
-  default: page
+  default: event-page-blocks
 - name: short_description
   label: Description
   type: textarea
@@ -55,13 +63,6 @@ fields:
     - final four
     required: true
   label: Sport
-- type: text
-  name: layout
-  label: Layout
-  hidden: true
-  config:
-    required: true
-  default: page-blocks
 - name: date
   label: Published Date
   type: datetime
@@ -70,6 +71,9 @@ fields:
   description: Typically can be today's date
   config:
     required: true
+- name: hide_title
+  label: Don't Display Black Title
+  type: boolean
 - type: blocks
   name: page_sections
   label: Blocks
@@ -87,5 +91,6 @@ fields:
   - alumni
   - quote-rotator
   - speakers
+  - event-details
 pages:
 - _events/final-four-test.md
