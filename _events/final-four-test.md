@@ -3,7 +3,7 @@ sport: basketball
 title: Final Four Ministry Events
 hide_title: true
 date: 2019-03-08 05:00:00 +0000
-permalink: /basketball/events/finalfour-test
+permalink: "/basketball/events/finalfour-test"
 layout: event-page-blocks
 page_sections:
 - template: custom-heading
@@ -14,6 +14,11 @@ page_sections:
 - template: events-details
   block: event-details
   type: final four
-published: true
+location: ''
+image: ''
+start_date: ''
+end_date: ''
+short_description: ''
+published: false
 
 ---
