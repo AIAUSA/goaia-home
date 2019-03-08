@@ -1,7 +1,6 @@
 ---
 label: One Column
 hide_body: true
-is_partial: true
 display_field: section_title
 fields:
 - type: text

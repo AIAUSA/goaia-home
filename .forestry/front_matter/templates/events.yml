@@ -1,7 +1,6 @@
 ---
 label: Events
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Event Title
@@ -84,6 +83,7 @@ fields:
   config:
     required: true
 pages:
+- _events/tuff.md
 - _events/womens-captains.md
 - _events/coaches-academy.md
 - _events/hbcu.md
@@ -91,4 +91,3 @@ pages:
 - _events/mens-captains.md
 - _events/high-school.md
 - _events/college.md
-- _events/tuff.md

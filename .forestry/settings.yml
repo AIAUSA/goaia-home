@@ -10,9 +10,9 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - events_page_bulder
   - events_external_link
   - events
-  - event_page_builder
 - type: directory
   path: _teams
   label: Tours/Projects
@@ -39,3 +39,5 @@ build:
   - JEKYLL_ENV=production
   preview_output_directory: _site
   output_directory: _site
+  instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
+    --port 8080 --host 0.0.0.0 -d _site

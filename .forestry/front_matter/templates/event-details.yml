@@ -1,7 +1,6 @@
 ---
 label: Project Details
 hide_body: false
-is_partial: true
 display_field: type
 fields:
 - type: text

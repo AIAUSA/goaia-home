@@ -1,7 +1,6 @@
 ---
 label: Alumni Section
 hide_body: false
-is_partial: true
 fields:
 - type: text
   hidden: true
