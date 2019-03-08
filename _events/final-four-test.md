@@ -14,6 +14,9 @@ page_sections:
 - template: events-details
   block: event-details
   type: final four
+- template: event-details
+  block: event-details
+  type: final four
 location: ''
 image: ''
 start_date: ''
