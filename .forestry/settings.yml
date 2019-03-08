@@ -12,6 +12,7 @@ sections:
   templates:
   - events_external_link
   - events
+  - event_page_builder
 - type: directory
   path: _teams
   label: Tours/Projects

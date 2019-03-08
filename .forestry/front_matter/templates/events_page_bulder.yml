@@ -1,0 +1,90 @@
+---
+label: Events - Page Builder
+hide_body: true
+is_partial: false
+fields:
+- name: title
+  label: Event Title
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: location
+  label: Location
+  type: text
+  hidden: false
+  default: 
+- name: image
+  label: Event Image
+  type: file
+  hidden: false
+  default: 
+  config:
+    required: true
+- name: start_date
+  label: Start date
+  type: text
+  hidden: false
+  default: 
+- name: end_date
+  label: End date
+  type: text
+  hidden: false
+  default: 
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: page
+- name: short_description
+  label: Description
+  type: textarea
+  hidden: false
+  default: 
+- type: select
+  name: sport
+  config:
+    source:
+      type: simple
+    options:
+    - basketball
+    - soccer
+    - wrestling
+    - volleyball
+    - track
+    - final four
+    required: true
+  label: Sport
+- type: text
+  name: layout
+  label: Layout
+  hidden: true
+  config:
+    required: true
+  default: page-blocks
+- name: date
+  label: Published Date
+  type: datetime
+  hidden: false
+  default: ''
+  description: Typically can be today's date
+  config:
+    required: true
+- type: blocks
+  name: page_sections
+  label: Blocks
+  template_types:
+  - three-columns
+  - one-column
+  - two-columns
+  - three-columns
+  - four-columns
+  - application-call-to-action
+  - custom-heading
+  - image-callout
+  - project-details
+  - video-callout
+  - alumni
+  - quote-rotator
+  - speakers
