@@ -23,6 +23,7 @@ fields:
     - track
     - final four
     required: true
+  default: basketball
 - type: text
   name: order
   label: Order
