@@ -63,6 +63,7 @@ fields:
     - final four
     required: true
   label: Sport
+  default: basketball
 - name: date
   label: Published Date
   type: datetime
@@ -78,6 +79,7 @@ fields:
   name: page_sections
   label: Blocks
   template_types:
+  - events
   - three-columns
   - one-column
   - two-columns
@@ -91,6 +93,5 @@ fields:
   - alumni
   - quote-rotator
   - speakers
-  - event-details
 pages:
 - _events/final-four-test.md
