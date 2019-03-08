@@ -87,3 +87,5 @@ fields:
   - alumni
   - quote-rotator
   - speakers
+pages:
+- _events/final-four-test.md
