@@ -11,9 +11,6 @@ page_sections:
   black: Final Four
   red: Ministry Events
   byLine: "[NABC Ministry Guide](http://nabcministryevents.org/)"
-- template: events-details
-  block: event-details
-  type: final four
 - template: event-details
   block: event-details
   type: final four

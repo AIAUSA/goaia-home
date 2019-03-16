@@ -1,5 +1,5 @@
 ---
-title: Women's Beach Volleyball Stateside Tour
+title: Beach Volleyball Training Camp
 director: Amber Moore
 director_email: amber.moore@athletesinaction.org
 dates: June 1st - 18th, 2019
