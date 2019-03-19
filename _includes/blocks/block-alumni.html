@@ -1,16 +1,20 @@
-<div class="row">
-    {% for q in section.quotes %}
-    <div class="col-md-6">
-        <div class="testimonial wow zoomIn animated animated" data-wow-delay="0.2s"
-            style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
-            <figure></figure>
-            <div class="testimonial-content">
-                {{ q.quote }}
-                <h5>{{ q.name }} - <a href="#" title="FISU">{{ q.experience }}</a></h5>
+<div class="max-width">
+    <div class="container">
+        <div class="row">
+            {% for q in section.quotes %}
+            <div class="col-md-6">
+                <div class="testimonial wow zoomIn animated animated" data-wow-delay="0.2s"
+                    style="visibility: visible; animation-delay: 0.2s; animation-name: zoomIn;">
+                    <figure></figure>
+                    <div class="testimonial-content">
+                        {{ q.quote }}
+                        <h5>{{ q.name }} - <a href="#" title="FISU">{{ q.experience }}</a></h5>
+                    </div>
+                    <!-- End .testimonial-content -->
+                </div>
+                <!-- End .testimonial -->
             </div>
-            <!-- End .testimonial-content -->
-        </div>
-        <!-- End .testimonial -->
+            {% endfor %}
+        </div>  
     </div>
-    {% endfor %}
-</div>  
+</div>

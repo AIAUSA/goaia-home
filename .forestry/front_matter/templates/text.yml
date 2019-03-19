@@ -16,3 +16,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: boolean
+  name: centered
+  label: Center Text

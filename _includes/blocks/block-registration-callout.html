@@ -1,0 +1,23 @@
+<div class="row fullwidth">
+        <div class="callout {{ section.color | default: light }}">
+            <div class="container">
+                <div class="callout-wrapper" id="accordion">
+                    <div class="callout-left">
+                        <h2 class="callout-title">Are You Coming?</h2>
+                        <p class="callout-desc">Click the link sign up!</p>
+                    </div>
+                    <!-- End .callout-left -->
+                    <div class="callout-right">
+                        <a id="cl1" data-toggle="collapse" data-parent="#accordion" href="#cpb1" aria-expanded="false" aria-controls="cpb1" class="collapsed btn btn-custom no-radius min-width">Register Now!</a>
+                    </div>
+                    <!-- End .callout-right -->
+                </div>
+                <!-- End .callout-wrapper -->
+                <div id="cpb1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="cl1">
+                    <div class="panel-body">
+                        <iframe width="100%" height="2300px" src="{{ section.iFrameURL }}" seamless="seamless" frameborder="0"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

@@ -17,9 +17,6 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: title
-    block: title
-    Title: About
   - template: text
     block: text
     content: |-
@@ -28,6 +25,9 @@ page_sections:
       Athletes in Action Basketball wants to invest in your team's leaders! Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court.
 
       "I've been around sports and life long enought to know what should be prioritized... AIA has a new opportunitiy for college captains and immerging college leaders. _This one should score for you!_" **_- Clark Kellogg_**
+- template: title
+  block: title
+  Title: What Others Are Saying
 - template: alumni
   block: alumni
   quotes:
@@ -59,8 +59,133 @@ page_sections:
   image: "/uploads/2019/03/18/clarkkellog.png"
 - template: one-column
   block: one-column
+  one:
+  - template: title
+    block: title
+    Title: Schedule
+    color: first-color
+  - template: text
+    block: text
+    centered: true
+    content: |-
+      **May 9th - 13th, 2019**
+
+      **Athletes in Action Total Athlete Complex**
+      
+      **Schedule Includes:**
+      
+      Strength Finders Testing - Team-Building
+      
+      Case-studies - Personal Development Planning
+      
+      Cohort group work - Hear from high level leaders
+      
+      Daily court time - Biblical leadership training
+  - template: title
+    block: title
+    Title: Programs Represented at the Academy
 - template: two-columns
   block: two-columns
+  left:
+  - template: text
+    block: text
+    centered: true
+    content: |-
+      Belmont
+      
+      Bucknell
+      
+      Butler
+      
+      Charleston Southern
+      
+      Clemson
+      
+      College of Charleston
+      
+      Liberty University
+      
+      Leghigh
+      
+      Longwood
+      
+      Louisiana Lafayette University
+      
+      Ohio State University
+  right:
+  - template: text
+    block: text
+    centered: true
+    content: |-
+      Memphis University
+      
+      Michigan University
+      
+      New Orleans University
+      
+      Northern Kentucky University
+      
+      San Jose State
+      
+      South Carolina University
+      
+      Tennessee University
+      
+      Texas A&M
+      
+      Valparaiso
+      
+      Wisconsin
+      
+      Wright State
+- template: video-callout
+  block: video-callout
+  video: https://www.youtube.com/watch?v=zeOam-6h4I4
+  text: Alex Caruso shares about Captain's Academy
+  byLine: Alex Caruso (Texas A&amp;M) shares about Captain's Academy (formerly named Captains' Camp) at the 2016 Legends of the Hardwood Breakfast on April 2nd in Houston, TX.
+  image: "/uploads/basketball/captains2.jpg"
+- template: speakers
+  block: speakers
+  header: 1
+  bios:
+  - template: speaker
+    image: "/uploads/basketball/clarkkellogg16.jpg"
+    name: Clark Kellogg
+    title: CBS Sports
+  - template: speaker
+    image: "/uploads/basketball/ed-uszynski.jpg"
+    name: Dr. Ed Uszynski
+    title: AIA Staff
+  - template: speaker
+    image: "/uploads/basketball/3M_profile_picture.jpg"
+    name: Morris Michalski
+    title: AIA Staff
+  - template: speaker
+    image: "/uploads/basketball/mark-profile.jpg"
+    name: Mark Householder
+    title: AIA President
+- template: image-callout
+  block:  image-callout
+  image: "/uploads/basketball/xenia-map.png"
+  text: Location & Logistics
+  color: first-color
+- template: one-column
+  block: one-column
+  one:
+  - template: text
+    block: text
+    content: |-
+      #### Athletes in Action World Headquarters
+      The 2nd Annual Athletes in Action Captains Academy will be hosted at Athletes in Action's World Headquarters in Xenia, OH. All participants will stay in dorms on campus and will eat all meals at the Schindler Banquet Center, also located on campus. Transportation will be arranged after registration. AIA Staff will be available to make airport runs, and participants are welcome to drive and park on campus. 
+
+      **HQ Location** 651 Taylor Drive, Xenia OH 45385
+
+      Cost $625/person + travel arrangements     
+      Contact Morris Michalski
+  - template: registration-callout
+    block: registration-callout
+    color: dark
+    iFrameURL: "https://my.athletesinaction.org/public/forms/basketball-leadership.aspx"
 published: false
 
 ---

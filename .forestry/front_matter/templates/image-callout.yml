@@ -23,3 +23,13 @@ fields:
 - type: text
   name: linkText
   label: Button Text
+- type: select
+  name: color
+  label: Text Color
+  config:
+    source:
+      type: simple
+    options:
+    - white
+    - black
+    - first-color

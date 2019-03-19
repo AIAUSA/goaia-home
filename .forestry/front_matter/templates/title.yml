@@ -19,3 +19,13 @@ fields:
   name: Subtitle
   label: Subtitle
   description: H4 Tag
+- type: select
+  name: color
+  label: Text Color
+  config:
+    source:
+      type: simple
+    options:
+    - white
+    - black
+    - first-color

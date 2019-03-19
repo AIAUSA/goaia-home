@@ -21,3 +21,13 @@ fields:
   label: Video URL
   name: video
   description: YouTube or Vimeo Link
+- type: select
+  name: color
+  label: Text Color
+  config:
+    source:
+      type: simple
+    options:
+    - white
+    - black
+    - first-color

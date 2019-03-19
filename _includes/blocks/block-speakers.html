@@ -1,0 +1,20 @@
+<div id="team-page-container" class="bg-lightergray">
+    <div class="mb10"></div>
+    {% if section.header == 1 %}
+    <h2 class="title text-center mb30">Featured <span class="light first-color">Speakers</span></h2>
+    {% endif %}
+    <div class="container mb30">
+        <div class="row">
+            {% for speak in section.bios %}
+            <div class="col-md-3 col-xs-6 team-member-container">
+                <div class="team-member team-animate-social text-center">
+                    <figure><img src="{{ speak.image }}" alt="Clark" class="img-responsive" /> <figcaption> </figcaption></figure>
+                    <h3>{{ speak.name }}</h3>
+                    <p class="member-desc">{{ speak.title }}</p>
+                </div>
+            </div>        
+            {% endfor %}
+        </div>
+
+    </div>
+</div>

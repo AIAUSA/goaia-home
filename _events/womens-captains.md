@@ -3,7 +3,7 @@ title: Women's Captains Academy
 location: AIA World Headquarters, Xenia, OH
 image: "/uploads/basketball/womensbballretreat.png"
 permalink: "/basketball/events/captains/womens"
-start_date: May 9, 2019
+start_date: May 10, 2019
 end_date: May 13, 2019
 layout: page
 alt_url: ''
@@ -22,7 +22,7 @@ final_four: ''
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><h4 style="text-align: center;">AIA Women's Basketball&nbsp;Captains Academy<br />May 9th - 13th, 2019</h4>
+<div class="container"><h4 style="text-align: center;">AIA Women's Basketball&nbsp;Captains Academy<br />May 10th - 13th, 2019</h4>
 <p>Athletes in Action Basketball wants to invest in your team's leaders! &nbsp;Our experienced staff and scheduled speakers will spend a full weekend working with your team's influencers to affect change in your locker room and produce results on the court. This Division I Women's Basketball Captain's Academy will be held at Athletes in Action's Total Athlete Complex in Xenia, OH.</p>
 <p><strong></strong>The schedule for the week includes:</p>
 <ul class="list-style list-disc">
@@ -35,59 +35,9 @@ final_four: ''
 </div></div></div>
 <div class="mb35 mb20-xs"></div>
 <!-- space -->
-{% include plugins/video-callout.html image="/uploads/basketball/womensbballretreat.png" text="Come to Women's Captains Academy" byLine="We guarantee your time in Xenia, OH will help you grow as a leader both in the locker room and out.<br /> Call for more details or register today!" video="https://vimeo.com/192685757" %}
+{% include plugins/video-callout.html image="/uploads/basketball/womensbballretreat.png" text="Come to Women's Captains Academy" byLine="We guarantee your time in Xenia, OH will help you grow as a leader both in the locker room and out.<br /> Call for more details or register today!" video="https://www.youtube.com/watch?v=0hVMeStKxr0" %}
 
-<div class="row">
-<div class="max-width">
-<div class="container">
-<header class="section-header container text-center">
-<h2 class="section-title first-color" data-title="Schedule">Schedule</h2>
-</header>
-</div></div></div>
-<div class="row">
-<div class="max-width">
-<div class="container"><header class="title-block text-center mb80">
-<h2 class="title text-center mb30">Featured <span class="light first-color">Guests</span></h2>
-<p>The Women's Captains Academy will feature the following exceptional presenters:</p>
-</header>
-<div class="home-team-carousel owl-carousel center-top-nav no-radius white-nav">
-<div class="team-member team-animate-social">
-<figure><img src="/uploads/basketball/CoachRamsey%20.png" alt="Ramsey" class="img-responsive" /> <figcaption> </figcaption></figure>
-<h3>Sue Ramsey</h3>
-<p class="member-desc">Retired Ashland University Head Coach, 2013 National Champion</p>
-</div>
-<!-- End .team-member --> <!--<div class="team-member team-animate-social">
-<figure><img src="/uploads/basketball/lachinarobinson.png" alt="Robinson" class="img-responsive" /> <figcaption> </figcaption></figure>
-<h3>LaChina Robinson</h3>
-<p class="member-desc">ESPN Basketball Analyst</p>
-</div>--> <!-- End .team-member -->
-<div class="team-member team-animate-social">
-<figure><img src="/uploads/basketball/terri%20mitchell.png" alt="Rochester" class="img-responsive" /> <figcaption> </figcaption></figure>
-<h3>Terri Mitchell</h3>
-<p class="member-desc">Motivational Speaker, Mentor, and Consultant; Former Marquette Head Coach</p>
-</div>
-<!-- End .team-member -->
-<div class="team-member team-animate-social">
-<figure><img src="/uploads/basketball/danadrewshaw.png" alt="Shaw" class="img-responsive" /> <figcaption> </figcaption></figure>
-<h3>Dana Drew Shaw</h3>
-<p class="member-desc">Attorney, Former team captain at University of Toledo</p>
-</div>
-<!-- End .team-member -->
-<div class="team-member team-animate-social">
-<figure><img src="/uploads/basketball/stephaniezonars1.png" alt="Zonars" class="img-responsive" /> <figcaption> </figcaption></figure>
-<h3>Stephanie Zonars</h3>
-<p class="member-desc">Leadership and team culture consultant, Author</p>
-</div>
-<!-- End .team-member -->
-<div class="team-member team-animate-social">
-<figure><img src="/uploads/basketball/kimanthony1.png" alt="Anthony" class="img-responsive" /> <figcaption> </figcaption></figure>
-<h3>Kim Anthony</h3>
-<p class="member-desc">Author, Motivational Speaker</p>
-</div>
-<!-- End .team-memeber --> <!-- End .owl-carousel --></div>
-</div>
-</div>
-<div class="mb60"></div>
+
 <!-- space -->
 </div></div>
 <div class="row fullwidth">
@@ -111,7 +61,7 @@ final_four: ''
 </div>
 
 
-<div class="container"><p>The AIA&nbsp;Women's Captains Academy&nbsp;will be held at the Athletes in Action Total Athlete Complex&nbsp;in Xenia, OH. Food, lodging, and materials will all be furnished and done on campus as part of registration. Participants will stay on campus in our dormatories, and will also eat on campus for meals. <strong>Cost&nbsp;for the Academy&nbsp;is $575 plus travel</strong>&nbsp;and the registration can be completed at the bottom of the page. No organized basketball instruction will be done during the academy. Compliance may permit university to cover the cost. If you have additional questions, please call <strong>Stephanie Zonars</strong>&nbsp;at 937.602.0584</p>
+<div class="container"><p>The AIA&nbsp;Women's Captains Academy&nbsp;will be held at the Athletes in Action Total Athlete Complex&nbsp;in Xenia, OH. Food, lodging, and materials will all be furnished and done on campus as part of registration. Participants will stay on campus in our dormatories, and will also eat on campus for meals. <strong>Cost&nbsp;for the Academy&nbsp;is $300 plus travel</strong>&nbsp;and the registration can be completed at the bottom of the page. No organized basketball instruction will be done during the academy. Compliance may permit university to cover the cost. If you have additional questions, please call <strong><a href="mailto:jenna.bolin@athletesinaction.org">Jenna Bollin</a></strong>&nbsp;at 607-267-8906</p>
 </div></div></div>
 <div class="row">
 <div class=" span-12 cell" id="register">

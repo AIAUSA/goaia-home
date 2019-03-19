@@ -1,0 +1,34 @@
+---
+label: Social Links
+hide_body: true
+is_partial: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: social
+- type: file
+  label: Background Image
+  name: image
+  default: 
+- type: text
+  name: facebook
+  label: Facebook
+  default: https://www.facebook.com/athletesinaction
+- type: text
+  name: twitter
+  label: Twitter
+  default: https://twitter.com/aiausa
+- type: text
+  name: YouTube
+  label: youtube
+  default: https://www.youtube.com/user/aiausa
+- type: text
+  name: instagram
+  label:  Instagram
+  default: https://instagram.com/athletesinaction
+- type: text
+  name: email
+  label: Email
+  default: communications@athletesinaction.org

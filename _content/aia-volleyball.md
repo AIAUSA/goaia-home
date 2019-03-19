@@ -1,7 +1,7 @@
 ---
 layout: sport-page-blocks
 title: AIA Volleyball
-permalink: "/volleyball1"
+permalink: "/volleyball"
 social_image: ''
 menu: 'volleyball'
 sliderText: Go with Volleyball
@@ -169,6 +169,16 @@ page_sections:
       them as they are abroad!  Ashley is married to Tyler, who is also on staff in
       the football department. They have one son, named Ben!"
     title: Ashley Warner, Pro Ministry and Marketing
+- template: social
+  block: social
+  image: '/uploads/volleyball/sport-908267_1280.jpg'
+  facebook: https://www.facebook.com/VolleyballAIA
+  twitter: http://www.twitter.com/aia_volleyball
+  instagram: https://www.instagram.com/aia_volleyball/
+  youtube: https://www.youtube.com/user/aiausa
+  email: volleyball@athletesinaction.org
+- template: teamblogs
+  block: teamblogs
 date: 2019-02-22 15:18:55 +0000
 description: ''
 published: true

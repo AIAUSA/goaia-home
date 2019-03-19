@@ -1,0 +1,24 @@
+---
+label: Application Call To Action
+hide_body: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: registration-callout
+- type: select
+  name: color
+  config:
+    source:
+      type: simple
+    options:
+    - light
+    - dark
+  label: Color
+- type: text
+  name: iFrame
+  label: Link
+  description: Link to the application
+  config:
+    required: true
