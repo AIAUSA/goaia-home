@@ -1,7 +1,6 @@
 ---
 label: Social Links
 hide_body: true
-is_partial: true
 fields:
 - type: text
   hidden: true
@@ -26,7 +25,7 @@ fields:
   default: https://www.youtube.com/user/aiausa
 - type: text
   name: instagram
-  label:  Instagram
+  label: Instagram
   default: https://instagram.com/athletesinaction
 - type: text
   name: email

@@ -83,8 +83,8 @@ fields:
   config:
     required: true
 pages:
-- _events/tuff.md
 - _events/womens-captains.md
+- _events/tuff.md
 - _events/coaches-academy.md
 - _events/hbcu.md
 - _events/youth.md
