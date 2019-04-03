@@ -1,31 +1,13 @@
 ---
 layout: sport-page-blocks
-title: AIA Volleyball
-permalink: "/volleyball"
+title: AIA Swimming
+permalink: "/swimming"
 social_image: ''
-menu: volleyball
-sliderText: Go with Volleyball
+menu: basketball
+sliderText: AIA Swimming
 sliderImages:
 - "/uploads/volleyball/go.jpg"
 page_sections:
-- template: three-columns
-  block: three-columns
-  one:
-  - template: cta
-    block: cta
-    text: About AIA Volleyball
-    link: "#about"
-  two:
-  - template: cta
-    block: cta
-    text: About Staff and Internships
-    link: "#career"
-  three:
-  - template: cta
-    block: cta
-    text: About Tours
-    link: "#competitive"
-  section_title: Top Buttons
 - template: custom-heading
   block: custom-heading
   black: About
