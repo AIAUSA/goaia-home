@@ -15,3 +15,5 @@ You will receive high level training with other top university beach players. Bu
 On top of training, we will compete in local collegiate and open beach tournaments and put to practice the ministry skills we are learning.
 
 You will leave more equipped to grow and minister through the sport of volleyball and you will be connected to a community of beach volleyball players from all over the country.
+
+[Visit our Camp Website to Learn More](https://mailchi.mp/770c4c7606b8/aiabeachvolleyball)
