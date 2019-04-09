@@ -24,6 +24,7 @@ page_sections:
       Many times we collect new or used equipment from the players, their teams, the leagues or local organizations and take it with us for distribution. We also seek to help with some humanitarian aid such as providing food, hygiene products or other needs.
     image: "/uploads/6aebb2e1-db64-44de-a060-0ca769e07287.jpg"
   - template: image
+    block: image
     image: "/uploads/JA3A5316--024.jpeg"
 date: 2019-04-09 16:02:19 +0000
 

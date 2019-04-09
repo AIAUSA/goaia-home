@@ -3,12 +3,12 @@ label: Image
 hide_body: false
 fields:
 - type: text
-  label: image
-  name: image
+  label: block
+  name: block
   hidden: true
   config:
     required: true
-  default: video
+  default: image
 - type: file
   name: image
   label: Image
