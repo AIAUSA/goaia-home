@@ -15,5 +15,10 @@ fields:
   config:
     required: true
 - type: text
+  name: link
+  label: Link
+  config:
+    required: true
+- type: text
   name: subtext
   label: extra description
