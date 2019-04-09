@@ -40,7 +40,7 @@ page_sections:
   text: Add to your coaching pedigree!
   byLine: Check out this video recap of Coaches Academy's from the past.
   video: https://vimeo.com/192685757
-  image: /uploads/basketball/academypractice.jpg
+  image: "/uploads/basketball/academypractice.jpg"
 - template: one-column
   block: one-column
   one:
@@ -87,6 +87,33 @@ page_sections:
     centered: true
 - template: three-columns
   block: three-columns
+  one:
+  - template: panel
+    block: panel
+    title: Morning
+    text: |-
+      * Breakfast
+      * Thought for the Day
+      * Team Time
+      * Leadership Development
+  two:
+  - template: panel
+    block: panel
+    title: Afternoon
+    text: |-
+      * Lunch
+      * Basketball Instruction Times
+      * Travel time for longer trips
+      * Occasional Free Time
+  three:
+  - template: panel
+    block: panel
+    title: Evening
+    text: |-
+      * Dinner
+      * Practice/Game Visits
+      * Debrief of the Day
+      * Occasional Free Time
 - template: one-column
   block: one-column
   one:
