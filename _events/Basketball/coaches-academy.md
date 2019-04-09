@@ -1,16 +1,68 @@
 ---
 title: International Coaches Academy
 location: AIA World Headquarters, Xenia, OH
-image: /uploads/basketball/coachesacademyEvents.png
-permalink: /basketball/events/coachesacademy
+image: "/uploads/basketball/coachesacademyEvents.png"
+permalink: "/basketball/events/coachesacademy"
 start_date: November 5th
-end_date:  16, 2018
-date: '2018-04-04'
+end_date: 16, 2018
+date: 2018-04-04 00:00:00 +0000
 layout: page
 alt_url: ''
-short_description: 'The AIA Coaches Academy is an invite only two-week academy blending coaching instruction, leadership development and cultural experience. Coaches from around the world travel to Xenia, OH with the goal of leaving able to better lead and guide their athletes in every area of life.'
+short_description: The AIA Coaches Academy is an invite only two-week academy blending
+  coaching instruction, leadership development and cultural experience. Coaches from
+  around the world travel to Xenia, OH with the goal of leaving able to better lead
+  and guide their athletes in every area of life.
 final_four: 0
 sport: basketball
+page_sections:
+- template: one-column
+  block: one-column
+- template: video-callout
+  block: video-callout
+- template: alumni
+  block: alumni
+- template: one-column
+  block: one-column
+  one:
+  - template: title
+    block: title
+    Title: Schedule
+  - template: text
+    block: text
+    content: |-
+      November 5th -16th , 2018
+
+      #### Athletes in Action World Headquarters
+
+      #### 651 Taylor Drive, Xenia, OH 45385
+
+      ## Typical Daily Schedule
+    centered: true
+- template: three-columns
+  block: three-columns
+- template: one-column
+  block: one-column
+  one:
+  - template: title
+    block: title
+    Title: Logistics
+  - template: text
+    block: text
+    content: "### AIA World Training Center Xenia, OH"
+    centered: true
+  - template: text
+    block: text
+    content: |-
+      All transportation will be handled by Athletes in Action Basketball. AIA Staff will receive participants at the airport, and all participants will travel by van or bus to selected locations throughout the Academy. Participants in the Academy will room on campus at the AIA Retreat Center in our dorms. Breakfast, lunch, and dinner will be provided. All transportation, payment, and logistical questions will be handled by our staff leading up to the Academy. Upon registration, our staff will be in touch via email to get the details we need to pick you up at the airport and prepare for your arrival.
+
+      Translators will be available for the various meeting times throughout the Academy. For more details, contact us anytime at [basketball@athletesinaction.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=basketball@athletesinaction.org)
+  - template: title
+    block: title
+    Title: Register
+- template: registration-call-to-action
+  block: registration-callout
+  iFrame: https://my.athletesinaction.org/Public/Forms/coaches-academy.aspx
+
 ---
 <div class="row">
 <div class=" span-12 cell" id="about">
