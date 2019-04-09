@@ -4,7 +4,7 @@ sport: basketball
 title: Women's Captain's Academy
 permalink: "/basketball/events/captains/womens-1"
 location: AIA Headquarters - Xenia, OH
-image: ''
+image: '/uploads/basketball/womensbballretreat.png'
 start_date: May 10, 2019
 end_date: May 13, 2019
 short_description: Our experienced staff and scheduled speakers will spend a full
@@ -39,6 +39,7 @@ page_sections:
   byLine: We guarantee your time in Xenia, OH will help you grow as a leader both
     in the locker room and out. Call for more details or register today!
   video: https://www.youtube.com/watch?v=0hVMeStKxr0
+  image: '/uploads/basketball/womensbballretreat.png'
 - template: one-column
   block: one-column
   one:
@@ -58,10 +59,10 @@ page_sections:
       during the academy. Compliance may permit university to cover the cost. If you
       have additional questions, please call [**Jenna Bollin**](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=jenna.bolin@athletesinaction.org)
       at 607-267-8906
-- template: application-call-to-action
-  block: application-callout
+- template: registration-call-to-action
+  block: registration-callout
   color: dark
-  appLink: https://my.athletesinaction.org/public/forms/basketball-leadership.aspx
-published: false
+  iFrameURL: https://my.athletesinaction.org/public/forms/basketball-leadership.aspx
+published: true
 
 ---

@@ -303,6 +303,11 @@ span.megamenu-title:hover {
   height: 100%;
 }
 
+.display-lists ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
 .equal {  
   display: -webkit-flex;
   display: flex;
