@@ -33,7 +33,7 @@ menu: basketball
                 <div class="event-date event-meta-box"><span class="event-label"><i class="fa fa-calendar fa-fw"></i>Date:</span>{{ post.start_date }} {% if post.end_date %}- {{ post.end_date }}{% endif %}</div>
                 <!-- End .event-date --> <!-- end .event-meta -->
                 <p><span>{{ post.short_description }}</span></p>
-                {% if post.alt_url != '' %}
+                {% if post.alt_url and post.alt_url != '' %}
                     <a href="{{ post.alt_url }}" class="btn btn-dark no-radius btn-block">Event Page</a>
                 {% else %}
                     <a href="{{ post.permalink }}" class="btn btn-dark no-radius btn-block">Event Page</a>

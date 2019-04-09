@@ -2,7 +2,7 @@
 layout: event-page-blocks
 sport: basketball
 title: Men's Captain Academy
-permalink: "/basketball/events/mca"
+permalink: "/basketball/events/captains/men"
 location: Xenia, OH
 image: "/uploads/2019/03/18/captainsacademy1.png"
 start_date: May 9, 2019
@@ -186,6 +186,6 @@ page_sections:
     block: registration-callout
     color: dark
     iFrameURL: "https://my.athletesinaction.org/public/forms/basketball-leadership.aspx"
-published: false
+published: true
 
 ---

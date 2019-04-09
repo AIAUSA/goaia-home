@@ -3,7 +3,7 @@ sport: basketball
 title: Final Four Ministry Events
 hide_title: true
 date: 2019-03-08 05:00:00 +0000
-permalink: "/basketball/events/finalfour-test"
+permalink: "/basketball/events/finalfour"
 layout: event-page-blocks
 page_sections:
 - template: custom-heading
@@ -15,10 +15,9 @@ page_sections:
   block: event-details
   type: final four
 location: ''
-image: ''
-start_date: ''
-end_date: ''
-short_description: ''
-published: false
-
+image: '/uploads/basketball/finalfourEvents.png'
+location: Minneapolis, MN
+start_date: April 4, 2019
+end_date: April 8, 2019
+short_description: "AIA Basketball has various events, highlighted by the Legends of the Hardwood Breakfast at the Men's Final Four. Check out our events by going to the Final Four Events Page below."
 ---

@@ -6,7 +6,7 @@ fields:
   hidden: true
   label: block
   name: block
-  default: social
+  default: social-callout
 - type: file
   label: Background Image
   name: image

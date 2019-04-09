@@ -169,8 +169,8 @@ page_sections:
       them as they are abroad!  Ashley is married to Tyler, who is also on staff in
       the football department. They have one son, named Ben!"
     title: Ashley Warner, Pro Ministry and Marketing
-- template: social
-  block: social
+- template: social-callout
+  block: social-callout
   image: '/uploads/volleyball/sport-908267_1280.jpg'
   facebook: https://www.facebook.com/VolleyballAIA
   twitter: http://www.twitter.com/aia_volleyball
