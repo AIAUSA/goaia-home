@@ -12,6 +12,7 @@ short_description: The purpose of the HBCU Coaches Retreat is to create an envir
 final_four: 0
 layout: page
 date: '2018-04-04'
+sport: basketball
 ---
 
 <div class="row">
