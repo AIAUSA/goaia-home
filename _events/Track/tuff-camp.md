@@ -4,7 +4,7 @@ sport: track
 title: Tuff Camp
 permalink: "/track/event/tuff"
 location: Hope College (Holland, MI)
-image: ''
+image: '/uploads/track/tuffcampevent.png'
 start_date: July 7th
 end_date: "- 12th, 2019"
 short_description: 'Training in 3-D is what TUFF Camps are all about. TUFF Camp staff
@@ -36,6 +36,7 @@ page_sections:
   byLine: Take a look at what TUFF CAMP is about!
   video: https://www.youtube.com/watch?v=lXY799Zx4aU
   color: white
+  image: /uploads/track/tuff2.jpg
 - template: one-column
   block: one-column
   one:
@@ -44,13 +45,17 @@ page_sections:
     Title: Schedule
   - template: text
     block: text
-    content: "**  \nMorning and Afternoon Workouts** - runs along Lake Michigan, wooded
-      trails, around Hope College and the city of Holland\n\n**Clinic Topics** - Biomechanics,
-      Nutrition, Sports Psychology, Race Tactics, Training Tips, and more!\n\n**Social**
-      - Cookouts at the beach, competing in the Very Modern Pentathlon, and unique
-      entertainment\n\nOver the years TUFF Camp has helped hundreds of athletes reach
-      theri goals of being All-State and All-Conference by showing them how to train
-      physically, mentally, and spiritually.  \nCome and join this elite group!"
+    content: |-
+     **Morning and Afternoon Workouts** - runs along Lake Michigan, wooded trails, around Hope College and the city of Holland
+      
+     **Clinic Topics** - Biomechanics, Nutrition, Sports Psychology, Race Tactics, Training Tips, and more!
+    
+     **Social** - Cookouts at the beach, competing in the Very Modern Pentathlon, and unique
+      entertainment
+      
+     Over the years TUFF Camp has helped hundreds of athletes reach their goals of being All-State and All-Conference by showing them how to train physically, mentally, and spiritually.  
+    
+     Come and join this elite group!
     centered: true
   - template: title
     block: title
@@ -79,10 +84,11 @@ page_sections:
   right:
   - template: image
     block: image
+    image: /uploads/track/tuff1.jpg
 - template: registration-call-to-action
   block: registration-callout
   color: dark
   iFrame: https://my.athletesinaction.org/public/forms/tuff-camp.aspx
-published: false
+published: true
 
 ---

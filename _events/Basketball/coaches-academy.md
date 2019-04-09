@@ -6,7 +6,7 @@ permalink: "/basketball/events/coachesacademy"
 start_date: November 5th
 end_date: 16, 2018
 date: 2018-04-04 00:00:00 +0000
-layout: page
+layout: event-page-blocks
 alt_url: ''
 short_description: The AIA Coaches Academy is an invite only two-week academy blending
   coaching instruction, leadership development and cultural experience. Coaches from
@@ -34,11 +34,19 @@ page_sections:
       teachers of basketball\n* Interacting with coaches from around the world\n*
       Participating in cultural events\n* Daily 'team times' focused on leadership
       and personal growth training"
+    image: "/uploads/basketball/coachesacademylogo.png"
 - template: video-callout
   block: video-callout
   text: Add to your coaching pedigree!
   byLine: Check out this video recap of Coaches Academy's from the past.
   video: https://vimeo.com/192685757
+  image: /uploads/basketball/academypractice.jpg
+- template: one-column
+  block: one-column
+  one:
+  - template: title
+    block: title
+    Title: Academy Endorsements
 - template: alumni
   block: alumni
   quotes:

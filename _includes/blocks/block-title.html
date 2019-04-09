@@ -1,4 +1,4 @@
-<div class="col-md-6 col-md-offset-3 align-center" style="margin-top: 15px;">
-    <h2 class="title text-center mb30 {{section.color}}" id="{{section.Title | downcase | url_encode }}">{{section.Title}}</h2>
+<div class="col-md-12 align-center" style="margin-top: 15px;">
+    <h3 class="section-title text-center mb30 {{section.color | default: 'first-color' }}" id="{{section.Title | downcase | url_encode }}">{{section.Title}}</h3>
     {% if section.Subtitle != '' %}<h5 class="text-center">{{section.Subtitle}}</h5>{%- endif %}
 </div>
