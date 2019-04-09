@@ -71,10 +71,3 @@ fields:
   description: Typically can be today's date
   config:
     required: true
-pages:
-- _events/altitude.md
-- _events/legends.md
-- _events/all-star.md
-- _events/final-four.md
-- _events/forum.md
-- _events/gathering.md
