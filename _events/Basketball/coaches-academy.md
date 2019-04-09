@@ -17,10 +17,49 @@ sport: basketball
 page_sections:
 - template: one-column
   block: one-column
+  one:
+  - template: title
+    block: title
+    Title: About
+  - template: text-w-right-image
+    block: text-with-right-image
+    text: "The Athletes in Action (AIA) Coaches Academy is an _invite only_ two-week
+      journey blending coaching instruction, leadership development and cultural experience.
+      Coaches from around the world, converge at the AIA's World Training and Resource
+      Center in Xenia, Ohio, to add to their coaching pedigree.  \n  \nThey depart
+      as coaches with a focused mission – to lead and guide their athletes not only
+      on the court, but in their homes and communities, too.\n\n#### THE ACADEMY INCLUDES…\n\n*
+      Visits to secondary, collegiate and/or professional-level practices and games\n*
+      Observing many different coaches and coaching styles\n* Learning from successful
+      teachers of basketball\n* Interacting with coaches from around the world\n*
+      Participating in cultural events\n* Daily 'team times' focused on leadership
+      and personal growth training"
 - template: video-callout
   block: video-callout
+  text: Add to your coaching pedigree!
+  byLine: Check out this video recap of Coaches Academy's from the past.
+  video: https://vimeo.com/192685757
 - template: alumni
   block: alumni
+  quotes:
+  - template: alumni-quote
+    quote: "“It was a very busy and interesting two weeks. I was interacting with
+      coaches from six different countries. During a very short time we became a group
+      of friends. With our group we visited secondary, high school, collegiate and
+      university practices, and attended all levels of basketball games, including
+      an NBA game in Indianapolis (Indiana Pacers vs. Orlando Magic). It was amazing.
+      We had a great chance to talk with many coaches and see many different styles
+      of coaching. We met with successful people and attended their lectures. Daily
+      ‘team time’ helped us to know more about leadership and growth as a person.”"
+    name: National level coach from Eastern Europe
+    experience: " "
+  - template: alumni-quote
+    quote: "“\\[The camp\\] was mind-blowing…visiting the country’s (USA) top collegiate
+      and high school basketball programs – both the facilities and the programs –
+      \\[and seeing\\] how practices are excellently run. Also, I got to personally
+      meet and listen to two great coaches whose programs I have used and admired.”"
+    name: High School Coach from the Phillipines
+    experience: " "
 - template: one-column
   block: one-column
   one:
