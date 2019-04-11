@@ -67,9 +67,9 @@ page_sections:
       * 10:00am: Hot Topics and Discussion
       * 12:00pm: Lunch
       * 1:00pm: Pick your own afternoon
-      * * Golf at Country Club of the North – Leave at 12:45 p.m.
-      * * Chalk Talk SDR - 2:30 p.m.
-      * * Assistant Coach Breakout
+        * Golf at Country Club of the North – Leave at 12:45 p.m.
+        * Chalk Talk SDR - 2:30 p.m.
+        * Assistant Coach Breakout
       * 6:00pm: Appetizers / Picture
       * 6:30pm: Dinner
       * 7:25pm: Panel Discussion
