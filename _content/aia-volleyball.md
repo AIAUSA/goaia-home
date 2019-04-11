@@ -33,7 +33,7 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text-with-right-image
+  - template: text-w-right-image
     block: text-with-right-image
     text: |-
       Athletes in Action Volleyball was started in 1982 by Barb Bernlohr and Bobby Herron. The first women’s team was sent out that same year, traveling to Japan. Up until the last few years, the focus of AIA Volleyball has been to send our teams internationally, which has led us all over the globe to countries in Latin America, Africa, Europe and Asia. We understand the hunger athletes have to learn and to go out and see the world. From this hunger, tours and projects were born to challenge and provide space for those athletes to learn, grow and go.
@@ -46,7 +46,7 @@ page_sections:
 
       We are all about _Victory Beyond Competition_ and to play for an _Audience of One!!!_
     image: "/uploads/volleyball/about.jpg"
-  - template: text-with-right-image
+  - template: text-w-right-image
     block: text-with-right-image
     text: |-
       Through our tours you will:
