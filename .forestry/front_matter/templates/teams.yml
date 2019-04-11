@@ -73,3 +73,5 @@ fields:
   hidden: false
   default: 
   description: Basketball-Only (Men, Women, Coaches)
+pages:
+- _teams/Swimming/aia-swim-team.md
