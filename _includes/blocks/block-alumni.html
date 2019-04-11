@@ -11,7 +11,7 @@
                 {% endif %}
                     <figure></figure>
                     <div class="testimonial-content">
-                        {{ q.quote }}
+                        {{ q.quote | markdownify }}
                         {% if q.name and q.name != ' ' %}
                         <h5>{{ q.name }} - <a href="#" title="FISU">{{ q.experience }}</a></h5>
                         {% endif %}

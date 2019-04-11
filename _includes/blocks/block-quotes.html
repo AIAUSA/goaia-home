@@ -11,7 +11,7 @@
                             <div id="testimonial-slider" class="owl-carousel">
                                 {% for post in section.quotes limit: 5 %}
                                 <div style="color: white;">
-                                    <p>{{ post.quote }}</p>
+                                    <p>{{ post.quote | markdownify }}</p>
                                     <div class="user">
                                         <p>{{ post.name }} - {{ post.experience }}</p>
                                     </div>
