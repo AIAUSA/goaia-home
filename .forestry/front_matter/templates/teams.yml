@@ -44,8 +44,10 @@ fields:
     - volleyball
     - volleyball-career
     - track
+    - swimming
     required: true
   label: Sport
+  default: basketball
 - name: date
   label: Published Date
   type: datetime
