@@ -21,7 +21,7 @@ page_sections:
       Since 1979 Athletes In Action Swimming has sought to impact the world of competitive aquatic sports through developing athletes’ God-given potential, building biblical character into lives, touching hearts cross-culturally, and sharing with others the life-changing message of love, hope and forgiveness found in Jesus Christ.
 
       Summer mission projects, international sports/mission tours, swimmers’ chapels, age-group summer swim camps, elite training camps, evangelistic swim clinics and personal discipleship comprise some of the events and projects AIA Swimming has sponsored over the last 40+ years.
-    image: "/uploads/volleyball/about.jpg"
+    image: "/uploads/1990 Steven Hurst.jpg"
 - template: social-callout
   block: social-callout
   image: "/uploads/volleyball/sport-908267_1280.jpg"
@@ -54,11 +54,66 @@ page_sections:
     image: "/uploads/1990 AIA Swimming Scandanavia Poland.jpg"
 - template: custom-heading
   block: custom-heading
-  black: Alumni
-  red: Testimonals
-  byLine: ''
+  black: Athletic
+  red: Milestones
+  byLine: 'Athletes In Action is committed to excellence in ministry and athletic
+    performance. God has enabled AIA Swimming to accomplish some incredible athletic
+    milestones:'
+- template: one-column
+  block: one-column
+  one:
+  - template: text-w-right-image
+    block: text-with-right-image
+    text: "* Mike Bottom qualified for the 1980 U.S. Olympic Team in the 100 M Butterfly."
+    image: "/uploads/1980 Mike Bottom AIA Olympian.jpg"
+  - template: text-w-right-image
+    block: text-with-right-image
+    text: Bent Brask (1976 Norwegian Olympian and Norwegian national record-holder
+      in the 100 M Butterfly) represented AIA internationally in Europe.
+    image: "/uploads/1987 Darmstadt Bent Brast.jpg"
+  - template: text-w-right-image
+    block: text-with-right-image
+    text: "* Josh Davis represented Athletes In Action for seven years, winning multiple
+      individual and relay national championships, garnishing three gold medals at
+      the 1996 Olympics, setting the American Record in the 200 M Freestyle three
+      times, and winning two silver medals at the 2000 Olympic Games."
+    image: "/uploads/Josh Davis medals.jpeg"
 - template: alumni
   block: alumni
+  quotes:
+  - template: alumni-quote
+    name: Josh Davis
+    experience: NCAA All-American, 1996 and 2000 Olympian (3 golds, 2 silver) Former
+      American Record-Holder Head Swim Coach, Oklahoma Christian College
+    quote: |-
+      My time with Athletes In Action, especially the Ultimate Training Camp and the AIA Special, catapulted me spiritually to a whole new level. The friendships and discipleship I received created a foundation of a better attitude, stronger work ethic, humility, and insight into relationships that had immediate impact on my life and future.
+
+      AIA helped me become a better husband and father, and helped me win gold and silver medals in the Olympic Games. No matter where I was, I was equipped to share my faith winsomely and lovingly. I can’t imagine my life without Athletes In Action.
+  - template: alumni-quote
+    name: Casey Converse
+    experience: NCAA All-American, 1976 Olympian, Former American Record-Holder Head
+      Women’s Swim Coach, U.S. Air Force Academy (retired)
+    quote: For me, Athletes in Action Swimming has been all about community. We are
+      the Body of Christ in…the world of competitive swimming. An Athletes in Action
+      chapel is like a family gathering. We get to look at competition differently;
+      we know there is a larger purpose at work in our lives; and we get to affirm
+      that in one another. To know and be known by other followers of Jesus, regardless
+      of our accomplishments or failures, sets our thinking right.
+  - template: alumni-quote
+    name: Jennifer (Fox) Betz
+    experience: Former Swimmer, University of Kansas Assistant Women’s Swim Coach,
+      University of Kansas
+    quote: |-
+      I first got involved with the AIA Swim Camps via my college coach. God worked through those camps and the sport of swimming, learning about a personal relationship with Christ, applying biblical principles to athletics, living out the gospel each day with my team, and glorifying God through sport.
+
+      After graduation, I joined AIA Staff at the University of Virginia. After two years on AIA staff, I decided to go back into full-time coaching at my alma-mater. AIA has had a long-lasting impact on my life and I’m forever grateful that God has used the ministry of AIA Swimming to grow and mature me in my relationship with Christ and others.
+  - template: alumni-quote
+    name: Jim Reitz
+    experience: Head Swim Coach (retired), University of Nevada, Las Vegas
+    quote: |-
+      The adage, “God doesn’t call the equipped; He equips the called,” describes me perfectly. I prayed that God would use me to make an impact for Him at the AIA Swim Camps and that the overflow of my relationship with Christ would spill over into my relationship with the campers.
+
+      We don’t always know how we have affected someone for Christ this side of eternity, but I hope I was able to inspire a few to become sold-out Jesus followers and to be light in their circles of influence.
 date: 2019-02-22 15:18:55 +0000
 description: ''
 
