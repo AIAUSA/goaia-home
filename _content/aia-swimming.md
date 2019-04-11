@@ -43,6 +43,8 @@ page_sections:
 
       Get a glimpse of a volleyball tour through the [AIA Volleyball Team Blog](http://teamblogs.athletesinaction.org/section/global-sports/volleyball)
     image: "/uploads/volleyball/tours.jpg"
+  - template: text-w-right-image
+    block: text-with-right-image
 - template: image-callout
   block: image-callout
   text: Looking for a Challenge?
