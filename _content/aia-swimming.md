@@ -6,7 +6,7 @@ social_image: ''
 menu: ''
 sliderText: AIA Swimming
 sliderImages:
-- "/uploads/volleyball/go.jpg"
+- "/uploads/1987 Darmstadt Bent Brast.jpg"
 page_sections:
 - template: custom-heading
   block: custom-heading
