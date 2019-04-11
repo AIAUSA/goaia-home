@@ -17,15 +17,10 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: title
-    block: title
-    Title: HBCU Basketball Coaches Retreat
-    Subtitle: May 31st - June 2nd, 2019
-    color: black
   - template: text
     block: text
-    content: "**Fifth Annual HBCU Coaches Retreat**\n\n**Purpose:** To encourage,
-      enrich and build strong relationships to support you as the leader.\n\n**Theme:**
+    content: "**Fifth Annual HBCU Coaches Retreat - May 31st - June 2nd, 2019**\n\n**Purpose:**
+      To encourage, enrich and build strong relationships to support you as the leader.\n\n**Theme:**
       Though Times/Tough Choices/True Wisdom\n\n**Our topics will include:**\n\n*
       Why you coach\n* Strategies for resource development\n* Bearing fruit amidst
       challenges\n* Building staff culture\n* X's and O's\n\n_  \n**All to help you
