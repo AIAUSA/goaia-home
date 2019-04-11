@@ -11,9 +11,8 @@ short_description: The purpose of the HBCU Coaches Retreat is to create an envir
   and players.
 final_four: 0
 layout: event-page-blocks
-date: '2018-04-04'
+date: 2018-04-04 00:00:00 +0000
 sport: basketball
-published: true
 page_sections:
 - template: one-column
   block: one-column
@@ -25,16 +24,22 @@ page_sections:
     color: black
   - template: text
     block: text
-    content: |-
+    content: "**Fifth Annual HBCU Coaches Retreat**\n\n**Purpose:** To encourage,
+      enrich and build strong relationships to support you as the leader.\n\n**Theme:**
+      Though Times/Tough Choices/True Wisdom\n\n**Our topics will include:**\n\n*
+      Why you coach\n* Strategies for resource development\n* Bearing fruit amidst
+      challenges\n* Building staff culture\n* X's and O's\n\n_  \n**All to help you
+      have the impact you desire!**_"
 - template: video-callout
   block: video-callout
   video: https://www.youtube.com/watch?v=NjYG1aAZj6g
   text: Clark Kellogg on HBCU Coaches Retreat
-  byLine: We guarantee your time in Xenia, OH will help you grow as a leader and a man both in the locker room and out. Call for more details or register today!
+  byLine: We guarantee your time in Xenia, OH will help you grow as a leader and a
+    man both in the locker room and out. Call for more details or register today!
   image: "/uploads/2019/03/18/clarkkellog.png"
 - template: one-column
   block: one-column
-  one:  
+  one:
   - template: title
     block: title
     Title: Schedule
@@ -43,40 +48,53 @@ page_sections:
   one:
   - template: panel
     block: panel
-    title: Morning
+    title: Friday
     text: |-
-      * Breakfast
-      * Thought for the Day
-      * Team Time
-      * Leadership Development
+      * 4pm-6pm: Check in
+      * 6:30pm: Welcome
+      * 6:45pm: Dinner
+      * 7:35pm: Speaker TBA
+      * 8:00pm: Breakout Groups
+      * 9:00pm: Reception
   two:
   - template: panel
     block: panel
-    title: Afternoon
+    title: Saturday
     text: |-
-      * Lunch
-      * Basketball Instruction Times
-      * Travel time for longer trips
-      * Occasional Free Time
+      * 7:30am: Breakfast
+      * 8:30am: Speaker TBA
+      * 9:00am: Breakout Groups
+      * 10:00am: Hot Topics and Discussion
+      * 12:00pm: Lunch
+      * 1:00pm: Pick your own afternoon
+      * * Golf at Country Club of the North – Leave at 12:45 p.m.
+      * * Chalk Talk SDR - 2:30 p.m.
+      * * Assistant Coach Breakout
+      * 6:00pm: Appetizers / Picture
+      * 6:30pm: Dinner
+      * 7:25pm: Panel Discussion
+      * 8:15pm: Breakout Groups
+      * 9:30pm: Reception and Hang time
   three:
   - template: panel
     block: panel
-    title: Evening
+    title: Sunday
     text: |-
-      * Dinner
-      * Practice/Game Visits
-      * Debrief of the Day
-      * Occasional Free Time
+      * 8:00am: Breakfast Group Debrief – What are your Take-Aways?
+      * 9:00am: Speaker TBA
+      * 9:30am: Break
+      * 9:45am: Wrap Up and Open Share
+      * 10:45am: Closing
 - template: one-column
   block: one-column
-  one:  
+  one:
   - template: title
     block: title
     Title: Logistics
 - template: image-callout
   block: image-callout
   text: Location
-  image: '/uploads/basketball/xenia-map.png'
+  image: "/uploads/basketball/xenia-map.png"
 - template: one-column
   block: one-column
   one:
@@ -87,7 +105,13 @@ page_sections:
     color: first-color
   - template: text
     block: text
-    content: The HBCU Coaches Retreat will be held at the Athletes in Action World Headquarters in Xenia, OH. Food, lodging, materials, and recreation will all be furnished and done on campus as part of registration. Participants will stay on campus in our dormatories, and will also eat at our cafeteria for meals. Registration for the HBCU Coaches Retreat is $50 and the registration can be completed at the bottom of the page. If you have additional questions, please call Eric Nelson at 937.352.1247 or email him at eric.nelson@athletesinaction.org
+    content: The HBCU Coaches Retreat will be held at the Athletes in Action World
+      Headquarters in Xenia, OH. Food, lodging, materials, and recreation will all
+      be furnished and done on campus as part of registration. Participants will stay
+      on campus in our dormatories, and will also eat at our cafeteria for meals.
+      Registration for the HBCU Coaches Retreat is $50 and the registration can be
+      completed at the bottom of the page. If you have additional questions, please
+      call Eric Nelson at 937.352.1247 or email him at eric.nelson@athletesinaction.org
   - template: title
     block: title
     Title: Register
