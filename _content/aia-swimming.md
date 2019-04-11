@@ -3,7 +3,7 @@ layout: sport-page-blocks
 title: AIA Swimming
 permalink: "/swimming"
 social_image: ''
-menu: basketball
+menu: ''
 sliderText: AIA Swimming
 sliderImages:
 - "/uploads/volleyball/go.jpg"
@@ -11,7 +11,7 @@ page_sections:
 - template: custom-heading
   block: custom-heading
   black: About
-  red: AIA Volleyball
+  red: AIA Swimming
 - template: one-column
   block: one-column
   one:
