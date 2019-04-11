@@ -17,7 +17,7 @@ fields:
     - dark
   label: Color
 - type: text
-  name: iFrame
+  name: iFrameURL
   label: Link
   description: Link to the application
   config:
