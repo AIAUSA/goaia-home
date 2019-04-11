@@ -32,13 +32,26 @@ page_sections:
   email: volleyball@athletesinaction.org
 - template: project-details
   block: project-details
-  type: volleyball-career
+  type: swimming
 - template: custom-heading
   block: custom-heading
   red: History
   black: AIA Swimming
 - template: one-column
   block: one-column
+  one:
+  - template: text-w-right-image
+    block: text-with-right-image
+    text: |-
+      Athletes In Action Swimming began in 1979 when several world-class swimmers from the University of Southern California asked AIA to begin a Christian swim team. Swimming history has been made over 40+ years through…
+
+      * Summer missions projects in Southern California and Colorado for collegiate swimmers from around the United States.
+      * Evangelistic swim clinics where world-class and Olympic swimmers demonstrated swimming technique and shared their faith in Christ.
+      * International tours to Europe to share Jesus Christ with swimmers, coaches and host families.
+      * Sponsoring dozens of evangelistic age-group swim camps in Colorado, Georgia, Indiana, Illinois and Alabama.
+      * Discipling hundreds of collegiate swimmers and training them how to apply biblical principles to sports and faith.
+      * Hosting Swimmers’ Chapels at local, regional and national swim meets.
+    image: "/uploads/1990 AIA Swimming Scandanavia Poland.jpg"
 - template: custom-heading
   block: custom-heading
   black: Alumni
