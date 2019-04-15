@@ -52,6 +52,7 @@ fields:
   name: page_sections
   label: Blocks
   template_types:
+  - social-callout
   - three-columns
   - one-column
   - two-columns
