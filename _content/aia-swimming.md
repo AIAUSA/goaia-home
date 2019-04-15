@@ -22,6 +22,13 @@ page_sections:
 
       Summer mission projects, international sports/mission tours, swimmers’ chapels, age-group summer swim camps, elite training camps, evangelistic swim clinics and personal discipleship comprise some of the events and projects AIA Swimming has sponsored over the last 40+ years.
     image: "/uploads/1990 Steven Hurst.jpg"
+- template: social-callout
+  block: social-callout
+  facebook: https://www.facebook.com/athletesinaction
+  twitter: https://twitter.com/aiausa
+  YouTube: https://www.youtube.com/user/aiausa
+  instagram: https://instagram.com/athletesinaction
+  email: communications@athletesinaction.org
 - template: custom-heading
   block: custom-heading
   black: Get
