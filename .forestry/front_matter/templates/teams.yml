@@ -74,5 +74,6 @@ fields:
   default: 
   description: Basketball-Only (Men, Women, Coaches)
 pages:
+- _teams/Swimming/training-camps.md
 - _teams/Swimming/swimmers-chapels.md
 - _teams/Swimming/aia-swim-team.md
