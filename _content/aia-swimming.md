@@ -28,7 +28,7 @@ page_sections:
   twitter: https://twitter.com/aiausa
   YouTube: https://www.youtube.com/user/aiausa
   instagram: https://instagram.com/athletesinaction
-  email: communications@athletesinaction.org
+  email: craig.harriman@athletesinaction.org
 - template: custom-heading
   block: custom-heading
   black: Get
@@ -97,8 +97,7 @@ page_sections:
   quotes:
   - template: alumni-quote
     name: Josh Davis
-    experience: NCAA All-American, 1996 and 2000 Olympian (3 golds, 2 silver) Former
-      American Record-Holder Head Swim Coach, Oklahoma Christian College
+    experience: NCAA All-American, 1996 & 2000 Olympian Former Record-Holder Head Swim Coach, Oklahoma Christian College
     quote: |-
       My time with Athletes In Action, especially the Ultimate Training Camp and the AIA Special, catapulted me spiritually to a whole new level. The friendships and discipleship I received created a foundation of a better attitude, stronger work ethic, humility, and insight into relationships that had immediate impact on my life and future.
 
@@ -109,6 +108,7 @@ page_sections:
       University of Kansas
     quote: |-
       I first got involved with the AIA Swim Camps via my college coach. God worked through those camps and the sport of swimming, learning about a personal relationship with Christ, applying biblical principles to athletics, living out the gospel each day with my team, and glorifying God through sport.
+
 
       After graduation, I joined AIA Staff at the University of Virginia. After two years on AIA staff, I decided to go back into full-time coaching at my alma-mater. AIA has had a long-lasting impact on my life and I’m forever grateful that God has used the ministry of AIA Swimming to grow and mature me in my relationship with Christ and others.
   - template: alumni-quote
