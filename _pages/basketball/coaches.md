@@ -20,7 +20,7 @@ menu: basketball
 
 <div class="row">
 <div class=" span-12 cell">
-<div class="mt20"><h2 class="title text-center mb30">2018 Coaching <span class="light first-color">Opportunities</span></h2>
+<div class="mt20"><h2 class="title text-center mb30">Coaching <span class="light first-color">Opportunities</span></h2>
 <div class="container">
 <div class="row">
 <p></p>
@@ -35,7 +35,7 @@ menu: basketball
 </div>
 <!-- End .panel-heading -->
 <div id="c1pb1" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c1ph1" aria-expanded="false" style="height: 0px;">
-<div class="panel-body"><span>AIA Basketball has various events, highlighted by the Legends of the Hardwood Breakfast.&nbsp;</span><br><a href="basketball/events/finalfour">Final Four Event Page</a></div>
+<div class="panel-body"><span>AIA Basketball has various events, highlighted by the Legends of the Hardwood Breakfast.&nbsp;</span><br><a href="/basketball/events/finalfour">Final Four Event Page</a></div>
 <!-- End .panel-body --></div>
 <!-- End .panel-collapse --></div>
 <!-- End .panel -->
@@ -100,7 +100,7 @@ menu: basketball
 </div>
 <!-- End .panel-heading -->
 <div id="c2pb3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c2ph3">
-<div class="panel-body">We are seeking to send coaches to host 1 week Coaching Clinics to accelerate the local AIA ministry in Nigeria, Honduras, Togo and Guatemala. Please contact <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=paul.maes@athletesinaction.org" target="_blank">Paul Maes </a> for more information.</div>
+<div class="panel-body">We are seeking to send coaches to host 1 week Coaching Clinics to accelerate the local AIA ministry in places such as Nigeria, Honduras, Togo and Guatemala. Please contact <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=paul.maes@athletesinaction.org" target="_blank">Paul Maes </a> for more information.</div>
 <!-- End .panel-body --></div>
 <!-- End .panel-collapse --></div>
 <!-- End .panel --> <!-- End .row -->

@@ -26,7 +26,7 @@ menu: basketball
 <br />
 <p>Each summer athletes, coaches, athletic trainers and team administrators build their skills and experience through a tour. In 2016, our teams were making a difference in 12 countries, competing against National, University, and club teams. Check below for a list of our available opportunities</p>
 
-<p>Get a glimpse of our tours at <a href="http://teamblogs.athletesinaction.org/section/global-sports/basketball">AIA Basketball's Teams Blog</a></p>
+<p>Get a glimpse of our tours at <a href="https://goaia.org/basketball/teamblogs/">AIA Basketball's Teams Blog</a></p>
 </div>
 </div>
 </div></div>
