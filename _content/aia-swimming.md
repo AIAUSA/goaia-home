@@ -55,25 +55,32 @@ page_sections:
   byLine: 'Athletes In Action is committed to excellence in ministry and athletic
     performance. God has enabled AIA Swimming to accomplish some incredible athletic
     milestones:'
-- template: one-column
-  block: one-column
+- template: three-columns
+  block: three-columns
   one:
-  - template: text-w-right-image
-    block: text-with-right-image
-    text: "Mike Bottom qualified for the 1980 U.S. Olympic Team in the 100 M Butterfly."
-    image: "/uploads/1980 Mike Bottom AIA Olympian.jpg"
-  - template: text-w-right-image
-    block: text-with-right-image
-    text: Bent Brask (1976 Norwegian Olympian and Norwegian national record-holder
-      in the 100 M Butterfly) represented AIA internationally in Europe.
-    image: "/uploads/1987 Darmstadt Bent Brast.jpg"
-  - template: text-w-right-image
-    block: text-with-right-image
-    text: "Josh Davis represented Athletes In Action for seven years, winning multiple
-      individual and relay national championships, garnishing three gold medals at
-      the 1996 Olympics, setting the American Record in the 200 M Freestyle three
-      times, and winning two silver medals at the 2000 Olympic Games."
-    image: "/uploads/Josh Davis medals.jpeg"
+  - template: panel
+    block: panel
+    title: '1980'
+    text: |-
+      ![](/uploads/1980 Mike Bottom AIA Olympian.jpg)
+
+      Mike Bottom qualified for the 1980 U.S. Olympic Team in the 100 M Butterfly.
+  two:
+  - template: panel
+    block: panel
+    title: '1976'
+    text: |-
+      ![](/uploads/1987 Darmstadt Bent Brast.jpg)
+
+      Bent Brask (1976 Norwegian Olympian and Norwegian national record-holder in the 100 M Butterfly) represented AIA internationally in Europe.
+  three:
+  - template: panel
+    block: panel
+    title: 1996 - 2000
+    text: |-
+      ![](/uploads/Josh Davis medals.jpeg)
+
+      Josh Davis represented Athletes In Action for seven years, winning multiple individual and relay national championships, garnishing three gold medals at the 1996 Olympics, setting the American Record in the 200 M Freestyle three times, and winning two silver medals at the 2000 Olympic Games.
 - template: custom-heading
   block: custom-heading
   black: Alumni
@@ -101,15 +108,12 @@ page_sections:
     name: Casey Converse
     experience: NCAA All-American, 1976 Olympian, Former American Record-Holder Head
       Women’s Swim Coach, U.S. Air Force Academy (retired)
-    quote: |-
-      For me, Athletes in Action Swimming has been all about community. We are
-      the Body of Christ in…the world of competitive swimming. 
-    
-    
-      An Athletes in Action chapel is like a family gathering. We get to look at competition differently;
-      we know there is a larger purpose at work in our lives; and we get to affirm
-      that in one another. To know and be known by other followers of Jesus, regardless
-      of our accomplishments or failures, sets our thinking right.
+    quote: "For me, Athletes in Action Swimming has been all about community. We are\nthe
+      Body of Christ in…the world of competitive swimming. \n\n\nAn Athletes in Action
+      chapel is like a family gathering. We get to look at competition differently;\nwe
+      know there is a larger purpose at work in our lives; and we get to affirm\nthat
+      in one another. To know and be known by other followers of Jesus, regardless\nof
+      our accomplishments or failures, sets our thinking right."
   - template: alumni-quote
     name: Jim Reitz
     experience: Head Swim Coach (retired), University of Nevada, Las Vegas
