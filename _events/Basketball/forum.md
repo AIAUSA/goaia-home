@@ -2,7 +2,7 @@
 title: Coaches Forum
 location: Minneapolis, MN
 image: "/uploads/basketball/coachesforumEvent.png"
-permalink: "/basketball/events/forum"
+permalink: "/basketball/events/finalfour"
 start_date: April 5th, 2019 1pm
 end_date: ''
 layout: page
