@@ -16,6 +16,11 @@ page_sections:
 
       These relationships may be with the soccer federation, local professional coaches and their teams or the grass roots of the youth teams. We bring and leave our soccer knowledge, experience, passion and equipment for others to use in their development.
     image: "/uploads/27-AIA_Ted Wilcox.jpeg"
+  - template: text
+    block: text
+    content: I have heard of people going on mission trips but I would think “I don’t
+      have time for that” - Tyler Gibson
+    centered: true
   - template: text-w-right-image
     block: text-with-right-image
     text: |-
