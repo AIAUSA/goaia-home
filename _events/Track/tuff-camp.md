@@ -77,7 +77,7 @@ page_sections:
 
       **Camp Fees Include:** Housing in college dorm, all meals, biomechanical analysis, personalized training, t-shirt, notebook, Christian atmosphere, goal-setting, teamwork, and much more!
 
-      For More Information, [download our brochure](http://localhost:4000/uploads/track/TUFFbrochure2019.pdf).
+      For More Information, [download our brochure](/uploads/track/TUFFbrochure2019.pdf).
   right:
   - template: image
     block: image
