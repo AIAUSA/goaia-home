@@ -1,6 +1,6 @@
 ---
 layout: page-blocks
-title: Pro Soccer Chaplaincy
+title: Pro Soccer Mission Trips
 description: ''
 permalink: "/pro/soccer/chaplains"
 social_image: ''
@@ -20,7 +20,7 @@ page_sections:
     block: text
     content: "### I have heard of people going on mission trips but I would think
       “I don’t have time for that” - Tyler Gibson"
-    centered: true
+    centered: false
   - template: text-w-right-image
     block: text-with-right-image
     text: |-
