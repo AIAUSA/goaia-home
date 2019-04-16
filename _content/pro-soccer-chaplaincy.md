@@ -2,7 +2,7 @@
 layout: page-blocks
 title: Pro Soccer Mission Trips
 description: ''
-permalink: "/pro/soccer/chaplains"
+permalink: "/pro/soccer/missions"
 social_image: ''
 menu: ''
 page_sections:
