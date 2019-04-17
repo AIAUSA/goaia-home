@@ -43,7 +43,7 @@ fields:
   name: page_sections
   label: Blocks
   template_types:
-  - events
+  - event-details
   - three-columns
   - one-column
   - two-columns
