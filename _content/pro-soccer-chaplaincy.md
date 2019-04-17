@@ -34,6 +34,10 @@ page_sections:
 - template: one-column
   block: one-column
   section_title: Events
+  one:
+  - template: title
+    block: title
+    Title: Current Opportunities
 - template: event-details
   block: event-details
   type: pro soccer
