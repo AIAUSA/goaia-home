@@ -36,7 +36,7 @@ page_sections:
   section_title: Events
 - template: event-details
   block: event-details
-  type: basketball
+  type: pro soccer
 date: 2019-04-09 16:02:19 +0000
 
 ---

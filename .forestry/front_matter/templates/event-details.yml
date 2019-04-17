@@ -1,7 +1,6 @@
 ---
 label: Event Details
 hide_body: false
-display_field: type
 fields:
 - type: text
   label: block
@@ -22,6 +21,7 @@ fields:
     - volleyball-career
     - track
     - final four
+    - pro soccer
     required: true
   default: basketball
 - type: text
