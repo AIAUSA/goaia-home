@@ -31,6 +31,9 @@ page_sections:
   - template: image
     block: image
     image: "/uploads/JA3A5316--024.jpeg"
+- template: one-column
+  block: one-column
+  section_title: Events
 date: 2019-04-09 16:02:19 +0000
 
 ---
