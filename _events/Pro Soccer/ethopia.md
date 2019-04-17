@@ -1,5 +1,5 @@
 ---
-location: Ethopia, Africa
+location: 'Addid Ababa, Ethopia / Nairobi, Kenya '
 image: "/uploads/image9.jpg"
 start_date: December 6, 2019
 end_date: December 16, 2019
