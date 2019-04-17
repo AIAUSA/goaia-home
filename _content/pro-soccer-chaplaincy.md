@@ -34,6 +34,9 @@ page_sections:
 - template: one-column
   block: one-column
   section_title: Events
+- template: event-details
+  block: event-details
+  type: basketball
 date: 2019-04-09 16:02:19 +0000
 
 ---
