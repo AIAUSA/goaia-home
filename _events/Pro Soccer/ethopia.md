@@ -6,23 +6,20 @@ end_date: December 16, 2019
 layout: page
 alt_url: https://my.athletesinaction.org/public/forms/pro-soccer.aspx
 short_description: |-
-  Cost*:
+  **Cost***:
 
-  $1000 which covers all of your expenses (local transportation, food and lodging) PLUS you pay for your flight.
+  $1000 which covers all of your expenses (local transportation, food and lodging) **PLUS** you pay for your flight.
 
-  *If you choose we can help you raise the funds to cover both your $1000 and flight.
+  \*If you choose we can help you raise the funds to cover both your $1000 and flight.
 
   Additional $300 cost for those wanting to visit Kenya on the way home.
 
-  Purpose:
+  **Purpose**:
 
-  Open doors with Premier League and Ethiopian Soccer Federation for Pro Soccer chaplaincy network
-
-  Character Development for players and coaches
-
-  Train with Professional & National level players
-
-  Evangelism and bridge building
+  1. Open doors with Premier League and Ethiopian Soccer Federation for Pro Soccer chaplaincy network
+  2. Character Development for players and coaches
+  3. Train with Professional & National level players
+  4. Evangelism and bridge building
 final_four: 
 sport: pro soccer
 title: Ethopia

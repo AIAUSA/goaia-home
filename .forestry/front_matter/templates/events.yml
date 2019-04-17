@@ -55,6 +55,10 @@ fields:
   type: textarea
   hidden: false
   default: 
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: file
   name: social_image
   label: Social Image
