@@ -11,4 +11,4 @@ date: 2019-04-15 04:00:00 +0000
 location: Ohio, Colorado, Minnesota, and SoCal
 
 ---
-Join dozens of collegiate and professional athletes in multiple sports at one of AIA’s week-long [**Ultimate Training Camps**](http://www.ultimatetrainingcamp.com/) or Elite High-Altitude Training Camps where you will learn to integrate faith and competition!
+Join dozens of collegiate and professional athletes in multiple sports at one of AIA’s week-long [**Ultimate Training Camps**](http://www.ultimatetrainingcamp.com/) where you will learn to integrate faith and competition! (Swim workouts will be offered during UTC's.)
