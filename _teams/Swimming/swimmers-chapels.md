@@ -11,4 +11,4 @@ date: 2019-04-15 04:00:00 +0000
 location: ''
 
 ---
-Join fellow-swimmers and coaches for 15-20 minutes of fellowship, worship, and a short devotional at major competitions around the country.
+Join fellow-swimmers and coaches for 15-20 minutes of fellowship, worship, and a short devotional at major competitions around the country. Follow us at [@SwimmersChapel](https://twitter.com/SwimmersChapel) for updates!
