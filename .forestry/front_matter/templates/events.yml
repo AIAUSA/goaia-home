@@ -88,4 +88,5 @@ fields:
   config:
     required: true
 pages:
+- _events/Pro Soccer/north-africa.md
 - _events/Pro Soccer/ethopia.md
