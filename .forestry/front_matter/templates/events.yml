@@ -71,6 +71,7 @@ fields:
     - volleyball
     - track
     - final four
+    - pro soccer
     required: true
   label: Sport
   default: basketball
