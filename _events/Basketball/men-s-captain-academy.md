@@ -17,6 +17,10 @@ page_sections:
 - template: one-column
   block: one-column
   one:
+  - template: video
+    block: video
+    link: https://www.youtube.com/watch?v=0hVMeStKxr0
+    full: true
   - template: text
     block: text
     content: |-
@@ -71,15 +75,15 @@ page_sections:
       **May 9th - 13th, 2019**
 
       **Athletes in Action Total Athlete Complex**
-      
+
       **Schedule Includes:**
-      
-      Strength Finders Testing - Team-Building
-      
+
+      Leadership Style Assessments - Team-Building
+
       Case-studies - Personal Development Planning
-      
+
       Cohort group work - Hear from high level leaders
-      
+
       Daily court time - Biblical leadership training
   - template: title
     block: title
@@ -92,25 +96,25 @@ page_sections:
     centered: true
     content: |-
       Belmont
-      
+
       Bucknell
-      
+
       Butler
-      
+
       Charleston Southern
-      
+
       Clemson
-      
+
       College of Charleston
-      
+
       Liberty University
-      
+
       Leghigh
-      
+
       Longwood
-      
+
       Louisiana Lafayette University
-      
+
       Ohio State University
   right:
   - template: text
@@ -118,31 +122,33 @@ page_sections:
     centered: true
     content: |-
       Memphis University
-      
+
       Michigan University
-      
+
       New Orleans University
-      
+
       Northern Kentucky University
-      
+
       San Jose State
-      
+
       South Carolina University
-      
+
       Tennessee University
-      
+
       Texas A&M
-      
+
       Valparaiso
-      
+
       Wisconsin
-      
+
       Wright State
 - template: video-callout
   block: video-callout
   video: https://www.youtube.com/watch?v=zeOam-6h4I4
   text: Alex Caruso shares about Captain's Academy
-  byLine: Alex Caruso (Texas A&amp;M) shares about Captain's Academy (formerly named Captains' Camp) at the 2016 Legends of the Hardwood Breakfast on April 2nd in Houston, TX.
+  byLine: Alex Caruso (Texas A&amp;M) shares about Captain's Academy (formerly named
+    Captains' Camp) at the 2016 Legends of the Hardwood Breakfast on April 2nd in
+    Houston, TX.
   image: "/uploads/basketball/captains2.jpg"
 - template: speakers
   block: speakers
@@ -160,12 +166,8 @@ page_sections:
     image: "/uploads/basketball/3M_profile_picture.jpg"
     name: Morris Michalski
     title: AIA Staff
-  - template: speaker
-    image: "/uploads/basketball/mark-profile.jpg"
-    name: Mark Householder
-    title: AIA President
 - template: image-callout
-  block:  image-callout
+  block: image-callout
   image: "/uploads/basketball/xenia-map.png"
   text: Location & Logistics
   color: first-color
@@ -174,18 +176,17 @@ page_sections:
   one:
   - template: text
     block: text
-    content: |-
-      #### Athletes in Action World Headquarters
-      The 2nd Annual Athletes in Action Captains Academy will be hosted at Athletes in Action's World Headquarters in Xenia, OH. All participants will stay in dorms on campus and will eat all meals at the Schindler Banquet Center, also located on campus. Transportation will be arranged after registration. AIA Staff will be available to make airport runs, and participants are welcome to drive and park on campus. 
-
-      **HQ Location** 651 Taylor Drive, Xenia OH 45385
-
-      Cost $625/person + travel arrangements     
-      Contact Morris Michalski
+    content: "#### Athletes in Action World Headquarters\n\nThe Athletes in Action
+      Captains Academy will be hosted at Athletes in Action's World Headquarters in
+      Xenia, OH. All participants will stay in dorms on campus and will eat all meals
+      at the Schindler Banquet Center, also located on campus. Transportation will
+      be arranged after registration. AIA Staff will be available to make airport
+      runs, and participants are welcome to drive and park on campus.\n\n**HQ Location**
+      651 Taylor Drive, Xenia OH 45385\n\nCost $625/person + travel arrangements  \nContact
+      Morris Michalski"
   - template: registration-callout
     block: registration-callout
     color: dark
-    iFrameURL: "https://my.athletesinaction.org/public/forms/basketball-leadership.aspx"
-published: true
+    iFrameURL: https://my.athletesinaction.org/public/forms/basketball-leadership.aspx
 
 ---
