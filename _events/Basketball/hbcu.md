@@ -163,7 +163,7 @@ page_sections:
     Title: Logistics
 - template: image-callout
   block: image-callout
-  text: Location
+  text: ''
   image: "/uploads/basketball/xenia-map.png"
 - template: one-column
   block: one-column
