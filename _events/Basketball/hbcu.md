@@ -81,25 +81,25 @@ page_sections:
   - template: text
     block: text
     content: |-
-      > **Our Topics will include: (remove what is there an insert the topics below)**
-      >
+      **Our Topics will include:
+      
       > * Leading up and leading down
       > * Gaining Wisdom
       > * Small group breakouts
       > * Stories of Coaches living well in tough times
       > * X's and O's
-      >
-      > **Golf** - Come early for a round of Golf starting at 11:30 on Friday the 31st (this is included in the registration fee). 4-6:00 is check in and 6:30 Welcome. See schedule below for further details.
-      >
-      > **Quotes from past attendee's:**
-      >
+      
+      **Golf** - Come early for a round of Golf starting at 11:30 on Friday the 31st (this is included in the registration fee). 4-6:00 is check in and 6:30 Welcome. See schedule below for further details.
+      
+      **Quotes from past attendee's:**
+      
       > * Open, honest dialog from people going through like experiences.
       > * It's an open forum for coaches to open up.
       > * Retaining useful knowledge from veteran coaches.
       > * Taught me to not be afraid to open up to my team.
       > * Breakout groups- very impactful.
-      >
-      > **All to help you have the impact you desire!**
+      
+       **All to help you have the impact you desire!**
   section_title: Details
 - template: video-callout
   block: video-callout
