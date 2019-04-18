@@ -7,6 +7,7 @@ page_sections:
 - template: video
   block: video
   link: https://www.youtube.com/watch?v=uF4CFPGsGiI
+  full: true
 - template: two-columns
   block: two-columns
   section_title: Buttons

@@ -19,9 +19,27 @@ page_sections:
   one:
   - template: text
     block: text
-    content: "**Fifth Annual HBCU Coaches Retreat - May 31st - June 2nd, 2019**\n\n**Purpose:**
-      To encourage, enrich and build strong relationships to support you as the leader.\n\n**Theme:**
-      Though Times/Tough Choices/True Wisdom\n\n**Our topics will include:**\n\n*
+    content: "\n\n**Fifth Annual HBCU Coaches Retreat - May 31st - June 2nd, 2019**\n\n**Purpose:**
+      To encourage, enrich and build strong relationships to support you as the leader."
+    centered: true
+- template: video
+  block: video
+  link: https://youtu.be/A0Yj4yDTtvE
+  full: true
+- template: one-column
+  block: one-column
+  one:
+  - template: text
+    block: text
+    content: "\n\n**Theme:**
+      Though Times/Tough Choices/True Wisdom\n\n"
+    centered: true
+- template: one-column
+  block: one-column
+  one:
+  - template: text
+    block: text
+    content: "**Our topics will include:**\n\n*
       Why you coach\n* Strategies for resource development\n* Bearing fruit amidst
       challenges\n* Building staff culture\n* X's and O's\n\n_  \n**All to help you
       have the impact you desire!**_"
@@ -62,7 +80,6 @@ page_sections:
       * 10:00am: Hot Topics and Discussion
       * 12:00pm: Lunch
       * 1:00pm: Pick your own afternoon
-        * Golf at Country Club of the North – Leave at 12:45 p.m.
         * Chalk Talk SDR - 2:30 p.m.
         * Assistant Coach Breakout
       * 6:00pm: Appetizers / Picture
