@@ -183,7 +183,7 @@ page_sections:
       be arranged after registration. AIA Staff will be available to make airport
       runs, and participants are welcome to drive and park on campus.\n\n**HQ Location**
       651 Taylor Drive, Xenia OH 45385\n\nCost $625/person + travel arrangements  \nContact
-      Morris Michalski"
+      [Jason Stankus](mailto:jason.stankus@athletesinaction.org)"
   - template: registration-callout
     block: registration-callout
     color: dark
