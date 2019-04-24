@@ -4,7 +4,7 @@ image: "/uploads/image11.jpg"
 start_date: July 2019
 end_date: July 2019
 layout: page
-alt_url: https://my.athletesinaction.org/public/forms/pro-soccer.aspx
+alt_url: https://my.athletesinaction.org/public/forms/pro-soccer.aspx?EventID=2026
 short_description: "**Cost***:\n\n$1000 which covers all of your expenses (local transportation,
   food and lodging) **PLUS** you pay for your flight.   \n\\*If you choose we can
   help you raise the funds to cover both your $1000 and flight.\n\n**Purpose**:\n\n1.

@@ -85,7 +85,6 @@ page_sections:
 - template: registration-call-to-action
   block: registration-callout
   color: dark
-  iFrame: https://my.athletesinaction.org/public/forms/tuff-camp.aspx
-  iFrameURL: https://my.athletesinaction.org/public/forms/tuff-camp.aspx
+  iFrameURL: https://my.athletesinaction.org/public/forms/tuff-camp.aspx?EventID=2005
 
 ---

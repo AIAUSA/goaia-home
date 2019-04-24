@@ -4,7 +4,7 @@ image: "/uploads/image9.jpg"
 start_date: December 6, 2019
 end_date: December 16, 2019
 layout: page
-alt_url: https://my.athletesinaction.org/public/forms/pro-soccer.aspx
+alt_url: '#'
 short_description: |-
   **Cost***:
 
