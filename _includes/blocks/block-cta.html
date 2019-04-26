@@ -1,5 +1,5 @@
 <div class="btn-container col-md-12 col-xs-12 text-center">
-    <a href="{{section.link}}" class="btn btn-lg btn-custom col-md-10 col-md-offset-1 col-xs-12 mb10">
+    <a href="{{section.link}}" class="btn btn-lg btn-custom col-md-10 col-md-offset-1 col-xs-12 mb10" onclick="ga('send', 'event', 'cta', 'click', '{{page.title}} - {{section.link}}');">
         <span class="primary">{{ section.text }}</span>
         {% if section.subtext != '' %}
         <span class="subtext">{{ section.subtext }}</span>

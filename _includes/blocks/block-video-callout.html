@@ -10,7 +10,7 @@
                         <h2 class="text-white text-center mb20 {{section.color}}">{{ section.text }}</h2>
                     <p class="text-white">{{ section.byLine }}</p>
                 </header>
-                <a href="{{ section.video }}" class="popup-iframe iframe-btn" title="Our Video">
+                <a href="{{ section.video }}" class="popup-iframe iframe-btn" title="Our Video" onclick="ga('send', 'event', 'play', 'click', '{{page.title}}');">
                     <i class="icon-control-play"></i>
                 </a>
             </div><!-- End .iframe-btn-container -->

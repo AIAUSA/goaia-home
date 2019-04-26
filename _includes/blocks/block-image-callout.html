@@ -11,7 +11,7 @@
                     <p class="text-white">{{ section.byLine }}</p>
                     {% if section.url != nil %}
                     <div class="callout-action">
-                        <a href="{{section.url}}" class="btn btn-custom radius-lger min-width">{{section.linkText}}</a>
+                        <a href="{{section.url}}" class="btn btn-custom radius-lger min-width" onclick="ga('send', 'event', 'cta', 'click', '{{page.title}} - Image - {{section.url}}');">{{section.linkText}}</a>
                     </div>
                     {% endif %}
                 </header>
