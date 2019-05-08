@@ -8,47 +8,11 @@ sliderText: AIA Buffalo
 
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><section class="section" id="about"><header class="section-header container text-center">
-<h2 class="title">Athletes In Action <span class="light first-color">Buffalo</span></h2>
-</header></section>
-</div></div></div>
-<div class="row">
-<div class=" span-12 cell">
 <div class="container"><div class="row">
 <div class="col-md-12">
 <p>Athletes in Action in Buffalo exists to build into the lives of the players, coaches and families of the Buffalo Bills by helping them use their unique platform to share the life-changing message of the gospel of Jesus Christ.</p>
 </div>
-</div>
-<!--<div class="row">
-<div class="col-md-6">
-<p><strong>Ministry TO athletes through: </strong></p>
-<ul>
-<li>Weekly team Bible study</li>
-<li>Player's Leadership Group </li>
-<li>Women's Weekly Study</li>
-<li>Chapel services</li>
-<li> Family chapel  </li>
-<li>Personal counseling</li>
-</ul>
-</div>
-<div class="col-md-6">
-<p><strong>Ministry THROUGH athletes at:</strong> </p>
-<ul>
-<li>High Schools </li>
-<li>Youth Groups</li>
-<li> Churches </li>
-<li>Community Outreaches </li>
-<li>Clinics</li>
-<li> Football Camps  </li>
-<li>Corporate Outreaches</li>
-</ul>
-</div>
-</div> -->
 </div></div></div>
-<div class="row">
-<div class=" span-12 cell">
-<div class="bg-image pt40 pb40 pb60-xs overlay-container" data-bgattach="/uploads/pro/4K5A5894.jpg" style="background-image: url(&quot;/uploads/pro/4K5A5894.jpg&quot;); height: 350px; background-position: 50% 10%;"><!-- end .overlay -->
-<div class="mb20"></div>
 <!-- space -->
 <div class="container">
 <div class="row">
@@ -61,13 +25,19 @@ sliderText: AIA Buffalo
 <h2>Call To Courage <span class="light first-color">Award</span></h2>
 </header></section>
 </div>
+<div class="row align-center">
+    <div class="col-md-12 mb30">
+        <div class="videowrapper">
+            {{ "https://www.youtube.com/watch?v=rZNeNDiBSKM" | youtube }}
+        </div>
+    </div>
+</div>
 <div class="container mb20"><div class="row">
 <div class="col-md-12">
-<p>&nbsp; <br>&nbsp; <img class="img-responsive col-md-6 pull-right" alt="" src="/uploads/pro/CallToCourage-Postcard2018-Front-Web.jpg"> The Call to Courage Award is given to an athlete who displays exemplary character through adversity and triumph. At the heart of his character is a commitment to Jesus Christ that is reflected in every aspect of his life. On and off the field, the award recipient is an impact player who brings out the best in those around him. This athlete’s pursuit of excellence in every area of his life is inspiring. He does not view his achievements as a platform for personal gain; rather, out of humility he sees them as an opportunity to serve the community and the world to the glory of God.</p>
+<img class="img-responsive col-md-6" alt="" src="/uploads/pro/CallToCourage_Postcard2019_Front.jpeg"> <img class="img-responsive col-md-6" alt="" src="/uploads/pro/CallToCourage_Postcard2019_Back.jpeg"> 
 </div>
 <div class="col-md-6">
-<h5><img class="img-responsive pull-left col-md-12" alt="" src="/uploads/pro/DemarioDavis.jpg"><br />This year's winner is Demario Davis of the NY Jets.</h5>
-<p>Read the <a href="/uploads/pro/Call-to-Courage-Awards-Breakfast-News-Release-2018.pdf">2018 Press Release</a>.</p>
+<p>The Call to Courage Award is given to an athlete who displays exemplary character through adversity and triumph. At the heart of his character is a commitment to Jesus Christ that is reflected in every aspect of his life. On and off the field, the award recipient is an impact player who brings out the best in those around him. This athlete’s pursuit of excellence in every area of his life is inspiring. He does not view his achievements as a platform for personal gain; rather, out of humility he sees them as an opportunity to serve the community and the world to the glory of God.</p>
 </div>
 <div class="col-md-6">
 <h4>Tickets for the Call to Courage Breakfast are available:</h4>
