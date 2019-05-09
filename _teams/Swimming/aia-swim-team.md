@@ -13,6 +13,6 @@ location: ''
 ---
 * How would you like to publicly represent Jesus Christ through your swimming competition?
 * Are you finished with your collegiate eligibility or swimming unattached?
-* Then proclaim your faith by register as a member of the “Athletes In Action” swim team!
+* Then proclaim your faith by registering as a member of the “Athletes In Action” swim team!
 
 [**CLICK HERE**](https://docs.google.com/forms/d/1AexDjjIg9pSgFuM4n4Un5tPuAZ5HxZJlSJzeha8FXQM/viewform)  for more information about the AIA Swim Team.

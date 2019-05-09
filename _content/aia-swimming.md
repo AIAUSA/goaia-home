@@ -48,7 +48,7 @@ page_sections:
   - template: text-w-right-image
     block: text-with-right-image
     text: |-
-      Athletes In Action Swimming began in 1979 when several world-class swimmers from the University of Southern California asked AIA to begin a Christian swim team. AIA Swimming has impacted the sport for over 40+ years through…
+      Athletes In Action Swimming began in 1979 when several world-class swimmers from the University of Southern California asked AIA to begin a Christian swim team. AIA Swimming has impacted the sport for over 40 years through…
 
       * Summer missions projects in California and Colorado for collegiate swimmers from around the United States.
       * Evangelistic swim clinics where world-class and Olympic swimmers demonstrated swimming technique and shared their faith in Christ.
@@ -70,7 +70,7 @@ page_sections:
   one:
   - template: panel
     block: panel
-    title: '1980'
+    title: 'Mike Bottom'
     text: |-
       ![](/uploads/1980 Mike Bottom AIA Olympian.jpg)
 
@@ -78,7 +78,7 @@ page_sections:
   two:
   - template: panel
     block: panel
-    title: '1976'
+    title: 'Brent Brask'
     text: |-
       ![](/uploads/1987 Darmstadt Bent Brast.jpg)
 
@@ -86,7 +86,7 @@ page_sections:
   three:
   - template: panel
     block: panel
-    title: 1992 - 1997
+    title: Josh Davis
     text: |-
       ![](/uploads/Josh Davis medals.jpeg)
 
