@@ -11,7 +11,7 @@ short_description: The purpose of the HBCU Coaches Retreat is to create an envir
   and players.
 final_four: 0
 layout: event-page-blocks
-date: 2018-04-04 00:00:00 +0000
+date: 2018-04-04T00:00:00.000+00:00
 sport: basketball
 page_sections:
 - template: one-column
@@ -74,6 +74,7 @@ page_sections:
       * Cazzie Russell - 1966 College Player of the Year, Three Time All-American- U of Michigan, 1st player taken in NBA Draft, NBA All-Star, NBA Champions New Your Kicks 1970. Long time Coach.
       * Clark Kellogg - Ohio State All Big Ten and MVP, 1982 drafted in the 1st round by the Indiana Pacers, NBA All-Rookie Team averaging 20 and 10 his rookie year. Knee injury took him out of the NBA. Received the Coach Wooden "Keys to Life" Award 2003
       * Tom Sneed - Over 30 years in the Oil and Gas industry, former V.P. with Marathon Oil Corporation. He is a member of the Executive Leadership Committee a prestigious team of current and former Fortune 500 Senior Corporate African American American Executives.
+      * Lionel Hollins - 1975 All-American Arizona State, 1976 NBA All-Rookie Team, 1978-79 NBA All-Defensive Team, 1978 NBA All-Star, 1977 NBA Champion Portland Trailblazers. Head Coach for Vancouver Grizzlies, Memphis Grizzlies and Brooklyn Nets, took his teams to the NBA Play Offs 4 times
       * Others TBA
 - template: one-column
   block: one-column
