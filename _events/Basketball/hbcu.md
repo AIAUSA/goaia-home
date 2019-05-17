@@ -73,7 +73,7 @@ page_sections:
     content: |-
       * Cazzie Russell - 1966 College Player of the Year, Three Time All-American- U of Michigan, 1st player taken in NBA Draft, NBA All-Star, NBA Champions New Your Kicks 1970. Long time Coach.
       * Clark Kellogg - Ohio State All Big Ten and MVP, 1982 drafted in the 1st round by the Indiana Pacers, NBA All-Rookie Team averaging 20 and 10 his rookie year. Knee injury took him out of the NBA. Received the Coach Wooden "Keys to Life" Award 2003
-      * Tom Sneed - Over 30 years in the Oil and Gas industry, former V.P. with Marathon Oil Corporation. He is a member of the Executive Leadership Committee a prestigious team of current and former Fortune 500 Senior Corporate African American American Executives.
+      * Thom Snead - Over 30 years in the Oil and Gas industry, former V.P. with Marathon Oil Corporation. He is a member of the Executive Leadership Committee a prestigious team of current and former Fortune 500 Senior Corporate African American American Executives.
       * Lionel Hollins - 1975 All-American Arizona State, 1976 NBA All-Rookie Team, 1978-79 NBA All-Defensive Team, 1978 NBA All-Star, 1977 NBA Champion Portland Trailblazers. Head Coach for Vancouver Grizzlies, Memphis Grizzlies and Brooklyn Nets, took his teams to the NBA Play Offs 4 times
       * Others TBA
 - template: one-column
@@ -122,40 +122,45 @@ page_sections:
     block: panel
     title: Friday
     text: |-
-      * 4pm-6pm: Check in
-      * 6:30pm: Welcome
-      * 6:45pm: Dinner
-      * 7:35pm: Speaker TBA
-      * 8:00pm: Breakout Groups
-      * 9:00pm: Reception
+      * 4:00 Check In
+      * 6:30 Welcome – Eric and Donnie
+      * 6:45 Dinner
+      * 7:25 Who is AIA? Who is in the room? - Donnie
+      * 7:35 Leadership Journey Story - Cazzie Russell
+      * 8:15 Breakout Groups – Talk about Tough Times/Tough Choices
+      * 9:15 Reception and Hang out time – Wings/Snacks – Chalk talk
   two:
   - template: panel
     block: panel
     title: Saturday
     text: |-
-      * 7:30am: Breakfast
-      * 8:30am: Speaker TBA
-      * 9:00am: Breakout Groups
-      * 10:00am: Hot Topics and Discussion
-      * 12:00pm: Lunch
-      * 1:00pm: Pick your own afternoon
-        * Chalk Talk SDR - 2:30 p.m.
-        * Assistant Coach Breakout
-      * 6:00pm: Appetizers / Picture
-      * 6:30pm: Dinner
-      * 7:25pm: Panel Discussion
-      * 8:15pm: Breakout Groups
-      * 9:30pm: Reception and Hang time
+      * 7:30 Breakfast
+      * 8:30 Living in a world of compromise – Why convictions matter – Clark K
+      * 9:00 What are your convictions? - Personal Time to process
+      * 10:00 Gaining True Wisdom – Thom Snead
+      * 10:30 Small groups – Convictions and Wisdom
+      * 11:30 AIA Story
+      * 11:50 Something Fun – Afternoon Preview
+      * 12:00 Group Photo
+      * 12:15 Lunch
+      * 1:30 Leroy Matticks – Battle for the Mind/Gaining in Wisdom
+      * 2:30 Head Coach/Asst Coach Break out – Sound Mind and Leading Upward
+      * 3:15 Chalk Talk (Optional) – Willis/Robert McC
+      * 6:00 Optional Golf Cart Tour of Campus and story of Orphanage
+      * 6:30 BBQ Dinner
+      * 7:00 Panel discussion
+      * 8:00 TBD – Breakouts
   three:
   - template: panel
     block: panel
     title: Sunday
     text: |-
-      * 8:00am: Breakfast Group Debrief – What are your Take-Aways?
-      * 9:00am: Speaker TBA
-      * 9:30am: Break
-      * 9:45am: Wrap Up and Open Share
-      * 10:45am: Closing
+      * 8:00 Breakfast
+      * 8:45 Closing – Wisdom and Choices - Cazzie Russell
+      * 9:30 Sharing time
+      * 10:15 Evaluations
+      * 10:30 Closing comments
+      * 11:00 Depart
 - template: one-column
   block: one-column
   one:
