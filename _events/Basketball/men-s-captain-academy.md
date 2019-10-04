@@ -1,12 +1,12 @@
 ---
 layout: event-page-blocks
 sport: basketball
-title: Men's Captain Academy
+title: Men's Captains Academy
 permalink: "/basketball/events/captains/men"
 location: Xenia, OH
 image: "/uploads/2019/03/18/captainsacademy1.png"
-start_date: May 9, 2019
-end_date: May 13, 2019
+start_date: May 14, 2020
+end_date: May 18, 2020
 short_description: Athletes in Action Basketball wants to invest in your team's leaders!
   Our experienced staff and scheduled speakers will spend a full weekend working with
   your team's influencers to affect change in your locker room and produce results

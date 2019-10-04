@@ -1,9 +1,9 @@
 ---
 title: Legends Breakfast
-location: Minneapolis, MN
+location: Atlanta, GA
 image: "/uploads/basketball/legendsbreakfastEvent.png"
 permalink: "/basketball/events/legends"
-start_date: April 6th, 2019, 8:30am
+start_date: April 4th, 2020, 8:30am
 end_date: ''
 layout: page
 alt_url: http://legendsbreakfast.net

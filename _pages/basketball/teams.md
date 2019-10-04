@@ -24,7 +24,7 @@ menu: basketball
 <li>Experience making difference using your love for basketball</li>
 </ul>
 <br />
-<p>Each summer athletes, coaches, athletic trainers and team administrators build their skills and experience through a tour. In 2016, our teams were making a difference in 12 countries, competing against National, University, and club teams. Check below for a list of our available opportunities</p>
+<p>Each summer athletes, coaches, athletic trainers and team administrators build their skills and experience through a tour. Our teams travel the world competing against national, university, and club teams. Check below for a list of our available opportunities.</p>
 
 <p>Get a glimpse of our tours at <a href="https://goaia.org/basketball/teamblogs/">AIA Basketball's Teams Blog</a></p>
 </div>
@@ -32,7 +32,7 @@ menu: basketball
 </div></div>
 {% include plugins/image-callout.html image="/uploads/basketball/mo-coaching.jpg" text="What's a AIA Basketball Tour Like?" byLine="Check out this video recap from an AIA Basketball tour to the Philippines. <br />Want to join us this summer?" url="https://www.youtube.com/watch?v=evqlr_0AIzc" linkText="Watch Now" %}
 
-<div class="row mt20">
+<!-- <div class="row mt20">
 <div class="span-12 cell"><div class="container">
 <div class="col-md-4">
     <h2>Men's Tours</h2>
@@ -77,7 +77,7 @@ menu: basketball
     </div>
 </div>
 <div class="col-md-4">
-    <h2>Coaches's Tours</h2>
+    <h2>Coaches' Tours</h2>
     <p>We are seeking to send coaches to host one week Coaching Clinics to accelerate the local AIA ministry in:</p>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
         {% assign sorted2 = site.teams | where: "type","Coach" %}
@@ -99,9 +99,10 @@ menu: basketball
     </div>
 </div>
 </div>
-</div></div>
+</div></div> -->
 <div class="row">
 <div class="span-12 cell"><div class="container text-center">
+<h3> 2020 Dates/Locations Coming Soon!</h3>
 <h3> For questions regarding AIA Basketball International Tours contact: <a href="mailto:Craig.Sladek@athletesinaction.org">Craig Sladek</a></h3>
 </div></div>
 {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/Basketball/default.aspx" color="" %}

@@ -1,9 +1,9 @@
 ---
 title: Coaches Forum
-location: Minneapolis, MN
+location: Atlanta, GA
 image: "/uploads/basketball/coachesforumEvent.png"
 permalink: "/basketball/events/finalfour"
-start_date: April 5th, 2019 1pm
+start_date: Coming Soon!
 end_date: ''
 layout: page
 alt_url: ''

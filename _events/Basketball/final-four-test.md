@@ -16,8 +16,8 @@ page_sections:
   type: final four
 location: ''
 image: '/uploads/basketball/finalfourEvents.png'
-location: Minneapolis, MN
-start_date: April 4, 2019
-end_date: April 8, 2019
+location: Atlanta, GA
+start_date: April 2, 2020
+end_date: April 6, 2020
 short_description: "AIA Basketball has various events, highlighted by the Legends of the Hardwood Breakfast at the Men's Final Four. Check out our events by going to the Final Four Events Page below."
 ---

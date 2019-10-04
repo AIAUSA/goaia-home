@@ -7,19 +7,19 @@ menu: basketball
 ---
 ### Athletes in Action Basketball is growing.
 
-Come join our team of 20 staff who are seeking to impact the game of basketball for the good of the game, the growth of its people, to the glory of God. 
+Come join our team as we seek to impact others for the good of the game, the growth of its people, to the glory of God. 
 
 <img class="col-md-6 pull-right" src="/uploads/basketball/IMG_5212.jpeg" />
 
-*In 2017-18 Athletes in Action Basketball:*
+*Annually, Athletes in Action Basketball:*
 
-* Visited 250 collegiate basketball programs to disciple, minister and recruit
-* Sent 9 competing teams of 149 athletes and coaches to 9 countries.
-* Sent coaches to 4 countries for camps and clinics. 
-* Hosted 20 international coaches for a 2-week basketball academy. 
-* Developed 21 DI Captains and emerging leaders at the Captains Academy
-* Invested into 27 coaches at the HBCU Coaches retreat
-* Refreshed hundreds of coaches through Final Four ministry events
+* Visits 250 collegiate basketball programs to disciple, minister and recruit
+* Sends 9 competing teams of 149 athletes and coaches to 9 countries.
+* Sends coaches to 4 countries for camps and clinics. 
+* Hosts 20 international coaches for a 2-week basketball academy. 
+* Develops 21 DI Captains and emerging leaders at the Captains Academy
+* Invests into 27 coaches at the HBCU Coaches retreat
+* Refreshes hundreds of coaches through Final Four ministry events
 
 
 

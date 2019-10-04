@@ -1,9 +1,9 @@
 ---
 title: All-Star Breakfast
-location: Charlotte, NC
+location: Chicago, IL
 image: '/uploads/basketball/all-star-2019.png'
 permalink: https://goaia.org/basketball/events/
-start_date: February 16, 2019
+start_date: Coming Soon
 end_date: ''
 layout: page
 alt_url: 'https://allstarbreakfast.com'

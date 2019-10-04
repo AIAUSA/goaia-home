@@ -12,7 +12,7 @@ menu: basketball
 
 <p>Most fans focus only on the game itself. They see the team in action and you the coach, directing them to another win. What they do not see, nor understand, is the daily commitment and dedication of you, the coach, pouring into your players and staff. We understand. Every year, AIA recruits and leads new teams of coaches and players for pockets of time each summer. It's a challenge to take young people from different programs, backgrounds and racial identities and blend them for the purpose of something bigger than themselves. That purpose is to prepare them for the rest of their lives and to make a difference in the world by sharing the love of Christ as they live. If this purpose resonates with you, take some time to contact Craig Sladek to learn more. Each year God orchestrates unforgettable opportunities to impact young men and women. Find your purpose and grow through Competing Teams, Coaching Clinics, and Player Camps.</p>
 
-<h3>Questions regarding AIA Basketball Coaching Opportunities contact: <a href="mailto:paul.maes@athletesinaction.org">Paul Maes</a></h3>
+<h3>Questions regarding AIA Basketball Coaching Opportunities contact: <a href="mailto:craig.sladek@athletesinaction.org">Craig Sladek</a></h3>
 </div>
 
 
@@ -100,7 +100,7 @@ menu: basketball
 </div>
 <!-- End .panel-heading -->
 <div id="c2pb3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c2ph3">
-<div class="panel-body">We are seeking to send coaches to host 1 week Coaching Clinics to accelerate the local AIA ministry in places such as Nigeria, Honduras, Togo and Guatemala. Please contact <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=paul.maes@athletesinaction.org" target="_blank">Paul Maes </a> for more information.</div>
+<div class="panel-body">We are seeking to send coaches to host 1 week Coaching Clinics to accelerate the local AIA ministry in places such as Nigeria, Honduras, Togo and Guatemala. Please contact <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;tf=1&amp;to=craig.sladek@athletesinaction.org" target="_blank">Craig Sladek </a> for more information.</div>
 <!-- End .panel-body --></div>
 <!-- End .panel-collapse --></div>
 <!-- End .panel --> <!-- End .row -->

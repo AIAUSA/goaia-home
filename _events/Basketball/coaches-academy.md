@@ -3,8 +3,8 @@ title: International Coaches Academy
 location: AIA World Headquarters, Xenia, OH
 image: "/uploads/basketball/coachesacademyEvents.png"
 permalink: "/basketball/events/coachesacademy"
-start_date: November 5th
-end_date: 16, 2018
+start_date: November 3rd
+end_date: 15, 2019
 date: 2018-04-04 00:00:00 +0000
 layout: event-page-blocks
 alt_url: ''
@@ -39,7 +39,7 @@ page_sections:
   block: video-callout
   text: Add to your coaching pedigree!
   byLine: Check out this video recap of Coaches Academy's from the past.
-  video: https://vimeo.com/192685757
+  video: https://www.instagram.com/p/BbsJLmWAzv_/?utm_source=ig_web_copy_link
   image: "/uploads/basketball/academypractice.jpg"
 - template: one-column
   block: one-column
@@ -77,7 +77,7 @@ page_sections:
   - template: text
     block: text
     content: |-
-      November 5th -16th , 2018
+      November 3th -15th , 2019
 
       #### Athletes in Action World Headquarters
 
