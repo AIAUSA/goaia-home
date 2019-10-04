@@ -41,7 +41,7 @@ sliderText: South Africa Project
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><p style="font-weight: bold;">July 11th - 29th, 2019&nbsp;</p>
+<div class="container"><p style="font-weight: bold;">July 10th - 26th, 2020&nbsp;</p>
 <p><em><strong>Please note that all of your application materials must be submitted by March 15.</strong></em></p>
 </div></div></div>
 <div class="row">

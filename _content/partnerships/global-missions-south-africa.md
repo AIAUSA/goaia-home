@@ -1,5 +1,5 @@
 ---
-title: 'Global Missions: Jamaica'
+title: 'Jamaica'
 permalink: "/partnerships/jamaica"
 layout: page-blocks
 social_image: "/uploads/opportunities/partnerships/jamaica_temp.png"
@@ -9,7 +9,7 @@ page_sections:
   one:
   - template: title
     block: title
-    Title: Let God Use You to Make a Powerful Difference in the World
+    Title: Make Difference in the World
   section_title: Main Title
 - template: one-column
   block: one-column
@@ -34,6 +34,7 @@ page_sections:
     text: Use your spring break to change lives in Kingston, Jamica. Immerse yourself
       for one full week to become equipped as a stronger spiritual leader.
     learnmore: "/opportunity/springbreak"
+    learnmoretext: Learn More
     ctalink: https://my.athletesinaction.org/public/forms/spring-break.aspx
     ctatext: Register Today
   two:
@@ -43,19 +44,20 @@ page_sections:
     text: |-
       Spend two weeks in Kingston helping Athletes in Action grow existing campus ministries in Jamaica.
 
-      **Dates:** May 16-29, 2019
+      **Dates:** Coming Soon
     learnmore: "/opportunity/jamaica"
+    learnmoretext: Learn More
     ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Jamaica/default.aspx
     ctatext: Apply Today
   three:
   - template: panel
     block: panel
-    title: STINT
-    text: Experience a Short-term International Assignment (STINT) for a year of expanding
-      God’s Kingdom with athletes in Jamaica.
-    learnmore: "/careers/stint"
-    ctalink: https://apply.cru.org/sessions/new#_=_
-    ctatext: Apply Today
+    title: International Internship
+    text: Invest one or two years of your life as an intern in Jamaica
+    learnmoretext: Interested in taking a vision trip?
+    learnmore: "mailto:chris.schweisthal@athletesinaction.org"
+    ctalink: https://goaia.org/careers/stint
+    ctatext: Learn More
   section_title: Options
 description: ''
 menu: ''

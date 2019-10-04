@@ -22,10 +22,10 @@ sliderText: X-Project
                 <div class="callout-wrapper">
                     <div class="callout-left">
                         <h2 class="callout-title">Ready to join us for a life-changing summer internship?</h2>
-                        <p>Applications for 2019 are being received NOW. Interviews have begun!</p>
+                        <p>Applications for 2020 are being received NOW. Interviews will begin by the end of October!</p>
                         <br />
-                        <p>Deadline for Athletic Training and Sports Performance applications: February 1, 2019</p>
-                        <p>Deadline for ALL other applications: April 1, 2019</p>
+                        <p>Deadline for Athletic Training and Sports Performance applications: February 1, 2020</p>
+                        <p>Deadline for ALL other applications: April 1, 2020</p>
                         <p>(If after April 1st, contact project director at #937-903-8324.)</p>
                     </div>
                 <!-- End .callout-left -->
@@ -47,8 +47,8 @@ sliderText: X-Project
 <div class="row">
 <div class=" span-12 cell">
 <div class="container">
-<p style="font-weight:bolder;">Arrive on May 26, 2019 / Depart on July 27, 2019</p>
-<p>Each intern is expected to raise $2500 to help with the total cost of X Project. Although you are not paid hourly, you will receive a weekly stipend towards gas and other expenses. Housing and most meals are provided. </p>
+<p style="font-weight:bolder;">Arrive late May / Depart late July (specific dates for 2020 TBD)</p>
+<p>Each intern is expected to raise support to help with the total cost of X Project. Goal for 2020 is TBD. Although you are not paid hourly, you will receive a weekly per diem towards gas and other expenses. Housing and most meals are provided. </p>
 <p>Just like other AIA mission projects, we will equip you to invite others to invest in you as you embrace this opportunity to grow professionally, spiritually and personally. Upon being selected for the project, we will provide a support-raising coach.</p>
 <p>Pairs of interns stay with host families who will provide a comfortable place to sleep, good food, and a “home away from home” for the summer.</p>
 </div></div></div>
@@ -91,7 +91,7 @@ sliderText: X-Project
 </div>
 <div class="container">
 <div class="text-center mt20 mb20">
-<a href="https://docs.google.com/document/d/1tvRgbHa4e2aB9dO4TsBMwTZkQMo0qKq30eY08uMsZ1w/edit" class="btn btn-custom no-radius min-width">More details about internship and available positions </a>
+<a href="https://docs.google.com/document/d/1ybPSfQ_wmUaT22M2jraap7EL8p5RZcDuEO_LDl4HzOk/edit?usp=sharing" class="btn btn-custom no-radius min-width">More details about internship and available positions </a>
 </div>
 </div>
 <div class="container">
@@ -105,11 +105,14 @@ sliderText: X-Project
 <div class="container"><div class="callout bordered custom">
 <div class="callout-wrapper">
 <div class="callout-left">
-<h2 class="callout-title">Read our 2018 Team Blog</h2>
-<p class="callout-desc"></p>
+<h2 class="callout-title">Read our 2018 Team Blog <br />
+    and Follow Us on Instagram</h2>
 </div>
 <!-- End .callout-left -->
-<div class="callout-right"><a href="https://goaia.org/opportunity/blog/x-project/" class="btn btn-gray btn-border no-radius min-width">Read</a></div>
+<div class="callout-right">
+    <a href="https://goaia.org/opportunity/blog/x-project/" class="btn btn-gray btn-border no-radius min-width">Blog</a>
+    <a href="https://www.instagram.com/aiaxp" class="btn btn-gray btn-border no-radius min-width">Instagram</a>    
+</div>
 <!-- End .callout-right --></div>
 <!-- End .callout-wrapper --></div>
 </div>

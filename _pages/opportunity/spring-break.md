@@ -35,68 +35,75 @@ sliderText: Go for Spring Break
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<h2 class="title text-center mb30"><span class="light first-color">Trips</span> 2019</h2>
-
 <div class="container"><header class="title-block text-center mb50">
 <h2 class="title-border custom text-uppercase text-center mb20">Where Do You Want to Go?</h2>
 </header>
 <div class="row">
-<div class="col-sm-4">
+<div class="col-sm-6">
 <div class="pricing-table flat"><header>
 <div class="price">Puerto Rico&nbsp;</div>
 </header>
-<h3>March 9th - 30th, 2019</h3>
 <h5></h5>
 <ul class="pricing-list">
 <li><i class="icon-check"></i>Cost $1800, No Passport Required</li>
 <li><i class="icon-check"></i>Airfare included</li>
 <li>There are trips leaving throughout these dates:
 <ul>
-<li>March 9-16, San Juan - <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
-<li>March 9-16, Salinas - <a href="mailto:ryan.mathews@athletesinaction.org">Ryan Mathews</a></li>
-<li>March 16-23, Mayaguez - <a href="mailto:jamie.grow@athletesinaction.org">Jamie Grow</a></li>
-<li>March 22-30, Salinas & Gurabo - <a href="mailto:nick.castelluccio@athletesinaction.org">Nick Castelluccio</a></li>
-<li>March 23-30, San Juan - <a href="mailto:joseph.kleibscheidel@athletesinaction.org">Joe Kleibscheidel</a></li>
+<li>March 8-14- <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
+<li>March 21-28- <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
 </ul>
 </li>
 </ul>
 </div>
 <!-- End .pricing-table --></div>
 <!-- End .col-md-4 -->
-<div class="col-sm-4">
+<div class="col-sm-6">
 <div class="pricing-table flat"><header>
 <div class="price">South Africa&nbsp;</div>
 </header>
-<h3>March 1st - 24th, 2019</h3>
 <h5><em> </em></h5>
-<p class="pricing-desc">Experience Capetown!</p>
 <ul class="pricing-list">
-<li><i class="icon-check"></i>Cost is $3500 and a Passport is required</li>
+<li><i class="icon-check"></i>Cost is $3800, Passport Required</li>
+<li><i class="icon-check"></i>Airfare included</li>
 <li>There are three trips leaving throughout the above dates:
 <ul>
-<li>February 28 - March 10, Cape Town - Sports Performance - <a href="mailto:Lisa.Martin@athletesinaction.org">Lisa Martin</a></li>
-<li>March 1-10, Cape Town - Campus - <a href="mailto:phil.gillespie@athletesinaction.org">Phil Gillespie</a></li>
-<li>March 15-24, Cape Town - Campus - <a href="mailto:john.vampatella@athletesinaction.org">John Vampatella</a></li>
+<li>February 27 - March 8, Cape Town - Campus - <a href="mailto:phil.gillespie@athletesinaction.org">Phil Gillespie</a></li>
+<li>March 7-15, Cape Town - Campus - <a href="mailto:john.vampatella@athletesinaction.org">John Vampatella</a></li>
 </ul>
 </li>
 </ul>
 </div>
 <!-- End .pricing-table --></div>
 <!-- End .col-md-4 -->
-<div class="col-sm-4">
+<div class="col-sm-6">
 <div class="pricing-table flat"><header>
 <div class="price">Jamaica&nbsp;</div>
 </header>
-<h3>TBD</h3>
 <p class="pricing-desc"></p>
 <ul class="pricing-list">
 <li><i class="icon-check"></i>Cost $1800, Passport Required</li>
 <li><i class="icon-check"></i>Airfare included</li>
 <li>There are trips leaving throughout these dates:
 <ul>
-<li>March 16-23, Kingston - <a href="mailto:jacob.douglas@athletesinaction.org">Jacob Douglas</a></li>
-<li>March 23-30, Kingston - <a href="mailto:peter.gonzalez@athletesinaction.org">Peter Gonzalez</a></li>
-<li>March 23-30, Kingston - <a href="mailto:nathan.buxman@athletesinaction.org">Nathan Buxman</a></li>
+<li>Dates coming soon!</li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- End .pricing-table --></div>
+<!-- End .col-md-4 -->
+
+<div class="col-sm-6">
+<div class="pricing-table flat"><header>
+<div class="price">East Asia&nbsp;</div>
+</header>
+<p class="pricing-desc"></p>
+<ul class="pricing-list">
+<li><i class="icon-check"></i>Cost TBD, Passport Required</li>
+<li><i class="icon-check"></i>Airfare included</li>
+<li>There are trips leaving throughout these dates:
+<ul>
+<li>March 20-29 - <a href="mailto:stephen.schull@athletesinaction.org">Stephen Schull</a></li>
 </ul>
 </li>
 </ul>

@@ -20,7 +20,7 @@ page_sections:
 
       Join us for two weeks in Kingston, Jamaica at the University of West Indies!
 
-      **Dates:** May 16 - 30
+      **Dates:** Coming Soon
 
       **Cost:** $2900
 

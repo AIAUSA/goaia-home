@@ -1,5 +1,5 @@
 ---
-title: 'Global Missions: Puerto Rico'
+title: 'Puerto Rico'
 permalink: "/partnerships/puertorico"
 layout: page-blocks
 social_image: "/uploads/opportunities/partnerships/Postcards%20V33.jpg"
@@ -9,7 +9,7 @@ page_sections:
   one:
   - template: title
     block: title
-    Title: Let God Use You to Make a Powerful Difference in the World
+    Title: Make Difference in the World
   section_title: Main Title
 - template: one-column
   block: one-column
@@ -34,6 +34,7 @@ page_sections:
     text: Use your spring break to change lives throughout Puerto Rico. Immerse yourself
       for one full week to become equipped as a stronger spiritual leader.
     learnmore: "/opportunity/springbreak"
+    learnmoretext: Learn More
     ctalink: https://my.athletesinaction.org/public/forms/spring-break.aspx
     ctatext: Register Today
   two:
@@ -43,19 +44,20 @@ page_sections:
     text: |-
       Spend two weeks in Puerto Rico helping Athletes in Action grow the existing sport ministry presence.
 
-      **Dates:** May 22 - June 6, 2019
+      **Dates:** May 24 - June 7, 2020
+    learnmoretext: Learn More
     learnmore: http://www.extremechallengepuertorico.com/
     ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Puerto-Rico/default.aspx
     ctatext: Apply Today
   three:
   - template: panel
     block: panel
-    title: STINT
-    text: Experience a Short-term International Assignment (STINT) for a year of expanding
-      God’s Kingdom with athletes in Puerto Rico.
-    learnmore: "/careers/stint"
-    ctalink: https://apply.cru.org/sessions/new#_=_
-    ctatext: Apply Today
+    title: International Internship
+    text: Invest one or two years of your life as an intern in Puerto Rico
+    learnmoretext: Interested in taking a vision trip?
+    learnmore: "mailto:chris.schweisthal@athletesinaction.org"
+    ctalink: https://goaia.org/careers/stint
+    ctatext: Learn More
   section_title: Options
 description: ''
 menu: ''

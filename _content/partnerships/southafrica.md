@@ -1,5 +1,5 @@
 ---
-title: 'Global Missions: South Africa'
+title: 'South Africa'
 permalink: "/partnerships/southafrica"
 layout: page-blocks
 social_image: "/uploads/opportunities/partnerships/Postcards%20V3.jpg"
@@ -9,7 +9,7 @@ page_sections:
   one:
   - template: title
     block: title
-    Title: Let God Use You to Make a Powerful Difference in the World
+    Title: Make Difference in the World
   section_title: Main Title
 - template: video
   block: video
@@ -29,6 +29,7 @@ page_sections:
     title: Spring Break
     text: Use your spring break to change lives in Cape Town, South Africa. Immerse
       yourself for one full week to become equipped as a stronger spiritual leader.
+    learnmoretext: Learn More
     learnmore: "/opportunity/springbreak"
     ctalink: https://my.athletesinaction.org/public/forms/spring-break.aspx
     ctatext: Register Today
@@ -39,19 +40,20 @@ page_sections:
     text: |-
       Spend two weeks in Cape Town helping Athletes in Action grow existing campus ministries in South Africa.
 
-      **Dates:** July 11th - 29th, 2019
+      **Dates:** July 10th - 26th, 2020
+    learnmoretext: Learn More
     learnmore: "/opportunity/south-africa-project"
     ctalink: https://my.athletesinaction.org/Applications/Tour/South-Africa-Project/default.aspx
     ctatext: Apply Today
   three:
   - template: panel
     block: panel
-    title: STINT
-    text: Experience a Short-term International Assignment (STINT) for a year of expanding
-      God’s Kingdom with athletes in South Africa.
-    learnmore: "/careers/stint"
-    ctalink: https://apply.cru.org/sessions/new#_=_
-    ctatext: Apply Today
+    title: International Internship
+    text: Invest one or two years of your life as an intern in Capetown, South Africa
+    learnmoretext: Interested in taking a vision trip?
+    learnmore: "mailto:chris.schweisthal@athletesinaction.org"
+    ctalink: https://goaia.org/careers/stint
+    ctatext: Learn More
   section_title: Options
 description: ''
 menu: ''
