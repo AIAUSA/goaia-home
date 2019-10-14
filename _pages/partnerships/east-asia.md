@@ -42,13 +42,7 @@ page_sections:
     block: panel
     title: Summer Project
     text: |-
-      Spend two weeks in East Asia helping Athletes in Action grow existing campus ministries.
-
-      **Dates:** Coming Soon
-    learnmore: "/opportunity/east-asia"
-    learnmoretext: Learn More
-    ctalink: https://my.athletesinaction.org/Applications/Tour/East-Asia-Project/default.aspx
-    ctatext: Apply Today
+      No Project this year
   three:
   - template: panel
     block: panel
