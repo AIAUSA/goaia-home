@@ -1,7 +1,7 @@
 ---
 layout: page-blocks
-title: 'International Internship'
-description: Opportunity Abroad
+title: International Internship
+description: Opportunities Abroad
 permalink: "/careers/internationintern"
 social_image: ''
 menu: ''
@@ -13,69 +13,56 @@ page_sections:
   one:
   - template: title
     block: title
-    Title: Invest one year of your life internationally with Athletes in Action in East Asia, Jamaica, Puerto Rico, or South Africa.
+    Title: Invest one year of your life internationally with Athletes in Action in
+      East Asia, Jamaica, Puerto Rico, or South Africa.
   section_title: Main Title
 - template: two-columns
   block: two-columns
   one:
   - template: text
     block: text
-    content: "As an international intern you will…
-* Learn how to develop a deep relationship with God
-* Serve as part of a team on mission
-* Learn an entirely new culture
-* Build new ministry skills you’ll use for a lifetime
-
-Apply by March 1, 2020
-
-International Internship dates - August 1, 2020 to July 1, 2021
-"
+    content: "As an international intern you will… * Learn how to develop a deep relationship
+      with God * Serve as part of a team on mission * Learn an entirely new culture
+      * Build new ministry skills you’ll use for a lifetime\nApply by March 1, 2020\nInternational
+      Internship dates - August 1, 2020 to July 1, 2021 "
   two:
   - template: image
     block: image
     image: "/uploads/2019/02/19/rawpixel-741662-unsplash.jpg"
-  section_title: Image
+  section_title: Left Text / Right Image
+  right:
+  - template: image
+    block: image
+    image: "/uploads/2019/10/15/Screen Shot 2018-12-18 at 12.16.43 PM.png"
+  left:
+  - template: text
+    block: text
+    content: |-
+      As an international intern you will…
+
+      * Learn how to develop a deep relationship with God
+      * Serve as part of a team on mission
+      * Learn an entirely new culture
+      * Build new ministry skills you’ll use for a lifetime
+
+      Apply by March 1, 2020
+
+      International Internship dates - August 1, 2020 to July 1, 2020
 - template: one-column
   block: one-column
   one:
-  - template: text
-    block: text
-    content: "#### How to Participate"
-  section_title: How to Participate
-- template: three-columns
-  block: three-columns
-  one:
-  - template: panel
-    block: panel
-    title: Spring Break
-    text: Use your spring break to change lives in Kingston, Jamica. Immerse yourself
-      for one full week to become equipped as a stronger spiritual leader.
-    learnmore: "/opportunity/springbreak"
-    learnmoretext: Learn More
-    ctalink: https://my.athletesinaction.org/public/forms/spring-break.aspx
-    ctatext: Register Today
-  two:
-  - template: panel
-    block: panel
-    title: Summer Project
-    text: |-
-      Spend two weeks in Kingston helping Athletes in Action grow existing campus ministries in Jamaica.
-
-      **Dates:** Coming Soon
-    learnmore: "/opportunity/jamaica"
-    learnmoretext: Learn More
-    ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Jamaica/default.aspx
-    ctatext: Apply Today
-  three:
-  - template: panel
-    block: panel
-    title: International Internship
-    text: Invest one or two years of your life as an intern in Jamaica
-    learnmoretext: Interested in taking a vision trip?
-    learnmore: "mailto:chris.schweisthal@athletesinaction.org"
-    ctalink: https://goaia.org/careers/stint
-    ctatext: Learn More
-  section_title: Options
-date: 2019-02-26 14:34:45 +0000
+  - template: cta
+    block: cta
+    text: 'Have Questions?   '
+    subtext: We're available to discuss and walk you through the process at any point.
+    link: mailto:intlmissions@athletesinaction.org
+  section_title: Contact Us
+- template: video-callout
+  block: video-callout
+  text: Why do participate on an International Internship?
+  byLine: Listen to an intern share his story?
+  video: https://drive.google.com/file/d/0B09KKfRP1KJFclA5MVdqVXFhbnc/view?usp=sharing
+  color: white
+date: '2019-02-26T14:34:45.000+00:00'
 
 ---
