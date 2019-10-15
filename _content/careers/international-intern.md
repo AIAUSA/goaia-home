@@ -15,8 +15,8 @@ page_sections:
     block: title
     Title: Invest one year of your life internationally with Athletes in Action in East Asia, Jamaica, Puerto Rico, or South Africa.
   section_title: Main Title
-- template: two-column
-  block: two-column
+- template: two-columns
+  block: two-columns
   one:
   - template: text
     block: text
