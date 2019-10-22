@@ -2,7 +2,7 @@
 title: Portugal Men's and Women's Tour
 director: Zach Blaine and Amanda Smith
 director_email: soccer@athletesinaction.org
-dates: May 12-29, 2019
+dates: May 12-29, 2020
 layout: page
 sport: soccer
 date: 2019-10-21 04:00:00 +0000
