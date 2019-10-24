@@ -5,12 +5,12 @@ title: Tuff Camp
 permalink: "/track/event/tuff"
 location: Hope College (Holland, MI)
 image: "/uploads/track/tuffcampevent.png"
-start_date: July 7th
-end_date: "- 12th, 2019"
+start_date: July 5th
+end_date: "- 10th, 2020"
 short_description: 'Training in 3-D is what TUFF Camps are all about. TUFF Camp staff
   and trainers are committed to helping each participant grow in all three aspects
   of their performance: physical, mental and spiritual.'
-date: 2019-04-09 04:00:00 +0000
+date: 2019-04-09T04:00:00.000+00:00
 hide_title: false
 page_sections:
 - template: one-column
@@ -19,6 +19,8 @@ page_sections:
   - template: title
     block: title
     Title: About
+    Subtitle: ''
+    color: ''
   - template: text
     block: text
     content: "  \nTraining in 3-D is what TUFF Camps are all about. TUFF Camp staff
@@ -30,6 +32,8 @@ page_sections:
       country. In addition to excellent workouts and clinics, you’ll enjoy post-workout
       soaks in Lake Michigan, cookouts at the beach, unique entertainment and competing
       in the very modern pentathlon."
+    centered: false
+  section_title: ''
 - template: video-callout
   block: video-callout
   text: Training U Farther & Faster
@@ -43,6 +47,8 @@ page_sections:
   - template: title
     block: title
     Title: Schedule
+    Subtitle: ''
+    color: ''
   - template: text
     block: text
     content: "**Morning and Afternoon Workouts** - runs along Lake Michigan, wooded
@@ -57,6 +63,9 @@ page_sections:
   - template: title
     block: title
     Title: Logistics
+    Subtitle: ''
+    color: ''
+  section_title: ''
 - template: two-columns
   block: two-columns
   left:
@@ -78,10 +87,12 @@ page_sections:
       **Camp Fees Include:** Housing in college dorm, all meals, biomechanical analysis, personalized training, t-shirt, notebook, Christian atmosphere, goal-setting, teamwork, and much more!
 
       For More Information, [download our brochure](/uploads/track/TUFFbrochure2019.pdf).
+    centered: false
   right:
   - template: image
     block: image
     image: "/uploads/track/tuff1.jpg"
+  section_title: ''
 - template: registration-call-to-action
   block: registration-callout
   color: dark
