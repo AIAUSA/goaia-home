@@ -33,7 +33,7 @@ page_sections:
   right:
   - template: image
     block: image
-    image: "/uploads/2019/10/15/Screen Shot 2018-12-18 at 12.16.43 PM.png"
+    image: "/uploads/2019/10/24/IMG_2832.JPG"
   left:
   - template: text
     block: text
@@ -65,7 +65,7 @@ page_sections:
   one:
   - template: cta
     block: cta
-    text: 'More Questions? Check out the FAQ.'
+    text: More Questions? Check out the FAQ.
     subtext: 
     link: https://docs.google.com/document/d/1vxeBA3vtATselE3NOx5jGulhbhs1tC3RP7p7xCPwp9U/export?format=pdf
   section_title: FAQ
