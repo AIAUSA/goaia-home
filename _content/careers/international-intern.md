@@ -2,7 +2,7 @@
 layout: page-blocks
 title: International Internship
 description: Opportunities Abroad
-permalink: "/careers/internationintern"
+permalink: "/career/internationalinternship"
 social_image: ''
 menu: ''
 sliderText: Test
@@ -23,8 +23,8 @@ page_sections:
     block: text
     content: "As an international intern you will… * Learn how to develop a deep relationship
       with God * Serve as part of a team on mission * Learn an entirely new culture
-      * Build new ministry skills you’ll use for a lifetime\nApply by March 1, 2020\nInternational
-      Internship dates - August 1, 2020 to July 1, 2021 "
+      * Build new ministry skills you’ll use for a lifetime\nApply by March 1\nInternational
+      Internship dates - August 1 to July 1 "
   two:
   - template: image
     block: image
@@ -57,12 +57,18 @@ page_sections:
     subtext: We're available to discuss and walk you through the process at any point.
     link: mailto:intlmissions@athletesinaction.org
   section_title: Contact Us
-- template: video-callout
-  block: video-callout
-  text: Why do participate on an International Internship?
-  byLine: Listen to an intern share his story?
-  video: https://drive.google.com/file/d/0B09KKfRP1KJFclA5MVdqVXFhbnc/view?usp=sharing
-  color: white
+- template: video
+  block: video
+  link: https://www.youtube.com/watch/KwREBfI4HNE
+- template: one-column
+  block: one-column
+  one:
+  - template: cta
+    block: cta
+    text: 'More Questions? Check out the FAQ.'
+    subtext: 
+    link: https://docs.google.com/document/d/1vxeBA3vtATselE3NOx5jGulhbhs1tC3RP7p7xCPwp9U/export?format=pdf
+  section_title: FAQ
 date: '2019-02-26T14:34:45.000+00:00'
 
 ---

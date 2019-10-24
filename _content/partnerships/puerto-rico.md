@@ -46,7 +46,7 @@ page_sections:
 
       **Dates:** May 24 - June 7, 2020
     learnmoretext: Learn More
-    learnmore: http://www.extremechallengepuertorico.com/
+    learnmore: /opportunity/puerto-rico
     ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Puerto-Rico/default.aspx
     ctatext: Apply Today
   three:

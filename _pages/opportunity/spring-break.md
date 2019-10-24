@@ -50,10 +50,11 @@ sliderText: Go for Spring Break
 <li>There are trips leaving throughout these dates:
 <ul>
 <li>March 8-14- <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
-<li>March 21-28- <a href="mailto:mindy.heflin@athletesinaction.org">Mindy Heflin</a></li>
+<li>March 21-28- <a href="mailto:joe.kleibschedel@athletesinaction.org">Joe Kleibschedel</a></li>
 </ul>
 </li>
 </ul>
+<a href="#register" class="btn visible-xs">Register</a>
 </div>
 <!-- End .pricing-table --></div>
 <!-- End .col-md-4 -->
@@ -72,6 +73,7 @@ sliderText: Go for Spring Break
 </ul>
 </li>
 </ul>
+<a href="#register" class="btn visible-xs">Register</a>
 </div>
 <!-- End .pricing-table --></div>
 <!-- End .col-md-4 -->
@@ -89,6 +91,7 @@ sliderText: Go for Spring Break
 </ul>
 </li>
 </ul>
+<a href="#register" class="btn visible-xs">Register</a>
 </div>
 <!-- End .pricing-table --></div>
 <!-- End .col-md-4 -->
@@ -107,9 +110,10 @@ sliderText: Go for Spring Break
 </ul>
 </li>
 </ul>
+<a href="#register" class="btn visible-xs">Register</a>
 </div>
 <!-- End .pricing-table --></div>
 <!-- End .col-md-4 --></div>
 </div></div></div>
-
+<div id="register">&nbsp;</div>
 {% include plugins/registration-callout.html iFrameURL="https://my.athletesinaction.org/public/forms/spring-break.aspx" color="dark" %}
