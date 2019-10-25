@@ -1,0 +1,38 @@
+---
+label: Survey Call To Action
+hide_body: true
+fields:
+- type: text
+  hidden: true
+  label: block
+  name: block
+  default: survey
+- type: text
+  name: Title
+  label: Main Text
+  description: H2 Tag
+  config:
+    required: true
+- type: text
+  name: byLine
+  label: Sub-Text
+  description: H4 Tag
+- type: text
+  name: btnText
+  label: Button Action Text
+  description: H4 Tag
+- type: select
+  name: color
+  config:
+    source:
+      type: simple
+    options:
+    - light
+    - dark
+  label: Color
+- type: text
+  name: iFrameURL
+  label: iFrame Embed Code
+  description: Link to the application
+  config:
+    required: true

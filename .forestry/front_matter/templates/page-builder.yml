@@ -57,6 +57,7 @@ fields:
   - alumni
   - quote-rotator
   - registration-call-to-action
+  - survey
 pages:
 - _content/partnerships/puerto-rico.md
 - _content/partnerships/global-missions-south-africa.md
