@@ -51,9 +51,9 @@ page_sections:
       * Learn an entirely new culture
       * Build new ministry skills you’ll use for a lifetime
 
-      Apply by March 1, 2020
+      Apply by March 1
 
-      International Internship dates - August 1, 2020 to July 1, 2020
+      International Internship dates - August 1 to July 1
 - template: one-column
   block: one-column
   one:
