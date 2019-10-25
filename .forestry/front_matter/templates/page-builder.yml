@@ -56,6 +56,7 @@ fields:
   - video-callout
   - alumni
   - quote-rotator
+  - registration-call-to-action
 pages:
 - _content/partnerships/puerto-rico.md
 - _content/partnerships/global-missions-south-africa.md
