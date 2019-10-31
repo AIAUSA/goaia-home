@@ -13,4 +13,4 @@ location: Omaha, Nebraska
 ---
 Have you been involved with **Athletes In Action Swimming** through an AIA Swim Project, International Swim Tour, Swim Camp, Swimmers’ Chapel, or by supporting AIA swimmers or staff?
 
-Then [**CLICK HERE**](https://docs.google.com/forms/d/1Jasw1ZnVbNMi6E3s5lRl4kKrMiPmK3J-kPVrjo5Mnm0/viewform?userstoinvite=andy.garrett@athletesinaction.org&ts=5cb626b7) to register for the **AIA SWIMMING REUNION** as we celebrate 40+ years of ministry during the 2020 US Olympic Trials in Omaha, Nebraska!!
+Then [**CLICK HERE**](https://my.athletesinaction.org/public/forms/conference.aspx?EventID=2056) to register for the **AIA SWIMMING REUNION** as we celebrate 40+ years of ministry during the 2020 US Olympic Trials in Omaha, Nebraska!!

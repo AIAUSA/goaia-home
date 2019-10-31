@@ -15,4 +15,4 @@ location: ''
 * Are you finished with your collegiate eligibility or swimming unattached?
 * Then proclaim your faith by registering as a member of the “Athletes In Action” swim team!
 
-[**CLICK HERE**](https://docs.google.com/forms/d/1AexDjjIg9pSgFuM4n4Un5tPuAZ5HxZJlSJzeha8FXQM/viewform)  for more information about the AIA Swim Team.
+[**CLICK HERE**](https://my.athletesinaction.org/Applications/Tour/Swimming/default.aspx)  for more information about the AIA Swim Team.
