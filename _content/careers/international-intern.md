@@ -2,7 +2,7 @@
 layout: page-blocks
 title: International Internship
 description: Opportunities Abroad
-permalink: "/career/internationalinternship"
+permalink: "/careers/internationalinternship"
 social_image: ''
 menu: ''
 sliderText: Test
@@ -11,10 +11,11 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: title
-    block: title
-    Title: Invest one year of your life internationally with Athletes in Action in
-      East Asia, Jamaica, Puerto Rico, or South Africa.
+  - template: text
+    block: text
+    content: |-
+      # Invest one year of your life internationally with Athletes in Action in
+      ## East Asia, Jamaica, Puerto Rico, or South Africa.
   section_title: Main Title
 - template: survey
   block: survey
@@ -56,8 +57,6 @@ page_sections:
       Apply by March 1
 
       International Internship dates - August 1 to July 1
-
-      # Test
 - template: one-column
   block: one-column
   one:

@@ -9,7 +9,7 @@ page_sections:
   one:
   - template: title
     block: title
-    Title: Make Difference in the World
+    Title: Make a Difference in the World
   section_title: Main Title
 - template: one-column
   block: one-column
