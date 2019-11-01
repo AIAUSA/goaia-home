@@ -74,7 +74,7 @@ page_sections:
     content: |-
       **Location:** Hope College (Holland, MI)
 
-      **Dates:** July 7th - 12th, 2019
+      **Dates:** July 5th - 10th, 2020
 
       **Events:** Co-ed High School Cross Country
 
