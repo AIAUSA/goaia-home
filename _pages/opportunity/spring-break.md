@@ -87,7 +87,8 @@ sliderText: Go for Spring Break
 <li><i class="icon-check"></i>Airfare included</li>
 <li>There are trips leaving throughout these dates:
 <ul>
-<li>Dates coming soon!</li>
+<li>March 22 - 29, Campus - <a href="mailto:chris.davis@athletesinaction.org">Chris Davis</a></li>
+<li>March 29 - April 5, Campus - <a href="mailto:chris.davis@athletesinaction.org">Chris Davis</a></li>
 </ul>
 </li>
 </ul>
