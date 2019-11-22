@@ -69,6 +69,15 @@ page_sections:
 - template: video
   block: video
   link: https://www.youtube.com/watch/KwREBfI4HNE
+- template: one-column
+  block: one-column
+  one:
+  - template: cta
+    block: cta
+    text: More Questions? Check out the FAQ.
+    subtext:
+    link: https://docs.google.com/document/d/1vxeBA3vtATselE3NOx5jGulhbhs1tC3RP7p7xCPwp9U/export?format=pdf
+  section_title: FAQ
 date: '2019-02-26T14:34:45.000+00:00'
 
 ---
