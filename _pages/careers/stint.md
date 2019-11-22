@@ -1,6 +1,6 @@
 ---
 title: Careers - STINT
-permalink: "/careers/stint"
+permalink: "/careers/internationalinternship"
 layout: careers
 ---
 

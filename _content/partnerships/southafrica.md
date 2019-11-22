@@ -52,7 +52,7 @@ page_sections:
     text: Invest one or two years of your life as an intern in Capetown, South Africa
     learnmoretext: Interested in taking a vision trip?
     learnmore: "mailto:chris.schweisthal@athletesinaction.org"
-    ctalink: https://goaia.org/careers/stint
+    ctalink: https://goaia.org/careers/internationalinternship
     ctatext: Learn More
   section_title: Options
 description: ''
