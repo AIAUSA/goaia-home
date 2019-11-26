@@ -14,8 +14,7 @@ page_sections:
   one:
   - template: text
     block: text
-    content: |2-
-
+    content: |-
       ## Extreme Challenge Puerto Rico
 
       Join us for two weeks in Puerto Rico!
@@ -38,7 +37,7 @@ page_sections:
 
       **Internship:** For an even greater leadership development experience, consider applying to serve as an intern on Extreme Challenge Puerto Rico. We will have a total of **10 internship positions available.** Go to the register page to apply as an intern. **NOTE:** You must have attended AIA's Ultimate Training Camp, a past Extreme Challenge Puerto Rico, or another AIA summer opportunity to be considered for an internship. **_Interns are required to arrive two days earlier._**
 
-      [Apply Now](https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Jamaica/default.aspx)
-date: 2019-02-26 14:34:45 +0000
+      [Apply Now](https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Puerto-Rico/default.aspx)
+date: '2019-02-26T14:34:45.000+00:00'
 
 ---
