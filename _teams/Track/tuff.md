@@ -1,6 +1,6 @@
 ---
 title: Tuff Camp (Staff)
-director: Tim Ellis
+director: " Tim Ellis"
 director_email: tim.ellis@athletesinaction.org
 dates: " Michigan  July 2-10, 2020"
 layout: page
