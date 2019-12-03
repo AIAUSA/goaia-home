@@ -2,7 +2,7 @@
 title: Switzerland
 director: Tim Ellis
 director_email: tim.ellis@athletesinaction.org
-dates: July 12th - 26th, 2020
+dates: " July 12th - 26th, 2020"
 layout: page
 sport: track
 date: 2019-04-15T04:00:00.000+00:00
