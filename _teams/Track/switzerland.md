@@ -1,6 +1,6 @@
 ---
 title: Togo
-director: Mason Blevins
+director: " Mason Blevins"
 director_email: mason.blevins@athletesinaction.org
 dates: " July 2020 TBD"
 layout: page
