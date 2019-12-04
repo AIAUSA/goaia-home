@@ -66,6 +66,7 @@ fields:
   - alumni
   - quote-rotator
 pages:
+- _content/aia-swimming-1.md
 - _content/opportunity/global-missions-jamaica.md
 - _content/aia-swimming.md
 - _content/aia-volleyball.md
