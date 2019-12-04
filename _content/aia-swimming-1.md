@@ -11,14 +11,14 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text-w-right-image
-    block: text-with-right-image
-    text: Looking for a transforming team building experience? The Athletes in Action
-      Challenge Course focuses on the fundamental tools needed to successfully work
-      within a team setting. Whether it’s teamwork, trust, communication, leadership
+  - template: text
+    block: text
+    content: Looking for a transforming team building experience? The Athletes in
+      Action Challenge Course focuses on the fundamental tools needed to successfully
+      work within a team setting. Whether it’s teamwork, trust, communication, leadership
       or conflict resolution we will design customized programs to pinpoint and improve
       weaknesses as well as encourage strengths.
-    image: "/uploads/2019/12/04/20170831_153406.jpg"
+    centered: false
   section_title: Overview Text
 - template: one-column
   block: one-column
@@ -40,7 +40,7 @@ page_sections:
 
       Team Building Low Element Course _{link to section header}_
 
-       Portable Team Building _{link to section header}_
+      Portable Team Building _{link to section header}_
     centered: false
   section_title: Overview Options
 - template: one-column
@@ -85,9 +85,9 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text-w-left-image
-    block: text-with-left-image
-    text: |-
+  - template: text
+    block: text
+    content: |-
       Equipped with
 
       15 Challenging elements of varying difficulty
@@ -99,7 +99,7 @@ page_sections:
       25ft Power pole* (optional add-on component}
 
       Details _{linked PDF}_
-    image: "/uploads/2019/12/04/IMG_8542.jpg"
+    centered: false
   section_title: High Ropes Details
 - template: one-column
   block: one-column
@@ -134,10 +134,9 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text-w-right-image
-    block: text-with-right-image
-    image: "/uploads/2019/12/04/IMG_1994.jpg"
-    text: |-
+  - template: text
+    block: text
+    content: |-
       8 Permanent Course Elements
 
       100s of other customized initiatives, activities and problem-solving games.
@@ -145,6 +144,7 @@ page_sections:
       Combine with our High Ropes Course for the perfect team building experience.
 
       Details {_linked PDF}_
+    centered: false
   section_title: Low Element Details
 - template: one-column
   block: one-column
@@ -177,13 +177,13 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text-w-left-image
-    block: text-with-left-image
-    image: "/uploads/2019/12/04/IMG_2374.jpg"
-    text: |-
+  - template: text
+    block: text
+    content: |-
       We have 100s of customizable initiatives, activities and problem-solving games that we can bring almost anywhere. If you’re unable to bring your team to us then allow us to come to you. Our portable team building program allows more flexibility for you and your team. (needs better description)
 
       Details link {_linked PDF}_
+    centered: false
   section_title: Portable Details
 - template: one-column
   block: one-column
@@ -201,11 +201,11 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text-w-right-image
-    block: text-with-right-image
-    image: "/uploads/2019/12/04/IMG_1573-X2.jpg"
-    text: 'Complete this inquiry form {link} to work with the Athletes in Action Challenge
-      Course Team to design your custom experience. '
+  - template: text
+    block: text
+    content: Complete this inquiry form {link} to work with the Athletes in Action
+      Challenge Course Team to design your custom experience.
+    centered: false
   section_title: inquiry
 - template: social-callout
   block: social-callout
@@ -221,6 +221,8 @@ page_sections:
   - template: text
     block: text
     content: |-
+      **Contact Us**
+
       Phone: 937-352-1234
 
       Email: challengecourse@athletesinaction.org
