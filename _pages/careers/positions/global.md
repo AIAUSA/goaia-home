@@ -1,6 +1,6 @@
 ---
 title: Careers - Global
-permalink: "/careers/position/global"
+permalink: "/careers/positions/global"
 layout: careers
 ---
 
