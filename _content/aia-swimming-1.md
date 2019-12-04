@@ -1,10 +1,10 @@
 ---
 layout: sport-page-blocks
-title: AIA Swimming
-permalink: "/swimming"
+title: Team Building
+permalink: "/teambuilding"
 social_image: ''
 menu: ''
-sliderText: AIA Swimming
+sliderText: Challenge Course
 sliderImages:
 - "/uploads/1992 Josh Davis MV Nationals A.jpg"
 page_sections:
@@ -12,16 +12,18 @@ page_sections:
   block: custom-heading
   black: About
   red: AIA Swimming
+  byLine: ''
 - template: one-column
   block: one-column
   one:
   - template: text-w-right-image
     block: text-with-right-image
-    text: |-
-      Since 1979 Athletes In Action Swimming has sought to impact the world of competitive aquatic sports through developing athletes’ God-given potential, building biblical character into lives, touching hearts cross-culturally, and sharing with others the life-changing message of love, hope and forgiveness found in Jesus Christ.
-
-      Summer mission projects, international sports/mission tours, swimmers’ chapels, age-group summer swim camps, elite training camps, evangelistic swim clinics and personal discipleship are some of the ways AIA Swimming has impacted the world of competitive swimming over the last 40+ years.
-    image: "/uploads/1990 Steven Hurst.jpg"
+    text: Looking for a transforming team building experience? The Athletes in Action
+      Challenge Course focuses on the fundamental tools needed to successfully work
+      within a team setting. Whether it’s teamwork, trust, communication, leadership
+      or conflict resolution we will design customized programs to pinpoint and improve
+      weaknesses as well as encourage strengths.
+    image: "/uploads/2019/12/04/20170831_153406.jpg"
   section_title: About Text
 - template: social-callout
   block: social-callout
@@ -35,13 +37,16 @@ page_sections:
   block: custom-heading
   black: Get
   red: Involved
+  byLine: ''
 - template: project-details
   block: project-details
   type: swimming
+  order: ''
 - template: custom-heading
   block: custom-heading
   red: History
   black: AIA Swimming
+  byLine: ''
 - template: one-column
   block: one-column
   one:
@@ -75,6 +80,9 @@ page_sections:
       ![](/uploads/1980 Mike Bottom AIA Olympian.jpg)
 
       Mike Bottom qualified for the 1980 U.S. Olympic Team in the 100 M Butterfly, currently serves as the Head Swim Coach at the University of Michigan, and was a member of the 2016 U.S. Olympic coaching staff.
+    learnmore: ''
+    ctalink: ''
+    ctatext: ''
   two:
   - template: panel
     block: panel
@@ -83,6 +91,9 @@ page_sections:
       ![](/uploads/1987 Darmstadt Bent Brast.jpg)
 
       Bent Brask (1976 Norwegian Olympian and national record-holder in the 100 M Butterfly), served on the staff of Athletes In Action and represented AIA internationally in Europe.
+    learnmore: ''
+    ctalink: ''
+    ctatext: ''
   three:
   - template: panel
     block: panel
@@ -91,11 +102,15 @@ page_sections:
       ![](/uploads/Josh Davis medals.jpeg)
 
       Josh Davis represented Athletes In Action for six years, winning individual and relay national championships, garnishing three gold medals at the 1996 Olympics, setting the American Record in the 200 M Freestyle three times, and winning two silver medals at the 2000 Olympic Games.
+    learnmore: ''
+    ctalink: ''
+    ctatext: ''
   section_title: Milestones
 - template: custom-heading
   block: custom-heading
   black: Alumni
   red: Endorsements
+  byLine: ''
 - template: alumni
   block: alumni
   quotes:
