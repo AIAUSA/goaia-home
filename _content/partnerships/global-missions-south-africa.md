@@ -44,7 +44,7 @@ page_sections:
     text: |-
       Spend two weeks in Kingston helping Athletes in Action grow existing campus ministries in Jamaica.
 
-      **Dates:** Coming Soon
+      **Dates:** May 18 - June 1
     learnmore: "/opportunity/jamaica"
     learnmoretext: Learn More
     ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Jamaica/default.aspx
