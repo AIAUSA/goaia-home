@@ -62,7 +62,7 @@ published: false
 
 <p>Join us for two weeks in Kingston, Jamaica at the University of West Indies!</p>
 
-<p><span style="font-weight: bold">Dates:</span> May 16 - 30</p>
+<p><span style="font-weight: bold">Dates:</span> May 18 - June 1</p>
 <p><span style="font-weight: bold">Cost: $2900</span></p>
 <ul>
 <li>The $2900 covers food, housing, materials, airfare, in country transportation, and all other costs associated with ECJ.  We will coach you on how to raise the money for this trip.  Our ECJ staff or your local AIA staff will help you. </li>
