@@ -32,7 +32,7 @@ menu: basketball
 </div></div>
 {% include plugins/image-callout.html image="/uploads/basketball/mo-coaching.jpg" text="What's a AIA Basketball Tour Like?" byLine="Check out this video recap from an AIA Basketball tour to the Philippines. <br />Want to join us this summer?" url="https://www.youtube.com/watch?v=evqlr_0AIzc" linkText="Watch Now" %}
 
-<!-- <div class="row mt20">
+<div class="row mt20">
 <div class="span-12 cell"><div class="container">
 <div class="col-md-4">
     <h2>Men's Tours</h2>
@@ -45,10 +45,10 @@ menu: basketball
                 </div>
                 <div id="c1pb{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c1ph{{forloop.index}}" aria-expanded="false" style="height: 0px;">
                     <div class="panel-body">
-                        <strong>Level:</strong> {{ post.level }}<br>
-                        <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
-                        <strong>Dates:</strong>{{ post.dates }} <br>
-                        <strong>About:</strong>{{ post.content }}
+                        <!-- <strong>Level:</strong> {{ post.level }}<br> -->
+                        <strong>Director: </strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
+                        <strong>Dates: </strong>{{ post.dates }} <br>
+                        <strong>About: </strong>{{ post.content }}
                     </div>
                 </div>
             </div>
@@ -66,10 +66,10 @@ menu: basketball
                 </div>
                 <div id="c2pb{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c2ph{{forloop.index}}" aria-expanded="false" style="height: 0px;">
                     <div class="panel-body">
-                        <strong>Level:</strong> {{ post.level }}<br>
-                        <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
-                        <strong>Dates:</strong>{{ post.dates }} <br>
-                        <strong>About:</strong>{{ post.content }}
+                        <!-- <strong>Level:</strong> {{ post.level }}<br> -->
+                        <strong>Director: </strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
+                        <strong>Dates: </strong>{{ post.dates }} <br>
+                        <strong>About: </strong>{{ post.content }}
                     </div>
                 </div>
             </div>
@@ -88,7 +88,7 @@ menu: basketball
                 </div>
                 <div id="c3pb{{forloop.index}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="c3ph{{forloop.index}}" aria-expanded="false" style="height: 0px;">
                     <div class="panel-body">
-                        <strong>Level:</strong> {{ post.level }}<br>
+                        <!-- <strong>Level:</strong> {{ post.level }}<br> -->
                         <strong>Director:</strong><a href="mailto:{{ post.director_email }}" target="_blank">{{ post.director }}</a> <br> 
                         <strong>Dates:</strong>{{ post.dates }} <br>
                         <strong>About:</strong>{{ post.content }}
@@ -99,10 +99,9 @@ menu: basketball
     </div>
 </div>
 </div>
-</div></div> -->
+</div></div>
 <div class="row">
 <div class="span-12 cell"><div class="container text-center">
-<h3> 2020 Dates/Locations Coming Soon!</h3>
 <h3> For questions regarding AIA Basketball International Tours contact: <a href="mailto:Craig.Sladek@athletesinaction.org">Craig Sladek</a></h3>
 </div></div>
 {% include plugins/application-callout.html appLink="https://my.athletesinaction.org/Applications/Tour/Basketball/default.aspx" color="" %}
