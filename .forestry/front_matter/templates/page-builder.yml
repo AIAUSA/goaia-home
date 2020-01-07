@@ -59,8 +59,8 @@ fields:
   - registration-call-to-action
   - survey
 pages:
-- _content/partnerships/southafrica.md
-- _content/partnerships/puerto-rico.md
-- _content/partnerships/global-missions-south-africa.md
-- _content/pro-soccer-chaplaincy.md
 - _content/opportunity/x-project.md
+- _content/partnerships/global-missions-south-africa.md
+- _content/partnerships/puerto-rico.md
+- _content/partnerships/southafrica.md
+- _content/pro-soccer-chaplaincy.md
