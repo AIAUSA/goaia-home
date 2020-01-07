@@ -27,7 +27,7 @@ sliderText: South Africa Project
 </div></div>
 <hr class="container">
 
-<div class="container"><p><span><img alt="" src="/uploads/opportunities/southafrica/SAP_8.png" class="img-responsive pull-right col-md-4">&nbsp;&nbsp;&nbsp;The South Africa Project Is a two-week international project that will help Athletes in Action to launch and grow existing campus ministries in Cape Town. You will also have the opportunity to grow and launch campus ministry to other student athletes through outreach at the University of Cape Town and Cape Peninsula University of Technology. During your two weeks you will also learn the Biblical principles for athletic competition and be challenged and equipped to grow in your relationship with God while you receive training in how to share Christ with others. This training will provide you with the skills you need to minister cross-culturally and be more effective in reaching your own campus for Christ. If you are ready for a life-changing experience this summer then South Africa is waiting for you!</span></p>
+<div class="container"><p><span><img alt="" src="/uploads/opportunities/southafrica/SAP_8.png" class="img-responsive pull-right col-md-4">The South Africa Project Is a two-week international project in Cape Town. While there you will have the opportunity to grow and launch campus ministries at the University of Western Cape, the University of Cape Town and Stellenbosch University. During your two weeks you will participate in the Ultimate Training Camp where you will learn the Biblical principles for athletic competition and be challenged and equipped to grow in your relationship with God as you receive training in how to share Christ with others. This training will provide you with the skills you need to minister cross-culturally and be more effective in reaching your own campus for Christ. If you are ready for a life-changing experience this summer, then South Africa is waiting for you!</span></p>
 </div>
 <div class="mb35 mb20-xs"></div>
 <!-- space -->
@@ -41,7 +41,7 @@ sliderText: South Africa Project
 </div></div>
 <div class="row">
 <div class=" span-12 cell">
-<div class="container"><p style="font-weight: bold;">July 10th - 26th, 2020&nbsp;</p>
+<div class="container"><p style="font-weight: bold;">July 9th - 24th, 2020&nbsp;</p>
 <p><em><strong>Please note that all of your application materials must be submitted by March 15.</strong></em></p>
 </div></div></div>
 <div class="row">

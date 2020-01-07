@@ -47,7 +47,7 @@ sliderText: X-Project
 <div class="row">
 <div class=" span-12 cell">
 <div class="container">
-<p style="font-weight:bolder;">Arrive late May / Depart late July (specific dates for 2020 TBD)</p>
+<p style="font-weight:bolder;">May 22 through July 25, 2020</p>
 <p>Each intern is expected to raise support to help with the total cost of X Project. Goal for 2020 is TBD. Although you are not paid hourly, you will receive a weekly per diem towards gas and other expenses. Housing and most meals are provided. </p>
 <p>Just like other AIA mission projects, we will equip you to invite others to invest in you as you embrace this opportunity to grow professionally, spiritually and personally. Upon being selected for the project, we will provide a support-raising coach.</p>
 <p>Pairs of interns stay with host families who will provide a comfortable place to sleep, good food, and a “home away from home” for the summer.</p>
