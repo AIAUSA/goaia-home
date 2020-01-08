@@ -58,14 +58,6 @@ layout: page
 <!-- End .member-container -->
 <div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/creech.jpg" alt="" class="img-responsive img-circle"></figure>
-<h3>Randy Creech</h3>
-<p class="member-desc">Former CEO of Akey Corporation</p>
-<!-- End .social-icons --></div>
-<!-- End .team-member --></div>
-<!-- End .member-container -->
-<div class="col-md-3 col-xs-6 team-member-container">
-<div class="team-member text-center">
 <figure><img src="/uploads/About/BoardofTrustees/jackson.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Kenya Jackson</h3>
 <p class="p1">Corporate VP Pharmacy &amp; Retail Operations, Walgreens</p>
@@ -77,14 +69,6 @@ layout: page
 <figure><img src="/uploads/About/BoardofTrustees/mclendon.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Jeff Mclendon</h3>
 <p class="member-desc">President and COO, US Lumber</p>
-<!-- End .social-icons --></div>
-<!-- End .team-member --></div>
-<!-- End .member-container -->
-<div class="col-md-3 col-xs-6 team-member-container">
-<div class="team-member text-center">
-<figure><img src="/uploads/About/BoardofTrustees/mims.jpg" alt="" class="img-responsive img-circle"></figure>
-<h3>Dr. Madeline Mims</h3>
-<p class="member-desc">Four-time Olympian, Gold &amp; Silver Medalist, Singer, Speaker, Chaplain, Ambassador</p>
 <!-- End .social-icons --></div>
 <!-- End .team-member --></div>
 <!-- End .member-container -->
