@@ -83,12 +83,12 @@ sliderText: Go for Spring Break
 </header>
 <p class="pricing-desc"></p>
 <ul class="pricing-list">
-<li><i class="icon-check"></i>Cost $1800, Passport Required</li>
+<li><i class="icon-check"></i>Cost $2200, Passport Required</li>
 <li><i class="icon-check"></i>Airfare included</li>
 <li>There are trips leaving throughout these dates:
 <ul>
-<li>March 22 - 29, Campus - <a href="mailto:chris.davis@athletesinaction.org">Chris Davis</a></li>
-<li>March 29 - April 5, Campus - <a href="mailto:chris.davis@athletesinaction.org">Chris Davis</a></li>
+<li>March 22 - 29, Campus - <a href="mailto:mike.elsner@athletesinaction.org">Mike Elsner</a></li>
+<li>March 29 - April 5, Campus - <a href="mailto:peter.gonzalez@athletesinaction.org">Peter Gonzalez</a></li>
 </ul>
 </li>
 </ul>
