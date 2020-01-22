@@ -23,25 +23,32 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: text
-    block: text
-    content: Book Now
-    centered: true
-  section_title: Book Now
-- template: one-column
-  block: one-column
-  one:
+  - template: cta
+    block: cta
+    link: "#request+a"
+    text: Book Now
   - template: text
     block: text
     content: |-
       With many options we can cater to the needs and desires of your group to help them reach new levels of teamwork.
-
-      High Ropes Challenge Course _{link to section header}_
-
-      Team Building Low Element Course _{link to section header}_
-
-      Portable Team Building _{link to section header}_
-    centered: false
+  section_title: Book Now
+- template: three-columns
+  block: three-columns
+  one:
+  - template: cta
+    block: cta
+    link: "#high+ropes+"
+    text: High Ropes Course
+  two:
+  - template: cta
+    block: cta
+    link: "#team+building"
+    text: Low Ropes Course
+  three:
+  - template: cta
+    block: cta
+    link: "#portable"
+    text: Portable Elements
   section_title: Overview Options
 - template: one-column
   block: one-column
@@ -51,97 +58,77 @@ page_sections:
     content: Get the Team Building Starter Kit {subscribe box}
     centered: true
   section_title: Starter Kit
-- template: one-column
-  block: one-column
-  one:
-  - template: image
-    block: image
-    image: "/uploads/2019/12/04/IMG_8463.jpg"
-  section_title: Image High Ropes 1
 - template: custom-heading
   block: custom-heading
   black: 'High Ropes '
   red: Challenge Course
   byLine: ''
-- template: one-column
-  block: one-column
-  one:
+- template: two-columns
+  block: two-columns
+  right:
+  - template: image
+    block: image
+    image: "/uploads/2019/12/04/IMG_8463.jpg"
+  left:
   - template: text
     block: text
     content: The ultimate bonding experience for your team. Build trust, conquer fear
       and increase confidence on our double-decker high ropes course. Designed to
       draw participants out of their comfort zone and encourage on another towards
       growth.
+
+
+      <b>Equipped with:</b>
+
+
+      15 Challenging elements of varying difficulty
+
+
+      375 ft zip line
+
+
+      25 ft. Giant swing and
+
+
+      25ft Power pole* (optional add-on component}
+
+
+      Details _{linked PDF}_
     centered: false
   section_title: High Ropes Description
 - template: one-column
   block: one-column
   one:
-  - template: text
-    block: text
-    content: Book Now
-    centered: true
+  - template: cta
+    block: cta
+    link: "#request+a"
+    text: Book Now
   section_title: Book Now
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    content: |-
-      Equipped with
-
-      15 Challenging elements of varying difficulty
-
-      375 ft zip line
-
-      25 ft. Giant swing and
-
-      25ft Power pole* (optional add-on component}
-
-      Details _{linked PDF}_
-    centered: false
-  section_title: High Ropes Details
-- template: one-column
-  block: one-column
-  one:
-  - template: image
-    block: image
-    image: "/uploads/2019/12/04/IMG 1234 .jpg"
-  section_title: Low Element Image 1
 - template: custom-heading
   block: custom-heading
   black: Team Building
   red: Low Element Course
   byLine: ''
-- template: one-column
-  block: one-column
-  one:
+- template: two-columns
+  block: two-columns
+  left:
+  - template: image
+    block: image
+    image: "/uploads/2019/12/04/IMG 1234 .jpg"
+  right:
   - template: text
     block: text
     content: Through a series of intentionally designed problem-solving activities
       our low element course will help your team increase communication, build trust,
       overcome conflict, develop leadership, grow in resilience and establish culture.
-    centered: false
-  section_title: Low Element Details
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    content: Book Now
-    centered: true
-  section_title: Book Now
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    content: |-
       8 Permanent Course Elements
+
 
       100s of other customized initiatives, activities and problem-solving games.
 
+
       Combine with our High Ropes Course for the perfect team building experience.
+
 
       Details {_linked PDF}_
     centered: false
@@ -149,34 +136,24 @@ page_sections:
 - template: one-column
   block: one-column
   one:
-  - template: image
-    block: image
-    image: "/uploads/2019/12/04/IMG_2232.jpg"
-  section_title: Portable Image 1
+  - template: cta
+    block: cta
+    link: "#request+a"
+    text: Book Now
+  section_title: Book Now
 - template: custom-heading
   block: custom-heading
   red: Team Building
   black: Portable
   byLine: ''
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    content: Want us to come to you?
-    centered: false
-  section_title: come to you
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    centered: true
-    content: Book Now
-  section_title: Book Now
-- template: one-column
-  block: one-column
-  one:
+- template: two-columns
+  block: two-columns
+  right:
+  - template: image
+    block: image
+    image: "/uploads/2019/12/04/IMG_2232.jpg"
+  section_title: Portable Image 1
+  left:
   - template: text
     block: text
     content: |-
@@ -184,7 +161,6 @@ page_sections:
 
       Details link {_linked PDF}_
     centered: false
-  section_title: Portable Details
 - template: one-column
   block: one-column
   one:
