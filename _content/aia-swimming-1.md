@@ -27,10 +27,12 @@ page_sections:
     block: cta
     link: "#request+a"
     text: Book Now
+    subtext: ''
   - template: text
     block: text
-    content: |-
-      With many options we can cater to the needs and desires of your group to help them reach new levels of teamwork.
+    content: With many options we can cater to the needs and desires of your group
+      to help them reach new levels of teamwork.
+    centered: false
   section_title: Book Now
 - template: three-columns
   block: three-columns
@@ -39,25 +41,20 @@ page_sections:
     block: cta
     link: "#high+ropes+"
     text: High Ropes Course
+    subtext: ''
   two:
   - template: cta
     block: cta
     link: "#team+building"
     text: Low Ropes Course
+    subtext: ''
   three:
   - template: cta
     block: cta
     link: "#portable"
     text: Portable Elements
+    subtext: ''
   section_title: Overview Options
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    content: Get the Team Building Starter Kit {subscribe box}
-    centered: true
-  section_title: Starter Kit
 - template: custom-heading
   block: custom-heading
   black: 'High Ropes '
@@ -72,28 +69,20 @@ page_sections:
   left:
   - template: text
     block: text
-    content: The ultimate bonding experience for your team. Build trust, conquer fear
-      and increase confidence on our double-decker high ropes course. Designed to
-      draw participants out of their comfort zone and encourage on another towards
-      growth.
-
+    content: |-
+      The ultimate bonding experience for your team. Build trust, conquer fear and increase confidence on our double-decker high ropes course. Designed to draw participants out of their comfort zone and encourage on another towards growth.
 
       <b>Equipped with:</b>
 
-
       15 Challenging elements of varying difficulty
-
 
       375 ft zip line
 
-
       25 ft. Giant swing and
-
 
       25ft Power pole* (optional add-on component}
 
-
-      Details _{linked PDF}_
+      [Details](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
     centered: false
   section_title: High Ropes Description
 - template: one-column
@@ -103,6 +92,7 @@ page_sections:
     block: cta
     link: "#request+a"
     text: Book Now
+    subtext: ''
   section_title: Book Now
 - template: custom-heading
   block: custom-heading
@@ -118,19 +108,14 @@ page_sections:
   right:
   - template: text
     block: text
-    content: Through a series of intentionally designed problem-solving activities
-      our low element course will help your team increase communication, build trust,
-      overcome conflict, develop leadership, grow in resilience and establish culture.
-      8 Permanent Course Elements
-
+    content: |-
+      Through a series of intentionally designed problem-solving activities our low element course will help your team increase communication, build trust, overcome conflict, develop leadership, grow in resilience and establish culture. 8 Permanent Course Elements
 
       100s of other customized initiatives, activities and problem-solving games.
 
-
       Combine with our High Ropes Course for the perfect team building experience.
 
-
-      Details {_linked PDF}_
+      [Details](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
     centered: false
   section_title: Low Element Details
 - template: one-column
@@ -140,6 +125,7 @@ page_sections:
     block: cta
     link: "#request+a"
     text: Book Now
+    subtext: ''
   section_title: Book Now
 - template: custom-heading
   block: custom-heading
@@ -159,16 +145,8 @@ page_sections:
     content: |-
       We have 100s of customizable initiatives, activities and problem-solving games that we can bring almost anywhere. If you’re unable to bring your team to us then allow us to come to you. Our portable team building program allows more flexibility for you and your team. (needs better description)
 
-      Details link {_linked PDF}_
+      [More Details](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
     centered: false
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    centered: true
-    content: Get the Team Building Starter Kit _{subscribe box}_
-  section_title: starter kit
 - template: custom-heading
   block: custom-heading
   black: Request a
