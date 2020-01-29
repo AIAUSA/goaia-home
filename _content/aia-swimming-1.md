@@ -109,14 +109,12 @@ page_sections:
   right:
   - template: text
     block: text
-    content: |-
-      Through a series of intentionally designed problem-solving activities our low element course will help your team increase communication, build trust, overcome conflict, develop leadership, grow in resilience and establish culture. 8 Permanent Course Elements
-
-      100s of other customized initiatives, activities and problem-solving games.
-
-      Combine with our High Ropes Course for the perfect team building experience.
-
-      [Details](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
+    content: "Through a series of intentionally designed problem-solving activities
+      our low element course will help your team increase communication, build trust,
+      overcome conflict, develop leadership, grow in resilience and establish culture.
+      \n\n8 Permanent Course Elements\n\n100s of other customized initiatives, activities
+      and problem-solving games.\n\nCombine with our High Ropes Course for the perfect
+      team building experience.\n\nClick For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)"
     centered: false
   section_title: Low Element Details
 - template: one-column
