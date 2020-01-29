@@ -167,10 +167,10 @@ page_sections:
   section_title: inquiry
 - template: social-callout
   block: social-callout
-  facebook: https://www.facebook.com/athletesinaction
+  facebook: https://www.facebook.com/aiasportscomplex
   twitter: https://twitter.com/aiausa
   YouTube: https://www.youtube.com/user/aiausa
-  instagram: https://instagram.com/athletesinaction
+  instagram: https://instagram.com/aia_sports_complex
   email: challengecourse@athletesinaction.org
   image: "/uploads/2019/12/04/IMG_2116.jpg"
 - template: one-column
