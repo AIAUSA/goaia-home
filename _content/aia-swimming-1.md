@@ -31,8 +31,8 @@ page_sections:
     subtext: ''
   - template: text
     block: text
-    content: With many options we can cater to the needs and desires of your group
-      to help them reach new levels of teamwork.
+    content: "##### With many options we can cater to the needs and desires of your
+      group to help them reach new levels of teamwork."
     centered: false
   section_title: Book Now
 - template: three-columns
@@ -83,7 +83,7 @@ page_sections:
 
       25ft Power pole* (optional add-on component}
 
-      [Details](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
+      Click For: [Details & Pricing]()
     centered: false
   section_title: High Ropes Description
 - template: one-column
