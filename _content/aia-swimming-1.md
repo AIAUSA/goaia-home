@@ -141,10 +141,10 @@ page_sections:
   left:
   - template: text
     block: text
-    content: |-
-      We have 100s of customizable initiatives, activities and problem-solving games that we can bring almost anywhere. If you’re unable to bring your team to us then allow us to come to you. Our portable team building program allows more flexibility for you and your team. (needs better description)
-
-      [More Details](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
+    content: "We have 100s of customizable initiatives, activities and problem-solving
+      games that we can bring almost anywhere. If you’re unable to bring your team
+      to us then allow us to come to you. Our portable team building program allows
+      more flexibility for you and your team. \n\nClick For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)"
     centered: false
 - template: custom-heading
   block: custom-heading
