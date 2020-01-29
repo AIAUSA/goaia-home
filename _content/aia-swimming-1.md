@@ -154,10 +154,15 @@ page_sections:
 - template: one-column
   block: one-column
   one:
+  - template: cta
+    block: cta
+    text: Book Now
+    link: x
+    subtext: ''
   - template: text
     block: text
-    content: Complete this inquiry form {link} to work with the Athletes in Action
-      Challenge Course Team to design your custom experience.
+    content: "#### Complete this inquiry form {link} to work with the Athletes in
+      Action Challenge Course Team to design your custom experience."
     centered: false
   section_title: inquiry
 - template: social-callout
