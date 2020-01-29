@@ -6,6 +6,7 @@ social_image: ''
 menu: ''
 sliderText: Challenge Course
 sliderImages:
+- "/uploads/2020/01/29/Website Header.jpg"
 - "/uploads/2019/12/04/IMG_2471.jpg"
 page_sections:
 - template: one-column
@@ -13,11 +14,11 @@ page_sections:
   one:
   - template: text
     block: text
-    content: Looking for a transforming team building experience? The Athletes in
-      Action Challenge Course focuses on the fundamental tools needed to successfully
+    content: "##### Looking for a transforming team building experience? The Athletes
+      in Action Challenge Course focuses on the fundamental tools needed to successfully
       work within a team setting. Whether it’s teamwork, trust, communication, leadership
       or conflict resolution we will design customized programs to pinpoint and improve
-      weaknesses as well as encourage strengths.
+      weaknesses as well as encourage strengths."
     centered: false
   section_title: Overview Text
 - template: one-column
