@@ -78,6 +78,7 @@ sliderText: X-Project
 <li>Video Production</li>
 <li>Challenge Course Facilitating</li>
 <li>Writing</li>
+<li> Sports Information</li>
 </ul></div>
 <div class="col-md-6">
 <ul>
@@ -87,7 +88,7 @@ sliderText: X-Project
 <li>Athletic Training</li>
 <li>Website Design & Management</li>
 <li>Sports Performance</li>
-<li>Culinary Arts, Sports Information</li>
+<li>Culinary Arts</li>
 </ul></div>
 </div>
 <div class="container">
