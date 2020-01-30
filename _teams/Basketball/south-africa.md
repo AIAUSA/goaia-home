@@ -1,5 +1,5 @@
 ---
-title: South Africa, Zimbabwe
+title: South Africa
 level:  Division I & II
 director: Mike Sigfrids
 director_email: mike.sigfrids@athletesinaction.org

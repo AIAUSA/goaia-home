@@ -22,7 +22,7 @@ sliderText: X-Project
                 <div class="callout-wrapper">
                     <div class="callout-left">
                         <h2 class="callout-title">Ready to join us for a life-changing summer internship?</h2>
-                        <p>Applications for 2020 are being received NOW. Interviews will begin by the end of October!</p>
+                        <p>Applications for 2020 are being received NOW. Interviews are taking place.</p>
                         <br />
                         <p>Deadline for Athletic Training and Sports Performance applications: February 1, 2020</p>
                         <p>Deadline for ALL other applications: April 1, 2020</p>
@@ -48,7 +48,7 @@ sliderText: X-Project
 <div class=" span-12 cell">
 <div class="container">
 <p style="font-weight:bolder;">May 22 through July 25, 2020</p>
-<p>Each intern is expected to raise support to help with the total cost of X Project. Goal for 2020 is TBD. Although you are not paid hourly, you will receive a weekly per diem towards gas and other expenses. Housing and most meals are provided. </p>
+<p>Each intern is expected to raise $2700 support to help with the total cost of X Project. Housing and most meals are provided.</p>
 <p>Just like other AIA mission projects, we will equip you to invite others to invest in you as you embrace this opportunity to grow professionally, spiritually and personally. Upon being selected for the project, we will provide a support-raising coach.</p>
 <p>Pairs of interns stay with host families who will provide a comfortable place to sleep, good food, and a “home away from home” for the summer.</p>
 </div></div></div>
@@ -87,6 +87,7 @@ sliderText: X-Project
 <li>Athletic Training</li>
 <li>Website Design & Management</li>
 <li>Sports Performance</li>
+<li>Culinary Arts, Sports Information</li>
 </ul></div>
 </div>
 <div class="container">
