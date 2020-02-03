@@ -56,6 +56,13 @@ page_sections:
     text: Portable Elements
     subtext: ''
   section_title: Overview Options
+- template: signup
+  block: signup
+  black: 'Get the '
+  red: 'Team Building Starter Kit'
+  campaign-form: a0799c35-06ee-42c4-951c-45d9843f6d44
+  success-text: "Thank You for Downloading the Team Building Starter Kit"
+  success-link: https://drive.google.com/a/cru.org/file/d/14y2KfKIeqsZh8vjO8P4WK3e6MMqmzmY3/view?usp=sharing
 - template: custom-heading
   block: custom-heading
   black: 'High Ropes '

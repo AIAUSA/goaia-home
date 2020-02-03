@@ -1,0 +1,42 @@
+<div class="callout" data-bgattach="{{ section.image }}" style="background-image: url('{{section.image}}');">
+    <div class="overlay"></div>
+    <!-- end .overlay -->
+    <div class="mb20"></div>
+    <!-- space -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-push-2">
+                <h2 class="title text-center mb30">{{section.black}} <span class="light first-color">{{section.red}}</span></h2>
+                <div class="mb20"></div>
+            <!-- space -->
+                <div class="row mt" style="text-align: center;">
+                    <div class="campaign-form">
+                        <div class="alert alert-danger hidden" role="alert">An issue has occurred. Please try again or contact website administrator.</div>
+                        <form class="" action="https://campaign-forms.cru.org/forms" method="post">
+                          <input type="hidden" name="id" value="{{section.campaign-form}}"/>
+                          <div class="col-md-3">
+                            <div class="form-group">
+                                <input id="cf_first_name_386" class="form-control" type="text" name="first_name" placeholder="First Name" >
+                            </div>
+                          </div>
+                          <div class="col-md-3">
+                            <div class="form-group">
+                                <input id="cf_last_name_387" class="form-control" type="text" name="last_name" placeholder="Last Name" >
+                            </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="form-group">
+                                    <input id="cf_email_address_388" class="form-control" type="email" name="email_address" placeholder="Email" required>
+                                </div>
+                            </div>
+                            <div class="col-md-2">
+                            <button type="submit" class="btn btn-custom" >Subscribe</button>
+                            </div>
+                        </form>
+                        <div class="alert alert-success hidden" role="alert"><div><strong><a href="{{section.success-link}}">{{section.success-text}}</a></strong></div></div>
+                    </div>
+                </div><!-- End .social-icons -->
+            </div><!-- End .col-md-8 -->
+        </div><!-- End .row -->
+    </div><!-- End .container -->
+</div>

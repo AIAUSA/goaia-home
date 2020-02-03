@@ -1,0 +1,32 @@
+---
+label: Signup Box
+hide_body: false
+fields:
+- type: text
+  label: block
+  name: block
+  hidden: true
+  config:
+    required: true
+  default: signup
+- type: text
+  name: black
+  label: Black Text
+- type: text
+  name: red
+  label: Red Text
+- type: text
+  name: campaign-form
+  label: Campaign Form ID
+  description: This will come from Digital when they create the form
+  config:
+    required: true
+- type: text
+  name: success-text
+  label: Success Text
+  description: What is displayed once someone subscribes
+  default: Thank you for subscribing.
+- type: text
+  name: success-link
+  label: Success Link
+  description: A link if something should be offered after signing up.
