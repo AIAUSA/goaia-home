@@ -88,19 +88,19 @@ page_sections:
   - template: text
     block: text
     content: |-
-      The ultimate bonding experience for your team. Build trust, conquer fear and increase confidence on our double-decker high ropes course. Designed to draw participants out of their comfort zone and encourage on another towards growth.
+      #### The ultimate bonding experience for your team. Build trust, conquer fear and increase confidence on our double-decker high ropes course. Designed to draw participants out of their comfort zone and encourage on another towards growth.
 
-      <b>Equipped with:</b>
+      #### <b>Equipped with:</b>
 
-      15 Challenging elements of varying difficulty
+      #### 15 Challenging elements of varying difficulty
 
-      375 ft zip line
+      #### 375 ft zip line
 
-      25 ft. Giant swing and
+      #### 25 ft. Giant swing and
 
-      25ft Power pole* (optional add-on component}
+      #### 25ft Power pole* (optional add-on component}
 
-      Click For: [Details & Pricing]()
+      #### Click For: [Details & Pricing]()
     centered: false
   section_title: High Ropes Description
 - template: three-columns
@@ -129,12 +129,16 @@ page_sections:
   right:
   - template: text
     block: text
-    content: "Through a series of intentionally designed problem-solving activities
-      our low element course will help your team increase communication, build trust,
-      overcome conflict, develop leadership, grow in resilience and establish culture.
-      \n\n8 Permanent Course Elements\n\n100s of other customized initiatives, activities
-      and problem-solving games.\n\nCombine with our High Ropes Course for the perfect
-      team building experience.\n\nClick For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)"
+    content: |-
+      #### Through a series of intentionally designed problem-solving activities our low element course will help your team increase communication, build trust, overcome conflict, develop leadership, grow in resilience and establish culture.
+
+      #### 8 Permanent Course Elements
+
+      #### 100s of other customized initiatives, activities and problem-solving games.
+
+      #### Combine with our High Ropes Course for the perfect team building experience.
+
+      #### Click For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
     centered: false
   section_title: Low Element Details
 - template: three-columns
@@ -164,10 +168,10 @@ page_sections:
   left:
   - template: text
     block: text
-    content: "We have 100s of customizable initiatives, activities and problem-solving
-      games that we can bring almost anywhere. If you’re unable to bring your team
-      to us then allow us to come to you. Our portable team building program allows
-      more flexibility for you and your team. \n\nClick For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)"
+    content: |-
+      #### We have 100s of customizable initiatives, activities and problem-solving games that we can bring almost anywhere. If you’re unable to bring your team to us then allow us to come to you. Our portable team building program allows more flexibility for you and your team.
+
+      #### Click For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
     centered: false
 - template: custom-heading
   block: custom-heading
@@ -191,8 +195,8 @@ page_sections:
   one:
   - template: text
     block: text
-    content: "#### Complete this inquiry form {link} to work with the Athletes in
-      Action Challenge Course Team to design your custom experience."
+    content: "#### Click the above button to work with the Athletes in Action Challenge
+      Course Team to design your custom experience."
     centered: false
   section_title: inquiry
 - template: social-callout
@@ -209,15 +213,15 @@ page_sections:
   - template: text
     block: text
     content: |-
-      **Contact Us**
+      #### **Contact Us**
 
-      Phone: 937-352-1234
+      #### Phone: 937-352-1234
 
-      Email: challengecourse@athletesinaction.org
+      #### Email: challengecourse@athletesinaction.org
 
-      Address: 1197 S. Detroit Street Xenia, OH 45385
+      #### Address: 1197 S. Detroit Street Xenia, OH 45385
 
-      Staff: Skylar Reckers & Brandon Howard
+      #### Staff: Skylar Reckers & Brandon Howard
     centered: false
   section_title: contact details
 date: '2019-02-22T15:18:55.000+00:00'
