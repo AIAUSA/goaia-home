@@ -21,14 +21,19 @@ page_sections:
       weaknesses as well as encourage strengths."
     centered: false
   section_title: Overview Text
-- template: one-column
-  block: one-column
-  one:
+- template: three-columns
+  block: three-columns
+  two:
   - template: cta
     block: cta
     link: "#request+a"
     text: Book Now
     subtext: ''
+    dark: true
+  section_title: Book Now Button
+- template: one-column
+  block: one-column
+  one:
   - template: text
     block: text
     content: "##### With many options we can cater to the needs and desires of your
@@ -93,15 +98,16 @@ page_sections:
       Click For: [Details & Pricing]()
     centered: false
   section_title: High Ropes Description
-- template: one-column
-  block: one-column
-  one:
+- template: three-columns
+  block: three-columns
+  two:
   - template: cta
     block: cta
     link: "#request+a"
     text: Book Now
     subtext: ''
-  section_title: Book Now
+    dark: true
+  section_title: Book Now Button
 - template: custom-heading
   block: custom-heading
   black: Team Building
@@ -124,15 +130,16 @@ page_sections:
       team building experience.\n\nClick For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)"
     centered: false
   section_title: Low Element Details
-- template: one-column
-  block: one-column
-  one:
+- template: three-columns
+  block: three-columns
+  two:
   - template: cta
     block: cta
     link: "#request+a"
     text: Book Now
     subtext: ''
-  section_title: Book Now
+    dark: true
+  section_title: Book Now Button
 - template: custom-heading
   block: custom-heading
   red: Team Building
@@ -158,14 +165,19 @@ page_sections:
   black: Request a
   red: Reservation
   byLine: ''
+- template: three-columns
+  block: three-columns
+  two:
+  - template: cta
+    block: cta
+    link: "#request+a"
+    text: Book Now
+    subtext: ''
+    dark: true
+  section_title: Book Now Button
 - template: one-column
   block: one-column
   one:
-  - template: cta
-    block: cta
-    text: Book Now
-    link: x
-    subtext: ''
   - template: text
     block: text
     content: "#### Complete this inquiry form {link} to work with the Athletes in

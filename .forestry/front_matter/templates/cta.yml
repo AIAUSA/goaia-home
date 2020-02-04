@@ -22,3 +22,6 @@ fields:
 - type: text
   name: subtext
   label: extra description
+- name: dark
+  label: Make the Button Dark (black)
+  type: boolean
