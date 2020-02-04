@@ -38,7 +38,7 @@ page_sections:
   one:
   - template: text
     block: text
-    content: "##### With many options we can cater to the needs and desires of your
+    content: "#### With many options we can cater to the needs and desires of your
       group to help them reach new levels of teamwork."
     centered: false
   section_title: Book Now
