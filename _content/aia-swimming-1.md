@@ -14,11 +14,11 @@ page_sections:
   one:
   - template: text
     block: text
-    content: "##### Looking for a transforming team building experience? The Athletes
+    content: "#### Looking for a transforming team building experience? The Athletes
       in Action Challenge Course focuses on the fundamental tools needed to successfully
-      work within a team setting. Whether it’s teamwork, trust, communication, leadership
-      or conflict resolution we will design customized programs to pinpoint and improve
-      weaknesses as well as encourage strengths."
+      work within a team setting. \n\n#### Whether it’s teamwork, trust, communication,
+      leadership or conflict resolution we will design customized programs to pinpoint
+      and improve weaknesses as well as encourage strengths."
     centered: false
   section_title: Overview Text
 - template: three-columns
@@ -31,6 +31,8 @@ page_sections:
     subtext: ''
     dark: true
   section_title: Book Now Button
+  one: []
+  three: []
 - template: one-column
   block: one-column
   one:
@@ -48,25 +50,28 @@ page_sections:
     link: "#high+ropes+"
     text: High Ropes Course
     subtext: ''
+    dark: false
   two:
   - template: cta
     block: cta
     link: "#team+building"
     text: Low Ropes Course
     subtext: ''
+    dark: false
   three:
   - template: cta
     block: cta
     link: "#portable"
     text: Portable Elements
     subtext: ''
+    dark: false
   section_title: Overview Options
 - template: signup
   block: signup
   black: 'Get the '
-  red: 'Team Building Starter Kit'
+  red: Team Building Starter Kit
   campaign-form: a0799c35-06ee-42c4-951c-45d9843f6d44
-  success-text: "Thank You for Downloading the Team Building Starter Kit"
+  success-text: Thank You for Downloading the Team Building Starter Kit
   success-link: https://drive.google.com/a/cru.org/file/d/14y2KfKIeqsZh8vjO8P4WK3e6MMqmzmY3/view?usp=sharing
 - template: custom-heading
   block: custom-heading
@@ -108,6 +113,8 @@ page_sections:
     subtext: ''
     dark: true
   section_title: Book Now Button
+  one: []
+  three: []
 - template: custom-heading
   block: custom-heading
   black: Team Building
@@ -140,6 +147,8 @@ page_sections:
     subtext: ''
     dark: true
   section_title: Book Now Button
+  one: []
+  three: []
 - template: custom-heading
   block: custom-heading
   red: Team Building
@@ -175,6 +184,8 @@ page_sections:
     subtext: ''
     dark: true
   section_title: Book Now Button
+  one: []
+  three: []
 - template: one-column
   block: one-column
   one:
