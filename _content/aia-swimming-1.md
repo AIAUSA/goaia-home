@@ -195,8 +195,9 @@ page_sections:
   one:
   - template: text
     block: text
-    content: "#### Click the above button to work with the Athletes in Action Challenge
-      Course Team to design your custom experience."
+    content: "#### [Click this link](https://drive.google.com/open?id=13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU)
+      to complete an inquiry form where you can  work with the Athletes in Action
+      Challenge Course Team to design your custom experience."
     centered: false
   section_title: inquiry
 - template: social-callout
