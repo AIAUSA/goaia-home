@@ -2,7 +2,7 @@
 title: Estonia
 director: " AIA Track"
 director_email: track@athletesinaction.org
-dates: June 2020
+dates: June 15th - July 5th
 layout: page
 sport: track
 date: 2019-10-24T04:00:00.000+00:00
