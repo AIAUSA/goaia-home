@@ -100,7 +100,7 @@ page_sections:
 
       #### 25ft Power pole* (optional add-on component}
 
-      #### Click For: [Details & Pricing]()
+      #### Click For: [Details & Pricing](https://drive.google.com/open?id=1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz)
     centered: false
   section_title: High Ropes Description
 - template: three-columns
