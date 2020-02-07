@@ -2,7 +2,7 @@
 title: Togo
 director: " Mason Blevins"
 director_email: mason.blevins@athletesinaction.org
-dates: " July 2020 TBD"
+dates: " June 28th  - July 15th"
 layout: page
 sport: track
 date: 2019-04-15T04:00:00.000+00:00
