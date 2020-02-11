@@ -71,7 +71,7 @@ page_sections:
   black: 'Get the '
   red: Team Building Starter Kit
   campaign-form: a0799c35-06ee-42c4-951c-45d9843f6d44
-  success-text: Thank You for Downloading the Team Building Starter Kit
+  success-text: Click Here to Receive Your Download of the Team Building Starter Kit
   success-link: https://drive.google.com/a/cru.org/file/d/14y2KfKIeqsZh8vjO8P4WK3e6MMqmzmY3/view?usp=sharing
 - template: custom-heading
   block: custom-heading
