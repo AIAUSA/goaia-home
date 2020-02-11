@@ -26,7 +26,7 @@ page_sections:
   two:
   - template: cta
     block: cta
-    link: "#request+a"
+    link: https://docs.google.com/forms/d/13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU/edit
     text: Book Now
     subtext: ''
     dark: true
