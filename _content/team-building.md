@@ -1,33 +1,99 @@
 ---
 layout: sport-page-blocks
-title: Team Building
-permalink: "/teambuilding"
-social_image: ''
+title: Peak Performance Camp
+permalink: "/ppc"
+social_image: "/uploads/2020/02/20/27409061653_77231e07b0_o (1).jpg"
 menu: ''
-sliderText: Challenge Course
+sliderText: Peak Performance Camp
 sliderImages:
-- "/uploads/2020/01/29/Website Header.jpg"
-- "/uploads/2019/12/04/IMG_2471.jpg"
+- "/uploads/2020/02/20/27409061653_77231e07b0_o (1).jpg"
 page_sections:
 - template: one-column
   block: one-column
   one:
   - template: text
     block: text
-    content: "#### Looking for a transforming team building experience? The Athletes
-      in Action Challenge Course focuses on the fundamental tools needed to successfully
-      work within a team setting. \n\n#### Whether it’s teamwork, trust, communication,
-      leadership or conflict resolution we will design customized programs to pinpoint
-      and improve weaknesses as well as encourage strengths."
+    content: |-
+      ### **June 14-20, 2020**
+
+      #### The Peak Performance Camp is a high-level coed sports performance **camp for** **high school athletes**. Based on Athletes in Action's successful Ultimate Training Camp model, this camp will challenge you to raise your game to the next level!
     centered: false
   section_title: Overview Text
+- template: one-column
+  block: one-column
+  one:
+  - template: text
+    block: text
+    content: "#### Participants will learn principles that deal with issues like motivation,
+      attitude, perseverance, and winning & losing – competitive labs will engage
+      you in applying what you’ve learned. \n\n#### The Peak Performance Camp will
+      challenge you physically, spiritually and mentally while developing a leadership
+      framework that will change the way you look at life & competition."
+    centered: false
+  - template: image
+    block: image
+    image: "/uploads/2020/02/20/PPC-Man-v2.png"
+  section_title: Description
 - template: three-columns
   block: three-columns
   two:
   - template: cta
     block: cta
-    link: https://docs.google.com/forms/d/13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU/edit
-    text: Book Now
+    link: https://my.athletesinaction.org/Public/Forms/SCRC-Camp.aspx?EventID=2122
+    text: Register
+    subtext: ''
+    dark: true
+  section_title: Book Now Button
+  one: []
+  three: []
+- template: two-columns
+  block: two-columns
+  right:
+  - template: image
+    block: image
+    image: "/uploads/2020/02/20/79a54113-82fb-4093-9b96-680391805b95.jpg"
+  left:
+  - template: text
+    block: text
+    content: "### **Location:** AIA Sports Complex, Xenia, OH\n\n### **Cost:** $395
+      ($445 after May 15)\n\n### \n\n### Contact Laurel Riley at:\n\n### laurel.riley@athletesinaction.org\n\n###
+      **Click For:** [**More Information**](https://docs.google.com/document/d/1c07BI6xi-VmNcYuFnZPqFeal42JNf8-6qMN2x8Ajn-k/edit?usp=sharing)"
+    centered: false
+  section_title: Price & Contact
+- template: two-columns
+  block: two-columns
+  left:
+  - template: image
+    block: image
+    image: "/uploads/2020/02/20/DSC_7556.jpg"
+  right:
+  - template: text
+    block: text
+    content: |-
+      ### Key elements of the week:
+
+      * Principles for connecting faith & sport
+
+
+      * Competitive challenges designed for practical application of the principles
+
+
+      * Sports performance training
+
+
+      * The SPECIAL
+
+
+      * Sport-specific training in some of the primary sports by experienced coaches and collegiate athletes
+    centered: false
+  section_title: Key Elements
+- template: three-columns
+  block: three-columns
+  two:
+  - template: cta
+    block: cta
+    link: https://my.athletesinaction.org/Public/Forms/SCRC-Camp.aspx?EventID=2122
+    text: Register
     subtext: ''
     dark: true
   section_title: Book Now Button
@@ -38,195 +104,19 @@ page_sections:
   one:
   - template: text
     block: text
-    content: "#### With many options we can cater to the needs and desires of your
-      group to help them reach new levels of teamwork."
-    centered: false
-  section_title: Book Now
-- template: three-columns
-  block: three-columns
-  one:
-  - template: cta
-    block: cta
-    link: "#high+ropes+"
-    text: High Ropes Course
-    subtext: ''
-    dark: false
-  two:
-  - template: cta
-    block: cta
-    link: "#team+building"
-    text: Low Ropes Course
-    subtext: ''
-    dark: false
-  three:
-  - template: cta
-    block: cta
-    link: "#portable"
-    text: Portable Elements
-    subtext: ''
-    dark: false
-  section_title: Overview Options
-- template: signup
-  block: signup
-  black: 'Get the '
-  red: Team Building Starter Kit
-  campaign-form: a0799c35-06ee-42c4-951c-45d9843f6d44
-  success-text: Click Here to Receive Your Download of the Team Building Starter Kit
-  success-link: https://drive.google.com/a/cru.org/file/d/14y2KfKIeqsZh8vjO8P4WK3e6MMqmzmY3/view?usp=sharing
-- template: custom-heading
-  block: custom-heading
-  black: 'High Ropes '
-  red: Challenge Course
-  byLine: ''
-- template: two-columns
-  block: two-columns
-  right:
-  - template: image
-    block: image
-    image: "/uploads/2019/12/04/IMG_8463.jpg"
-  left:
-  - template: text
-    block: text
-    content: |-
-      #### The ultimate bonding experience for your team. Build trust, conquer fear and increase confidence on our double-decker high ropes course. Designed to draw participants out of their comfort zone and encourage on another towards growth.
-
-      #### <b>Equipped with:</b>
-
-      #### 15 Challenging elements of varying difficulty
-
-      #### 375 ft zip line
-
-      #### 25 ft. Giant swing and
-
-      #### 25ft Power pole* (optional add-on component}
-
-      #### Click For: [Details & Pricing](https://drive.google.com/open?id=1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz)
-    centered: false
-  section_title: High Ropes Description
-- template: three-columns
-  block: three-columns
-  two:
-  - template: cta
-    block: cta
-    link: https://docs.google.com/forms/d/13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU/edit
-    text: Book Now
-    subtext: ''
-    dark: true
-  section_title: Book Now Button
-  one: []
-  three: []
-- template: custom-heading
-  block: custom-heading
-  black: Team Building
-  red: Low Element Course
-  byLine: ''
-- template: two-columns
-  block: two-columns
-  left:
-  - template: image
-    block: image
-    image: "/uploads/2019/12/04/IMG 1234 .jpg"
-  right:
-  - template: text
-    block: text
-    content: |-
-      #### Through a series of intentionally designed problem-solving activities our low element course will help your team increase communication, build trust, overcome conflict, develop leadership, grow in resilience and establish culture.
-
-      #### 8 Permanent Course Elements
-
-      #### 100s of other customized initiatives, activities and problem-solving games.
-
-      #### Combine with our High Ropes Course for the perfect team building experience.
-
-      #### Click For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
-    centered: false
-  section_title: Low Element Details
-- template: three-columns
-  block: three-columns
-  two:
-  - template: cta
-    block: cta
-    link: https://docs.google.com/forms/d/13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU/edit
-    text: Book Now
-    subtext: ''
-    dark: true
-  section_title: Book Now Button
-  one: []
-  three: []
-- template: custom-heading
-  block: custom-heading
-  red: Team Building
-  black: Portable
-  byLine: ''
-- template: two-columns
-  block: two-columns
-  right:
-  - template: image
-    block: image
-    image: "/uploads/2019/12/04/IMG_2232.jpg"
-  section_title: Portable Image 1
-  left:
-  - template: text
-    block: text
-    content: |-
-      #### We have 100s of customizable initiatives, activities and problem-solving games that we can bring almost anywhere. If you’re unable to bring your team to us then allow us to come to you. Our portable team building program allows more flexibility for you and your team.
-
-      #### Click For: [Details & Pricing](https://drive.google.com/a/cru.org/file/d/1tF69y57JNf28vQ_jPXEiA6OBbOouz6cz/view?usp=sharing)
-    centered: false
-- template: custom-heading
-  block: custom-heading
-  black: Request a
-  red: Reservation
-  byLine: ''
-- template: three-columns
-  block: three-columns
-  two:
-  - template: cta
-    block: cta
-    link: https://docs.google.com/forms/d/13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU/edit
-    text: Book Now
-    subtext: ''
-    dark: true
-  section_title: Book Now Button
-  one: []
-  three: []
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    content: "#### [Click this link](https://drive.google.com/open?id=13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU)
-      to complete an inquiry form where you can  work with the Athletes in Action
-      Challenge Course Team to design your custom experience."
+    content: "#### [Click this link](https://docs.google.com/document/d/1c07BI6xi-VmNcYuFnZPqFeal42JNf8-6qMN2x8Ajn-k/edit?usp=sharing)
+      for more information on Peak Performance Camp or email laurel.riley@athletesinaction.org"
     centered: false
   section_title: inquiry
-- template: social-callout
-  block: social-callout
-  facebook: https://www.facebook.com/aiasportscomplex
-  twitter: https://twitter.com/aiausa
-  YouTube: https://www.youtube.com/user/aiausa
-  instagram: https://instagram.com/aia_sports_complex
-  email: challengecourse@athletesinaction.org
-  image: "/uploads/2019/12/04/IMG_2116.jpg"
 - template: one-column
   block: one-column
   one:
-  - template: text
-    block: text
-    content: |-
-      #### **Contact Us**
-
-      #### Phone: 937-352-1234
-
-      #### Email: challengecourse@athletesinaction.org
-
-      #### Address: 1197 S. Detroit Street Xenia, OH 45385
-
-      #### Staff: Skylar Reckers & Brandon Howard
-    centered: false
+  - template: image
+    block: image
+    image: "/uploads/2020/02/20/AIA-Logo-Cru-endorsed-Black.png"
   section_title: contact details
 date: '2019-02-22T15:18:55.000+00:00'
-description: ''
+description: A Total Athlete Experience for High Schoolers
 published: false
 
 ---
