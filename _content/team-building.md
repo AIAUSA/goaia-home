@@ -73,6 +73,28 @@ page_sections:
       ### **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)
     centered: false
   section_title: Price & Contact
+- template: two-columns
+  block: two-columns
+  left:
+  - template: text
+    block: text
+    content: |-
+      ### Key elements of the week:
+
+      * Principles for connecting faith & sport
+      * Competitive challenges designed for practical application of the principles
+      * Sports performance training
+      * The SPECIAL
+      * Sport-specific training in some of the primary sports by experienced coaches and collegiate athletes
+    centered: false
+  right:
+  - template: cta
+    block: cta
+    link: https://my.athletesinaction.org/Public/Forms/SCRC-Camp.aspx?EventID=2122
+    text: Register
+    subtext: ''
+    dark: false
+  section_title: ''
 - template: one-column
   block: one-column
   section_title: Key Elements of Week
