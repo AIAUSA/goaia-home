@@ -94,34 +94,7 @@ page_sections:
     text: Register
     subtext: ''
     dark: false
-  section_title: ''
-- template: one-column
-  block: one-column
-  section_title: Key Elements of Week
-  one:
-  - template: text
-    block: text
-    content: |-
-      ### Key elements of the week:
-
-      * Principles for connecting faith & sport
-      * Competitive challenges designed for practical application of the principles
-      * Sports performance training
-      * The SPECIAL
-      * Sport-specific training in some of the primary sports by experienced coaches and collegiate athletes
-    centered: false
-- template: three-columns
-  block: three-columns
-  two:
-  - template: cta
-    block: cta
-    link: https://my.athletesinaction.org/Public/Forms/SCRC-Camp.aspx?EventID=2122
-    text: Register
-    subtext: ''
-    dark: true
-  section_title: Book Now Button
-  one: []
-  three: []
+  section_title: Key Elements
 - template: one-column
   block: one-column
   one:
