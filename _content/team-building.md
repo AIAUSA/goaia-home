@@ -2,11 +2,11 @@
 layout: sport-page-blocks
 title: Peak Performance Camp
 permalink: "/ppc"
-social_image: "/uploads/2020/02/20/27409061653_77231e07b0_o (1).jpg"
+social_image: "/uploads/2020/02/20/DSC_7556.jpg"
 menu: ''
 sliderText: Peak Performance Camp
 sliderImages:
-- "/uploads/2020/02/20/27409061653_77231e07b0_o (1).jpg"
+- "/uploads/2020/02/20/DSC_7556.jpg"
 page_sections:
 - template: one-column
   block: one-column
@@ -30,10 +30,16 @@ page_sections:
       challenge you physically, spiritually and mentally while developing a leadership
       framework that will change the way you look at life & competition."
     centered: false
+  section_title: Description
+- template: three-columns
+  block: three-columns
+  two:
   - template: image
     block: image
     image: "/uploads/2020/02/20/PPC-Man-v2.png"
-  section_title: Description
+  section_title: PPC Logo
+  one: []
+  three: []
 - template: three-columns
   block: three-columns
   two:
@@ -55,38 +61,33 @@ page_sections:
   left:
   - template: text
     block: text
-    content: "### **Location:** AIA Sports Complex, Xenia, OH\n\n### **Cost:** $395
-      ($445 after May 15)\n\n### \n\n### Contact Laurel Riley at:\n\n### laurel.riley@athletesinaction.org\n\n###
-      **Click For:** [**More Information**](https://docs.google.com/document/d/1c07BI6xi-VmNcYuFnZPqFeal42JNf8-6qMN2x8Ajn-k/edit?usp=sharing)"
+    content: |-
+      ### **Location:** AIA Sports Complex, Xenia, OH
+
+      ### **Cost:** $395 ($445 after May 15)
+
+      ### Contact Laurel Riley at:
+
+      ### laurel.riley@athletesinaction.org
+
+      ### **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)
     centered: false
   section_title: Price & Contact
-- template: two-columns
-  block: two-columns
-  left:
-  - template: image
-    block: image
-    image: "/uploads/2020/02/20/DSC_7556.jpg"
-  right:
+- template: one-column
+  block: one-column
+  section_title: Key Elements of Week
+  one:
   - template: text
     block: text
     content: |-
       ### Key elements of the week:
 
       * Principles for connecting faith & sport
-
-
       * Competitive challenges designed for practical application of the principles
-
-
       * Sports performance training
-
-
       * The SPECIAL
-
-
       * Sport-specific training in some of the primary sports by experienced coaches and collegiate athletes
     centered: false
-  section_title: Key Elements
 - template: three-columns
   block: three-columns
   two:
@@ -104,17 +105,19 @@ page_sections:
   one:
   - template: text
     block: text
-    content: "#### [Click this link](https://docs.google.com/document/d/1c07BI6xi-VmNcYuFnZPqFeal42JNf8-6qMN2x8Ajn-k/edit?usp=sharing)
+    content: "#### [Click this link](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)
       for more information on Peak Performance Camp or email laurel.riley@athletesinaction.org"
     centered: false
   section_title: inquiry
-- template: one-column
-  block: one-column
-  one:
+- template: three-columns
+  block: three-columns
+  section_title: AIA Logo
+  two:
   - template: image
     block: image
     image: "/uploads/2020/02/20/AIA-Logo-Cru-endorsed-Black.png"
-  section_title: contact details
+  one: []
+  three: []
 date: '2019-02-22T15:18:55.000+00:00'
 description: A Total Athlete Experience for High Schoolers
 
