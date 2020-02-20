@@ -117,6 +117,5 @@ page_sections:
   section_title: contact details
 date: '2019-02-22T15:18:55.000+00:00'
 description: A Total Athlete Experience for High Schoolers
-published: false
 
 ---
