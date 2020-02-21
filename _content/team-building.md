@@ -64,7 +64,9 @@ page_sections:
     content: |-
       ### **Location:** AIA Sports Complex, Xenia, OH
 
-      ### **Cost:** $395 ($445 after May 15)
+      ### Cost: $395 ($50 deposit paid by May 15)
+
+      ###          $445 after May 15
 
       ### Contact Laurel Riley at:
 
