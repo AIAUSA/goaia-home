@@ -61,18 +61,10 @@ page_sections:
   left:
   - template: text
     block: text
-    content: |-
-      ### **Location:** AIA Sports Complex, Xenia, OH
-
-      ### Cost: $395 ($50 deposit paid by May 15)
-
-      ###          $445 after May 15
-
-      ### Contact Laurel Riley at:
-
-      ### laurel.riley@athletesinaction.org
-
-      ### **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)
+    content: "### **Location:** AIA Sports Complex, Xenia, OH\n\n### Cost: \n\n###
+      $395 ($50 registration deposit by May 15)\n\n$445 ($50 registration deposit
+      after May 15)\n\n### Contact Laurel Riley at:\n\n### laurel.riley@athletesinaction.org\n\n###
+      **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)"
     centered: false
   section_title: Price & Contact
 - template: two-columns
