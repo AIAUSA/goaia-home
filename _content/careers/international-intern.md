@@ -62,9 +62,9 @@ page_sections:
   one:
   - template: cta
     block: cta
-    text: 'Have Questions?   '
-    subtext: We're available to discuss and walk you through the process at any point.
-    link: mailto:intlmissions@athletesinaction.org
+    text: Apply Now
+    subtext: ''
+    link: https://apply.cru.org/
   section_title: Contact Us
 - template: video
   block: video
@@ -75,7 +75,7 @@ page_sections:
   - template: cta
     block: cta
     text: More Questions? Check out the FAQ.
-    subtext:
+    subtext: 
     link: https://docs.google.com/document/d/1vxeBA3vtATselE3NOx5jGulhbhs1tC3RP7p7xCPwp9U/export?format=pdf
   section_title: FAQ
 date: '2019-02-26T14:34:45.000+00:00'
