@@ -14,17 +14,16 @@ page_sections:
   one:
   - template: text
     block: text
-    content: |2-
-
+    content: |-
       ## Extreme Challenge Jamaica
 
-      Join us for two weeks in Kingston, Jamaica at the University of West Indies!
+      Join us in Jamaica this May at Moorlands Camp in Spur Tree and in Kingston.
 
-      **Dates:** May 18 - June 1
+      **Dates:** May 16-29
 
-      **Cost:** $2900
+      **Cost:** $3,000
 
-      * The $2900 covers food, housing, materials, airfare, in country transportation, and all other costs associated with ECJ. We will coach you on how to raise the money for this trip. Our ECJ staff or your local AIA staff will help you.
+      * The $3,000 covers food, housing, materials, airfare, in country transportation, and all other costs associated with ECJ. We will coach you on how to raise the money for this trip. Our ECJ staff or your local AIA staff will help you.
       * Airfare included
       * Passport required
       * Deadline to Register is February 25th
@@ -39,6 +38,7 @@ page_sections:
       **Internship:** For an even greater leadership development experience, consider applying to serve as an intern on Extreme Challenge Jamaica. We will have a total of **10 internship positions available.** Go to the register page to apply as an intern. **NOTE:** You must have attended AIA's Ultimate Training Camp, a past Extreme Challenge Puerto Rico, or another AIA summer opportunity to be considered for an internship. **_Interns are required to arrive two days earlier._**
 
       [Apply Now](https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Jamaica/default.aspx)
-date: 2019-02-26 14:34:45 +0000
+    centered: false
+date: '2019-02-26T14:34:45.000+00:00'
 
 ---
