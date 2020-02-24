@@ -1,5 +1,5 @@
 ---
-title: 'Jamaica'
+title: Jamaica
 permalink: "/partnerships/jamaica"
 layout: page-blocks
 social_image: "/uploads/opportunities/partnerships/jamaica_temp.png"
@@ -10,6 +10,8 @@ page_sections:
   - template: title
     block: title
     Title: Make a Difference in the World
+    Subtitle: ''
+    color: ''
   section_title: Main Title
 - template: one-column
   block: one-column
@@ -24,6 +26,7 @@ page_sections:
   - template: text
     block: text
     content: "#### How to Participate"
+    centered: false
   section_title: How to Participate
 - template: three-columns
   block: three-columns
@@ -42,9 +45,9 @@ page_sections:
     block: panel
     title: Summer Project
     text: |-
-      Spend two weeks in Kingston helping Athletes in Action grow existing campus ministries in Jamaica.
+      Join us in Jamaica this May at Moorlands Camp in Spur Tree and in Kingston.
 
-      **Dates:** May 18 - June 1
+      **Dates:** May 16-29
     learnmore: "/opportunity/jamaica"
     learnmoretext: Learn More
     ctalink: https://my.athletesinaction.org/Applications/Tour/Extreme-Challenge-Jamaica/default.aspx
@@ -55,7 +58,7 @@ page_sections:
     title: International Internship
     text: Invest one or two years of your life as an intern in Jamaica
     learnmoretext: Interested in taking a vision trip?
-    learnmore: "mailto:chris.schweisthal@athletesinaction.org"
+    learnmore: mailto:chris.schweisthal@athletesinaction.org
     ctalink: https://goaia.org/careers/internationalinternship
     ctatext: Learn More
   section_title: Options
