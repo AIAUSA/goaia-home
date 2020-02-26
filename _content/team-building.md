@@ -61,10 +61,12 @@ page_sections:
   left:
   - template: text
     block: text
-    content: "### **Location:** AIA Sports Complex, Xenia, OH\n\n### Cost: \n\n###
-      $395 ($50 registration deposit by May 15)\n\n$445 ($50 registration deposit
-      after May 15)\n\n### Contact Laurel Riley at:\n\n### laurel.riley@athletesinaction.org\n\n###
-      **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)"
+    content: "### **Location:** [AIA Sports Complex](aiasportscomplex.com), Xenia,
+      OH\n\n### Cost: **$395** \n\n##### _(with a $50 registration deposit by May
+      15 or $445 with deposit after May 15)_\n\n### Contact Laurel Riley at:\n\n###
+      laurel.riley@athletesinaction.org\n\n### **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)\n\n####
+      Click to: [Register as a Leader](https://my.athletesinaction.org/public/forms/SCRC-Leader.aspx?EventID=2125)
+      (cost of $430)"
     centered: false
   section_title: Price & Contact
 - template: two-columns
