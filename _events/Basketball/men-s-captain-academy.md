@@ -11,7 +11,7 @@ short_description: Athletes in Action Basketball wants to invest in your team's 
   Our experienced staff and scheduled speakers will spend a full weekend working with
   your team's influencers to affect change in your locker room and produce results
   on the court.
-date: 2019-03-18 04:00:00 +0000
+date: 2019-03-18T04:00:00.000+00:00
 hide_title: false
 page_sections:
 - template: one-column
@@ -72,7 +72,7 @@ page_sections:
     block: text
     centered: true
     content: |-
-      **May 9th - 13th, 2019**
+      **May 13th - 17th, 2020**
 
       **Athletes in Action Total Athlete Complex**
 
@@ -182,8 +182,8 @@ page_sections:
       at the Schindler Banquet Center, also located on campus. Transportation will
       be arranged after registration. AIA Staff will be available to make airport
       runs, and participants are welcome to drive and park on campus.\n\n**HQ Location**
-      651 Taylor Drive, Xenia OH 45385\n\nCost $625/person + travel arrangements  \nContact
-      [Jason Stankus](mailto:jason.stankus@athletesinaction.org)"
+      651 Taylor Drive, Xenia OH 45385\n\nCost $825/person + travel arrangements (if
+      registered by April 13th, $750)  \nContact [Jason Stankus](mailto:jason.stankus@athletesinaction.org)"
   - template: registration-callout
     block: registration-callout
     color: dark
