@@ -19,7 +19,7 @@ page_sections:
   one:
   - template: video
     block: video
-    link: https://www.youtube.com/watch?v=0hVMeStKxr0
+    link: https://www.youtube.com/watch?v=due9s6WlcOg
     full: true
   - template: text
     block: text
