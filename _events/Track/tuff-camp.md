@@ -86,7 +86,7 @@ page_sections:
 
       **Camp Fees Include:** Housing in college dorm, all meals, biomechanical analysis, personalized training, t-shirt, notebook, Christian atmosphere, goal-setting, teamwork, and much more!
 
-      For More Information, [download our brochure](/uploads/track/TUFFbrochure2019.pdf).
+      For More Information, [download our brochure](/uploads/track/TUFFbrochure2020.pdf).
     centered: false
   right:
   - template: image
@@ -96,6 +96,6 @@ page_sections:
 - template: registration-call-to-action
   block: registration-callout
   color: dark
-  iFrameURL: https://my.athletesinaction.org/public/forms/tuff-camp.aspx?EventID=2005
+  iFrameURL: https://my.athletesinaction.org/public/forms/tuff-camp.aspx?EventID=2062
 
 ---
