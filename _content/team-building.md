@@ -61,11 +61,20 @@ page_sections:
   left:
   - template: text
     block: text
-    content: "### **Location:** [AIA Sports Complex, Xenia, OH](http://www.aiasportscomplex.com/)\n\n###
-      Cost: **$395**\n\n##### _(with a $50 registration deposit by May 15 or $445
-      with deposit after May 15)_\n\n### Contact Laurel Riley at:\n\n### laurel.riley@athletesinaction.org\n\n###
-      **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)\n\n####
-      {COMING SOON} Click to: Register as a Leader (cost of $430) "
+    content: |-
+      ### **Location:** [AIA Sports Complex, Xenia, OH](http://www.aiasportscomplex.com/)
+
+      ### Cost: **$395**
+
+      ##### _(Your registration deposit will be refunded if the camp is canceled due to Covid-19)_
+
+      ### Contact Laurel Riley at:
+
+      ### laurel.riley@athletesinaction.org
+
+      ### **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)
+
+      #### {COMING SOON} Click to: Register as a Leader (cost of $430)
     centered: false
   section_title: Price & Contact
 - template: two-columns
