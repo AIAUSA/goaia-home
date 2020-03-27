@@ -72,7 +72,7 @@ page_sections:
 
       ### laurel.riley@athletesinaction.org
 
-      ### **Click For:** [**More Information**](https://drive.google.com/file/d/1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII/view?usp=sharing)
+      ### **Click For:** [**More Information**](https://drive.google.com/open?id=1lfSHomGBU7ZYs0sEj6LYf93ZdKAUTeII)
 
       #### {COMING SOON} Click to: Register as a Leader (cost of $430)
     centered: false
