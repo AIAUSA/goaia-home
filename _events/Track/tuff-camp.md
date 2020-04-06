@@ -72,6 +72,8 @@ page_sections:
   - template: text
     block: text
     content: |-
+      **COVID 19**: As long as it is safe, Hope College is open, and Athletes in Action has given clearance, TUFF Camp is planning to meet. All registration fees and deposits will be refunded if TUFF Camp is cancelled.
+
       **Location:** Hope College (Holland, MI)
 
       **Dates:** July 5th - 10th, 2020
