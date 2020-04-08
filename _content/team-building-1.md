@@ -1,10 +1,10 @@
 ---
 layout: sport-page-blocks
-title: Team Building
-permalink: "/teambuilding"
+title: Welcome to the Athletes in Action Sports Complex
+permalink: "/sports-complex-welcome"
 social_image: ''
 menu: ''
-sliderText: Challenge Course
+sliderText: SPORTS COMPLEX AND RETREAT CENTER
 sliderImages:
 - "/uploads/2020/01/29/Website Header.jpg"
 - "/uploads/2019/12/04/IMG_2471.jpg"
@@ -14,11 +14,14 @@ page_sections:
   one:
   - template: text
     block: text
-    content: "#### Looking for a transforming team building experience? The Athletes
-      in Action Challenge Course focuses on the fundamental tools needed to successfully
-      work within a team setting. \n\n#### Whether it’s teamwork, trust, communication,
-      leadership or conflict resolution we will design customized programs to pinpoint
-      and improve weaknesses as well as encourage strengths."
+    content: '#### Located in Xenia, OH, just a short hour from Cincinnati is the
+      Athletes in Action headquarters and Sports Complex and Retreat Center (SCRC).
+      Designed to host local, regional, national and international events, we have
+      been able to develop strong relationships in the sports and event-planning industry.
+      Combined with our [retreat center](http://www.aiasportscomplex.com/retreats/
+      "Retreats") and [challenge course](http://www.aiasportscomplex.com/challenge-course/
+      "Challenge Course"), Athletes in Action is focused on building a training environment
+      that develops transformational athletic leaders.'
     centered: false
   section_title: Overview Text
 - template: three-columns
@@ -27,10 +30,10 @@ page_sections:
   - template: cta
     block: cta
     link: https://docs.google.com/forms/d/13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU/edit
-    text: Book Now
-    subtext: ''
+    text: Download Facility Guide
+    subtext: Learn more about the Athletes in Action Campus
     dark: true
-  section_title: Book Now Button
+  section_title: Facility Guide Button
   one: []
   three: []
 - template: one-column
@@ -42,6 +45,18 @@ page_sections:
       group to help them reach new levels of teamwork."
     centered: false
   section_title: Book Now
+- template: one-column
+  block: one-column
+  one:
+  - template: image
+    block: image
+    image: ''
+  section_title: Image Box or Slideshow
+- template: custom-heading
+  block: custom-heading
+  black: 'Something for '
+  red: Everyone
+  byLine: ''
 - template: three-columns
   block: three-columns
   one:
@@ -73,11 +88,6 @@ page_sections:
   campaign-form: a0799c35-06ee-42c4-951c-45d9843f6d44
   success-text: Click Here to Receive Your Download of the Team Building Starter Kit
   success-link: https://drive.google.com/a/cru.org/file/d/14y2KfKIeqsZh8vjO8P4WK3e6MMqmzmY3/view?usp=sharing
-- template: custom-heading
-  block: custom-heading
-  black: 'High Ropes '
-  red: Challenge Course
-  byLine: ''
 - template: two-columns
   block: two-columns
   right:
@@ -120,6 +130,17 @@ page_sections:
   black: Team Building
   red: Low Element Course
   byLine: ''
+- template: one-column
+  block: one-column
+  one:
+  - template: text
+    block: text
+    content: "#### At the SCRC, we offer something for everyone to get engaged. Join
+      us for a Total Athlete camp, book our facility for your next tournament, or
+      book your team-building adventure on our Challenge Course. You’ll find our campus
+      is built for all your needs."
+    centered: false
+  section_title: something for everyone text
 - template: two-columns
   block: two-columns
   left:
@@ -188,18 +209,14 @@ page_sections:
     subtext: ''
     dark: true
   section_title: Book Now Button
-  one: []
-  three: []
-- template: one-column
-  block: one-column
   one:
-  - template: text
-    block: text
-    content: "#### [Click this link](https://drive.google.com/open?id=13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU)
-      to complete an inquiry form where you can  work with the Athletes in Action
-      Challenge Course Team to design your custom experience."
-    centered: false
-  section_title: inquiry
+  - template: cta
+    block: cta
+    text: Book a tournament
+    link: "/"
+    subtext: ''
+    dark: false
+  three: []
 - template: social-callout
   block: social-callout
   facebook: https://www.facebook.com/aiasportscomplex
@@ -225,6 +242,15 @@ page_sections:
       #### Staff: Skylar Reckers & Brandon Howard
     centered: false
   section_title: contact details
+- template: one-column
+  block: one-column
+  section_title: ''
+  one: []
+- template: custom-heading
+  block: custom-heading
+  black: ''
+  red: ''
+  byLine: ''
 date: '2019-02-22T15:18:55.000+00:00'
 description: ''
 published: false
