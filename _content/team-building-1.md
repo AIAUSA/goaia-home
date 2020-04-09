@@ -102,43 +102,22 @@ page_sections:
   black: Athletes in Action Sports Complex
   byLine: Sign-up for our newsletter to receive the latest in programming, events,
     and updates from AIA Sports Complex & Retreat Center.
-- template: three-columns
-  block: three-columns
-  two:
-  - template: cta
-    block: cta
-    link: "/"
-    text: Sign Up
-    subtext: ''
-    dark: true
-  section_title: Book Now Button
-  one: []
-  three: []
 - template: signup
   block: signup
-  black: Get the
-  red: AIA Sports Complex Newsletter
+  black: Get our
+  red: Newsletter
   campaign-form: a0799c35-06ee-42c4-951c-45d9843f6d44
   success-text: Thank you for signing up for the Athletes in Action Sports Complex
     newsletter. You can expect to receive updates on our latest programs, events,
     and facility upgrades!
   success-link: https://drive.google.com/a/cru.org/file/d/14y2KfKIeqsZh8vjO8P4WK3e6MMqmzmY3/view?usp=sharing
-- template: one-column
-  block: one-column
-  one:
-  - template: text
-    block: text
-    content: Sign-up for our newsletter to receive the latest in programming, events,
-      and updates from AIA Sports Complex & Retreat Center.
-    centered: false
-  section_title: ''
 - template: social-callout
   block: social-callout
   facebook: https://www.facebook.com/aiasportscomplex
   twitter: https://twitter.com/aiausa
   YouTube: https://www.youtube.com/user/aiausa
   instagram: https://instagram.com/aia_sports_complex
-  email: challengecourse@athletesinaction.org
+  email: sportscomplex@athletesinaction.org
   image: "/uploads/2019/12/04/IMG_2116.jpg"
 - template: one-column
   block: one-column
@@ -153,7 +132,7 @@ page_sections:
       #### Email: sportscomplex@athletesinaction.org
 
       #### Address: 1197 S. Detroit Street Xenia, OH 45385
-    centered: false
+    centered: true
   section_title: contact details
 date: '2019-02-22T15:18:55.000+00:00'
 description: ''
