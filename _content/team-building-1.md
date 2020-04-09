@@ -1,11 +1,12 @@
 ---
 layout: sport-page-blocks
 title: Welcome to the Athletes in Action Sports Complex
-permalink: "/sports-complex-welcome"
+permalink: "/sports-complex"
 social_image: ''
 menu: ''
-sliderText: SPORTS COMPLEX AND RETREAT CENTER
+sliderText: SPORTS COMPLEX & RETREAT CENTER
 sliderImages:
+- "/uploads/2020/04/09/my field of dreams.jpg"
 - "/uploads/2020/01/29/Website Header.jpg"
 - "/uploads/2019/12/04/IMG_2471.jpg"
 page_sections:
@@ -19,14 +20,14 @@ page_sections:
   one:
   - template: text
     block: text
-    content: '#### Located in Xenia, OH, just a short hour from Cincinnati is the
+    content: "#### Located in Xenia, OH, just a short hour from Cincinnati is the
       Athletes in Action headquarters and Sports Complex and Retreat Center (SCRC).
       Designed to host local, regional, national and international events, we have
       been able to develop strong relationships in the sports and event-planning industry.
-      Combined with our [retreat center](http://www.aiasportscomplex.com/retreats/
-      "Retreats") and [challenge course](http://www.aiasportscomplex.com/challenge-course/
-      "Challenge Course"), Athletes in Action is focused on building a training environment
-      that develops transformational athletic leaders.'
+      \n\n#### Combined with our [retreat center](http://www.aiasportscomplex.com/retreats/
+      \"Retreats\") and [challenge course](http://www.aiasportscomplex.com/challenge-course/
+      \"Challenge Course\"), Athletes in Action is focused on building a training
+      environment that develops transformational athletic leaders."
     centered: false
   section_title: Overview Text
 - template: three-columns
@@ -36,7 +37,7 @@ page_sections:
     block: cta
     link: https://docs.google.com/forms/d/13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU/edit
     text: Download Facility Guide
-    subtext: Learn more about the Athletes in Action Campus
+    subtext: ''
     dark: true
   section_title: Facility Guide Button
   one: []
@@ -46,7 +47,7 @@ page_sections:
   one:
   - template: image
     block: image
-    image: ''
+    image: "/uploads/2020/02/20/DSC_7556.jpg"
   section_title: Image Box or Slideshow
 - template: custom-heading
   block: custom-heading
@@ -72,7 +73,7 @@ page_sections:
     link: "/"
     text: Learn more about Total Athlete
     subtext: ''
-    dark: true
+    dark: false
   section_title: Book Now Buttons
   one:
   - template: cta
@@ -93,7 +94,7 @@ page_sections:
   one:
   - template: image
     block: image
-    image: ''
+    image: "/uploads/2020/04/09/CityStars1.jpg"
   section_title: section 3 images
 - template: custom-heading
   block: custom-heading
