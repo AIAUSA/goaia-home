@@ -32,7 +32,7 @@ page_sections:
   two:
   - template: cta
     block: cta
-    link: https://docs.google.com/forms/d/13fdrEEEun0MysUZC9HRV5p44wFDai1LYcGKY2olnvrU/edit
+    link: https://drive.google.com/open?id=1qdM4ghlycQWuR_e1PDr7m3cQto8_ou38
     text: Download Facility Guide
     subtext: ''
     dark: true
