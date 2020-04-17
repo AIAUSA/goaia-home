@@ -96,15 +96,11 @@ page_sections:
   - template: image
     block: image
     image: "/uploads/2020/04/17/IMG_0411 (2).jpg"
-  section_title: ''
-  three: []
-- template: one-column
-  block: one-column
-  one:
+  section_title: three images
+  three:
   - template: image
     block: image
-    image: "/uploads/2020/04/09/CityStars1.jpg"
-  section_title: section 3 images
+    image: "/uploads/2020/04/17/IMG_1384 (1).jpg"
 - template: custom-heading
   block: custom-heading
   red: Newsletter
@@ -127,7 +123,7 @@ page_sections:
   YouTube: https://www.youtube.com/user/aiausa
   instagram: https://instagram.com/aia_sports_complex
   email: sportscomplex@athletesinaction.org
-  image: "/uploads/2019/12/04/IMG_2116.jpg"
+  image: "/uploads/2020/04/17/September2005 014.jpg"
 - template: one-column
   block: one-column
   one:
