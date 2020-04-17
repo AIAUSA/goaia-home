@@ -6,6 +6,7 @@ social_image: ''
 menu: ''
 sliderText: SPORTS COMPLEX & RETREAT CENTER
 sliderImages:
+- "/uploads/2020/04/17/AIA Sports Complex 004 16x9.jpg"
 - "/uploads/2020/04/09/my field of dreams.jpg"
 - "/uploads/2020/01/29/Website Header.jpg"
 - "/uploads/2019/12/04/IMG_2471.jpg"
@@ -85,6 +86,18 @@ page_sections:
     text: Book a team-building
     subtext: ''
     dark: false
+- template: three-columns
+  block: three-columns
+  one:
+  - template: image
+    block: image
+    image: "/uploads/2020/04/17/41345804020_79d87e5d99_z (2).jpg"
+  two:
+  - template: image
+    block: image
+    image: "/uploads/2020/04/17/IMG_0411 (2).jpg"
+  section_title: ''
+  three: []
 - template: one-column
   block: one-column
   one:
