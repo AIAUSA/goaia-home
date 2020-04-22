@@ -67,7 +67,7 @@ page_sections:
   two:
   - template: cta
     block: cta
-    link: "/"
+    link: http://www.aiasportscomplex.com/total-athlete-experience/
     text: Learn more about Total Athlete
     subtext: ''
     dark: false
