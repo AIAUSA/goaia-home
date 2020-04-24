@@ -91,7 +91,7 @@ page_sections:
   one:
   - template: image
     block: image
-    image: "/uploads/2020/04/17/41345804020_79d87e5d99_z (2).jpg"
+    image: ''
   two:
   - template: image
     block: image
@@ -100,7 +100,7 @@ page_sections:
   three:
   - template: image
     block: image
-    image: "/uploads/2020/04/17/IMG_1384 (1).jpg"
+    image: ''
 - template: custom-heading
   block: custom-heading
   red: Newsletter
