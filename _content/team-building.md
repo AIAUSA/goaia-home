@@ -13,10 +13,10 @@ page_sections:
   one:
   - template: text
     block: text
-    content: |-
-      ### **June 14-19, 2020**
-
-      #### The Peak Performance Camp is a high-level coed sports performance **camp for** **high school athletes**. Based on Athletes in Action's successful Ultimate Training Camp model, this camp will challenge you to raise your game to the next level!
+    content: "### **July 23-28, 2020 (NEW DATES!)**\n\n#### The Peak Performance Camp
+      is a high-level coed sports performance **camp for** **high school athletes**.
+      Based on Athletes in Action's successful Ultimate Training Camp model, this
+      camp will challenge you to raise your game to the next level!   "
     centered: false
   section_title: Overview Text
 - template: one-column
