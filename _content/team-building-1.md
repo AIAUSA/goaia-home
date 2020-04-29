@@ -123,7 +123,7 @@ page_sections:
   YouTube: https://www.youtube.com/user/aiausa
   instagram: https://instagram.com/aia_sports_complex
   email: sportscomplex@athletesinaction.org
-  image: "/uploads/2020/04/09/DSC00198.JPG"
+  image: "/uploads/2020/04/09/my field of dreams.jpg"
 - template: one-column
   block: one-column
   one:
