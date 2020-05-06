@@ -95,7 +95,7 @@ page_sections:
   two:
   - template: image
     block: image
-    image: "/uploads/2020/04/17/IMG_0411 (2).jpg"
+    image: "/uploads/2020/05/06/3Images-v1.png"
   section_title: three images
   three:
   - template: image
