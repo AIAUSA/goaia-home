@@ -33,6 +33,14 @@ layout: page
 <!-- End .team-member --></div>
 <!-- End .member-container --><br><!-- End .member-container -->
 <div class="col-md-3 col-xs-6 team-member-container">
+<div class="team-member text-center">
+<figure><img src="/uploads/About/BoardofTrustees/dblock.jpg" alt="" class="img-responsive img-circle"></figure>
+<h3>Derek Block</h3>
+<p class="member-desc">Founder and CEO, Touchstone Merchandising Group</p>
+<!-- End .social-icons --></div>
+<!-- End .team-member --></div>
+<!-- End .member-container --><br><!-- End .member-container -->
+<div class="col-md-3 col-xs-6 team-member-container">
 <div class="team-member text-center" style="margin-top: -20px;">
 <figure><img src="/uploads/About/BoardofTrustees/broussard.jpg" alt="" class="img-responsive img-circle"></figure>
 <h3>Chris Broussard</h3>
