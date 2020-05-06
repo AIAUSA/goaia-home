@@ -76,7 +76,7 @@ page_sections:
   - template: cta
     block: cta
     text: Book a tournament
-    link: "/"
+    link: https://docs.google.com/forms/d/1TWMzuOOVe_zSjG3s4jiAcGqt47WAXiAmzZWRr7BuJ-Y/prefill
     subtext: ''
     dark: false
   three:
@@ -95,7 +95,7 @@ page_sections:
   two:
   - template: image
     block: image
-    image: "/uploads/2020/04/17/IMG_0411 (2).jpg"
+    image: "/uploads/2020/05/06/3Images-v1.png"
   section_title: three images
   three:
   - template: image
@@ -123,7 +123,7 @@ page_sections:
   YouTube: https://www.youtube.com/user/aiausa
   instagram: https://instagram.com/aia_sports_complex
   email: sportscomplex@athletesinaction.org
-  image: "/uploads/2020/04/17/September2005 014.jpg"
+  image: "/uploads/2020/04/09/my field of dreams.jpg"
 - template: one-column
   block: one-column
   one:
