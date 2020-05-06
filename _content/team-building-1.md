@@ -86,21 +86,13 @@ page_sections:
     text: Book a team-building
     subtext: ''
     dark: false
-- template: three-columns
-  block: three-columns
+- template: one-column
+  block: one-column
+  section_title: three images
   one:
   - template: image
     block: image
-    image: ''
-  two:
-  - template: image
-    block: image
     image: "/uploads/2020/05/06/3Images-v1.png"
-  section_title: three images
-  three:
-  - template: image
-    block: image
-    image: ''
 - template: custom-heading
   block: custom-heading
   red: Newsletter
