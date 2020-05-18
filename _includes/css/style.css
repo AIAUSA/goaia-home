@@ -3146,11 +3146,19 @@ a.list-group-item:focus {
 
 /* ----------------------------------------
 2.19 Team Members --------------------- */
-
+.team-member-container {
+	
+  }
 @media (max-width: 520px) {
 	.team-member-container {
 		float:none;
 		width:100%;
+		height: none;
+	}
+}
+@media (min-width: 520px) {
+	.team-member-container {
+		height: 350px;
 	}
 }
 
