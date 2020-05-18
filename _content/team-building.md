@@ -12,16 +12,16 @@ page_sections:
   block: custom-heading
   black: 'PLEASE NOTE: '
   red: The Peak Performance Camp has been cancelled for summer 2020
-  byLine: ''
+  byLine: "### **Please send any questions to laurel.riley@athletesinaction.org.**"
 - template: one-column
   block: one-column
   one:
   - template: text
     block: text
-    content: |-
-      ## **Please send any questions to laurel.riley@athletesinaction.org.**
-
-      #### The Peak Performance Camp is a high-level coed sports performance **camp for** **high school athletes**. Based on Athletes in Action's successful Ultimate Training Camp model, this camp will challenge you to raise your game to the next level!
+    content: "#### The Peak Performance Camp is a high-level coed sports performance
+      **camp for** **high school athletes**. Based on Athletes in Action's successful
+      Ultimate Training Camp model, this camp will challenge you to raise your game
+      to the next level!"
     centered: false
   section_title: Overview Text
 - template: one-column
