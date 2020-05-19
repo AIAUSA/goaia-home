@@ -60,6 +60,13 @@ layout: page
                 </div><!-- End .team-member -->
                 <div class="col-md-3 col-xs-6 team-member-container">
                     <div class="team-member text-center">
+                        <figure><img src="/uploads/About/BoardofTrustees/riley.jpg" alt="" class="img-responsive img-circle"></figure>
+                        <h3>Ruth Riley Hunter</h3>
+                        <p class="member-desc">Retired, WNBA and Olympic Gold Medalist <br/> TV and Radio Analyst for Miami Heat</p>
+                    </div>
+                </div><!-- End .team-member -->
+                <div class="col-md-3 col-xs-6 team-member-container">
+                    <div class="team-member text-center">
                         <figure><img src="/uploads/About/BoardofTrustees/jackson.jpg" alt="" class="img-responsive img-circle"></figure>
                         <h3>Kenya Jackson</h3>
                         <p class="p1">Corporate VP Pharmacy &amp; Retail Operations, Walgreens</p>
