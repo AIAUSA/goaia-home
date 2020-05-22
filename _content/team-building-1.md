@@ -24,7 +24,7 @@ page_sections:
   - template: cta
     block: cta
     text: Click Here for our COVID-19 FAQ
-    link: goaia.org/covid-19-update
+    link: "/covid-19-update"
     subtext: ''
     dark: false
   section_title: covid-19 update
