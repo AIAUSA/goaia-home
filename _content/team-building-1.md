@@ -19,7 +19,14 @@ page_sections:
     color: first-color
     Title: COVID-19 Update
     Subtitle: We are following state and local guidelines concerning COVID-19. For
-      all information regarding our reopening of our Xenia headquarters, click here
+      all information regarding our reopening of our Xenia headquarters, click the
+      button below.
+  - template: cta
+    block: cta
+    text: Click Here
+    link: goaia.org/covid-19-update
+    subtext: ''
+    dark: false
   section_title: covid-19 update
 - template: custom-heading
   block: custom-heading
