@@ -23,7 +23,7 @@ page_sections:
       button below.
   - template: cta
     block: cta
-    text: Click Here
+    text: Click Here for our COVID-19 FAQ
     link: goaia.org/covid-19-update
     subtext: ''
     dark: false
