@@ -21,7 +21,7 @@ page_sections:
   one:
   - template: title
     block: title
-    color: black
+    color: first-color
     Title: We are all in this together – and together we are stronger!
     Subtitle: ''
   - template: text
