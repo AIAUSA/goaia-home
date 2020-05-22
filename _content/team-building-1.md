@@ -11,6 +11,16 @@ sliderImages:
 - "/uploads/2020/01/29/Website Header.jpg"
 - "/uploads/2019/12/04/IMG_2471.jpg"
 page_sections:
+- template: one-column
+  block: one-column
+  one:
+  - template: title
+    block: title
+    color: first-color
+    Title: COVID-19 Update
+    Subtitle: We are following state and local guidelines concerning COVID-19. For
+      all information regarding our reopening of our Xenia headquarters, click here
+  section_title: covid-19 update
 - template: custom-heading
   block: custom-heading
   black: 'About the '
@@ -131,16 +141,6 @@ page_sections:
       #### Address: 1197 S. Detroit Street Xenia, OH 45385
     centered: true
   section_title: contact details
-- template: one-column
-  block: one-column
-  one:
-  - template: title
-    block: title
-    color: first-color
-    Title: COVID-19 Update
-    Subtitle: We are following state and local guidelines concerning COVID-19. For
-      all information regarding our reopening of our Xenia headquarters, click here
-  section_title: ''
 date: '2019-02-22T15:18:55.000+00:00'
 description: ''
 
