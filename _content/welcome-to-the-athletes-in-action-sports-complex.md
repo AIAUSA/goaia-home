@@ -88,49 +88,66 @@ page_sections:
     content: |-
       · **Team Members**
 
-      o Our team members are temperature tested before starting work each shift
+      * Our team members are temperature tested before starting work each shift
 
-      o Team members are screened prior to each shift to ensure they do not currently have virus symptoms and have not been exposed to anyone who has tested positive for COVID-19
 
-      o We require all employees to report any illness to a supervisor
+      * Team members are screened prior to each shift to ensure they do not currently have virus symptoms and have not been exposed to anyone who has tested positive for COVID-19
 
-      o We require notification of any COVID-19 positive cases in a team members household
 
-      o We will provide personal protective equipment including masks to all team members, and training on how to use it, based on CDC guidelines
+      * We require all employees to report any illness to a supervisor
 
-      o Our team members are provided sanitizing stations, such as a wash basin with soap and/or bottle of hand sanitizer
 
-      o We prohibit congregating of 10 or more team members in break rooms or common areas and limit capacity of such areas to allow for safe social distancing
+      * We require notification of any COVID-19 positive cases in a team members household
+
+
+      * We will provide personal protective equipment including masks to all team members, and training on how to use it, based on CDC guidelines
+
+
+      * Our team members are provided sanitizing stations, such as a wash basin with soap and/or bottle of hand sanitizer
+
+
+      * We prohibit congregating of 10 or more team members in break rooms or common areas and limit capacity of such areas to allow for safe social distancing
 
       · **Food Service Areas**
 
-      o We have incorporated CDC recommendations, OSHA and local Health Department standards, and industry best practices into operating guidelines for our staff to follow
+      * We have incorporated CDC recommendations, OSHA and local Health Department standards, and industry best practices into operating guidelines for our staff to follow
 
-      o We have extensive cleaning standards in place for our food preparation and public seating areas
 
-      o Sanitize chairs, especially where contact occurs
+      * We have extensive cleaning standards in place for our food preparation and public seating areas
 
-      o Kitchens are cleaned with sanitizing solutions daily
 
-      o When preparing food, team members are required to wash their hands more frequently, not less than once every 30 minutes
+      * Sanitize chairs, especially where contact occurs
 
-      o We are following government guidelines for food area social distancing and seating capacity
 
-      o We are using digital or single use menus
+      * Kitchens are cleaned with sanitizing solutions daily
+
+
+      * When preparing food, team members are required to wash their hands more frequently, not less than once every 30 minutes
+
+
+      * We are following government guidelines for food area social distancing and seating capacity
+
+
+      * We are using digital or single use menus
 
       · **Additional Cleaning/Safety Standards**
 
-      o Restrooms are cleaned with sanitizing solutions several times a day
+      * Restrooms are cleaned with sanitizing solutions several times a day
 
-      § Indoor restrooms will be accessible with a reduced capacity
 
-      § We have temporarily closed every other urinal in men’s restrooms
+      * Indoor restrooms will be accessible with a reduced capacity
 
-      o We have placed signage throughout the venue encouraging distancing, hand washing, and other safe practices
 
-      o We will be continuously monitoring and improving our operations for the safety of our athletes, spectators, and team members
+      * We have temporarily closed every other urinal in men’s restrooms
 
-      We are committed to communicating with coaches, event owners, participants, vendors, and other visitors to the facility our guidelines and requesting everyone work together to keep us all safer
+
+      * We have placed signage throughout the venue encouraging distancing, hand washing, and other safe practices
+
+
+      * We will be continuously monitoring and improving our operations for the safety of our athletes, spectators, and team members
+
+
+      * We are committed to communicating with coaches, event owners, participants, vendors, and other visitors to the facility our guidelines and requesting everyone work together to keep us all safer
     centered: false
 - template: one-column
   block: one-column
@@ -146,28 +163,33 @@ page_sections:
   - template: text
     block: text
     content: |-
-      · Venues may have a reduced capacity for occupancy, to allow for appropriate social distancing
+      * Venues may have a reduced capacity for occupancy, to allow for appropriate social distancing
 
-      · In some cases, advance reservations will be needed to reduce the need to turn people away at the entrance. Please visit our web site or call the venue for updates and space availability
 
-      · Signage will be posted at the entrance asking/informing guests the following:
+      * In some cases, advance reservations will be needed to reduce the need to turn people away at the entrance. Please visit our web site or call the venue for updates and space availability
 
-      * Have you had exposure to COVID 19 in the past 14 days?
-      * Have you experienced:
-        * Cough or shortness of breath?
-        * fever?
-        * loss of taste or smell?
-      * You are at an increased risk for COVID-19 if you are:
-        * 65 years or older, have underlying lung/asthma conditions, have heart complications, suffer from diabetes, liver disease, severe obesity or are otherwise immune-compromised
-      * Your health is your responsibility
 
-      · We reserve the right to institute further COVID-19 screening to ensure guests are not endangering others.
+      * Signage will be posted at the entrance asking/informing guests the following:
 
-      · Any Guest who has had symptoms or exposure will not be allowed in the venue.
+      1. Have you had exposure to COVID 19 in the past 14 days?
+      2. Have you experienced:
+         * Cough or shortness of breath?
+         * fever?
+         * loss of taste or smell?
+      3. You are at an increased risk for COVID-19 if you are:
+         * 65 years or older, have underlying lung/asthma conditions, have heart complications, suffer from diabetes, liver disease, severe obesity or are otherwise immune-compromised
+      4. Your health is your responsibility
 
-      · If a symptomatic/exposed guest is a driver for another guest, they will be asked to wait in their closed vehicle until their passenger’s activities are completed.
+      * We reserve the right to institute further COVID-19 screening to ensure guests are not endangering others.
 
-      · Guests will be invited to use hand sanitizer stations upon entry and exit of the building. Sanitizing stations will be provided near main entrances.
+
+      * Any Guest who has had symptoms or exposure will not be allowed in the venue.
+
+
+      * If a symptomatic/exposed guest is a driver for another guest, they will be asked to wait in their closed vehicle until their passenger’s activities are completed.
+
+
+      * Guests will be invited to use hand sanitizer stations upon entry and exit of the building. Sanitizing stations will be provided near main entrances.
     centered: false
 - template: one-column
   block: one-column
@@ -196,7 +218,7 @@ page_sections:
     color: ''
   - template: text
     block: text
-    content: "· In most states, out of state travel will not occur until a later phase
+    content: "* In most states, out of state travel will not occur until a later phase
       of reopening. At that time, our facilities will work with event organizers to
       institute standards above and beyond the minimum requirements to promote participant
       and guest safety."
