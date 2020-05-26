@@ -27,9 +27,10 @@ page_sections:
   - template: text
     block: text
     content: |-
-      · Our venue is proud to be a partner to our community as we all come back stronger than ever. We know there are many in our area hurting and experiencing hardships. We are committed to providing a safe, clean, positive environment to help you and your family come and enjoy the activities you love the most
+      * Our venue is proud to be a partner to our community as we all come back stronger than ever. We know there are many in our area hurting and experiencing hardships. We are committed to providing a safe, clean, positive environment to help you and your family come and enjoy the activities you love the most
 
-      · As part of partnership with our community, we want to thank those who have tirelessly given of themselves to keep the rest of us going. Our venue is providing select Summer and Fall programs (leagues, camps, clinics) to children of hospital and physician’s office employees at a 20% discount (or 50% or free – case by case as you find a sponsor)
+
+      * As part of partnership with our community, we want to thank those who have tirelessly given of themselves to keep the rest of us going. Our venue is providing select Summer and Fall programs (leagues, camps, clinics) to children of hospital and physician’s office employees at a 20% discount.
     centered: false
   section_title: We are all in this together – and together we are stronger!
 - template: one-column
