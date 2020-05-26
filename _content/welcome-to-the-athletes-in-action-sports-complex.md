@@ -164,31 +164,25 @@ page_sections:
     block: text
     content: |-
       * Venues may have a reduced capacity for occupancy, to allow for appropriate social distancing
-
-
       * In some cases, advance reservations will be needed to reduce the need to turn people away at the entrance. Please visit our web site or call the venue for updates and space availability
-
-
       * Signage will be posted at the entrance asking/informing guests the following:
 
-      1. Have you had exposure to COVID 19 in the past 14 days?
-      2. Have you experienced:
-         * Cough or shortness of breath?
-         * fever?
-         * loss of taste or smell?
-      3. You are at an increased risk for COVID-19 if you are:
-         * 65 years or older, have underlying lung/asthma conditions, have heart complications, suffer from diabetes, liver disease, severe obesity or are otherwise immune-compromised
-      4. Your health is your responsibility
+        _Have you had exposure to COVID 19 in the past 14 days?_
+
+        _Have you experienced cough or shortness of breath?_
+
+        _Have you experienced fever?_
+
+        _Have you experienced loss of taste or smell?_
+
+        _You are at an increased risk for COVID-19 if you are: 65 years or older, have underlying lung/asthma conditions, have heart complications, suffer from diabetes, liver disease, severe obesity or are otherwise immune-compromised_
+
+        _Your health is your responsibility_
+
 
       * We reserve the right to institute further COVID-19 screening to ensure guests are not endangering others.
-
-
       * Any Guest who has had symptoms or exposure will not be allowed in the venue.
-
-
       * If a symptomatic/exposed guest is a driver for another guest, they will be asked to wait in their closed vehicle until their passenger’s activities are completed.
-
-
       * Guests will be invited to use hand sanitizer stations upon entry and exit of the building. Sanitizing stations will be provided near main entrances.
     centered: false
 - template: one-column
