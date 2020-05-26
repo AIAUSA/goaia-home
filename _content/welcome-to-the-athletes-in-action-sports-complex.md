@@ -44,27 +44,34 @@ page_sections:
   - template: text
     block: text
     content: |-
-      · Outdoor playing fields and surfaces will be open for limited use with distancing requirements that include:
+      * Outdoor playing fields and surfaces will be open for limited use with distancing requirements that include:
 
-      o Bleachers and fixed seating will be limited
 
-      o Guests are encouraged to bring in their own chairs
+      * Bleachers and fixed seating will be limited
 
-      o Social distancing of families watching games must be 6 feet apart, cones or other markers will be used to help communicate spacing
 
-      · Indoor facilities will reduce capacity to allow guest to adhere to recommended social distancing guidelines
+      * Guests are encouraged to bring in their own chairs
 
-      o We’re taking necessary precautions to ensure proper distancing
 
-      o Capacity reductions will change as government guidance is updated
+      * Social distancing of families watching games must be 6 feet apart, cones or other markers will be used to help communicate spacing
 
-      o Add facility specific info on amenities offered (FEC, Arcade, Climbing, Fitness, Party Rooms, etc..,)
 
-      · Activities that do not adhere to government guidance will not be allowed
+      * Indoor facilities will reduce capacity to allow guest to adhere to recommended social distancing guidelines
 
-      · We will be monitoring social distancing and guests not complying will be reminded to practice distancing. In the event guests will not comply with social distancing practices, they may be asked to leave the premises
 
-      · Any vendors offering services will be required to be separated by appropriate distance and must demonstrate cleaning and disinfection practices
+      * We’re taking necessary precautions to ensure proper distancing
+
+
+      * Capacity reductions will change as government guidance is updated
+
+
+      * Activities that do not adhere to government guidance will not be allowed
+
+
+      * We will be monitoring social distancing and guests not complying will be reminded to practice distancing. In the event guests will not comply with social distancing practices, they may be asked to leave the premises
+
+
+      * Any vendors offering services will be required to be separated by appropriate distance and must demonstrate cleaning and disinfection practices
     centered: false
   section_title: What restrictions will be in place?
 - template: one-column
