@@ -144,12 +144,6 @@ page_sections:
     content: Find out more about the facilities and programs of the Athletes in Action
       Sports Complex by clicking [here](https://goaia.org/sports-complex "here").
     centered: false
-- template: custom-heading
-  block: custom-heading
-  red: Newsletter
-  black: Athletes in Action Sports Complex
-  byLine: Sign-up for our newsletter to receive the latest in programming, events,
-    and updates from AIA Sports Complex & Retreat Center.
 - template: signup
   block: signup
   black: Get our
