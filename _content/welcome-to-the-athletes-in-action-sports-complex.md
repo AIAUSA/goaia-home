@@ -26,11 +26,12 @@ page_sections:
     Subtitle: ''
   - template: text
     block: text
-    content: |-
-      * Our venue is proud to be a partner to our community as we all come back stronger than ever. We know there are many in our area hurting and experiencing hardships. We are committed to providing a safe, clean, positive environment to help you and your family come and enjoy the activities you love the most
-
-
-      * As part of partnership with our community, we want to thank those who have tirelessly given of themselves to keep the rest of us going. Our venue is providing select Summer and Fall programs (leagues, camps, clinics) to children of hospital and physician’s office employees at a 20% discount.
+    content: "* Athletes in Action is proud to be a partner to our community as we
+      all come back stronger than ever. We know there are many in our area hurting
+      and experiencing hardships. We are committed to providing a safe, clean, positive
+      environment to help you and your family come and enjoy the activities you love
+      the most\n* We want to thank those who have tirelessly given of themselves to
+      keep the rest of us going. "
     centered: false
   section_title: We are all in this together – and together we are stronger!
 - template: one-column
@@ -43,35 +44,15 @@ page_sections:
     color: ''
   - template: text
     block: text
-    content: |-
-      * Outdoor playing fields and surfaces will be open for limited use with distancing requirements that include:
-
-
-      * Bleachers and fixed seating will be limited
-
-
-      * Guests are encouraged to bring in their own chairs
-
-
-      * Social distancing of families watching games must be 6 feet apart, cones or other markers will be used to help communicate spacing
-
-
-      * Indoor facilities will reduce capacity to allow guest to adhere to recommended social distancing guidelines
-
-
-      * We’re taking necessary precautions to ensure proper distancing
-
-
-      * Capacity reductions will change as government guidance is updated
-
-
-      * Activities that do not adhere to government guidance will not be allowed
-
-
-      * We will be monitoring social distancing and guests not complying will be reminded to practice distancing. In the event guests will not comply with social distancing practices, they may be asked to leave the premises
-
-
-      * Any vendors offering services will be required to be separated by appropriate distance and must demonstrate cleaning and disinfection practices
+    content: "* Outdoor playing fields and surfaces will be open for limited use with
+      distancing requirements that include:\n* Bleachers will be closed off\n* Family
+      members are encouraged to bring in their own chairs and viewing will be limited\n*
+      Social distancing of families watching games must be 6 feet apart. \n* Activities
+      that do not adhere to government guidance will not be allowed\n* We will be
+      monitoring social distancing and guests not complying will be reminded to practice
+      distancing. In the event guests will not comply with social distancing practices,
+      they may be asked to leave the premises\n* Please bring your own hand sanitizer
+      or disinfectant wipes"
     centered: false
   section_title: What restrictions will be in place?
 - template: one-column
@@ -85,69 +66,23 @@ page_sections:
     color: ''
   - template: text
     block: text
-    content: |-
-      · **Team Members**
-
-      * Our team members are temperature tested before starting work each shift
-
-
-      * Team members are screened prior to each shift to ensure they do not currently have virus symptoms and have not been exposed to anyone who has tested positive for COVID-19
-
-
-      * We require all employees to report any illness to a supervisor
-
-
-      * We require notification of any COVID-19 positive cases in a team members household
-
-
-      * We will provide personal protective equipment including masks to all team members, and training on how to use it, based on CDC guidelines
-
-
-      * Our team members are provided sanitizing stations, such as a wash basin with soap and/or bottle of hand sanitizer
-
-
-      * We prohibit congregating of 10 or more team members in break rooms or common areas and limit capacity of such areas to allow for safe social distancing
-
-      · **Food Service Areas**
-
-      * We have incorporated CDC recommendations, OSHA and local Health Department standards, and industry best practices into operating guidelines for our staff to follow
-
-
-      * We have extensive cleaning standards in place for our food preparation and public seating areas
-
-
-      * Sanitize chairs, especially where contact occurs
-
-
-      * Kitchens are cleaned with sanitizing solutions daily
-
-
-      * When preparing food, team members are required to wash their hands more frequently, not less than once every 30 minutes
-
-
-      * We are following government guidelines for food area social distancing and seating capacity
-
-
-      * We are using digital or single use menus
-
-      · **Additional Cleaning/Safety Standards**
-
-      * Restrooms are cleaned with sanitizing solutions several times a day
-
-
-      * Indoor restrooms will be accessible with a reduced capacity
-
-
-      * We have temporarily closed every other urinal in men’s restrooms
-
-
-      * We have placed signage throughout the venue encouraging distancing, hand washing, and other safe practices
-
-
-      * We will be continuously monitoring and improving our operations for the safety of our athletes, spectators, and team members
-
-
-      * We are committed to communicating with coaches, event owners, participants, vendors, and other visitors to the facility our guidelines and requesting everyone work together to keep us all safer
+    content: "· **Team Members**\n\n* Our team members are temperature tested before
+      starting work each shift\n* Team members are screened prior to each shift to
+      ensure they do not currently have virus symptoms and have not been exposed to
+      anyone who has tested positive for COVID-19\n* We require all employees to report
+      any illness to a supervisor\n* We require notification of any COVID-19 positive
+      cases in a team members household\n* We will provide personal protective equipment
+      including masks to all team members, and training on how to use it, based on
+      CDC guidelines\n* Our team members are provided sanitizing stations\n\n· **Food
+      Service Areas**\n\n* The Athletes in Action Concessions Stand will not be open
+      \n\n· **Additional Cleaning/Safety Standards**\n\n* Restrooms are cleaned with
+      sanitizing solutions several times a day\n* We have temporarily closed every
+      other urinal in men’s restrooms\n* We have placed signage throughout the venue
+      encouraging distancing, hand washing, and other safe practices\n* We will be
+      continuously monitoring and improving our operations for the safety of our athletes,
+      families, and team members\n* We are committed to communicating with coaches,
+      event owners, participants, vendors, and other visitors to the facility our
+      guidelines and requesting everyone work together to keep us all safer"
     centered: false
 - template: one-column
   block: one-column
@@ -156,15 +91,13 @@ page_sections:
   one:
   - template: title
     block: title
-    Title: What process can Athletes, Participants, Spectators, and other Guests to
-      the venue expect for entry?
+    Title: What is the process for venue entry?
     Subtitle: ''
     color: ''
   - template: text
     block: text
     content: |-
-      * Venues may have a reduced capacity for occupancy, to allow for appropriate social distancing
-      * In some cases, advance reservations will be needed to reduce the need to turn people away at the entrance. Please visit our web site or call the venue for updates and space availability
+      * Sports fields have a reduced capacity of 50 for occupancy, to allow for appropriate social distancing
       * Signage will be posted at the entrance asking/informing guests the following:
 
         _Have you had exposure to COVID 19 in the past 14 days?_
@@ -178,12 +111,8 @@ page_sections:
         _You are at an increased risk for COVID-19 if you are: 65 years or older, have underlying lung/asthma conditions, have heart complications, suffer from diabetes, liver disease, severe obesity or are otherwise immune-compromised_
 
         _Your health is your responsibility_
-
-
-      * We reserve the right to institute further COVID-19 screening to ensure guests are not endangering others.
-      * Any Guest who has had symptoms or exposure will not be allowed in the venue.
-      * If a symptomatic/exposed guest is a driver for another guest, they will be asked to wait in their closed vehicle until their passenger’s activities are completed.
-      * Guests will be invited to use hand sanitizer stations upon entry and exit of the building. Sanitizing stations will be provided near main entrances.
+      * We reserve the right to institute further COVID-19 screening to ensure guests are not endangering others
+      * Any person who has had symptoms or exposure is asked not to come to the venue
     centered: false
 - template: one-column
   block: one-column
@@ -200,22 +129,6 @@ page_sections:
       We are communicating to event owners, partner organizations, renters, and those who register online, that anyone who has tested positive with COVID-19 is not allowed to enter the venue until they have been released by their doctor and diagnosed as “recovered.”
 
       Anyone who is presenting symptoms of illness, or answers screening questions upon entry in a way that gives us concern, will not be admitted to the venue, as a way of protecting every other guest at the venue, and preventing exposures and spread.
-    centered: false
-- template: one-column
-  block: one-column
-  section_title: Will you be testing players from out of state?
-  one:
-  - template: title
-    block: title
-    Title: Will you be testing players from out of state?
-    Subtitle: ''
-    color: ''
-  - template: text
-    block: text
-    content: "* In most states, out of state travel will not occur until a later phase
-      of reopening. At that time, our facilities will work with event organizers to
-      institute standards above and beyond the minimum requirements to promote participant
-      and guest safety."
     centered: false
 - template: one-column
   block: one-column
