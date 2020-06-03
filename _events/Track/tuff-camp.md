@@ -5,8 +5,8 @@ title: Tuff Camp
 permalink: "/track/event/tuff"
 location: Hope College (Holland, MI)
 image: "/uploads/track/tuffcampevent.png"
-start_date: July 5th
-end_date: "- 10th, 2020"
+start_date: July 11th
+end_date: "- 16th, 2021 (tentative)"
 short_description: 'Training in 3-D is what TUFF Camps are all about. TUFF Camp staff
   and trainers are committed to helping each participant grow in all three aspects
   of their performance: physical, mental and spiritual.'
@@ -72,7 +72,7 @@ page_sections:
   - template: text
     block: text
     content: |-
-      **COVID 19**: As long as it is safe, Hope College is open, and Athletes in Action has given clearance, TUFF Camp is planning to meet. All registration fees and deposits will be refunded if TUFF Camp is cancelled.
+      ***Cancelled due to COVID-19***
 
       **Location:** Hope College (Holland, MI)
 
