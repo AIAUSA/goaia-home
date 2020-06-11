@@ -7,6 +7,18 @@ p, li { font-size: 16px !important; }
   padding: 8px 15px !important;
 }
 
+.top-message {
+  background-color: #fff;
+  color: #2a3a3a;
+}
+
+.center-message {
+  
+  text-align: center;
+  padding-top: 10px;
+  border-top: solid 1px #ccc;
+}
+
 .sticky-menu.mfixed {
     position: fixed;
     top: 38px;
