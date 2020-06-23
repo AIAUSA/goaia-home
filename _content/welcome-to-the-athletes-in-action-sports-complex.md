@@ -66,23 +66,27 @@ page_sections:
     color: ''
   - template: text
     block: text
-    content: "· **Team Members**\n\n* Our team members are temperature tested before
-      starting work each shift\n* Team members are screened prior to each shift to
-      ensure they do not currently have virus symptoms and have not been exposed to
-      anyone who has tested positive for COVID-19\n* We require all employees to report
-      any illness to a supervisor\n* We require notification of any COVID-19 positive
-      cases in a team members household\n* We will provide personal protective equipment
-      including masks to all team members, and training on how to use it, based on
-      CDC guidelines\n* Our team members are provided sanitizing stations\n\n· **Food
-      Service Areas**\n\n* The Athletes in Action Concessions Stand will not be open
-      \n\n· **Additional Cleaning/Safety Standards**\n\n* Restrooms are cleaned with
-      sanitizing solutions several times a day\n* We have temporarily closed every
-      other urinal in men’s restrooms\n* We have placed signage throughout the venue
-      encouraging distancing, hand washing, and other safe practices\n* We will be
-      continuously monitoring and improving our operations for the safety of our athletes,
-      families, and team members\n* We are committed to communicating with coaches,
-      event owners, participants, vendors, and other visitors to the facility our
-      guidelines and requesting everyone work together to keep us all safer"
+    content: |-
+      · **Team Members**
+
+      * Our team members are temperature tested before starting work each shift
+      * Team members are screened prior to each shift to ensure they do not currently have virus symptoms and have not been exposed to anyone who has tested positive for COVID-19
+      * We require all employees to report any illness to a supervisor
+      * We require notification of any COVID-19 positive cases in a team members household
+      * We will provide personal protective equipment including masks to all team members, and training on how to use it, based on CDC guidelines
+      * Our team members are provided sanitizing stations
+
+      · **Food Service Areas**
+
+      * The Athletes in Action Concessions Stand will not be open
+
+      · **Additional Cleaning/Safety Standards**
+
+      * Restrooms are cleaned with sanitizing solutions several times a day
+      * We have temporarily closed every other urinal in men’s restrooms
+      * We have placed signage throughout the venue encouraging distancing, hand washing, and other safe practices
+      * We will be continuously monitoring and improving our operations for the safety of our athletes, families, and team members
+      * We are committed to communicating with coaches, event owners, participants, vendors, and other visitors to the facility our guidelines and requesting everyone work together to keep us all safer
     centered: false
 - template: one-column
   block: one-column
@@ -97,20 +101,20 @@ page_sections:
   - template: text
     block: text
     content: |-
-      * Sports fields have a reduced capacity of 40 for occupancy, to allow for appropriate social distancing
+      * Sports fields have a reduced capacity of 40 for occupancy for athletes, coaches, and officials, to allow for appropriate social distancing for parents and guardians only who are allowed to attend.
       * Signage will be posted and distributed asking/informing guests the following:
 
-        _Have you had exposure to COVID 19 in the past 14 days?_
+        _If you have a fever, shortness of breath, cough, or have tested positive for COVID-19, please do not enter the facility and seek medical advice._
 
-        _Have you experienced cough or shortness of breath?_
+        _As required and recommended by the CDC, state, and local governments, take precautions such as wearing a mask in public._
 
-        _Have you experienced fever?_
+        _Use soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing, going to the bathroom and before eating or touching food._
 
-        _Have you experienced loss of taste or smell?_
+        _Don't touch your eyes, nose, or mouth with unwashed hands._
 
-        _You are at an increased risk for COVID-19 if you are: 65 years or older, have underlying lung/asthma conditions, have heart complications, suffer from diabetes, liver disease, severe obesity or are otherwise immune-compromised_
+        Practice social distancing and stay 6' apart from other guests.
 
-        _Your health is your responsibility_
+        **_Your health is your responsibility_**
       * We reserve the right to institute further COVID-19 screening to ensure guests are not endangering others
       * Any person who has had symptoms or exposure is asked not to come to the venue
     centered: false
