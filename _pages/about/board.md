@@ -69,7 +69,7 @@ layout: page
                     <div class="team-member text-center">
                         <figure><img src="/uploads/About/BoardofTrustees/jackson.jpg" alt="" class="img-responsive img-circle"></figure>
                         <h3>Kenya Jackson</h3>
-                        <p class="p1">Corporate VP Pharmacy &amp; Retail Operations, Walgreens</p>
+                        <p class="p1">Senior Vice President, OptumRX at UnitedHealth Group</p>
                     </div>
                 </div><!-- End .team-member -->
                 <div class="col-md-3 col-xs-6 team-member-container">
