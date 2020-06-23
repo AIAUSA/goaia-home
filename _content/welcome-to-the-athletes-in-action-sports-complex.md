@@ -97,8 +97,8 @@ page_sections:
   - template: text
     block: text
     content: |-
-      * Sports fields have a reduced capacity of 50 for occupancy, to allow for appropriate social distancing
-      * Signage will be posted at the entrance asking/informing guests the following:
+      * Sports fields have a reduced capacity of 40 for occupancy, to allow for appropriate social distancing
+      * Signage will be posted and distributed asking/informing guests the following:
 
         _Have you had exposure to COVID 19 in the past 14 days?_
 
@@ -126,9 +126,9 @@ page_sections:
   - template: text
     block: text
     content: |-
-      We are communicating to event owners, partner organizations, renters, and those who register online, that anyone who has tested positive with COVID-19 is not allowed to enter the venue until they have been released by their doctor and diagnosed as “recovered.”
+      We are communicating to partner organizations and renters that anyone who has tested positive with COVID-19 is not allowed to enter the venue until they have been released by their doctor and diagnosed as “recovered.”
 
-      Anyone who is presenting symptoms of illness, or answers screening questions upon entry in a way that gives us concern, will not be admitted to the venue, as a way of protecting every other guest at the venue, and preventing exposures and spread.
+      Anyone who is experiencing symptoms of illness is asked not to enter the Sports Complex.
     centered: false
 - template: one-column
   block: one-column
