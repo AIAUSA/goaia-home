@@ -67,26 +67,41 @@ page_sections:
   - template: text
     block: text
     content: |-
-      · **Team Members**
+      * **Team Members**
 
-      * Our team members are temperature tested before starting work each shift
-      * Team members are screened prior to each shift to ensure they do not currently have virus symptoms and have not been exposed to anyone who has tested positive for COVID-19
-      * We require all employees to report any illness to a supervisor
-      * We require notification of any COVID-19 positive cases in a team members household
-      * We will provide personal protective equipment including masks to all team members, and training on how to use it, based on CDC guidelines
-      * Our team members are provided sanitizing stations
+      Our team members are temperature tested before starting work each shift
 
-      · **Food Service Areas**
+      Team members are screened prior to each shift to ensure they do not currently have virus symptoms and have not been exposed to anyone who has tested positive for COVID-19
 
-      * The Athletes in Action Concessions Stand will not be open
+      We require all employees to report any illness to a supervisor
 
-      · **Additional Cleaning/Safety Standards**
+      We require notification of any COVID-19 positive cases in a team members household
 
-      * Restrooms are cleaned with sanitizing solutions several times a day
-      * We have temporarily closed every other urinal in men’s restrooms
-      * We have placed signage throughout the venue encouraging distancing, hand washing, and other safe practices
-      * We will be continuously monitoring and improving our operations for the safety of our athletes, families, and team members
-      * We are committed to communicating with coaches, event owners, participants, vendors, and other visitors to the facility our guidelines and requesting everyone work together to keep us all safer
+      We will provide personal protective equipment including masks to all team members, and training on how to use it, based on CDC guidelines
+
+      Our team members are provided sanitizing stations
+    centered: false
+  - template: text
+    block: text
+    content: |-
+      * **Food Service Areas**
+
+        The Athletes in Action Concessions Stand will not be open
+    centered: false
+  - template: text
+    block: text
+    content: |-
+      * **Additional Cleaning/Safety Standards**
+
+      Restrooms are cleaned with sanitizing solutions several times a day
+
+      We have temporarily closed every other urinal in men’s restrooms
+
+      We have placed signage throughout the venue encouraging distancing, hand washing, and other safe practices
+
+      We will be continuously monitoring and improving our operations for the safety of our athletes, families, and team members
+
+      We are committed to communicating with coaches, event owners, participants, vendors, and other visitors to the facility our guidelines and requesting everyone work together to keep us all safer
     centered: false
 - template: one-column
   block: one-column
