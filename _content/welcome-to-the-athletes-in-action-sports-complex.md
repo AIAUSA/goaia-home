@@ -86,7 +86,7 @@ page_sections:
     content: |-
       * **Food Service Areas**
 
-        The Athletes in Action Concessions Stand will not be open
+      The Athletes in Action Concessions Stand will not be open
     centered: false
   - template: text
     block: text
