@@ -44,16 +44,49 @@ page_sections:
     color: ''
   - template: text
     block: text
-    content: |-
+    content: |2-
+
       * Outdoor playing fields and surfaces will be open for limited use with distancing requirements that include:
-      * Bleachers will be closed off
-      * Family members are encouraged to bring in their own chairs and viewing will be limited
-      * Social distancing of families watching games must be 6 feet apart
-      * Activities that do not adhere to government guidance will not be allowed
-      * We will be monitoring social distancing and guests not complying will be reminded to practice distancing. In the event guests will not comply with social distancing practices, they may be asked to leave the premises
+      * Bleachers will be closed off, family members are encouraged to bring in their own chairs and viewing will be limited
+      * Social distancing of families watching games must be 6 feet apart, guests not complying will be reminded to practice distancing
+      * Guests not complying with social distancing practices, may be asked to leave the premises
+      * Athletes in Action encourages the use of face coverings where required or recommended by the CDC, state, and local governments as a preventative step to helping one another
       * Please bring your own hand sanitizer or disinfectant wipes
+      * Activities that do not adhere to government guidance will not be allowed
+      * By state guidelines, participants, coaches, officials, and families must bring their own water; please bring plenty of water to stay well hydrated throughout the entire activity
+      * Each sports field currently has a reduced capacity of 40 for occupancy for athletes, coaches, and officials, to allow for appropriate social distancing
     centered: false
   section_title: What restrictions will be in place?
+- template: one-column
+  block: one-column
+  section_title: What process can Athletes, Participants, Spectators, and other Guests
+    to the venue expect for entry?
+  one:
+  - template: title
+    block: title
+    Title: What is the process for venue entry?
+    Subtitle: ''
+    color: ''
+  - template: text
+    block: text
+    content: |-
+      * Only athletes, coaches, officials, and Athletes in Action staff are allowed on the playing field
+      * Parents/guardians and families are allowed to attend as spectators
+      * To help protect yourself and others, everyone entering is asked to review this self-screening checklist daily before arriving:
+
+        _Are you sick? If yes, stay home, and consider contacting your healthcare provider._
+
+        _Have you developed symptoms listed below within the past 72 hours? If yes, stay home, contact your healthcare provider if necessary and let us know you're not able to come_
+        * _Fever (100 F / 37.8 C or above)_
+        * _Chills (including chills with shaking)_
+        * _Fatigue_
+        * _Cough_
+        * _Sore Throat_
+        * _Shortness of breath_
+        * _New loss of taste or smell_
+
+        _Any person who has had symptoms or exposure to COVID-19 within the last 14 days is asked not to come to the venue._
+    centered: false
 - template: one-column
   block: one-column
   section_title: What is happening to enhance the safety and cleanliness of the venue?
@@ -68,11 +101,7 @@ page_sections:
     content: |-
       * **AIA Staff**
 
-      Our AIA staff are temperature tested before starting work each shift to ensure they do not currently have virus symptoms and have not been exposed to anyone who has tested positive for COVID-19.
-
-      We require all AIA staff to report any illness to a supervisor.
-
-      We require notification of any COVID-19 positive cases in an AIA staff household.
+      Our AIA staff are are monitored daily for symptoms and exposure to COVID-19, including temperature taking.
 
       We will provide personal protective equipment including masks to all AIA staff, and training on how to use it, based on CDC guidelines.
 
@@ -90,46 +119,13 @@ page_sections:
     content: |-
       * **Additional Cleaning/Safety Standards**
 
-      Restrooms are cleaned with sanitizing solutions several times a day.
+      Public restrooms will be cleaned with sanitizing solutions in accordance with state guidelines at the start or end of each day's activities, with additional cleaning based on peak times.
 
-      We have temporarily closed every other urinal in men’s restrooms.
+      Social distancing adjustments have been made inside restrooms and to an outside waiting line.
 
-      We have placed signage throughout the venue encouraging distancing, hand washing, and other safe practices.
+      We have placed signage throughout the venue encouraging social distancing, hand washing, and other safe practices.
 
-      We will be continuously monitoring and improving our operations for the safety of our athletes, families, and AIA staff.
-
-      We are committed to communicating with coaches, participants, vendors, and other visitors to the facility our guidelines and requesting everyone work together to keep us all safer.
-    centered: false
-- template: one-column
-  block: one-column
-  section_title: What process can Athletes, Participants, Spectators, and other Guests
-    to the venue expect for entry?
-  one:
-  - template: title
-    block: title
-    Title: What is the process for venue entry?
-    Subtitle: ''
-    color: ''
-  - template: text
-    block: text
-    content: |-
-      * Sports fields have a reduced capacity of 40 for occupancy for athletes, coaches, and officials, to allow for appropriate social distancing
-      * Only parents/guardians and families are allowed to attend as spectators
-      * Signage will be posted and distributed asking/informing guests the following:
-
-        _If you have a fever, shortness of breath, cough, or have tested positive for COVID-19, please do not enter the facility and seek medical advice._
-
-        _As required and recommended by the CDC, state, and local governments, take precautions such as wearing a mask in public._
-
-        _Use soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing, going to the bathroom and before eating or touching food._
-
-        _Don't touch your eyes, nose, or mouth with unwashed hands._
-
-        _Practice social distancing and stay 6' apart from other guests._
-
-        **_Your health is your responsibility_**
-      * We reserve the right to institute further COVID-19 screening to ensure guests are not endangering others
-      * Any person who has had symptoms or exposure is asked not to come to the venue
+      Your health is your responsibility; when washing hands, use soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing, going to the bathroom, and before eating or touching food; don't touch your eyes, note, or mouth with unwashed hands.
     centered: false
 - template: one-column
   block: one-column
@@ -145,8 +141,24 @@ page_sections:
     content: |-
       We are communicating to partner organizations and renters that anyone who has tested positive with COVID-19 should not enter the venue until they have been released by their doctor and diagnosed as “recovered.”
 
-      Anyone who is experiencing symptoms of illness is asked not to enter the Sports Complex.
+      Anyone who is committed to working with partner organizations and Greene County Public Health to respond within State of Ohio guidelines if a participant subsequently tests positive for COVID-19.
     centered: false
+- template: one-column
+  block: one-column
+  one:
+  - template: title
+    block: title
+    Title: We will continue to monitor and seek to improve our operations for the
+      safety of participants, families, and AIA staff
+    Subtitle: ''
+    color: ''
+  - template: text
+    block: text
+    content: We are committed to communicating our guidelines with coaches, participants,
+      vendors, and other visitors to the facility and requesting everyone work together
+      to keep us all safer.
+    centered: false
+  section_title: ''
 - template: one-column
   block: one-column
   section_title: Learn More
