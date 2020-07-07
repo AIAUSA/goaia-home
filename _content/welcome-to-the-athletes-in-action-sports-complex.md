@@ -76,7 +76,7 @@ page_sections:
 
         _Are you sick? If yes, stay home, and consider contacting your healthcare provider._
 
-        _Have you developed symptoms listed below within the past 72 hours? If yes, stay home, contact your healthcare provider if necessary and let us know you're not able to come_
+        _Have you developed symptoms listed below within the past 72 hours? If yes, stay home, contact your healthcare provider if necessary and let us know you're not able to come._
         * _Fever (100 F / 37.8 C or above)_
         * _Chills (including chills with shaking)_
         * _Fatigue_
@@ -84,8 +84,7 @@ page_sections:
         * _Sore Throat_
         * _Shortness of breath_
         * _New loss of taste or smell_
-
-        _Any person who has had symptoms or exposure to COVID-19 within the last 14 days is asked not to come to the venue._
+      * Any person who has had symptoms or exposure to COVID-19 within the last 14 days is asked not to come to the venue
     centered: false
 - template: one-column
   block: one-column
