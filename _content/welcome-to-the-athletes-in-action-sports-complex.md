@@ -140,7 +140,7 @@ page_sections:
     content: |-
       We are communicating to partner organizations and renters that anyone who has tested positive with COVID-19 should not enter the venue until they have been released by their doctor and diagnosed as “recovered.”
 
-      Anyone who is committed to working with partner organizations and Greene County Public Health to respond within State of Ohio guidelines if a participant subsequently tests positive for COVID-19.
+      Athletes in Action is committed to working with partner organizations and Greene County Public Health to respond within State of Ohio guidelines if a participant subsequently tests positive for COVID-19.
     centered: false
 - template: one-column
   block: one-column
