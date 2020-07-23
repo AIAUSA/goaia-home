@@ -9,6 +9,11 @@ sliderImages:
 - "/uploads/2020/01/29/Website Header.jpg"
 - "/uploads/2019/12/04/IMG_2471.jpg"
 page_sections:
+- template: custom-heading
+  block: custom-heading
+  black: Athletes in Action Challenge Course
+  red: Temporarily Closed Due to COVID-19
+  byLine: ''
 - template: one-column
   block: one-column
   one:
