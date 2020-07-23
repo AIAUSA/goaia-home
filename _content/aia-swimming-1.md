@@ -11,8 +11,8 @@ sliderImages:
 page_sections:
 - template: custom-heading
   block: custom-heading
-  black: Athletes in Action Challenge Course
-  red: Temporarily Closed Due to COVID-19
+  black: ''
+  red: 'Note: Athletes in Action Challenge Course is Temporarily Closed Due to COVID-19'
   byLine: ''
 - template: one-column
   block: one-column
