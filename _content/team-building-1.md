@@ -57,24 +57,9 @@ page_sections:
     text: Read More
     subtext: ''
     dark: false
-  section_title: ''
+  section_title: new gm
   one: []
   three: []
-- template: two-columns
-  block: two-columns
-  left:
-  - template: text
-    block: text
-    content: AIA HIRES A GENERAL MANAGER
-    centered: false
-  - template: cta
-    block: cta
-    link: https://drive.google.com/file/d/1o5TOWp_2pw3nI5Zli85A2Yc2XpZlyxt9/view?usp=sharing
-    text: Read More
-    subtext: ''
-    dark: false
-  section_title: ''
-  right: []
 - template: three-columns
   block: three-columns
   two:
