@@ -42,6 +42,8 @@ page_sections:
       #### Located in Xenia, OH, just a short hour from Cincinnati is the Athletes in Action headquarters and Sports Complex and Retreat Center (SCRC). Designed to host local, regional, national and international events, we have been able to develop strong relationships in the sports and event-planning industry.
 
       #### Combined with our [retreat center](http://www.aiasportscomplex.com/retreats/ "Retreats") and [challenge course](https://goaia.org/teambuilding "Challenge Course"), Athletes in Action is focused on building a training environment that develops transformational athletic leaders.
+
+      AIA HIRES A GENERAL MANAGER- [Read More]()
     centered: false
   section_title: Overview Text
 - template: three-columns
