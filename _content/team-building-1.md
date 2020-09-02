@@ -44,6 +44,21 @@ page_sections:
       #### Combined with our [retreat center](http://www.aiasportscomplex.com/retreats/ "Retreats") and [challenge course](https://goaia.org/teambuilding "Challenge Course"), Athletes in Action is focused on building a training environment that develops transformational athletic leaders.
     centered: false
   section_title: Overview Text
+- template: two-columns
+  block: two-columns
+  left:
+  - template: text
+    block: text
+    content: AIA HIRES A GENERAL MANAGER
+    centered: false
+  - template: cta
+    block: cta
+    link: https://drive.google.com/file/d/1o5TOWp_2pw3nI5Zli85A2Yc2XpZlyxt9/view?usp=sharing
+    text: Read More
+    subtext: ''
+    dark: false
+  section_title: ''
+  right: []
 - template: three-columns
   block: three-columns
   two:
