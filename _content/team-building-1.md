@@ -33,6 +33,18 @@ page_sections:
   black: 'About the '
   red: Athletes in Action SCRC
   byLine: ''
+- template: three-columns
+  block: three-columns
+  two:
+  - template: cta
+    block: cta
+    link: https://drive.google.com/open?id=1qdM4ghlycQWuR_e1PDr7m3cQto8_ou38
+    text: Download Facility Guide
+    subtext: ''
+    dark: true
+  section_title: Facility Guide Button
+  one: []
+  three: []
 - template: one-column
   block: one-column
   one:
@@ -50,7 +62,7 @@ page_sections:
   - template: text
     block: text
     content: AIA HIRES A GENERAL MANAGER
-    centered: false
+    centered: true
   - template: cta
     block: cta
     link: https://drive.google.com/file/d/1o5TOWp_2pw3nI5Zli85A2Yc2XpZlyxt9/view?usp=sharing
@@ -58,18 +70,6 @@ page_sections:
     subtext: ''
     dark: false
   section_title: new gm
-  one: []
-  three: []
-- template: three-columns
-  block: three-columns
-  two:
-  - template: cta
-    block: cta
-    link: https://drive.google.com/open?id=1qdM4ghlycQWuR_e1PDr7m3cQto8_ou38
-    text: Download Facility Guide
-    subtext: ''
-    dark: true
-  section_title: Facility Guide Button
   one: []
   three: []
 - template: one-column
